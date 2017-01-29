@@ -1,0 +1,8 @@
+[package]
+name = "pir-radiostation-analyser"
+version = "0.1.0"
+authors = ["akrimpenfort <akrimpenfort@uni-osnabrueck.de>",
+            "wimueller <wimueller@uni-osnabrueck.de>",
+          ]
+
+[dependencies]
