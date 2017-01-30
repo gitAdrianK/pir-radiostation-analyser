@@ -6,3 +6,5 @@ authors = ["akrimpenfort <akrimpenfort@uni-osnabrueck.de>",
           ]
 
 [dependencies]
+hyper = "0.10.2"
+time = "0.1.36"
