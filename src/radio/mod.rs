@@ -9,22 +9,24 @@ pub trait Radio {
 pub struct RadioStation {
     pub name: &'static str,
     url: &'static str,
-    get_song: fn(&str) -> String,
+    get_song: fn(&str) -> Option<String>,
 }
 
 impl Radio for RadioStation {
     fn get_current_song(&self) -> Option<String> {
         use util::http_scraper::scrape;
-        match scrape(self.url, self.name) {
-            Some(html) => {
-                let song = (self.get_song)(&html);
+        let html = match scrape(self.url, self.name) {
+            Some(html) => html,
+            None => return None,
+        };
+        let song = match (self.get_song)(&html) {
+            Some(song) => {
                 if song.is_empty() {
-                    None
-                } else {
-                    Some(song)
+                    return None;
                 }
+                Some(song)
             },
-            None => None,
-        }
+            None => return None,
+        };
     }
 }

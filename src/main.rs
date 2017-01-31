@@ -26,6 +26,7 @@ fn main() {
                 match song {
                     Some(song) => {
                         if  last_song != song {
+                            log(format!("{}: {} -> {}", station.name, last_song, song));
                             println!("{}: {}", station.name, song);
                             last_song = song;
                         }
