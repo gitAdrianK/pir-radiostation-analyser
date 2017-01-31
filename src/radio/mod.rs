@@ -17,7 +17,7 @@ impl Radio for RadioStation {
         use util::http_scraper::scrape;
         match scrape(self.url, self.name) {
             Some(html) => (self.get_song)(&html),
-            None => "".into(),
+            None => String::new(),
         }
     }
 }

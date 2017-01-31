@@ -12,15 +12,15 @@ use radio::data::RADIOSTATIONS;
 use util::logger::log;
 
 fn main() {
-    log("log\\log", "Start Analysing Radiostations");
+    log("log\\log", "Start Analyzing Radio stations");
     for station in RADIOSTATIONS {
         thread::spawn(move || {
-            let mut last_song = "".to_string();
+            let mut last_song = String::new();
             loop {
-                // TODO: Save song in hashmap
-                // TODO: Serialize hashmap
+                // TODO: Save song in hash-map
+                // TODO: Serialize hash-map
                 let song = station.get_current_song();
-                if last_song != song {
+                if !song.is_empty() && last_song != song {
                     println!("{:?}", song);
                     last_song = song;
                 }
@@ -33,5 +33,5 @@ fn main() {
     std::io::stdin()
                 .read_line(&mut String::new())
                 .expect("something went seriously wrong :O");
-    log("log\\log", "Stop Analysing Radiostations");
+    log("log\\log", "Stop Analyzing Radio stations");
 }
