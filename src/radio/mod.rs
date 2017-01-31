@@ -24,9 +24,10 @@ impl Radio for RadioStation {
                 if song.is_empty() {
                     return None;
                 }
-                Some(song)
+                song
             },
             None => return None,
         };
+        Some(song)
     }
 }

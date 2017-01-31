@@ -100,4 +100,39 @@ pub const RADIOSTATIONS: &'static [RadioStation] = &[
         url: "http://www.ndr.de/public/radio_playlists/ndrplus.json",
         get_song: radio_ndr,
     },
+    RadioStation {
+        name: "Antenne Niedersachsen On Air",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=29&nameSize=200
+                &artistNameSize=200&descriptionSize=200&callback=radioplayer
+                .playing.receive",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen 80er",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=31&nameSize=200
+                &artistNameSize=200&descriptionSize=200&callback=radioplayer
+                .playing.receive",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen 90er",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=422&nameSize=200&
+                artistNameSize=200&descriptionSize=200&callback=radioplayer
+                .playing.receive",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen Charts",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=30&nameSize=200
+                &artistNameSize=200&descriptionSize=200&callback=radioplayer
+                .playing.receive",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen Deutsch",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=565&nameSize=200
+                &artistNameSize=200&descriptionSize=200&callback=radioplayer
+                .playing.receive",
+        get_song: radio_antenne,
+    },
 ];
