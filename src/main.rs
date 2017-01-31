@@ -23,9 +23,14 @@ fn main() {
                 // TODO: Save song in hash-map
                 // TODO: Serialize hash-map
                 let song = station.get_current_song();
-                if !song.is_empty() && last_song != song {
-                    println!("{}: {}", station.name, song);
-                    last_song = song;
+                match song {
+                    Some(song) => {
+                        if  last_song != song {
+                            println!("{}: {}", station.name, song);
+                            last_song = song;
+                        }
+                    },
+                    None => {},
                 }
                 thread::sleep(Duration::from_secs(60));
             }
