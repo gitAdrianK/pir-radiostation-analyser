@@ -7,10 +7,10 @@
 /// The song is the only thing in HTML and can be returned without changes
 pub fn radio_1live(html: &str) -> String {
     // Songs are divided by "-", do not contain "KiRaka" or "WDR"
-    if !html.contains("-") ||
-        html.contains("KiRaka") ||
-        html.contains("KiRaKa") ||
-        html.contains("WDR")
+    let filter = html.to_lowercase();
+    if filter.contains("kiraka")
+        || filter.contains("wdr")
+        || filter.contains("1live")
     {
         return String::new();
     }
