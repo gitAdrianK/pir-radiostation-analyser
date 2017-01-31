@@ -7,7 +7,7 @@ pub trait Radio {
 }
 
 pub struct RadioStation {
-    name: &'static str,
+    pub name: &'static str,
     url: &'static str,
     get_song: fn(&str) -> String,
 }

@@ -8,3 +8,14 @@
 pub fn radio_1live(html: &str) -> String {
     html.into()
 }
+
+/// Song is after field "song_now"
+pub fn radio_ndr(html: &str) -> String {
+    let prefix = "song_now\":  \"";
+    let suffix = "\",\n\"song_previous";
+    let s_pos = html.find(prefix).unwrap();
+    let (_, song) = html.split_at(s_pos + prefix.len());
+    let s_pos = song.find(suffix).unwrap();
+    let (song , _) = song.split_at(s_pos);
+    song.trim().into()
+}

@@ -2,7 +2,9 @@ use hyper::{Client, Ok};
 use util::logger::log;
 use std::io::prelude::*;
 
-pub fn  scrape(url: &str, name: &str) -> Option<String> {
+/// Scrapes a website
+/// The adress may not be https, only http works
+pub fn scrape(url: &str, name: &str) -> Option<String> {
     let client = Client::new();
     let mut response = client.get(url).send().unwrap();
     if response.status != Ok {
