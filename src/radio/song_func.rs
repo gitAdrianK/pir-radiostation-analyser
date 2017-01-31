@@ -3,9 +3,17 @@
 
 // TODO: Create functions for other radio stations
 
-/// Get the song for 1live stations
+/// Get the song for 1live and wdr stations
 /// The song is the only thing in HTML and can be returned without changes
 pub fn radio_1live(html: &str) -> String {
+    // Songs are divided by "-", do not contain "KiRaka" or "WDR"
+    if !html.contains("-") ||
+        html.contains("KiRaka") ||
+        html.contains("KiRaKa") ||
+        html.contains("WDR")
+    {
+        return String::new();
+    }
     html.into()
 }
 

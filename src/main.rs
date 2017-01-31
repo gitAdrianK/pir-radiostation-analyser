@@ -32,7 +32,7 @@ fn main() {
                     },
                     None => {},
                 }
-                thread::sleep(Duration::from_secs(60));
+                thread::sleep(Duration::from_secs(30));
             }
         });
     }
