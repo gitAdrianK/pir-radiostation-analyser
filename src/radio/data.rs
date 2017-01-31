@@ -39,11 +39,11 @@ pub const RADIOSTATIONS: &'static [RadioStation] = &[
         url: "http://www.wdr.de/radio/radiotext/streamtitle_fhe.txt",
         get_song: radio_1live,
     },
-    RadioStation {
-        name: "Kiraka",
-        url: "http://www.wdr.de/radio/radiotext/streamtitle_kiraka.txt",
-        get_song: radio_1live,
-    },
+    // RadioStation {
+    //     name: "Kiraka",
+    //     url: "http://www.wdr.de/radio/radiotext/streamtitle_kiraka.txt",
+    //     get_song: radio_1live,
+    // },
     RadioStation {
         name: "WDR-Event",
         url: "http://www.wdr.de/radio/radiotext/streamtitle_event.txt",

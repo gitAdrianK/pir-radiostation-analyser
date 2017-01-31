@@ -14,6 +14,7 @@ pub fn radio_1live(html: &str) -> Option<String> {
         || filter.contains("cosmoradio")
         || filter.contains("mittagsecho")
         || filter.contains("wir sind der westen")
+        || filter.contains("echo des tages")
     {
         return None;
     }
