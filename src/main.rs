@@ -10,6 +10,7 @@ use std::time::Duration;
 
 use radio::Radio;
 use radio::data::RADIOSTATIONS;
+use radio::song::Song;
 use util::logger::log;
 
 fn main() {
@@ -18,7 +19,7 @@ fn main() {
     log("Start Analyzing Radio stations");
     for station in RADIOSTATIONS {
         thread::spawn(move || {
-            let mut last_song = String::new();
+            let mut last_song = Song::empty();
             loop {
                 // TODO: Save song in hash-map
                 // TODO: Serialize hash-map

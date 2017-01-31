@@ -1,11 +1,31 @@
 // There has to be a way better, more canonical way to do this, but until
 // someone points it out, this works.
 
-// TODO: Create functions for other radio stations
+#[derive(Debug, PartialEq)]
+pub struct Song {
+    artist: String,
+    title: String,
+}
+
+impl Song {
+    pub fn empty() -> Self {
+        Song{ artist: "".into(), title: "".into() }
+    }
+
+    pub fn is_empty(&self) -> bool {
+        self.artist == "" && self.title == ""
+    }
+}
+
+impl ::std::fmt::Display for Song {
+    fn fmt(&self, f: &mut ::std::fmt::Formatter) -> ::std::fmt::Result {
+        write!(f, "{} -by- {}", self.title, self.artist)
+    }
+}
 
 /// Get the song for 1live and wdr stations
 /// The song is the only thing in HTML and can be returned without changes
-pub fn radio_1live(html: &str) -> Option<String> {
+pub fn radio_1live(html: &str) -> Option<Song> {
     // Songs are divided by "-", do not contain "KiRaka" or "WDR"
     let filter = html.to_lowercase();
     if filter.contains("kiraka")
@@ -15,24 +35,52 @@ pub fn radio_1live(html: &str) -> Option<String> {
         || filter.contains("mittagsecho")
         || filter.contains("wir sind der westen")
         || filter.contains("echo des tages")
+        || filter.contains("moderation:")
+        || filter.contains("europamagazin")
     {
         return None;
     }
-    Some(html.into())
+    match html.find("-") {
+        Some(pos) => {
+            let (artist, title) = html.split_at(pos);
+            return Some(
+                Song{ artist: artist.trim().into(), title: title.replace("-", "").trim().into() }
+            );
+        },
+        None => {},
+    }
+    /// WDR 2 "von"
+    match html.find("von") {
+        Some(pos) => {
+            let (title, artist) = html.split_at(pos);
+            Some(
+                Song{ artist: artist.replace("von", "").trim().into(), title: title.trim().into() }
+            )
+        },
+        None => None,
+    }
 }
 
+//TODO: Rewrite into fewer repeating code line
+
 /// Song is after field "song_now"
-pub fn radio_ndr(html: &str) -> Option<String> {
+pub fn radio_ndr(html: &str) -> Option<Song> {
     let prefix = "song_now\":  \"";
     let suffix = "\",\n\"song_previous";
     let s_pos = html.find(prefix).unwrap();
     let (_, song) = html.split_at(s_pos + prefix.len());
     let s_pos = song.find(suffix).unwrap();
     let (song , _) = song.split_at(s_pos);
-    Some(song.trim().into())
+    match song.find("-") {
+        Some(pos) => {
+            let (artist, title) = song.split_at(pos);
+            Some(Song{ artist: artist.trim().into(), title: title.replace("-", "").trim().into() })
+        },
+        None => None,
+    }
 }
 
-pub fn radio_antenne(html: &str) -> Option<String> {
+pub fn radio_antenne(html: &str) -> Option<Song> {
     if html.contains("\"total\":1") {
         return None;
     }
@@ -54,5 +102,5 @@ pub fn radio_antenne(html: &str) -> Option<String> {
     let (_, song) = html.split_at(s_pos + song_prefix.len());
     let s_pos = song.find(suffix).unwrap();
     let (song , _) = song.split_at(s_pos);
-    Some(format!("{} - {}", artist, song))
+    Some(Song{ artist: artist.into(), title: song.into() })
 }

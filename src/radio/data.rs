@@ -1,5 +1,5 @@
 use radio::RadioStation;
-use radio::song_func::*;
+use radio::song::{radio_1live, radio_ndr, radio_antenne};
 
 pub const RADIOSTATIONS: &'static [RadioStation] = &[
     // TODO: Add other stations
