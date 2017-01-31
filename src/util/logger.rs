@@ -3,11 +3,10 @@ use std::io::prelude::*;
 
 use time::{get_time, at};
 
-pub fn log(prefix: &str, content: &str) {
+pub fn log(content: &str) {
     let time = at(get_time());
     let name = format!(
-        "{}_{}_{}_{}.txt",
-        prefix,
+        "log\\log_{}_{}_{}.txt",
         time.tm_year + 1900,
         time.tm_mon + 1,
         time.tm_mday,

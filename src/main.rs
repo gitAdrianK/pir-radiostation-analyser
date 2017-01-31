@@ -4,6 +4,7 @@ extern crate time;
 mod radio;
 mod util;
 
+use std::fs;
 use std::thread;
 use std::time::Duration;
 
@@ -12,7 +13,9 @@ use radio::data::RADIOSTATIONS;
 use util::logger::log;
 
 fn main() {
-    log("log\\log", "Start Analyzing Radio stations");
+    // Create log directory in case it doesn't exist
+    let _ = fs::create_dir("log");
+    log("Start Analyzing Radio stations");
     for station in RADIOSTATIONS {
         thread::spawn(move || {
             let mut last_song = String::new();
@@ -33,5 +36,5 @@ fn main() {
     std::io::stdin()
                 .read_line(&mut String::new())
                 .expect("something went seriously wrong :O");
-    log("log\\log", "Stop Analyzing Radio stations");
+    log("Stop Analyzing Radio stations");
 }
