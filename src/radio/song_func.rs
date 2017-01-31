@@ -11,6 +11,9 @@ pub fn radio_1live(html: &str) -> String {
     if filter.contains("kiraka")
         || filter.contains("wdr")
         || filter.contains("1live")
+        || filter.contains("cosmoradio")
+        || filter.contains("mittagsecho")
+        || filter.contains("wir sind der westen")
     {
         return String::new();
     }

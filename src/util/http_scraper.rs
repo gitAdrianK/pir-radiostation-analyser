@@ -13,6 +13,6 @@ pub fn scrape(url: &str, name: &str) -> Option<String> {
     }
     let mut s = String::new();
     let _ = response.read_to_string(&mut s);
-    log(&format!("Scrapped from {}", name));
+    //log(&format!("Scrapped from {}", name));
     Some(s)
 }
