@@ -158,4 +158,60 @@ pub const RADIOSTATIONS: &'static [RadioStation] = &[
                 .playing.receive",
         get_song: radio_antenne,
     },
+    RadioStation {
+        name: "Antenne Niedersachsen X-Mas",
+        shorthand: "antennexmas",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=110&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486056701107",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen Feel Good",
+        shorthand: "antennefg",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=602&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486056790331",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Niedersachsen Love",
+        shorthand: "antennelove",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=566&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486056946846",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Oldies",
+        shorthand: "antenneold",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=32&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486057006247",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Relax",
+        shorthand: "antennelax",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=454&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486057066325",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Rock",
+        shorthand: "antennerock",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=33&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486057141342",
+        get_song: radio_antenne,
+    },
+    RadioStation {
+        name: "Antenne Schlager",
+        shorthand: "antennesch",
+        url: "http://np.radioplayer.de/qp/v3/onair?rpIds=601&nameSize=200
+        &artistNameSize=200&descriptionSize=200&callback=radioplayer
+        .playing.receive&_=1486057202504",
+        get_song: radio_antenne,
+    },
 ];
