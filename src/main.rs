@@ -4,18 +4,15 @@ extern crate time;
 mod radio;
 mod util;
 
-use std::fs;
 use std::thread;
 use std::time::Duration;
 
 use radio::Radio;
 use radio::data::RADIOSTATIONS;
 use radio::song::Song;
-use util::logger::log;
+use util::logger::{log, log_at};
 
 fn main() {
-    // Create log directory in case it doesn't exist
-    let _ = fs::create_dir("log");
     log("Start Analyzing Radio stations");
     for station in RADIOSTATIONS {
         thread::spawn(move || {
@@ -23,11 +20,14 @@ fn main() {
             loop {
                 // TODO: Save song in hash-map
                 // TODO: Serialize hash-map
-                let song = station.get_current_song();
-                match song {
+                match station.get_current_song() {
                     Some(song) => {
                         if  last_song != song {
-                            log(&format!("{}: Song changed", station.name));
+                            log_at(
+                                &format!("log\\{}", station.shorthand),
+                                station.shorthand,
+                                &format!("{}: {}", station.name, song),
+                            );
                             println!("{}: {}", station.name, song);
                             last_song = song;
                         }

@@ -10,6 +10,7 @@ pub trait Radio {
 
 pub struct RadioStation {
     pub name: &'static str,
+    pub shorthand: &'static str,
     url: &'static str,
     get_song: fn(&str) -> Option<Song>,
 }
