@@ -34,7 +34,7 @@ fn main() {
                     },
                     None => {},
                 }
-                thread::sleep(Duration::from_secs(30));
+                thread::sleep(Duration::from_secs(60));
             }
         });
     }

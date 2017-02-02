@@ -102,7 +102,7 @@ pub fn radio_antenne(html: &str) -> Option<Song> {
         None => return None,
     };
     // Song
-    let song = match get_inbetween(&html, "\"name\":\"", "\"artistName\":\"") {
+    let song = match get_inbetween(&html, "\"name\":\"", "\",\"artistName\":\"") {
         Some(song) => song,
         None => return None,
     };
