@@ -1,6 +1,6 @@
 use util::get_inbetween;
 
-#[derive(Debug, PartialEq)]
+#[derive(Debug, PartialEq, Eq, Hash, Serialize, Deserialize, Clone)]
 pub struct Song {
     artist: String,
     title: String,
@@ -38,6 +38,7 @@ pub fn radio_1live(html: &str) -> Option<Song> {
         // Could be replace with a regex <smth>magazin
         || filter.contains("europamagazin")
         || filter.contains("meinungsmagazin")
+        || filter.contains("martin winkelheide")
     {
         return None;
     }
