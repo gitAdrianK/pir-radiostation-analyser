@@ -7,7 +7,7 @@ use std::io::{BufReader, BufWriter};
 use serde_json;
 
 use radio::song::Song;
-use util::logger::log;
+//use util::logger::log;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct SongMap(HashMap<Song, u8>);
@@ -27,14 +27,14 @@ impl SongMap {
     }
 
     pub fn save_to_file(&self, dir: &str, name: &str) {
-        fn save_error(dir: &str, name: &str) {
-            log(&format!("ERROR: Could not save {}\\{}.json",dir, name));
-        }
+        //fn save_error(dir: &str, name: &str) {
+        //    log(&format!("ERROR: Could not save {}\\{}.json",dir, name));
+        //}
         let _ = fs::create_dir_all(dir);
         let to = match File::create(format!("{}\\{}.json",dir, name)) {
             Ok(file) => file,
             Err(_) => {
-                save_error(dir, name);
+                //save_error(dir, name);
                 return
             }
         };
@@ -51,7 +51,7 @@ impl SongMap {
         }
         match serde_json::to_writer_pretty(&mut to, &string_vec) {
             Err(_) => {
-                save_error(dir, name);
+                //save_error(dir, name);
                 return
             }
             _ => {},
@@ -61,15 +61,15 @@ impl SongMap {
     }
 
     pub fn load_from_file(dir: &str, name: &'static str) -> Self {
-        fn load_error(dir: &str, name: &'static str) {
-            log(&format!("ERROR: Could not load {}\\{}.json",dir, name));
-        }
+        //fn load_error(dir: &str, name: &'static str) {
+        //    log(&format!("ERROR: Could not load {}\\{}.json",dir, name));
+        //}
 
         let mut song_map = SongMap::new();
         let from = match File::open(format!("{}\\{}.json",dir, name)) {
             Ok(file) => file,
             Err(_) => {
-                load_error(dir, name);
+                //load_error(dir, name);
                 return song_map
             }
         };
@@ -77,7 +77,7 @@ impl SongMap {
         let string_vec: Vec<SongMapHelper> = match serde_json::from_reader(from) {
             Ok(vec) => vec,
             Err(_) => {
-                load_error(dir, name);
+                //load_error(dir, name);
                 return song_map
             }
         };
