@@ -33,7 +33,7 @@ fn run_radio_analyser() {
     for station in RADIOSTATIONS {
         thread::spawn(move || {
             let mut map = SongMap::load_from_file(
-                &format!("radio\\{}", station.shorthand),
+                "radio",
                 station.shorthand,
             );
             let mut last_songs: LinkedList<Song> = LinkedList::new();
@@ -57,7 +57,7 @@ fn run_radio_analyser() {
                     None => {},
                 }
                 map.save_to_file(
-                    &format!("radio\\{}", station.shorthand),
+                    "radio",
                     station.shorthand,
                 );
                 thread::sleep(Duration::from_secs(60));

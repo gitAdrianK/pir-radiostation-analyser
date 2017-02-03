@@ -9,7 +9,7 @@ use serde_json;
 use radio::song::Song;
 //use util::logger::log;
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug)]
 pub struct SongMap(HashMap<Song, u8>);
 
 impl SongMap {
