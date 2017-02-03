@@ -2,8 +2,8 @@ use util::get_inbetween;
 
 #[derive(Debug, PartialEq, Eq, Hash, Serialize, Deserialize, Clone)]
 pub struct Song {
-    artist: String,
-    title: String,
+    pub artist: String,
+    pub title: String,
 }
 
 impl Song {

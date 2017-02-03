@@ -39,13 +39,17 @@ impl SongMap {
             }
         };
         let mut to = BufWriter::new(to);
-        let mut string_map: HashMap<String, u8> = HashMap::new();
+        let mut string_vec: Vec<SongMapHelper> = Vec::new();
         for (key, value) in self.0.iter() {
-            string_map.insert(serde_json::to_string(key).unwrap(), *value);
+            string_vec.push(
+                SongMapHelper {
+                    artist: key.artist.clone(),
+                    title: key.title.clone(),
+                    count: *value,
+                }
+            );
         }
-        // TODO: Hashmap contains non String value, this panics
-        // Only HashMap<String, T: Serializable> supported
-        match serde_json::to_writer_pretty(&mut to, &string_map) {
+        match serde_json::to_writer_pretty(&mut to, &string_vec) {
             Err(_) => {
                 save_error(dir, name);
                 return
@@ -70,16 +74,26 @@ impl SongMap {
             }
         };
         let from = BufReader::new(from);
-        let string_map: HashMap<String, u8> = match serde_json::from_reader(from) {
-            Ok(map) => map,
+        let string_vec: Vec<SongMapHelper> = match serde_json::from_reader(from) {
+            Ok(vec) => vec,
             Err(_) => {
                 load_error(dir, name);
                 return song_map
             }
         };
-        for (key, value) in string_map.iter() {
-            song_map.insert(serde_json::from_str(key).unwrap(), *value);
+        for song_helper in string_vec {
+            song_map.insert( Song {
+                artist: song_helper.artist,
+                title: song_helper.title
+            }, song_helper.count);
         }
         song_map
     }
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct SongMapHelper {
+    artist: String,
+    title: String,
+    count: u8
 }
