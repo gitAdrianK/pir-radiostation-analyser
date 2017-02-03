@@ -30,7 +30,6 @@ impl SongMap {
         fn save_error(dir: &str, name: &str) {
             log(&format!("ERROR: Could not save {}\\{}.json",dir, name));
         }
-
         let _ = fs::create_dir_all(dir);
         let to = match File::create(format!("{}\\{}.json",dir, name)) {
             Ok(file) => file,

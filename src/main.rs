@@ -8,6 +8,7 @@ extern crate time;
 mod radio;
 mod util;
 
+use std::collections::LinkedList;
 use std::thread;
 use std::time::Duration;
 
@@ -35,11 +36,11 @@ fn run_radio_analyser() {
                 &format!("radio\\{}", station.shorthand),
                 station.shorthand,
             );
-            let mut last_song = Song::empty();
+            let mut last_songs: LinkedList<Song> = LinkedList::new();
             loop {
                 match station.get_current_song() {
                     Some(song) => {
-                        if  last_song != song {
+                        if !last_songs.contains(&song) {
                             log_at(
                                 &format!("log\\{}", station.shorthand),
                                 station.shorthand,
@@ -47,7 +48,10 @@ fn run_radio_analyser() {
                             );
                             println!("{}: {}", station.name, song);
                             map.insert_song(song.clone());
-                            last_song = song;
+                            if last_songs.len() == 5 {
+                                last_songs.pop_back();
+                            }
+                            last_songs.push_front(song);
                         }
                     },
                     None => {},

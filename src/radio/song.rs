@@ -7,10 +7,6 @@ pub struct Song {
 }
 
 impl Song {
-    pub fn empty() -> Self {
-        Song{ artist: "".into(), title: "".into() }
-    }
-
     pub fn is_empty(&self) -> bool {
         self.artist == "" && self.title == ""
     }
