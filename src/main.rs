@@ -15,6 +15,7 @@ use std::time::Duration;
 use radio::Radio;
 use radio::data::RADIOSTATIONS;
 use radio::song::Song;
+use util::html_generator::write_html;
 use util::song_map::SongMap;
 use util::logger::{log, log_at};
 
@@ -27,13 +28,14 @@ fn main() {
                 .read_line(&mut String::new())
                 .expect("something went seriously wrong :O");
     log("Stop Analyzing Radio stations");
+    write_html();
 }
 
 fn run_radio_analyser() {
     for station in RADIOSTATIONS {
         thread::spawn(move || {
             let mut map = SongMap::load_from_file(
-                "radio",
+                "data\\radio",
                 station.shorthand,
             );
             let mut last_songs: LinkedList<Song> = LinkedList::new();
@@ -57,7 +59,7 @@ fn run_radio_analyser() {
                     None => {},
                 }
                 map.save_to_file(
-                    "radio",
+                    "data\\radio",
                     station.shorthand,
                 );
                 thread::sleep(Duration::from_secs(60));

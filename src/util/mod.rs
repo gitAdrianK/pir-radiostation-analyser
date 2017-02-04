@@ -1,5 +1,6 @@
 pub mod logger;
 pub mod http_scraper;
+pub mod html_generator;
 pub mod song_map;
 
 /// Given a prefix and a suffix returns everything in-between.
