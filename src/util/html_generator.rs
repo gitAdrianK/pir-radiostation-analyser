@@ -1,28 +1,48 @@
 // THIS IS THE UGLIEST THIGN EVER
+use std::fs;
+use std::fs::OpenOptions;
+use std::io::prelude::*;
 
-pub fn write_html() {
-    use std::fs;
-    use std::fs::OpenOptions;
-    use std::io::prelude::*;
+/// TODO: Result when error and this documentation
+pub fn write_html_from_json(directory: &str, subdirectory: &str) {
+    // The full path: dir\\subdir
+    let mut full_path = directory.to_string();
+    full_path.push_str("\\");
+    full_path.push_str(subdirectory);
+    // Create index file
     let mut file = OpenOptions::new()
         .read(true)
         .write(true)
         .create(true)
         .open("index.html")
         .unwrap();
-    writeln!(file, "<html><head></head><body>");
-    for entry in fs::read_dir("data\\radio").unwrap() {
+    // Start of indexfile html
+    let _ = writeln!(file, "<html><head></head><body>");
+    // Get all json files
+    // dir\\subdir\\<file>.json
+    for entry in fs::read_dir(full_path.clone()).unwrap() {
+        // Path to the file
         let dir = entry.unwrap();
-        let path = dir.path().into_os_string().into_string().unwrap().replace("\\radio", "");
-        let mut path_2 = path.clone();
-        path_2.push_str(".html");
-        let mut file_2 = OpenOptions::new()
+        // Removes the subdirectory
+        // dir\\<file>.json
+        let path_parent = dir
+            .path()
+            .into_os_string()
+            .into_string()
+            .unwrap()
+            .replace(&format!("\\{}", subdirectory), "");
+        // dir\\<file>.html
+        let path_parent_html = path_parent.clone().replace("json", "html");
+        // Create html file <dir>\\<file>.html
+        let mut file_parent_html = OpenOptions::new()
         .read(true)
         .write(true)
         .create(true)
-        .open(path_2)
+        .open(path_parent_html.clone())
         .unwrap();
-        let _ = file_2.write_all(
+        // Write to dir\\<file>.html
+        let _ = file_parent_html.write_all(
+
 // LARGE HTML AHEAD
 "<!DOCTYPE html>
 <html>
@@ -33,6 +53,7 @@ pub fn write_html() {
         <script type=\"text/javascript\" src=\"js/jquery.dynatable.js\"></script>
     </head>
     <body>
+        <a href=\"../index.html\">back</a><br>
         <table id=\"my-table\">
           <thead>
             <th>Artist</th>
@@ -43,9 +64,17 @@ pub fn write_html() {
           </tbody>
         </table>
         <script>
-            $.getJSON('".as_bytes());
-        let _ = file_2.write_all(path.replace("data", "radio").replace("\\", "/").as_bytes());
-        let _ = file_2.write_all(
+            $.getJSON('"
+// END OF LARGE HTML
+
+        .as_bytes());
+        // Link to subdir\\<file>.json
+        let _ = file_parent_html.write_all(
+            path_parent.replace(&directory, &subdirectory)
+                .replace("\\", "/").as_bytes()
+        );
+        let _ = file_parent_html.write_all(
+
 // MORE HTML
             "', function (response) {
                 $('#my-table').dynatable({
@@ -55,10 +84,14 @@ pub fn write_html() {
                 });
             });
         </script>
+        <a href=\"../index.html\">back</a><br>
     </body>
-</html>
-".as_bytes());
-        writeln!(file, "<a href=\"{}.html\">{0}</a><br>", path);
+</html>"
+// END OF MORE HTML
+
+        .as_bytes());
+        // link to dir\\<file>.html
+        let _ = writeln!(file, "<a href=\"{}\">{0}</a><br>", path_parent_html);
     }
-    writeln!(file, "</body></html>");
+    let _ = writeln!(file, "</body></html>");
 }

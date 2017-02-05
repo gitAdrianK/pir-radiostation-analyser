@@ -15,9 +15,12 @@ use std::time::Duration;
 use radio::Radio;
 use radio::data::RADIOSTATIONS;
 use radio::song::Song;
-use util::html_generator::write_html;
+use util::html_generator::write_html_from_json;
 use util::song_map::SongMap;
 use util::logger::{log, log_at};
+
+const DIRECTORY: &'static str = "data";
+const SUBDIRECTORY: &'static str = "radio";
 
 fn main() {
     log("Start Analyzing Radio stations");
@@ -28,14 +31,14 @@ fn main() {
                 .read_line(&mut String::new())
                 .expect("something went seriously wrong :O");
     log("Stop Analyzing Radio stations");
-    write_html();
+    write_html_from_json(DIRECTORY, SUBDIRECTORY);
 }
 
 fn run_radio_analyser() {
     for station in RADIOSTATIONS {
         thread::spawn(move || {
             let mut map = SongMap::load_from_file(
-                "data\\radio",
+                &format!("{}\\{}", DIRECTORY, SUBDIRECTORY),
                 station.shorthand,
             );
             let mut last_songs: LinkedList<Song> = LinkedList::new();
@@ -59,7 +62,7 @@ fn run_radio_analyser() {
                     None => {},
                 }
                 map.save_to_file(
-                    "data\\radio",
+                    &format!("{}\\{}", DIRECTORY, SUBDIRECTORY),
                     station.shorthand,
                 );
                 thread::sleep(Duration::from_secs(60));
