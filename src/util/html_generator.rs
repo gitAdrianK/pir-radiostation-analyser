@@ -32,6 +32,9 @@ pub fn write_html_from_json(directory: &str, subdirectory: &str) {
             .into_string()
             .unwrap()
             .replace(&format!("\\{}", subdirectory), "");
+        if !path_parent.ends_with(".json"){
+            continue;
+        }
         // dir\\<file>.html
         let path_parent_html = path_parent.clone().replace("json", "html");
         // Create html file <dir>\\<file>.html
