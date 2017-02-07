@@ -91,7 +91,7 @@ pub fn write_html_from_json(directory: &str, subdirectory: &str) {
 
         .as_bytes());
         // link to dir\\<file>.html
-        let _ = writeln!(file, "<a href=\"{}\">{0}</a><br>", path_parent_html);
+        let _ = writeln!(file, "<a href=\"{}?sorts[count]=-1\">{0}</a><br>", path_parent_html);
     }
     let _ = writeln!(file, "</body></html>");
 }
