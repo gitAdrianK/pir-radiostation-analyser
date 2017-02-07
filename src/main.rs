@@ -26,10 +26,21 @@ const SUBDIRECTORY: &'static str = "radio";
 /// Collects songs played on radiostations and displays them sorted by
 /// times played
 fn main() {
+    // if the command gets used with --html generate html
+    // because we don't need to generate html everytime
+    // or we want to generate html without the analyzer runnning
+    match std::env::args().nth(1) {
+        Some(arg) => {
+            if arg == "--html" {
+                // Write html displaying info
+                write_html_from_json(DIRECTORY, SUBDIRECTORY);
+                return;
+            }
+        },
+        None => {},
+    }
     // Start analyzing
     run_radio_analyser();
-    // Write html displaying info
-    write_html_from_json(DIRECTORY, SUBDIRECTORY);
 }
 
 /// Analyzes stations

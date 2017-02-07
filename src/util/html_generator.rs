@@ -21,7 +21,14 @@ pub fn write_html_from_json(directory: &str, subdirectory: &str) {
     let _ = writeln!(file, "<html><head></head><body>");
     // Get all json files
     // dir\\subdir\\<file>.json
-    for entry in fs::read_dir(full_path.clone()).unwrap() {
+    let fs_dir = match fs::read_dir(full_path.clone()) {
+        Ok(fs_dir) => fs_dir,
+        Err(_) => {
+            println!("Could not find files, try running the programm first!");
+            return
+        }
+    };
+    for entry in fs_dir {
         // Path to the file
         let dir = entry.unwrap();
         // Removes the subdirectory
@@ -33,7 +40,7 @@ pub fn write_html_from_json(directory: &str, subdirectory: &str) {
             .unwrap()
             .replace(&format!("\\{}", subdirectory), "");
         if !path_parent.ends_with(".json"){
-            continue;
+            continue
         }
         // dir\\<file>.html
         let path_parent_html = path_parent.clone().replace("json", "html");
