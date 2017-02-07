@@ -1,6 +1,6 @@
 use hyper::{Client, Ok};
-use util::logger::log;
 use std::io::prelude::*;
+use util::logger::log;
 
 /// Scrapes a website
 /// The adress may not be https, only http works

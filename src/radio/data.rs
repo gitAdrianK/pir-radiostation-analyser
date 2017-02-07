@@ -1,8 +1,8 @@
 use radio::RadioStation;
 use radio::song::{radio_1live, radio_ndr, radio_antenne};
 
+/// Radiostations
 pub const RADIOSTATIONS: &'static [RadioStation] = &[
-    // TODO: Add other stations
     // Stations 1LIVE and WDR
     RadioStation {
         name: "1LIVE",
@@ -88,12 +88,12 @@ pub const RADIOSTATIONS: &'static [RadioStation] = &[
         url: "http://www.ndr.de/public/radio_playlists/ndr2.json",
         get_song: radio_ndr,
     },
-    RadioStation {
-        name: "NDR Info",
-        shorthand: "ndri",
-        url: "http://www.ndr.de/public/radio_playlists/ndrinfo.json",
-        get_song: radio_ndr,
-    },
+    //RadioStation {
+    //    name: "NDR Info",
+    //    shorthand: "ndri",
+    //    url: "http://www.ndr.de/public/radio_playlists/ndrinfo.json",
+    //    get_song: radio_ndr,
+    //},
     RadioStation {
         name: "NDR Kultur",
         shorthand: "ndrk",

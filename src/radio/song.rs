@@ -1,5 +1,6 @@
 use util::get_inbetween;
 
+/// Song with title and artist
 #[derive(Debug, PartialEq, Eq, Hash, Serialize, Deserialize, Clone)]
 pub struct Song {
     pub artist: String,
@@ -7,11 +8,13 @@ pub struct Song {
 }
 
 impl Song {
+    /// Is song empty
     pub fn is_empty(&self) -> bool {
         self.artist == "" && self.title == ""
     }
 }
 
+// Display impl
 impl ::std::fmt::Display for Song {
     fn fmt(&self, f: &mut ::std::fmt::Formatter) -> ::std::fmt::Result {
         write!(f, "{} -by- {}", self.title, self.artist)
@@ -23,6 +26,7 @@ impl ::std::fmt::Display for Song {
 pub fn radio_1live(html: &str) -> Option<Song> {
     // Songs are divided by "-", do not contain "KiRaka" or "WDR"
     let filter = html.to_lowercase();
+    // 1live wdr display not only songs, filter those
     if filter.contains("kiraka")
         || filter.contains("wdr")
         || filter.contains("1live")
@@ -38,6 +42,7 @@ pub fn radio_1live(html: &str) -> Option<Song> {
     {
         return None;
     }
+    // split at -
     match html.find(" - ") {
         Some(pos) => {
             let (artist, title) = html.split_at(pos);
@@ -50,7 +55,7 @@ pub fn radio_1live(html: &str) -> Option<Song> {
         },
         None => {},
     }
-    /// WDR 2 "von"
+    /// WDR 2 uses "von"
     match html.find(" von ") {
         Some(pos) => {
             let (title, artist) = html.split_at(pos);
@@ -83,7 +88,10 @@ pub fn radio_ndr(html: &str) -> Option<Song> {
     }
 }
 
+/// Song is in response type PE_E in fields name and artistname
 pub fn radio_antenne(html: &str) -> Option<Song> {
+    // Only one response given,
+    // There is always at least one, that contains non-song information
     if html.contains("\"total\":1") {
         return None;
     }

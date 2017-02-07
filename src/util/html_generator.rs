@@ -1,9 +1,10 @@
-// THIS IS THE UGLIEST THIGN EVER
-use std::fs;
 use std::fs::OpenOptions;
+use std::fs;
 use std::io::prelude::*;
 
-/// TODO: Result when error and this documentation
+/// Gets every json from a subdirectory and writes an html file in directory
+/// to display the json data as a table, as well as create an index html
+/// in directorys parentfolder containing a link to all created json tables
 pub fn write_html_from_json(directory: &str, subdirectory: &str) {
     // The full path: dir\\subdir
     let mut full_path = directory.to_string();
