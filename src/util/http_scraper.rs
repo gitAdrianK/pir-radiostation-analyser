@@ -1,4 +1,4 @@
-use hyper::{Client, Ok};
+use hyper::Client;
 use std::io::prelude::*;
 use util::logger::log;
 
@@ -6,8 +6,14 @@ use util::logger::log;
 /// The adress may not be https, only http works
 pub fn scrape(url: &str, name: &str) -> Option<String> {
     let client = Client::new();
-    let mut response = client.get(url).send().unwrap();
-    if response.status != Ok {
+    let mut response = match client.get(url).send() {
+        Ok(resp) => resp,
+        Err(e) => {
+            log(&format!("Error {}, FAILED scraping from {}", e, name));
+            return None
+        },
+    };
+    if response.status != ::hyper::Ok {
         log(&format!("Error {}, FAILED scraping from {}", response.status, name));
         return None;
     }
