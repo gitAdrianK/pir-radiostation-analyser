@@ -10,7 +10,7 @@ use util::logger::log;
 /// A map containing songs and their times played,
 /// Inserting a song already known will increase its counter
 #[derive(Debug)]
-pub struct SongMap(HashMap<Song, u8>);
+pub struct SongMap(HashMap<Song, u16>);
 
 impl SongMap {
     /// Creates a new empty songmap
@@ -19,7 +19,7 @@ impl SongMap {
     }
 
     /// Inserts a song into the map
-    fn insert(&mut self, key: Song, value: u8) {
+    fn insert(&mut self, key: Song, value: u16) {
         self.0.insert(key, value);
     }
 
@@ -114,5 +114,5 @@ impl SongMap {
 struct SongMapHelper {
     artist: String,
     title: String,
-    count: u8
+    count: u16,
 }
