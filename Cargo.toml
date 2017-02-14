@@ -6,3 +6,8 @@ authors = ["akrimpenfort <akrimpenfort@uni-osnabrueck.de>",
           ]
 
 [dependencies]
+hyper = "0.10.2"
+time = "0.1.36"
+serde = "0.9"
+serde_derive = "0.9"
+serde_json = "0.9"
