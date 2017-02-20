@@ -1,0 +1,143 @@
+2017-02-09T00:07:38+01:00 INFO: NDR Kultur: Ouvert&uuml;re solennelle &quot;1812&quot;, op.49 -by- Peter Tschaikowsky
+2017-02-09T00:22:39+01:00 INFO: NDR Kultur: Sieben Balkant&auml;nze -by- Marko Tajcevic
+2017-02-09T00:36:41+01:00 INFO: NDR Kultur: Sinfonie Nr.2 D-Dur, op.83 -by- Christian Sinding
+2017-02-09T01:08:49+01:00 INFO: NDR Kultur: Bl&auml;serquintett g-Moll -by- Paul Taffanel
+2017-02-09T01:30:52+01:00 INFO: NDR Kultur: Das goldene Spinnrad. Sinfonische Dichtung, op. 109, -by- Anton&iacute;n Dvor&aacute;k
+2017-02-09T01:58:55+01:00 INFO: NDR Kultur: Gretchen am Spinnrade, R 243 Nr.8 -by- Franz Liszt
+2017-02-09T02:04:56+01:00 INFO: NDR Kultur: Ouvert&uuml;reBacchanal zu: Tannh&auml;user, WWV 70 -by- Richard Wagner
+2017-02-09T02:28:57+01:00 INFO: NDR Kultur: Klaviersonate h-Moll, S 178 -by- Franz Liszt
+2017-02-09T03:03:00+01:00 INFO: NDR Kultur: Sinfonie Nr. 2, op. 12 -by- Ernst Krenek
+2017-02-09T04:00:05+01:00 INFO: NDR Kultur: 2. Satz aus: Symphonie Espagnole d-Moll, op.21 -by- Edouard Lalo
+2017-02-09T04:05:06+01:00 INFO: NDR Kultur: Sinfonie Nr. 26 B-Dur -by- Gaetano Brunetti
+2017-02-09T04:27:09+01:00 INFO: NDR Kultur: Symphonie Espagnole f&uuml;r Violine und Orchester d-Moll, -by- Edouard Lalo
+2017-02-09T05:00:13+01:00 INFO: NDR Kultur: Lied ohne Worte C-Dur, op.67 Nr.4 -by- Felix Mendelssohn Bartholdy
+2017-02-09T05:04:13+01:00 INFO: NDR Kultur: Sinfonie F-Dur, op.2 Nr.4 -by- William Boyce
+2017-02-09T05:12:14+01:00 INFO: NDR Kultur: Le corsaire. Ouvert&uuml;re C-Dur, op. 21 -by- Hector Berlioz
+2017-02-09T05:21:14+01:00 INFO: NDR Kultur: 3. Satz aus: Streichersinfonie Nr.12 g-Moll, L1 i/3 -by- Felix Mendelssohn Bartholdy
+2017-02-09T05:30:16+01:00 INFO: NDR Kultur: Polonia, op.35, RO 210 -by- Louis Moreau Gottschalk
+2017-02-09T05:38:16+01:00 INFO: NDR Kultur: Violinkonzert A-Dur, op.4 Nr.5, RV 347 -by- Antonio Vivaldi
+2017-02-09T05:47:17+01:00 INFO: NDR Kultur: Euterpe. Ouvert&uuml;re -by- George Whitefield Chadwick
+2017-02-09T05:57:17+01:00 INFO: NDR Kultur: Jurassic Park Titelmusik -by- John Williams
+2017-02-09T06:05:18+01:00 INFO: NDR Kultur: Le Tombeau de Couperin (Orchestersuite)Pr&eacute;ludeVif (1. Satz) -by- Maurice Ravel
+2017-02-09T06:08:18+01:00 INFO: NDR Kultur: R&ecirc;verie -by- Claude Debussy
+2017-02-09T06:12:19+01:00 INFO: NDR Kultur: Oboenkonzert d-mollPresto (3. Satz) -by- Alessandro Marcello
+2017-02-09T06:16:19+01:00 INFO: NDR Kultur: Eugen Onegin (Oper)Polonaise (3. Akt) -by- Peter Tschaikowsky
+2017-02-09T06:24:19+01:00 INFO: NDR Kultur: Simple Symphony f&uuml;r Streichorchester, op. 4Boisterous bourree. Allegro ritmic -by- Benjamin Britten
+2017-02-09T06:29:20+01:00 INFO: NDR Kultur: Valseana -by- Sergio Assad
+2017-02-09T06:32:20+01:00 INFO: NDR Kultur: Konzert f&uuml;r Viola und Orchester c-Moll1. Satz -by- Johann Christian Bach
+2017-02-09T06:35:20+01:00 INFO: NDR Kultur: Arabesque f&uuml;r Klavier C-Dur, op. 18 -by- Robert Schumann
+2017-02-09T06:46:21+01:00 INFO: NDR Kultur: Xerxes (Oper) HWV 40Ouverture -by- Georg Friedrich H&auml;ndel
+2017-02-09T06:50:21+01:00 INFO: NDR Kultur: Sinfonie Nr. 4 d-Moll, op. 13Scherzo (3. Satz) -by- Anton&iacute;n Dvor&aacute;k
+2017-02-09T06:57:22+01:00 INFO: NDR Kultur: Fragile -by- Gordon Matthew Thomas &quot;Sting&quot; Sumner
+2017-02-09T07:05:22+01:00 INFO: NDR Kultur: Romanze f&uuml;r Klavier Fis-Dur, op. 45 Nr. 1 -by- Alfred Gr&uuml;nfeld
+2017-02-09T07:10:23+01:00 INFO: NDR Kultur: Hasapiko -by- Traditional
+2017-02-09T07:13:23+01:00 INFO: NDR Kultur: The Planets, op. 32Jupiter, the Bringer of Jollity (4. Satz) -by- Gustav Holst
+2017-02-09T07:26:24+01:00 INFO: NDR Kultur: Greensleeves -by- Francis Cutting
+2017-02-09T07:27:24+01:00 INFO: NDR Kultur: Rondo f&uuml;r Violine und Orchester B-Dur, KV 269 -by- Wolfgang Amadeus Mozart
+2017-02-09T07:38:25+01:00 INFO: NDR Kultur: Spanish Pride -by- Georges Bizet
+2017-02-09T07:47:25+01:00 INFO: NDR Kultur: Symphonie espagnole d-moll op. 21Scherzando (2. Satz) -by- Edouard Lalo
+2017-02-09T07:54:26+01:00 INFO: NDR Kultur: Sonate d-Moll, K 32 -by- Domenico Scarlatti
+2017-02-09T07:57:26+01:00 INFO: NDR Kultur: Daphnis et Chlo&eacute; (Ballett), Suite Nr. 2Danse G&eacute;n&eacute;rale (3. Satz) -by- Maurice Ravel
+2017-02-09T08:09:27+01:00 INFO: NDR Kultur: Plat&eacute;e (Oper)Orage -by- Jean-Philippe Rameau
+2017-02-09T08:11:27+01:00 INFO: NDR Kultur: Cs&aacute;rd&aacute;s -by- Vittorio Monti
+2017-02-09T08:16:28+01:00 INFO: NDR Kultur: Fryktl&oslash;s -by- Elisabeth Anvik
+2017-02-09T08:20:28+01:00 INFO: NDR Kultur: Fl&ouml;tenkonzert F-Dur, RV 433 -by- Antonio Vivaldi
+2017-02-09T08:26:28+01:00 INFO: NDR Kultur: Gymnop&eacute;diesLent et douloureux (Nr. 1) -by- Erik Satie
+2017-02-09T09:05:31+01:00 INFO: NDR Kultur: Lieder ohne Worte, op. 19A-Dur, Molto allegro e vivace (Nr. 3)(J&auml;gerlied) -by- Felix Mendelssohn Bartholdy
+2017-02-09T09:07:31+01:00 INFO: NDR Kultur: Violoncellokonzert C-Dur, Hob.VIIb:1Adagio (2. Satz) -by- Joseph Haydn
+2017-02-09T09:16:32+01:00 INFO: NDR Kultur: Mazurken, op. 50Moderato, cis-Moll (Nr. 3) -by- Fr&eacute;d&eacute;ric Chopin
+2017-02-09T09:24:33+01:00 INFO: NDR Kultur: Oran na Maighdinn Mhara (The Mermaid`s Song)/The Ship in Distress / Ships are S -by- Traditional  &amp; Nikolaus  Traditional (England); Traditional (irisch); Newerkla
+2017-02-09T09:31:33+01:00 INFO: NDR Kultur: Klaviersonate G-Dur, op. 79Andante (2. Satz) -by- Ludwig van Beethoven
+2017-02-09T09:35:33+01:00 INFO: NDR Kultur: Sinfonie Nr. 40 g-moll, KV 550Molto allegro (1. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-09T09:53:35+01:00 INFO: NDR Kultur: Giulio Cesare in Egitto (Oper) HWV 17&quot;Non disperar, chi s&agrave;?&quot; (Arie der Cleopa -by- Georg Friedrich H&auml;ndel
+2017-02-09T09:57:35+01:00 INFO: NDR Kultur: Soundtrack: &quot;Bugsy&quot;Act of faith -by- Ennio Morricone
+2017-02-09T10:05:36+01:00 INFO: NDR Kultur: Suite Espa&ntilde;ola, op. 47Castilla (Nr. 7) -by- Isaac Alb&eacute;niz
+2017-02-09T10:08:36+01:00 INFO: NDR Kultur: Romanze F-Dur f&uuml;r Violoncello und Orchester -by- Richard Strauss
+2017-02-09T10:18:37+01:00 INFO: NDR Kultur: Kanon f&uuml;r 3 Violinen und Basso continuo D-DurCanon und Gigue -by- Johann Pachelbel
+2017-02-09T10:26:38+01:00 INFO: NDR Kultur: Flight from The City -by- J&oacute;hann J&oacute;hannsson
+2017-02-09T10:33:39+01:00 INFO: NDR Kultur: La forza del destino (Oper)&quot;Rataplan, rataplan&quot; (Rataplanchor mit Preziosilla -by- Giuseppe Verdi
+2017-02-09T10:36:39+01:00 INFO: NDR Kultur: Sinfonie Nr. 5 e-moll, op. 64Valse. Allegro moderato (3. Satz) -by- Peter Tschaikowsky
+2017-02-09T10:43:40+01:00 INFO: NDR Kultur: Konzert f&uuml;r 2 H&ouml;rner, 2 Oboen, 2 Fagotte, Streicher und Basso continuo D-DurA -by- Johann Friedrich Fasch
+2017-02-09T10:47:40+01:00 INFO: NDR Kultur: West Side Story (Musical)&quot;Maria&quot; (1. Akt) -by- Leonard Bernstein
+2017-02-09T10:50:40+01:00 INFO: NDR Kultur: Minous vals -by- Magnus Zetterlund
+2017-02-09T10:55:41+01:00 INFO: NDR Kultur: Oboenkonzert d-Moll (nach den Sonaten K 9, K 208, K 5)Allegro (1. Satz) -by- Domenico Scarlatti
+2017-02-09T10:58:41+01:00 INFO: NDR Kultur: Norwegische T&auml;nze f&uuml;r Klavier zu 4 H&auml;nden, op. 35Allegretto tranquillo e graz -by- Edvard Grieg
+2017-02-09T11:04:41+01:00 INFO: NDR Kultur: Dance of Joy -by- Manny Katz
+2017-02-09T11:07:41+01:00 INFO: NDR Kultur: Der T&uuml;rke in Italien (Oper)Ouvert&uuml;re -by- Gioacchino Rossini
+2017-02-09T11:16:42+01:00 INFO: NDR Kultur: Petite Suite f&uuml;r Klavier zu 4 H&auml;nden&quot;Menuet&quot; (Nr. 3) -by- Claude Debussy
+2017-02-09T11:24:43+01:00 INFO: NDR Kultur: Serenade G-Dur (Eine kleine Nachtmusik), KV 525Allegro (1. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-09T11:31:44+01:00 INFO: NDR Kultur: Sinfonie Nr. 3 F-Dur, op. 90Poco allegretto (3. Satz) -by- Johannes Brahms
+2017-02-09T11:38:44+01:00 INFO: NDR Kultur: Suite f&uuml;r Violoncello und Orchester, op. 16Tarantella (5. Satz) -by- Camille Saint-Sa&euml;ns
+2017-02-09T11:43:45+01:00 INFO: NDR Kultur: Fidelio (Oper); daraus: &quot;Abscheulicher! wo eilst du hin?&quot; (Rezitativ und Arie de -by- Ludwig van Beethoven
+2017-02-09T11:51:45+01:00 INFO: NDR Kultur: Wassermusik Suite Nr. 1 F-Dur, HWV 348Allegro moderato (9. Satz) -by- Georg Friedrich H&auml;ndel
+2017-02-09T11:54:46+01:00 INFO: NDR Kultur: The moon is a harsh mistress -by- Jimmy Webb
+2017-02-09T11:59:46+01:00 INFO: NDR Kultur: Lyrische St&uuml;cke f&uuml;r Klavier, op. 62B&auml;chlein (Nr. 4) -by- Edvard Grieg
+2017-02-09T12:09:47+01:00 INFO: NDR Kultur: El testament d&#39;Amelia -by- Miguel Llobet
+2017-02-09T12:12:47+01:00 INFO: NDR Kultur: Trompetenkonzert D-Dur, TWV 51:D7 -by- Georg Philipp Telemann
+2017-02-09T12:19:47+01:00 INFO: NDR Kultur: Soundtrack: &quot;Fuori dal mondo&quot;Passaggio -by- Ludovico Einaudi
+2017-02-09T12:25:48+01:00 INFO: NDR Kultur: Bilder einer AusstellungDas alte Schloss (Nr. 2) -by- Modest Mussorgskij
+2017-02-09T12:30:48+01:00 INFO: NDR Kultur: Konzert f&uuml;r zwei Gitarren, op. 201Rondo mexicano (3. Satz) -by- Mario Castelnuovo-Tedesco
+2017-02-09T12:36:48+01:00 INFO: NDR Kultur: Soundtrack: &quot;Eine Frau ist eine Frau&quot;Une femme est une femme -by- Michel Legrand
+2017-02-09T12:44:49+01:00 INFO: NDR Kultur: Violinkonzert D-Dur, op. 35Finale. Allegro vivacissimo (3. Satz) -by- Peter Tschaikowsky
+2017-02-09T12:54:50+01:00 INFO: NDR Kultur: Pell&eacute;as et M&eacute;lisande op. 80 (Suite)La mort de M&eacute;lisande (4. Satz) -by- Gabriel Faur&eacute;
+2017-02-09T12:59:50+01:00 INFO: NDR Kultur: Orchestersuite D-Dur, BWV 1068Bourr&eacute;e (4. Satz) -by- Johann Sebastian Bach
+2017-02-09T13:04:50+01:00 INFO: NDR Kultur: Florida SuiteNear the Plantation (3. Satz) -by- Frederick Delius
+2017-02-09T13:11:51+01:00 INFO: NDR Kultur: Soundtrack: &quot;Der Pate&quot;Liebesthema -by- Nino Rota
+2017-02-09T13:14:51+01:00 INFO: NDR Kultur: Italienisches Konzert F-Dur, BWV 971Presto (3. Satz) -by- Johann Sebastian Bach
+2017-02-09T13:18:51+01:00 INFO: NDR Kultur: Das Nachtlager von Granada (Oper)&quot;Schon die Abendglocken klangen&quot; (Chor der H -by- Conradin Kreutzer
+2017-02-09T13:24:52+01:00 INFO: NDR Kultur: Klaviertrio Nr. 4 e-Moll, op. 90 (Dumky)LentoAllegroLentoAlllegro (1 -by- Anton&igrave;n Dvor&aacute;k
+2017-02-09T13:29:54+01:00 INFO: NDR Kultur: Klarinettenkonzert Nr. 1 c-MollAdagioAllegro (1. Satz) -by- Louis Spohr
+2017-02-09T13:40:55+01:00 INFO: NDR Kultur: Landerkennung op. 31 -by- Edvard Grieg
+2017-02-09T13:50:58+01:00 INFO: NDR Kultur: Die seidene Leiter (Oper),Ouvert&uuml;re -by- Gioacchino Rossini
+2017-02-09T13:57:59+01:00 INFO: NDR Kultur: Espa&ntilde;a op. 165Nr. 2 Tango -by- Isaac Alb&eacute;niz
+2017-02-09T14:04:59+01:00 INFO: NDR Kultur: Moments Musicaux, op. 16Maestoso (Nr. 6) -by- Sergej Rachmaninow
+2017-02-09T14:10:00+01:00 INFO: NDR Kultur: Soundtrack: &quot;Drowning By Numbers&quot;Trysting Fields -by- Michael Nyman
+2017-02-09T14:15:00+01:00 INFO: NDR Kultur: Sigurd Jorsalfar (Schauspielmusik) op. 56VorspielIn der K&ouml;nigshalle -by- Edvard Grieg
+2017-02-09T14:24:01+01:00 INFO: NDR Kultur: Fantas&iacute;a para un gentilhombreCanario (4. Satz) -by- Joaqu&iacute;n Rodrigo
+2017-02-09T14:29:01+01:00 INFO: NDR Kultur: Klavierkonzert Nr. 17 G-Dur, KV 453Andante (2. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-09T14:44:05+01:00 INFO: NDR Kultur: Ein Sommernachtstraum, op. 61IntermezzoAllegro appassionato -by- Felix Mendelssohn Bartholdy
+2017-02-09T14:51:06+01:00 INFO: NDR Kultur: Nocturnes, op. posth.c-moll (Nr. 8) -by- Fr&eacute;d&eacute;ric Chopin
+2017-02-09T14:55:07+01:00 INFO: NDR Kultur: Altsesta (Oper)&quot;Idu na smert&quot; (Arie) -by- Hermann Friedrich Raupach
+2017-02-09T15:05:08+01:00 INFO: NDR Kultur: Il segreto di Susanna (Oper)Ouvert&uuml;re -by- Ermanno Wolf-Ferrari
+2017-02-09T15:08:08+01:00 INFO: NDR Kultur: Sonate d-Moll, K 9 -by- Domenico Scarlatti
+2017-02-09T15:23:09+01:00 INFO: NDR Kultur: Konzert f&uuml;r Violine, Violoncello und Orchester a-moll, op. 102Vivace non trop -by- Johannes Brahms
+2017-02-09T15:31:12+01:00 INFO: NDR Kultur: F&uuml;r Lydia -by- Florian W&auml;ldele
+2017-02-09T15:35:13+01:00 INFO: NDR Kultur: Concerto grosso F-Dur, op. 6 Nr. 2, HWV 322Allegro ma non troppo (4. Satz) -by- Georg Friedrich H&auml;ndel
+2017-02-09T15:43:16+01:00 INFO: NDR Kultur: My Serenade -by- Django Reinhardt
+2017-02-09T15:47:16+01:00 INFO: NDR Kultur: Poison Ivy Leaf -by- Traditional
+2017-02-09T15:50:16+01:00 INFO: NDR Kultur: aus: Castillos de Espa&ntilde;a f&uuml;r Gitarre -by- Federico Moreno Torroba
+2017-02-09T16:04:20+01:00 INFO: NDR Kultur: C&oacute;rdoba -by- Ernesto Lecuona
+2017-02-09T16:08:20+01:00 INFO: NDR Kultur: Spanische Skizzen (Suite)Bolero -by- Nico Dostal
+2017-02-09T16:11:21+01:00 INFO: NDR Kultur: Doce de coco -by- Jac&oacute; do Bandolim
+2017-02-09T16:18:21+01:00 INFO: NDR Kultur: Sinfonie Nr. 40 g-moll, KV 550MenuettoAllegrettoTrio (3. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-09T16:27:22+01:00 INFO: NDR Kultur: Das ist meine Freude (Kantate) -by- Johann Balthasar Christian Freislich
+2017-02-09T16:32:22+01:00 INFO: NDR Kultur: Der Freisch&uuml;tz (Oper)&quot;Und ob die Wolke sie verh&uuml;lle&quot; (Kavatine der Agathe, 3. -by- Carl Maria von Weber
+2017-02-09T16:38:23+01:00 INFO: NDR Kultur: &Eacute;tudes Tableaux, op. 39h-Moll, Allegro assai (Nr. 4) -by- Sergej Rachmaninow
+2017-02-09T16:44:23+01:00 INFO: NDR Kultur: Sinfonie Nr. 4 d-moll, op. 120Ziemlich langsamLebhaft (1. Satz) -by- Robert Schumann
+2017-02-09T16:53:24+01:00 INFO: NDR Kultur: A Hudson Cycle -by- Nico Muhly
+2017-02-09T16:56:24+01:00 INFO: NDR Kultur: Sinfonie Nr. 8 F-Dur, op. 93Tempo di menuetto (3. Satz) -by- Ludwig van Beethoven
+2017-02-09T17:09:25+01:00 INFO: NDR Kultur: Aus Holbergs Zeit (Suite), op. 40Pr&auml;ludiumAllegro vivace (1. Satz) -by- Edvard Grieg
+2017-02-09T17:10:25+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;Daphn&eacute;&quot;  A -by- Django Reinhardt &amp; St&eacute;phane Grappelli
+2017-02-09T17:12:25+01:00 INFO: NDR Kultur: Ungarische Rhapsodie Nr. 3, S 359 -by- Franz Liszt
+2017-02-09T17:23:27+01:00 INFO: NDR Kultur: Der Troubadour (Oper)&quot;Vanne, lasciami.... D&#39;amor sull&#39;ali rosee&quot; (Szene und A -by- Giuseppe Verdi
+2017-02-09T17:31:28+01:00 INFO: NDR Kultur: Concerto a cinque C-Dur, sc 90Andante (2. Satz) -by- Silvius Leopold Weiss
+2017-02-09T17:34:28+01:00 INFO: NDR Kultur: Sc&egrave;nes de ballet (Suite), op. 52ValseValse -by- Alexander Glasunow
+2017-02-09T17:43:29+01:00 INFO: NDR Kultur: Streichsextett d-Moll (Souvenir de Florence) op. 70Allegretto moderato (3. Sa -by- Peter Tschaikowsky
+2017-02-09T17:50:29+01:00 INFO: NDR Kultur: Particles -by- &Oacute;lafur Arnalds
+2017-02-09T17:55:30+01:00 INFO: NDR Kultur: Streichquartett Nr. 12 F-Dur (Amerikanisches Quartett) op. 96FinaleVivace -by- Anton&iacute;n Dvor&aacute;k
+2017-02-09T18:05:31+01:00 INFO: NDR Kultur: Orpheus und Eurydike (Oper)Ouvert&uuml;re -by- Christoph Willibald Gluck
+2017-02-09T18:08:34+01:00 INFO: NDR Kultur: Schottische Fantasie f&uuml;r Harfe, Violine und Orchester, op. 46Einleitung &amp; Ada -by- Max Bruch
+2017-02-09T18:17:39+01:00 INFO: NDR Kultur: Suite f&uuml;r Jazzorchester Nr. 2Walzer II (6. Satz) -by- Dmitri Schostakowitsch
+2017-02-09T18:25:41+01:00 INFO: NDR Kultur: Die Walk&uuml;re (Oper)Walk&uuml;renritt (3. Aufzug) -by- Richard Wagner
+2017-02-09T18:30:41+01:00 INFO: NDR Kultur: Violinkonzert Nr. 2 e-Moll, op. 64Allegro molto appassionato (1. Satz) -by- Felix Mendelssohn Bartholdy
+2017-02-09T18:45:43+01:00 INFO: NDR Kultur: Soundtrack: &quot;Wonderland&quot;Molly -by- Michael Nyman
+2017-02-09T18:48:44+01:00 INFO: NDR Kultur: Waldszenen, op. 82Jagdlied. Rasch, kr&auml;ftig (Nr. 8) -by- Robert Schumann
+2017-02-09T18:51:44+01:00 INFO: NDR Kultur: Chants d&#39;AuvergneBail&egrave;ro -by- Joseph Canteloube
+2017-02-09T19:03:45+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;Daphn&eacute;&quot;  A -by- Django Reinhardt &amp; St&eacute;phane Grappelli
+2017-02-09T19:13:46+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;Minor Swing&quot; -by- Django Reinhardt &amp; St&eacute;phane Grappelli
+2017-02-09T19:19:47+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;I&#39;ll never be the same&quot; -by- Matt Malneck &amp; Frank Signorelli
+2017-02-09T19:24:47+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;Swing Guitars&quot; -by- Django Reinhardt &amp; St&eacute;phane  Grappelli
+2017-02-09T19:29:47+01:00 INFO: NDR Kultur: MUS Django Reinhardt &quot;Honeysuckle rose&quot;  E -by- Thomas Wright &quot;Fats&quot; Waller
+2017-02-09T19:31:47+01:00 INFO: NDR Kultur: Deus noster refugium, Psalmmotette -by- Jean-Philippe Rameau
+2017-02-09T19:58:51+01:00 INFO: NDR Kultur: Concert pour quatre parties de violesPr&eacute;lude -by- Marc-Antoine Charpentier
+2017-02-09T22:52:22+01:00 INFO: NDR Kultur: Klavierkonzert Nr. 20 d-moll, KV 466Romance (2. Satz) -by- Wolfgang Amadeus Mozart

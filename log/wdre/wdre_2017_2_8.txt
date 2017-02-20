@@ -1,0 +1,6 @@
+2017-02-08T17:36:17+01:00 INFO: WDR-Event: Power of love -by- Huey Lewis & T
+2017-02-08T17:46:21+01:00 INFO: WDR-Event: Man on the moon -by- R.E.M.
+2017-02-08T17:53:22+01:00 INFO: WDR-Event: On hold -by- The XX
+2017-02-08T17:57:27+01:00 INFO: WDR-Event: Wake me up when September ends -by- Green Day
+2017-02-08T18:00:28+01:00 INFO: WDR-Event: Bad Ideas -by- Alle Farben
+2017-02-08T18:28:33+01:00 INFO: WDR-Event: Heathens -by- Twenty One Pilots

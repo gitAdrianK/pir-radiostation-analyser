@@ -1,0 +1,263 @@
+2017-02-11T00:00:46+01:00 INFO: Antenne Relax: Make You Feel My Love -by- Adele
+2017-02-11T00:03:46+01:00 INFO: Antenne Relax: Brother Sparrow -by- Agnes Obel
+2017-02-11T00:07:47+01:00 INFO: Antenne Relax: It's Hard to Get Around the Wind -by- Alex Turner
+2017-02-11T00:11:47+01:00 INFO: Antenne Relax: All My Days -by- Alexi Murdoch
+2017-02-11T00:16:48+01:00 INFO: Antenne Relax: Barfly -by- Ray LaMontagne
+2017-02-11T00:20:50+01:00 INFO: Antenne Relax: Sunrise -by- Norah Jones
+2017-02-11T00:23:50+01:00 INFO: Antenne Relax: Big Jet Plane -by- Angus & Julia Stone
+2017-02-11T00:27:50+01:00 INFO: Antenne Relax: No One's Gonna Love You -by- Band of Horses
+2017-02-11T00:31:51+01:00 INFO: Antenne Relax: Sophie -by- Bear's Den
+2017-02-11T00:36:51+01:00 INFO: Antenne Relax: Shine -by- Benjamin Francis Leftwich
+2017-02-11T00:40:52+01:00 INFO: Antenne Relax: Return to Darden Road -by- Beta Radio
+2017-02-11T00:43:52+01:00 INFO: Antenne Relax: Lady On the Water -by- Blitzen Trapper
+2017-02-11T00:45:53+01:00 INFO: Antenne Relax: Fireside -by- Brett Bixby
+2017-02-11T00:48:53+01:00 INFO: Antenne Relax: First Day of My Life -by- Bright Eyes
+2017-02-11T00:51:54+01:00 INFO: Antenne Relax: Emmeline -by- Bruno Merz
+2017-02-11T00:55:54+01:00 INFO: Antenne Relax: Burning House -by- Cam
+2017-02-11T01:00:55+01:00 INFO: Antenne Relax: To Be Alone With You -by- Sufjan Stevens
+2017-02-11T01:02:55+01:00 INFO: Antenne Relax: Let It Go -by- James Bay
+2017-02-11T01:07:56+01:00 INFO: Antenne Relax: World Spins Madly On -by- The Weepies
+2017-02-11T01:09:56+01:00 INFO: Antenne Relax: 7 Years -by- Lukas Graham
+2017-02-11T01:13:57+01:00 INFO: Antenne Relax: Too Late -by- Fink
+2017-02-11T01:17:57+01:00 INFO: Antenne Relax: My Favourite Faded Fantasy -by- Damien Rice
+2017-02-11T01:23:58+01:00 INFO: Antenne Relax: Cherry Wine -by- Hozier
+2017-02-11T01:27:59+01:00 INFO: Antenne Relax: Boys In the Street -by- Greg Holden
+2017-02-11T01:31:59+01:00 INFO: Antenne Relax: Barcelona -by- George Ezra
+2017-02-11T01:34:59+01:00 INFO: Antenne Relax: Give Me Something -by- Seafret
+2017-02-11T01:38:00+01:00 INFO: Antenne Relax: I Don't Feel It Anymore (George Raquet Remix) [feat. Brooke Fraser] -by- William Fitzsimmons
+2017-02-11T01:41:01+01:00 INFO: Antenne Relax: THE STORM -by- THE AIRBONE TOXIC
+2017-02-11T01:45:01+01:00 INFO: Antenne Relax: Berlin -by- RY X
+2017-02-11T01:48:02+01:00 INFO: Antenne Relax: Riverside -by- Agnes Obel
+2017-02-11T01:52:02+01:00 INFO: Antenne Relax: Higher Love -by- James Vincent McMorrow
+2017-02-11T01:55:03+01:00 INFO: Antenne Relax: Home Again -by- Michael Kiwanuka
+2017-02-11T01:59:03+01:00 INFO: Antenne Relax: Youth -by- Daughter
+2017-02-11T02:03:04+01:00 INFO: Antenne Relax: Orange Sky -by- Alexi Murdoch
+2017-02-11T02:09:05+01:00 INFO: Antenne Relax: Hometown -by- Andy Burrows
+2017-02-11T02:13:05+01:00 INFO: Antenne Relax: Just a Boy -by- Angus & Julia Stone
+2017-02-11T02:16:06+01:00 INFO: Antenne Relax: Mykonos -by- Fleet Foxes
+2017-02-11T02:21:07+01:00 INFO: Antenne Relax: and Die -by- The Avett Brothers
+2017-02-11T02:25:07+01:00 INFO: Antenne Relax: Tired -by- Little Hours
+2017-02-11T02:29:07+01:00 INFO: Antenne Relax: Paper Doll -by- John Mayer
+2017-02-11T02:33:08+01:00 INFO: Antenne Relax: Incarnation Song -by- Chris and Thomas
+2017-02-11T02:37:08+01:00 INFO: Antenne Relax: Ocean Stone -by- Chris O'Brien
+2017-02-11T02:40:09+01:00 INFO: Antenne Relax: Avalanche -by- Chris Trapper
+2017-02-11T02:43:09+01:00 INFO: Antenne Relax: I'd Rather Be With You (Radio Edit) -by- Joshua Radin
+2017-02-11T02:46:09+01:00 INFO: Antenne Relax: Shame -by- Ciaran Lavery
+2017-02-11T02:50:10+01:00 INFO: Antenne Relax: If You Ever Want To Be In Love -by- James Bay
+2017-02-11T02:53:10+01:00 INFO: Antenne Relax: Dirty Old Town -by- Craig Cardiff
+2017-02-11T02:57:10+01:00 INFO: Antenne Relax: Hungry -by- Dotan
+2017-02-11T03:01:11+01:00 INFO: Antenne Relax: Come Away With Me -by- Norah Jones
+2017-02-11T03:04:11+01:00 INFO: Antenne Relax: Delicate -by- Damien Rice
+2017-02-11T03:09:12+01:00 INFO: Antenne Relax: Sunny Road -by- Emilíana Torrini
+2017-02-11T03:12:12+01:00 INFO: Antenne Relax: America -by- First Aid Kit
+2017-02-11T03:15:13+01:00 INFO: Antenne Relax: High Hope -by- Glen Hansard
+2017-02-11T03:19:13+01:00 INFO: Antenne Relax: Big Black Car -by- Gregory Alan Isakov
+2017-02-11T03:22:14+01:00 INFO: Antenne Relax: A Heart Arcane -by- Horse Feathers
+2017-02-11T03:25:14+01:00 INFO: Antenne Relax: Collide -by- Howie Day
+2017-02-11T03:29:14+01:00 INFO: Antenne Relax: Like Real People Do -by- Hozier
+2017-02-11T03:33:15+01:00 INFO: Antenne Relax: The Shape of Us -by- Ian Britt
+2017-02-11T03:37:15+01:00 INFO: Antenne Relax: I Knew This Would Be Love -by- Imaginary Future
+2017-02-11T03:40:16+01:00 INFO: Antenne Relax: You & I -by- RHODES
+2017-02-11T03:45:16+01:00 INFO: Antenne Relax: Naked As We Came -by- Iron & Wine
+2017-02-11T03:48:16+01:00 INFO: Antenne Relax: Dreamer -by- Isbells
+2017-02-11T03:52:17+01:00 INFO: Antenne Relax: Banana Pancakes -by- Jack Johnson
+2017-02-11T03:55:17+01:00 INFO: Antenne Relax: Hear the Noise That Moves So Soft and Low -by- James Vincent McMorrow
+2017-02-11T03:59:18+01:00 INFO: Antenne Relax: Same As the Sun -by- Jesse Cole
+2017-02-11T04:03:18+01:00 INFO: Antenne Relax: Nashville -by- Keeley Valentino
+2017-02-11T04:07:19+01:00 INFO: Antenne Relax: I and Love and You -by- The Avett Brothers
+2017-02-11T04:12:19+01:00 INFO: Antenne Relax: Homesick -by- Kings of Convenience
+2017-02-11T04:14:19+01:00 INFO: Antenne Relax: Falling In Love At a Coffee Shop -by- Landon Pigg
+2017-02-11T04:19:20+01:00 INFO: Antenne Relax: Gamble -by- Lucy Rose
+2017-02-11T04:23:21+01:00 INFO: Antenne Relax: Where Happinesss -by- Magnet
+2017-02-11T04:27:21+01:00 INFO: Antenne Relax: In Your Hands -by- Joshua Radin
+2017-02-11T04:31:21+01:00 INFO: Antenne Relax: Jane, I Still Feel the Same -by- Matthew Ryan
+2017-02-11T04:34:22+01:00 INFO: Antenne Relax: Gimme Sympathy -by- Metric
+2017-02-11T04:38:23+01:00 INFO: Antenne Relax: Hurricane -by- Mindy Smith
+2017-02-11T04:41:23+01:00 INFO: Antenne Relax: This Year's Love -by- David Gray
+2017-02-11T04:45:23+01:00 INFO: Antenne Relax: Kind and Generous -by- Natalie Merchant
+2017-02-11T04:49:24+01:00 INFO: Antenne Relax: Pink Moon -by- Nick Drake
+2017-02-11T04:51:24+01:00 INFO: Antenne Relax: We Were Able -by- Nick Urb
+2017-02-11T04:55:24+01:00 INFO: Antenne Relax: These Days -by- Nico
+2017-02-11T04:58:25+01:00 INFO: Antenne Relax: She Is Love -by- Parachute
+2017-02-11T05:01:25+01:00 INFO: Antenne Relax: Come Home -by- Ryan Adams
+2017-02-11T05:06:26+01:00 INFO: Antenne Relax: Build Me Up From Bones -by- Sarah Jarosz
+2017-02-11T05:09:26+01:00 INFO: Antenne Relax: Blackbird -by- Sarah McLachlan
+2017-02-11T05:12:27+01:00 INFO: Antenne Relax: Seagull -by- Saturday Sun
+2017-02-11T05:16:27+01:00 INFO: Antenne Relax: Call You Home -by- Kelvin Jones
+2017-02-11T05:18:28+01:00 INFO: Antenne Relax: Oceans -by- Seafret
+2017-02-11T05:23:28+01:00 INFO: Antenne Relax: The Only Living Boy In New York -by- Simon & Garfunkel
+2017-02-11T05:26:28+01:00 INFO: Antenne Relax: The Only Thing -by- Sufjan Stevens
+2017-02-11T05:31:29+01:00 INFO: Antenne Relax: I Know It's Pathetic But That Was the Greatest Night of My Life -by- Sun Kil Moon
+2017-02-11T05:33:30+01:00 INFO: Antenne Relax: I Do -by- Susie Suh
+2017-02-11T05:36:30+01:00 INFO: Antenne Relax: I Shall Cross This River -by- The Black Atlantic
+2017-02-11T05:40:30+01:00 INFO: Antenne Relax: To Whom It May Concern -by- The Civil Wars
+2017-02-11T05:43:31+01:00 INFO: Antenne Relax: To Ohio -by- The Low Anthem
+2017-02-11T05:46:31+01:00 INFO: Antenne Relax: Whisper In Her Ear -by- The Milk Carton Kids
+2017-02-11T05:50:31+01:00 INFO: Antenne Relax: Paint -by- The Paper Kites
+2017-02-11T05:53:32+01:00 INFO: Antenne Relax: Pills -by- The Perishers
+2017-02-11T05:56:33+01:00 INFO: Antenne Relax: New Slang -by- The Shins
+2017-02-11T06:00:33+01:00 INFO: Antenne Relax: Real Love -by- Tom Odell
+2017-02-11T06:02:33+01:00 INFO: Antenne Relax: Wildflowers -by- Tom Petty
+2017-02-11T06:05:33+01:00 INFO: Antenne Relax: Me & God -by- Trent Dabbs
+2017-02-11T06:09:34+01:00 INFO: Antenne Relax: Song for the Rich -by- Tristan Prettyman
+2017-02-11T06:12:34+01:00 INFO: Antenne Relax: I Believe In You -by- Tyler Hilton
+2017-02-11T06:16:35+01:00 INFO: Antenne Relax: Crazy Love -by- Van Morrison
+2017-02-11T06:19:36+01:00 INFO: Antenne Relax: Nothing Arrived -by- Villagers
+2017-02-11T06:23:37+01:00 INFO: Antenne Relax: Beautiful Girl -by- William Fitzsimmons
+2017-02-11T06:26:37+01:00 INFO: Antenne Relax: WILDEST MOMENTS -by- JESSY WARE
+2017-02-11T06:29:38+01:00 INFO: Antenne Relax: Come Away With Me -by- Norah Jones
+2017-02-11T06:32:38+01:00 INFO: Antenne Relax: STAY -by- LISA LOEB
+2017-02-11T06:35:39+01:00 INFO: Antenne Relax: Make You Feel My Love -by- Adele
+2017-02-11T06:39:39+01:00 INFO: Antenne Relax: Barfly -by- Ray LaMontagne
+2017-02-11T06:43:40+01:00 INFO: Antenne Relax: Brother Sparrow -by- Agnes Obel
+2017-02-11T06:47:40+01:00 INFO: Antenne Relax: It's Hard to Get Around the Wind -by- Alex Turner
+2017-02-11T06:51:41+01:00 INFO: Antenne Relax: All My Days -by- Alexi Murdoch
+2017-02-11T06:55:42+01:00 INFO: Antenne Relax: Let It Go -by- James Bay
+2017-02-11T07:00:42+01:00 INFO: Antenne Relax: Sophie -by- Bear's Den
+2017-02-11T07:05:43+01:00 INFO: Antenne Relax: Shine -by- Benjamin Francis Leftwich
+2017-02-11T07:08:43+01:00 INFO: Antenne Relax: Return to Darden Road -by- Beta Radio
+2017-02-11T07:12:44+01:00 INFO: Antenne Relax: To Be Alone With You -by- Sufjan Stevens
+2017-02-11T07:14:44+01:00 INFO: Antenne Relax: Lady On the Water -by- Blitzen Trapper
+2017-02-11T07:17:44+01:00 INFO: Antenne Relax: Fireside -by- Brett Bixby
+2017-02-11T07:20:44+01:00 INFO: Antenne Relax: First Day of My Life -by- Bright Eyes
+2017-02-11T07:23:45+01:00 INFO: Antenne Relax: Emmeline -by- Bruno Merz
+2017-02-11T07:27:45+01:00 INFO: Antenne Relax: Burning House -by- Cam
+2017-02-11T07:31:46+01:00 INFO: Antenne Relax: Only You -by- Joshua Radin
+2017-02-11T07:34:46+01:00 INFO: Antenne Relax: Wasn't Expecting That -by- Jamie Lawson
+2017-02-11T07:37:46+01:00 INFO: Antenne Relax: Her Mercy -by- Glen Hansard
+2017-02-11T07:42:47+01:00 INFO: Antenne Relax: World Spins Madly On -by- The Weepies
+2017-02-11T07:44:47+01:00 INFO: Antenne Relax: 7 Years -by- Lukas Graham
+2017-02-11T07:48:48+01:00 INFO: Antenne Relax: Too Late -by- Fink
+2017-02-11T07:52:48+01:00 INFO: Antenne Relax: My Favourite Faded Fantasy -by- Damien Rice
+2017-02-11T07:58:49+01:00 INFO: Antenne Relax: Cherry Wine -by- Hozier
+2017-02-11T08:02:50+01:00 INFO: Antenne Relax: Give Me Something -by- Seafret
+2017-02-11T08:04:50+01:00 INFO: Antenne Relax: THE STORM -by- THE AIRBONE TOXIC
+2017-02-11T08:08:51+01:00 INFO: Antenne Relax: I Don't Feel It Anymore (George Raquet Remix) [feat. Brooke Fraser] -by- William Fitzsimmons
+2017-02-11T08:12:51+01:00 INFO: Antenne Relax: Berlin -by- RY X
+2017-02-11T08:14:52+01:00 INFO: Antenne Relax: Higher Love -by- James Vincent McMorrow
+2017-02-11T08:18:52+01:00 INFO: Antenne Relax: Home Again -by- Michael Kiwanuka
+2017-02-11T08:22:53+01:00 INFO: Antenne Relax: Make You Feel My Love -by- Adele
+2017-02-11T08:25:53+01:00 INFO: Antenne Relax: Youth -by- Daughter
+2017-02-11T08:29:53+01:00 INFO: Antenne Relax: Riverside -by- Agnes Obel
+2017-02-11T08:33:54+01:00 INFO: Antenne Relax: Falling -by- RHODES
+2017-02-11T08:37:56+01:00 INFO: Antenne Relax: Skinny Love -by- Bon Iver
+2017-02-11T08:40:57+01:00 INFO: Antenne Relax: Orange Sky -by- Alexi Murdoch
+2017-02-11T08:47:57+01:00 INFO: Antenne Relax: Just a Boy -by- Angus & Julia Stone
+2017-02-11T08:50:58+01:00 INFO: Antenne Relax: If You Ever Want To Be In Love -by- James Bay
+2017-02-11T08:55:58+01:00 INFO: Antenne Relax: Hometown -by- Andy Burrows
+2017-02-11T08:58:58+01:00 INFO: Antenne Relax: Mykonos -by- Fleet Foxes
+2017-02-11T09:03:00+01:00 INFO: Antenne Relax: Incarnation Song -by- Chris and Thomas
+2017-02-11T09:07:01+01:00 INFO: Antenne Relax: Don't Know Why -by- Norah Jones
+2017-02-11T09:10:01+01:00 INFO: Antenne Relax: Ocean Stone -by- Chris O'Brien
+2017-02-11T09:13:01+01:00 INFO: Antenne Relax: Avalanche -by- Chris Trapper
+2017-02-11T09:16:02+01:00 INFO: Antenne Relax: Shame -by- Ciaran Lavery
+2017-02-11T09:20:02+01:00 INFO: Antenne Relax: I'd Rather Be With You (Radio Edit) -by- Joshua Radin
+2017-02-11T09:23:03+01:00 INFO: Antenne Relax: Dirty Old Town -by- Craig Cardiff
+2017-02-11T09:27:03+01:00 INFO: Antenne Relax: Hungry -by- Dotan
+2017-02-11T09:31:03+01:00 INFO: Antenne Relax: Crazy in Love -by- Daniela Andrade
+2017-02-11T09:34:04+01:00 INFO: Antenne Relax: Only the Wine -by- David Gray
+2017-02-11T09:37:04+01:00 INFO: Antenne Relax: Caledonia -by- Dougie Maclean
+2017-02-11T09:41:05+01:00 INFO: Antenne Relax: Say Yes -by- Elliott Smith
+2017-02-11T09:43:05+01:00 INFO: Antenne Relax: Delicate -by- Damien Rice
+2017-02-11T09:48:05+01:00 INFO: Antenne Relax: Sunny Road -by- Emilíana Torrini
+2017-02-11T09:51:06+01:00 INFO: Antenne Relax: America -by- First Aid Kit
+2017-02-11T09:55:07+01:00 INFO: Antenne Relax: High Hope -by- Glen Hansard
+2017-02-11T09:58:08+01:00 INFO: Antenne Relax: Big Black Car -by- Gregory Alan Isakov
+2017-02-11T10:02:08+01:00 INFO: Antenne Relax: Like Real People Do -by- Hozier
+2017-02-11T10:05:09+01:00 INFO: Antenne Relax: The Shape of Us -by- Ian Britt
+2017-02-11T10:09:09+01:00 INFO: Antenne Relax: I Knew This Would Be Love -by- Imaginary Future
+2017-02-11T10:13:10+01:00 INFO: Antenne Relax: Naked As We Came -by- Iron & Wine
+2017-02-11T10:15:10+01:00 INFO: Antenne Relax: Dreamer -by- Isbells
+2017-02-11T10:20:11+01:00 INFO: Antenne Relax: You & I -by- RHODES
+2017-02-11T10:25:13+01:00 INFO: Antenne Relax: Banana Pancakes -by- Jack Johnson
+2017-02-11T10:28:13+01:00 INFO: Antenne Relax: Hear the Noise That Moves So Soft and Low -by- James Vincent McMorrow
+2017-02-11T10:32:14+01:00 INFO: Antenne Relax: Same As the Sun -by- Jesse Cole
+2017-02-11T10:36:15+01:00 INFO: Antenne Relax: Ophelia -by- John Schmitt
+2017-02-11T10:39:15+01:00 INFO: Antenne Relax: Heartbeats -by- José González
+2017-02-11T10:42:16+01:00 INFO: Antenne Relax: I and Love and You -by- The Avett Brothers
+2017-02-11T10:47:17+01:00 INFO: Antenne Relax: Nashville -by- Keeley Valentino
+2017-02-11T10:51:18+01:00 INFO: Antenne Relax: Homesick -by- Kings of Convenience
+2017-02-11T10:54:18+01:00 INFO: Antenne Relax: Falling In Love At a Coffee Shop -by- Landon Pigg
+2017-02-11T10:58:19+01:00 INFO: Antenne Relax: Gamble -by- Lucy Rose
+2017-02-11T11:02:19+01:00 INFO: Antenne Relax: Gimme Sympathy -by- Metric
+2017-02-11T11:05:22+01:00 INFO: Antenne Relax: Hurricane -by- Mindy Smith
+2017-02-11T11:09:23+01:00 INFO: Antenne Relax: Kind and Generous -by- Natalie Merchant
+2017-02-11T11:13:23+01:00 INFO: Antenne Relax: Pink Moon -by- Nick Drake
+2017-02-11T11:15:24+01:00 INFO: Antenne Relax: We Were Able -by- Nick Urb
+2017-02-11T11:18:24+01:00 INFO: Antenne Relax: This Year's Love -by- David Gray
+2017-02-11T11:23:24+01:00 INFO: Antenne Relax: These Days -by- Nico
+2017-02-11T11:26:25+01:00 INFO: Antenne Relax: She Is Love -by- Parachute
+2017-02-11T11:29:25+01:00 INFO: Antenne Relax: Everyone’s Got Something -by- Perrin Lamb
+2017-02-11T11:33:25+01:00 INFO: Antenne Relax: The Longer I Run -by- Peter Bradley Adams
+2017-02-11T11:37:27+01:00 INFO: Antenne Relax: Sunrise -by- Norah Jones
+2017-02-11T11:40:27+01:00 INFO: Antenne Relax: Come Home -by- Ryan Adams
+2017-02-11T11:45:28+01:00 INFO: Antenne Relax: Build Me Up From Bones -by- Sarah Jarosz
+2017-02-11T11:48:28+01:00 INFO: Antenne Relax: Blackbird -by- Sarah McLachlan
+2017-02-11T11:51:28+01:00 INFO: Antenne Relax: Seagull -by- Saturday Sun
+2017-02-11T11:55:29+01:00 INFO: Antenne Relax: Call You Home -by- Kelvin Jones
+2017-02-11T11:57:29+01:00 INFO: Antenne Relax: Oceans -by- Seafret
+2017-02-11T12:00:30+01:00 INFO: Antenne Relax: Barfly -by- Ray LaMontagne
+2017-02-11T12:04:31+01:00 INFO: Antenne Relax: I Know It's Pathetic But That Was the Greatest Night of My Life -by- Sun Kil Moon
+2017-02-11T12:06:31+01:00 INFO: Antenne Relax: I Do -by- Susie Suh
+2017-02-11T12:09:32+01:00 INFO: Antenne Relax: I Shall Cross This River -by- The Black Atlantic
+2017-02-11T12:12:32+01:00 INFO: Antenne Relax: To Whom It May Concern -by- The Civil Wars
+2017-02-11T12:16:33+01:00 INFO: Antenne Relax: To Ohio -by- The Low Anthem
+2017-02-11T12:20:35+01:00 INFO: Antenne Relax: Whisper In Her Ear -by- The Milk Carton Kids
+2017-02-11T12:23:35+01:00 INFO: Antenne Relax: Paint -by- The Paper Kites
+2017-02-11T12:27:36+01:00 INFO: Antenne Relax: Pills -by- The Perishers
+2017-02-11T12:31:38+01:00 INFO: Antenne Relax: New Slang -by- The Shins
+2017-02-11T12:33:38+01:00 INFO: Antenne Relax: Crooked Smile -by- The Weepies
+2017-02-11T12:36:38+01:00 INFO: Antenne Relax: Sleepy Little Town -by- The White Buffalo
+2017-02-11T12:38:39+01:00 INFO: Antenne Relax: Real Love -by- Tom Odell
+2017-02-11T12:40:39+01:00 INFO: Antenne Relax: Wildflowers -by- Tom Petty
+2017-02-11T12:43:39+01:00 INFO: Antenne Relax: Me & God -by- Trent Dabbs
+2017-02-11T12:47:42+01:00 INFO: Antenne Relax: Song for the Rich -by- Tristan Prettyman
+2017-02-11T12:50:43+01:00 INFO: Antenne Relax: I Believe In You -by- Tyler Hilton
+2017-02-11T12:54:44+01:00 INFO: Antenne Relax: Crazy Love -by- Van Morrison
+2017-02-11T12:57:44+01:00 INFO: Antenne Relax: Nothing Arrived -by- Villagers
+2017-02-11T13:01:45+01:00 INFO: Antenne Relax: Beautiful Girl -by- William Fitzsimmons
+2017-02-11T13:03:45+01:00 INFO: Antenne Relax: WILDEST MOMENTS -by- JESSY WARE
+2017-02-11T13:07:46+01:00 INFO: Antenne Relax: STAY -by- LISA LOEB
+2017-02-11T13:10:47+01:00 INFO: Antenne Relax: Brother Sparrow -by- Agnes Obel
+2017-02-11T13:14:47+01:00 INFO: Antenne Relax: It's Hard to Get Around the Wind -by- Alex Turner
+2017-02-11T13:18:48+01:00 INFO: Antenne Relax: All My Days -by- Alexi Murdoch
+2017-02-11T13:23:49+01:00 INFO: Antenne Relax: Let It Go -by- James Bay
+2017-02-11T13:27:50+01:00 INFO: Antenne Relax: Big Jet Plane -by- Angus & Julia Stone
+2017-02-11T13:31:51+01:00 INFO: Antenne Relax: No One's Gonna Love You -by- Band of Horses
+2017-02-11T13:35:52+01:00 INFO: Antenne Relax: Sophie -by- Bear's Den
+2017-02-11T13:40:52+01:00 INFO: Antenne Relax: To Be Alone With You -by- Sufjan Stevens
+2017-02-11T13:42:52+01:00 INFO: Antenne Relax: Shine -by- Benjamin Francis Leftwich
+2017-02-11T13:46:53+01:00 INFO: Antenne Relax: Return to Darden Road -by- Beta Radio
+2017-02-11T13:49:53+01:00 INFO: Antenne Relax: Lady On the Water -by- Blitzen Trapper
+2017-02-11T13:52:54+01:00 INFO: Antenne Relax: Fireside -by- Brett Bixby
+2017-02-11T13:55:55+01:00 INFO: Antenne Relax: First Day of My Life -by- Bright Eyes
+2017-02-11T13:58:55+01:00 INFO: Antenne Relax: Emmeline -by- Bruno Merz
+2017-02-11T14:02:56+01:00 INFO: Antenne Relax: Jolene -by- Ray LaMontagne
+2017-02-11T14:06:56+01:00 INFO: Antenne Relax: Make You Feel My Love -by- Adele
+2017-02-11T14:10:57+01:00 INFO: Antenne Relax: Wasn't Expecting That -by- Jamie Lawson
+2017-02-11T14:13:57+01:00 INFO: Antenne Relax: Come Away With Me -by- Norah Jones
+2017-02-11T14:16:59+01:00 INFO: Antenne Relax: Her Mercy -by- Glen Hansard
+2017-02-11T14:22:00+01:00 INFO: Antenne Relax: World Spins Madly On -by- The Weepies
+2017-02-11T14:25:01+01:00 INFO: Antenne Relax: 7 Years -by- Lukas Graham
+2017-02-11T14:28:01+01:00 INFO: Antenne Relax: Too Late -by- Fink
+2017-02-11T14:32:02+01:00 INFO: Antenne Relax: My Favourite Faded Fantasy -by- Damien Rice
+2017-02-11T14:38:35+01:00 INFO: Antenne Relax: Cherry Wine -by- Hozier
+2017-02-11T14:42:36+01:00 INFO: Antenne Relax: Boys In the Street -by- Greg Holden
+2017-02-11T14:46:37+01:00 INFO: Antenne Relax: I Don't Feel It Anymore (George Raquet Remix) [feat. Brooke Fraser] -by- William Fitzsimmons
+2017-02-11T14:49:37+01:00 INFO: Antenne Relax: Barcelona -by- George Ezra
+2017-02-11T14:52:37+01:00 INFO: Antenne Relax: Give Me Something -by- Seafret
+2017-02-11T14:55:38+01:00 INFO: Antenne Relax: Riverside -by- Agnes Obel
+2017-02-11T14:58:38+01:00 INFO: Antenne Relax: THE STORM -by- THE AIRBONE TOXIC
+2017-02-11T15:03:39+01:00 INFO: Antenne Relax: Youth -by- Daughter
+2017-02-11T15:07:40+01:00 INFO: Antenne Relax: Orange Sky -by- Alexi Murdoch
+2017-02-11T15:13:41+01:00 INFO: Antenne Relax: If You Ever Want To Be In Love -by- James Bay
+2017-02-11T15:16:42+01:00 INFO: Antenne Relax: Just a Boy -by- Angus & Julia Stone
+2017-02-11T15:21:44+01:00 INFO: Antenne Relax: Falling -by- RHODES
+2017-02-11T15:24:45+01:00 INFO: Antenne Relax: Skinny Love -by- Bon Iver
+2017-02-11T15:28:46+01:00 INFO: Antenne Relax: Hometown -by- Andy Burrows
+2017-02-11T15:32:47+01:00 INFO: Antenne Relax: Mykonos -by- Fleet Foxes
+2017-02-11T15:36:48+01:00 INFO: Antenne Relax: and Die -by- The Avett Brothers
+2017-02-11T15:41:49+01:00 INFO: Antenne Relax: Tired -by- Little Hours
+2017-02-11T15:44:50+01:00 INFO: Antenne Relax: I'd Rather Be With You (Radio Edit) -by- Joshua Radin
+2017-02-11T15:47:50+01:00 INFO: Antenne Relax: Paper Doll -by- John Mayer
+2017-02-11T15:51:51+01:00 INFO: Antenne Relax: Incarnation Song -by- Chris and Thomas

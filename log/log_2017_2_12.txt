@@ -1,0 +1,27 @@
+2017-02-12T20:12:17+01:00 INFO: Stop Analyzing Radio stations
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen Charts
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Oldies
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen Feel Good2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen 80er
+
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Rock2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Schlager2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen Deutsch
+
+
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen Love2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen 90er
+
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Relax
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen On Air
+2017-02-12T20:12:17+01:00 INFO: Error Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen. (os error 10053), FAILED scraping from Antenne Niedersachsen X-Mas
+2017-02-12T20:12:20+01:00 INFO: Start Analyzing Radio stations
+2017-02-12T20:14:30+01:00 INFO: Stop Analyzing Radio stations

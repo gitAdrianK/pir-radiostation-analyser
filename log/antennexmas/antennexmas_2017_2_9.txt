@@ -1,0 +1,342 @@
+2017-02-09T00:08:48+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T00:20:50+01:00 INFO: Antenne Niedersachsen X-Mas: Thank God It's Christmas -by- Queen
+2017-02-09T00:27:53+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T00:32:54+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T00:37:55+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas, Happy Holidays -by- *NSYNC
+2017-02-09T00:44:56+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Xmas Everybody -by- Slade
+2017-02-09T00:51:58+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T00:57:59+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T00:59:59+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Bing Crosby
+2017-02-09T01:02:59+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T01:05:00+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T01:07:00+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Kylie Minogue
+2017-02-09T01:10:00+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T01:15:01+01:00 INFO: Antenne Niedersachsen X-Mas: LEZ IT SNOW  LET IT SNOW  LET IT SNOW -by- STEVE WARINER
+2017-02-09T01:22:02+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T01:25:02+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty The Snowman -by- Porter Wagoner
+2017-02-09T01:27:03+01:00 INFO: Antenne Niedersachsen X-Mas: Rockin' Around the Christmas Tree -by- Amy Grant
+2017-02-09T01:33:04+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T01:36:04+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME ALL OVER THE WORLD -by- THE RAT PACK
+2017-02-09T01:39:05+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! (feat. Dave Koz) -by- Rod Stewart
+2017-02-09T01:45:06+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T01:50:07+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T01:54:07+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! -by- Dean Martin
+2017-02-09T01:56:08+01:00 INFO: Antenne Niedersachsen X-Mas: THE CHRISTMAS SONG -by- COLBIE CAILLAT & JUSTIN YOUNG
+2017-02-09T02:02:08+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T02:06:09+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- DAVID BOWIE & BING CROSBY
+2017-02-09T02:08:09+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears
+2017-02-09T02:13:10+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Natalie Cole
+2017-02-09T02:15:10+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T02:21:11+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Amy Grant
+2017-02-09T02:24:12+01:00 INFO: Antenne Niedersachsen X-Mas: JINGLE BELL ROCK -by- HALL & OATES
+2017-02-09T02:26:12+01:00 INFO: Antenne Niedersachsen X-Mas: Feliz Navidad -by- José Feliciano
+2017-02-09T02:31:13+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Colbie Caillat
+2017-02-09T02:34:13+01:00 INFO: Antenne Niedersachsen X-Mas: Rudolph the Red-Nosed Reindeer -by- Dean Martin
+2017-02-09T02:43:16+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- Eurythmics
+2017-02-09T02:46:17+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- CYNDI LAUPER & FRANK SINATRA
+2017-02-09T02:49:17+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning To Look a Lot Like Christmas -by- Michael Bublé
+2017-02-09T02:55:18+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Amy Grant
+2017-02-09T03:00:18+01:00 INFO: Antenne Niedersachsen X-Mas: HAPPY CHRISTMAS (WAR IS OVER) -by- JOHN LENNON & YOKO ONO
+2017-02-09T03:03:18+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning to Look Like Christmas -by- Johnny Mathis
+2017-02-09T03:06:19+01:00 INFO: Antenne Niedersachsen X-Mas: Hey Santa! -by- Carnie Wilson & Wendy Wilson
+2017-02-09T03:09:19+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- BING CROSBY & ANDREW SISTERS
+2017-02-09T03:12:20+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? -by- Band Aid
+2017-02-09T03:19:20+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME -by- Bryan Adams
+2017-02-09T03:22:21+01:00 INFO: Antenne Niedersachsen X-Mas: THE BELLS OF CHRISTMAS (GREEN SLEEVES) -by- FRANK SINATRA & TINA SINATRA &
+2017-02-09T03:27:21+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Michael Bublé
+2017-02-09T03:29:22+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow, Let It Snow, Let It Snow -by- Harry Connick, Jr.
+2017-02-09T03:32:22+01:00 INFO: Antenne Niedersachsen X-Mas: Driving Home for Christmas 2009) -by- Chris Rea
+2017-02-09T03:35:22+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Nat \"King\" Cole
+2017-02-09T03:37:23+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Christmastime -by- Paul McCartney
+2017-02-09T03:41:23+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW  LET IT SNOW  LET IT SNOW -by- Diana Ross
+2017-02-09T03:43:23+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Mariah Carey
+2017-02-09T03:47:24+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- DEBBIE GIBSON
+2017-02-09T03:51:24+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Dream (Holidays Are Coming) -by- Melanie Thornton
+2017-02-09T03:57:25+01:00 INFO: Antenne Niedersachsen X-Mas: Last Christmas -by- Wham!
+2017-02-09T04:01:25+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas Everyone -by- Shakin' Stevens
+2017-02-09T04:08:26+01:00 INFO: Antenne Niedersachsen X-Mas: It´s December (And I´ll Be Missing You) [Radio Version] -by- Audrey Hannah
+2017-02-09T04:12:27+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Neil Diamond
+2017-02-09T04:14:27+01:00 INFO: Antenne Niedersachsen X-Mas: PLEASE COME HOME FOR CHRISTMAS -by- JON BON JOVI
+2017-02-09T04:17:27+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Johnny Mathis
+2017-02-09T04:27:28+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T04:38:30+01:00 INFO: Antenne Niedersachsen X-Mas: Jingle Bells (feat. The Puppini Sisters) -by- Michael Bublé
+2017-02-09T04:43:31+01:00 INFO: Antenne Niedersachsen X-Mas: Thank God It's Christmas -by- Queen
+2017-02-09T04:50:32+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T04:56:33+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T05:01:33+01:00 INFO: Antenne Niedersachsen X-Mas: Rockin' Around the Christmas Tree -by- Amy Grant
+2017-02-09T05:05:34+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T05:10:34+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas In My Heart -by- Sarah Connor
+2017-02-09T05:18:35+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T05:24:36+01:00 INFO: Antenne Niedersachsen X-Mas: Silver Bells -by- Stevie Wonder
+2017-02-09T05:26:37+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Bing Crosby
+2017-02-09T05:29:37+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA BABY -by- Madonna
+2017-02-09T05:32:38+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty the Snowman -by- The Beach Boys
+2017-02-09T05:33:38+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T05:36:38+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T05:41:39+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T05:45:39+01:00 INFO: Antenne Niedersachsen X-Mas: LEZ IT SNOW  LET IT SNOW  LET IT SNOW -by- STEVE WARINER
+2017-02-09T05:49:39+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T05:52:40+01:00 INFO: Antenne Niedersachsen X-Mas: Deck the Halls -by- Nat \"King\" Cole
+2017-02-09T05:53:40+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T05:59:40+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T06:00:41+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T06:03:41+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty The Snowman -by- Porter Wagoner
+2017-02-09T06:05:41+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T06:10:42+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME ALL OVER THE WORLD -by- THE RAT PACK
+2017-02-09T06:12:42+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS (BABY PLEASE COME HOME -by- U2
+2017-02-09T06:17:43+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T06:23:44+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears
+2017-02-09T06:27:44+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- CYNDI LAUPER & FRANK SINATRA
+2017-02-09T06:30:44+01:00 INFO: Antenne Niedersachsen X-Mas: THE CHRISTMAS SONG -by- COLBIE CAILLAT & JUSTIN YOUNG
+2017-02-09T06:33:44+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! -by- Dean Martin
+2017-02-09T06:35:45+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! (feat. Dave Koz) -by- Rod Stewart
+2017-02-09T06:38:45+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- DAVID BOWIE & BING CROSBY
+2017-02-09T06:41:45+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning To Look a Lot Like Christmas -by- Michael Bublé
+2017-02-09T06:44:46+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Natalie Cole
+2017-02-09T06:47:46+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Amy Grant
+2017-02-09T06:53:47+01:00 INFO: Antenne Niedersachsen X-Mas: Feliz Navidad -by- José Feliciano
+2017-02-09T06:56:47+01:00 INFO: Antenne Niedersachsen X-Mas: JINGLE BELL ROCK -by- HALL & OATES
+2017-02-09T07:01:47+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- Eurythmics
+2017-02-09T07:06:48+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Whitney Houston
+2017-02-09T07:10:48+01:00 INFO: Antenne Niedersachsen X-Mas: Rudolph the Red-Nosed Reindeer -by- Dean Martin
+2017-02-09T07:12:48+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' To Town -by- Mariah Carey
+2017-02-09T07:18:49+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Michael Bublé
+2017-02-09T07:24:50+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Amy Grant
+2017-02-09T07:27:50+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- BING CROSBY & ANDREW SISTERS
+2017-02-09T07:29:50+01:00 INFO: Antenne Niedersachsen X-Mas: HAPPY CHRISTMAS (WAR IS OVER) -by- JOHN LENNON & YOKO ONO
+2017-02-09T07:35:51+01:00 INFO: Antenne Niedersachsen X-Mas: Hey Santa! -by- Carnie Wilson & Wendy Wilson
+2017-02-09T07:39:51+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- BOB SEGER & THE SILVER BULLET B
+2017-02-09T07:42:52+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? -by- Band Aid
+2017-02-09T07:49:53+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME -by- Bryan Adams
+2017-02-09T07:52:53+01:00 INFO: Antenne Niedersachsen X-Mas: THE BELLS OF CHRISTMAS (GREEN SLEEVES) -by- FRANK SINATRA & TINA SINATRA &
+2017-02-09T07:56:53+01:00 INFO: Antenne Niedersachsen X-Mas: Holly Jolly Christmas -by- Michael Bublé
+2017-02-09T07:58:53+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning to Look Like Christmas -by- Johnny Mathis
+2017-02-09T08:01:54+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Mariah Carey
+2017-02-09T08:04:54+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Nat \"King\" Cole
+2017-02-09T08:06:54+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Dream (Holidays Are Coming) -by- Melanie Thornton
+2017-02-09T08:10:55+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW  LET IT SNOW  LET IT SNOW -by- Diana Ross
+2017-02-09T08:13:55+01:00 INFO: Antenne Niedersachsen X-Mas: Last Christmas -by- Wham!
+2017-02-09T08:17:55+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- DEBBIE GIBSON
+2017-02-09T08:20:56+01:00 INFO: Antenne Niedersachsen X-Mas: ROCKIN' AROUND THE CHRISTMAS TREE -by- MEL SMITH & KIM WILDE
+2017-02-09T08:26:56+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas Everyone -by- Shakin' Stevens
+2017-02-09T08:30:57+01:00 INFO: Antenne Niedersachsen X-Mas: White Christmas -by- Frank Sinatra
+2017-02-09T08:33:57+01:00 INFO: Antenne Niedersachsen X-Mas: Jingle Bells (feat. The Puppini Sisters) -by- Michael Bublé
+2017-02-09T08:36:58+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- The Commodores
+2017-02-09T08:38:58+01:00 INFO: Antenne Niedersachsen X-Mas: It´s December (And I´ll Be Missing You) [Radio Version] -by- Audrey Hannah
+2017-02-09T08:45:59+01:00 INFO: Antenne Niedersachsen X-Mas: PLEASE COME HOME FOR CHRISTMAS -by- JON BON JOVI
+2017-02-09T08:48:59+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Johnny Mathis
+2017-02-09T08:56:00+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Neil Diamond
+2017-02-09T08:59:00+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T09:03:02+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T09:08:02+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T09:13:03+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas, Happy Holidays -by- *NSYNC
+2017-02-09T09:19:03+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Xmas Everybody -by- Slade
+2017-02-09T09:27:04+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T09:33:05+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T09:38:05+01:00 INFO: Antenne Niedersachsen X-Mas: Silver Bells -by- Stevie Wonder
+2017-02-09T09:42:06+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas In My Heart -by- Sarah Connor
+2017-02-09T09:49:07+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T09:55:07+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Kylie Minogue
+2017-02-09T10:04:11+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty the Snowman -by- The Beach Boys
+2017-02-09T10:06:11+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T10:08:12+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T10:11:12+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T10:13:12+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T10:16:13+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T10:19:13+01:00 INFO: Antenne Niedersachsen X-Mas: LEZ IT SNOW  LET IT SNOW  LET IT SNOW -by- STEVE WARINER
+2017-02-09T10:22:14+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T10:27:17+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T10:34:22+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS (BABY PLEASE COME HOME -by- U2
+2017-02-09T10:36:22+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty The Snowman -by- Porter Wagoner
+2017-02-09T10:38:22+01:00 INFO: Antenne Niedersachsen X-Mas: THE CHRISTMAS SONG -by- COLBIE CAILLAT & JUSTIN YOUNG
+2017-02-09T10:42:23+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME ALL OVER THE WORLD -by- THE RAT PACK
+2017-02-09T10:44:23+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! (feat. Dave Koz) -by- Rod Stewart
+2017-02-09T10:50:24+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T10:56:24+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears
+2017-02-09T11:00:25+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- CYNDI LAUPER & FRANK SINATRA
+2017-02-09T11:02:25+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Amy Grant
+2017-02-09T11:06:26+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! -by- Dean Martin
+2017-02-09T11:07:26+01:00 INFO: Antenne Niedersachsen X-Mas: Feliz Navidad -by- José Feliciano
+2017-02-09T11:10:27+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- DAVID BOWIE & BING CROSBY
+2017-02-09T11:19:28+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Colbie Caillat
+2017-02-09T11:25:29+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- Eurythmics
+2017-02-09T11:29:29+01:00 INFO: Antenne Niedersachsen X-Mas: JINGLE BELL ROCK -by- HALL & OATES
+2017-02-09T11:31:30+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Whitney Houston
+2017-02-09T11:37:35+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Michael Bublé
+2017-02-09T11:39:35+01:00 INFO: Antenne Niedersachsen X-Mas: Rudolph the Red-Nosed Reindeer -by- Dean Martin
+2017-02-09T11:42:36+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' To Town -by- Mariah Carey
+2017-02-09T11:46:36+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Amy Grant
+2017-02-09T11:52:37+01:00 INFO: Antenne Niedersachsen X-Mas: HAPPY CHRISTMAS (WAR IS OVER) -by- JOHN LENNON & YOKO ONO
+2017-02-09T11:58:38+01:00 INFO: Antenne Niedersachsen X-Mas: Hey Santa! -by- Carnie Wilson & Wendy Wilson
+2017-02-09T12:00:39+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME -by- Bryan Adams
+2017-02-09T12:06:39+01:00 INFO: Antenne Niedersachsen X-Mas: Holly Jolly Christmas -by- Michael Bublé
+2017-02-09T12:08:39+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- BOB SEGER & THE SILVER BULLET B
+2017-02-09T12:12:40+01:00 INFO: Antenne Niedersachsen X-Mas: Driving Home for Christmas 2009) -by- Chris Rea
+2017-02-09T12:18:41+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Christmastime -by- Paul McCartney
+2017-02-09T12:22:43+01:00 INFO: Antenne Niedersachsen X-Mas: THE BELLS OF CHRISTMAS (GREEN SLEEVES) -by- FRANK SINATRA & TINA SINATRA &
+2017-02-09T12:26:44+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Mariah Carey
+2017-02-09T12:29:44+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning to Look Like Christmas -by- Johnny Mathis
+2017-02-09T12:32:44+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Dream (Holidays Are Coming) -by- Melanie Thornton
+2017-02-09T12:36:44+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow, Let It Snow, Let It Snow -by- Harry Connick, Jr.
+2017-02-09T12:38:45+01:00 INFO: Antenne Niedersachsen X-Mas: Jingle Bells (feat. The Puppini Sisters) -by- Michael Bublé
+2017-02-09T12:41:45+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Nat \"King\" Cole
+2017-02-09T12:43:45+01:00 INFO: Antenne Niedersachsen X-Mas: Last Christmas -by- Wham!
+2017-02-09T12:47:46+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- DEBBIE GIBSON
+2017-02-09T12:50:46+01:00 INFO: Antenne Niedersachsen X-Mas: ROCKIN' AROUND THE CHRISTMAS TREE -by- MEL SMITH & KIM WILDE
+2017-02-09T12:54:46+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW  LET IT SNOW  LET IT SNOW -by- Diana Ross
+2017-02-09T12:56:47+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas Everyone -by- Shakin' Stevens
+2017-02-09T13:08:48+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T13:12:48+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Neil Diamond
+2017-02-09T13:20:49+01:00 INFO: Antenne Niedersachsen X-Mas: Thank God It's Christmas -by- Queen
+2017-02-09T13:24:49+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Johnny Mathis
+2017-02-09T13:27:50+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T13:31:50+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T13:36:51+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas, Happy Holidays -by- *NSYNC
+2017-02-09T13:42:52+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Xmas Everybody -by- Slade
+2017-02-09T13:49:52+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T13:53:53+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T14:00:53+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T14:04:55+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA BABY -by- Madonna
+2017-02-09T14:21:57+01:00 INFO: Antenne Niedersachsen X-Mas: Rockin' Around the Christmas Tree -by- Amy Grant
+2017-02-09T14:27:58+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T14:29:58+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Bing Crosby
+2017-02-09T14:32:59+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T14:37:03+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty the Snowman -by- The Beach Boys
+2017-02-09T14:39:03+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T14:41:03+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T14:44:04+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T14:47:04+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T14:49:04+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS (BABY PLEASE COME HOME -by- U2
+2017-02-09T14:52:05+01:00 INFO: Antenne Niedersachsen X-Mas: LEZ IT SNOW  LET IT SNOW  LET IT SNOW -by- STEVE WARINER
+2017-02-09T14:54:05+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T15:01:06+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T15:05:06+01:00 INFO: Antenne Niedersachsen X-Mas: Deck the Halls -by- Nat \"King\" Cole
+2017-02-09T15:06:06+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears
+2017-02-09T15:10:07+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty The Snowman -by- Porter Wagoner
+2017-02-09T15:12:07+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! (feat. Dave Koz) -by- Rod Stewart
+2017-02-09T15:15:07+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME ALL OVER THE WORLD -by- THE RAT PACK
+2017-02-09T15:18:07+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning To Look a Lot Like Christmas -by- Michael Bublé
+2017-02-09T15:25:08+01:00 INFO: Antenne Niedersachsen X-Mas: Feliz Navidad -by- José Feliciano
+2017-02-09T15:32:09+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- CYNDI LAUPER & FRANK SINATRA
+2017-02-09T15:35:09+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Amy Grant
+2017-02-09T15:38:10+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! -by- Dean Martin
+2017-02-09T15:40:10+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- Eurythmics
+2017-02-09T15:43:10+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- DAVID BOWIE & BING CROSBY
+2017-02-09T15:46:11+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Colbie Caillat
+2017-02-09T15:49:11+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Natalie Cole
+2017-02-09T15:52:12+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Michael Bublé
+2017-02-09T15:58:13+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Whitney Houston
+2017-02-09T16:02:14+01:00 INFO: Antenne Niedersachsen X-Mas: HAPPY CHRISTMAS (WAR IS OVER) -by- JOHN LENNON & YOKO ONO
+2017-02-09T16:07:15+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Amy Grant
+2017-02-09T16:09:15+01:00 INFO: Antenne Niedersachsen X-Mas: Rudolph the Red-Nosed Reindeer -by- Dean Martin
+2017-02-09T16:12:16+01:00 INFO: Antenne Niedersachsen X-Mas: Hey Santa! -by- Carnie Wilson & Wendy Wilson
+2017-02-09T16:18:17+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? -by- Band Aid
+2017-02-09T16:25:17+01:00 INFO: Antenne Niedersachsen X-Mas: Holly Jolly Christmas -by- Michael Bublé
+2017-02-09T16:30:18+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME -by- Bryan Adams
+2017-02-09T16:34:18+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- BING CROSBY & ANDREW SISTERS
+2017-02-09T16:37:18+01:00 INFO: Antenne Niedersachsen X-Mas: Driving Home for Christmas 2009) -by- Chris Rea
+2017-02-09T16:43:19+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Christmastime -by- Paul McCartney
+2017-02-09T16:47:19+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- BOB SEGER & THE SILVER BULLET B
+2017-02-09T16:50:20+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Mariah Carey
+2017-02-09T16:57:20+01:00 INFO: Antenne Niedersachsen X-Mas: Jingle Bells (feat. The Puppini Sisters) -by- Michael Bublé
+2017-02-09T17:00:21+01:00 INFO: Antenne Niedersachsen X-Mas: THE BELLS OF CHRISTMAS (GREEN SLEEVES) -by- FRANK SINATRA & TINA SINATRA &
+2017-02-09T17:03:21+01:00 INFO: Antenne Niedersachsen X-Mas: ROCKIN' AROUND THE CHRISTMAS TREE -by- MEL SMITH & KIM WILDE
+2017-02-09T17:07:22+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow, Let It Snow, Let It Snow -by- Harry Connick, Jr.
+2017-02-09T17:09:22+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas Everyone -by- Shakin' Stevens
+2017-02-09T17:13:22+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Nat \"King\" Cole
+2017-02-09T17:15:22+01:00 INFO: Antenne Niedersachsen X-Mas: It´s December (And I´ll Be Missing You) [Radio Version] -by- Audrey Hannah
+2017-02-09T17:18:23+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- DEBBIE GIBSON
+2017-02-09T17:22:23+01:00 INFO: Antenne Niedersachsen X-Mas: PLEASE COME HOME FOR CHRISTMAS -by- JON BON JOVI
+2017-02-09T17:25:24+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW  LET IT SNOW  LET IT SNOW -by- Diana Ross
+2017-02-09T17:33:25+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- The Commodores
+2017-02-09T17:35:25+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T17:39:25+01:00 INFO: Antenne Niedersachsen X-Mas: White Christmas -by- Frank Sinatra
+2017-02-09T17:44:27+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Neil Diamond
+2017-02-09T17:47:27+01:00 INFO: Antenne Niedersachsen X-Mas: Thank God It's Christmas -by- Queen
+2017-02-09T17:54:29+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T17:59:29+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T18:00:29+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T18:06:32+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T18:10:33+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas In My Heart -by- Sarah Connor
+2017-02-09T18:16:35+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T18:22:37+01:00 INFO: Antenne Niedersachsen X-Mas: Silver Bells -by- Stevie Wonder
+2017-02-09T18:27:38+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Kylie Minogue
+2017-02-09T18:32:41+01:00 INFO: Antenne Niedersachsen X-Mas: Rockin' Around the Christmas Tree -by- Amy Grant
+2017-02-09T18:47:45+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T18:55:46+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T19:01:46+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T19:04:47+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Bing Crosby
+2017-02-09T19:07:47+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T19:11:47+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty the Snowman -by- The Beach Boys
+2017-02-09T19:13:48+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS (BABY PLEASE COME HOME -by- U2
+2017-02-09T19:16:48+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T19:18:48+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T19:21:49+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T19:24:49+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears
+2017-02-09T19:28:49+01:00 INFO: Antenne Niedersachsen X-Mas: LEZ IT SNOW  LET IT SNOW  LET IT SNOW -by- STEVE WARINER
+2017-02-09T19:31:50+01:00 INFO: Antenne Niedersachsen X-Mas: THE CHRISTMAS SONG -by- COLBIE CAILLAT & JUSTIN YOUNG
+2017-02-09T19:37:50+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T19:39:51+01:00 INFO: Antenne Niedersachsen X-Mas: Deck the Halls -by- Nat \"King\" Cole
+2017-02-09T19:41:51+01:00 INFO: Antenne Niedersachsen X-Mas: Feliz Navidad -by- José Feliciano
+2017-02-09T19:43:52+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty The Snowman -by- Porter Wagoner
+2017-02-09T19:46:53+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Amy Grant
+2017-02-09T19:49:53+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME ALL OVER THE WORLD -by- THE RAT PACK
+2017-02-09T19:56:54+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' To Town -by- Mariah Carey
+2017-02-09T20:02:54+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Whitney Houston
+2017-02-09T20:05:55+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! -by- Dean Martin
+2017-02-09T20:07:55+01:00 INFO: Antenne Niedersachsen X-Mas: HAPPY CHRISTMAS (WAR IS OVER) -by- JOHN LENNON & YOKO ONO
+2017-02-09T20:13:55+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Colbie Caillat
+2017-02-09T20:16:56+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- DAVID BOWIE & BING CROSBY
+2017-02-09T20:19:56+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning To Look a Lot Like Christmas -by- Michael Bublé
+2017-02-09T20:22:56+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Natalie Cole
+2017-02-09T20:25:57+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Amy Grant
+2017-02-09T20:31:57+01:00 INFO: Antenne Niedersachsen X-Mas: Hey Santa! -by- Carnie Wilson & Wendy Wilson
+2017-02-09T20:35:58+01:00 INFO: Antenne Niedersachsen X-Mas: JINGLE BELL ROCK -by- HALL & OATES
+2017-02-09T20:37:58+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? -by- Band Aid
+2017-02-09T20:40:59+01:00 INFO: Antenne Niedersachsen X-Mas: Rudolph the Red-Nosed Reindeer -by- Dean Martin
+2017-02-09T20:43:59+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS TIME -by- Bryan Adams
+2017-02-09T20:48:00+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- CYNDI LAUPER & FRANK SINATRA
+2017-02-09T20:50:01+01:00 INFO: Antenne Niedersachsen X-Mas: Driving Home for Christmas 2009) -by- Chris Rea
+2017-02-09T20:56:02+01:00 INFO: Antenne Niedersachsen X-Mas: All I Want For Christmas Is You -by- Michael Bublé
+2017-02-09T21:02:03+01:00 INFO: Antenne Niedersachsen X-Mas: Wonderful Dream (Holidays Are Coming) -by- Melanie Thornton
+2017-02-09T21:06:03+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA CLAUS IS COMING TO TOWN -by- BING CROSBY & ANDREW SISTERS
+2017-02-09T21:09:03+01:00 INFO: Antenne Niedersachsen X-Mas: Last Christmas -by- Wham!
+2017-02-09T21:16:04+01:00 INFO: Antenne Niedersachsen X-Mas: ROCKIN' AROUND THE CHRISTMAS TREE -by- MEL SMITH & KIM WILDE
+2017-02-09T21:19:05+01:00 INFO: Antenne Niedersachsen X-Mas: LITTLE DRUMMER BOY -by- BOB SEGER & THE SILVER BULLET B
+2017-02-09T21:23:05+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas Everyone -by- Shakin' Stevens
+2017-02-09T21:29:06+01:00 INFO: Antenne Niedersachsen X-Mas: Holly Jolly Christmas -by- Michael Bublé
+2017-02-09T21:31:06+01:00 INFO: Antenne Niedersachsen X-Mas: THE BELLS OF CHRISTMAS (GREEN SLEEVES) -by- FRANK SINATRA & TINA SINATRA &
+2017-02-09T21:35:07+01:00 INFO: Antenne Niedersachsen X-Mas: It´s December (And I´ll Be Missing You) [Radio Version] -by- Audrey Hannah
+2017-02-09T21:39:09+01:00 INFO: Antenne Niedersachsen X-Mas: It's Beginning to Look Like Christmas -by- Johnny Mathis
+2017-02-09T21:41:09+01:00 INFO: Antenne Niedersachsen X-Mas: PLEASE COME HOME FOR CHRISTMAS -by- JON BON JOVI
+2017-02-09T21:44:09+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow, Let It Snow, Let It Snow -by- Harry Connick, Jr.
+2017-02-09T21:51:10+01:00 INFO: Antenne Niedersachsen X-Mas: Caroling, Caroling -by- Nat \"King\" Cole
+2017-02-09T21:53:11+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS ALL OVER AGAIN -by- Tom Petty & The Heartbreakers
+2017-02-09T21:58:12+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW  LET IT SNOW  LET IT SNOW -by- Diana Ross
+2017-02-09T22:00:12+01:00 INFO: Antenne Niedersachsen X-Mas: What Christmas Means To Me -by- Stevie Wonder
+2017-02-09T22:05:13+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas (Baby Please Come Home) -by- Mariah Carey
+2017-02-09T22:10:18+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Christmas, Happy Holidays -by- *NSYNC
+2017-02-09T22:14:18+01:00 INFO: Antenne Niedersachsen X-Mas: SLEIGH RIDE -by- The Commodores
+2017-02-09T22:17:19+01:00 INFO: Antenne Niedersachsen X-Mas: Merry Xmas Everybody -by- Slade
+2017-02-09T22:20:19+01:00 INFO: Antenne Niedersachsen X-Mas: IT'S THE MOST WONDERFUL TIME OF THE YEA -by- Johnny Mathis
+2017-02-09T22:23:20+01:00 INFO: Antenne Niedersachsen X-Mas: Winter Wonderland -by- Amy Grant
+2017-02-09T22:28:21+01:00 INFO: Antenne Niedersachsen X-Mas: WHAT CHRISTMAS MEANS TO ME -by- Paul Young
+2017-02-09T22:30:21+01:00 INFO: Antenne Niedersachsen X-Mas: Sleigh Ride -by- Neil Diamond
+2017-02-09T22:33:22+01:00 INFO: Antenne Niedersachsen X-Mas: Silver Bells -by- Stevie Wonder
+2017-02-09T22:37:24+01:00 INFO: Antenne Niedersachsen X-Mas: Christmas In My Heart -by- Sarah Connor
+2017-02-09T22:43:25+01:00 INFO: Antenne Niedersachsen X-Mas: LET IT SNOW! -by- Michael Bublé
+2017-02-09T22:49:26+01:00 INFO: Antenne Niedersachsen X-Mas: SANTA BABY -by- Madonna
+2017-02-09T23:05:29+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Baby -by- Colbie Caillat
+2017-02-09T23:11:30+01:00 INFO: Antenne Niedersachsen X-Mas: Let It Snow! Let It Snow! Let It Snow! (feat. Dave Koz) -by- Rod Stewart
+2017-02-09T23:16:30+01:00 INFO: Antenne Niedersachsen X-Mas: The Best Side of Life -by- Sarah Connor
+2017-02-09T23:22:31+01:00 INFO: Antenne Niedersachsen X-Mas: We Are the World -by- U.S.A. for Africa
+2017-02-09T23:29:46+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Comin' to Town -by- Bruce Springsteen
+2017-02-09T23:36:48+01:00 INFO: Antenne Niedersachsen X-Mas: CHRISTMAS (BABY PLEASE COME HOME -by- U2
+2017-02-09T23:39:51+01:00 INFO: Antenne Niedersachsen X-Mas: Do You Hear What I Hear? -by- Bing Crosby
+2017-02-09T23:41:52+01:00 INFO: Antenne Niedersachsen X-Mas: THE CHRISTMAS SONG -by- COLBIE CAILLAT & JUSTIN YOUNG
+2017-02-09T23:45:53+01:00 INFO: Antenne Niedersachsen X-Mas: Frosty the Snowman -by- The Beach Boys
+2017-02-09T23:47:53+01:00 INFO: Antenne Niedersachsen X-Mas: WINTER WONDERLAND -by- ROD STEWART WITH MICHAEL BUBLE
+2017-02-09T23:49:53+01:00 INFO: Antenne Niedersachsen X-Mas: Santa Claus Is Coming to Town -by- Jackson 5
+2017-02-09T23:52:54+01:00 INFO: Antenne Niedersachsen X-Mas: Do They Know It's Christmas? (2014) -by- Band Aid 30
+2017-02-09T23:55:54+01:00 INFO: Antenne Niedersachsen X-Mas: A Holly Jolly Christmas -by- Burl Ives
+2017-02-09T23:57:54+01:00 INFO: Antenne Niedersachsen X-Mas: MY ONLY WISH (THIS YEAR) -by- Britney Spears

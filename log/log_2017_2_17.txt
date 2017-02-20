@@ -1,0 +1,2 @@
+2017-02-17T08:33:59+01:00 INFO: Start Analyzing Radio stations
+2017-02-17T08:34:14+01:00 INFO: Stop Analyzing Radio stations

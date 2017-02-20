@@ -1,0 +1,385 @@
+2017-02-08T00:00:05+01:00 INFO: Antenne Niedersachsen 90er: I Want You -by- Savage Garden
+2017-02-08T00:04:06+01:00 INFO: Antenne Niedersachsen 90er: Ice Ice Baby -by- Vanilla Ice
+2017-02-08T00:08:06+01:00 INFO: Antenne Niedersachsen 90er: All Star -by- Smash Mouth
+2017-02-08T00:12:07+01:00 INFO: Antenne Niedersachsen 90er: Here Comes the Hotstepper -by- Ini Kamoze
+2017-02-08T00:16:07+01:00 INFO: Antenne Niedersachsen 90er: Cose Della Vita -by- Eros Ramazzotti & Tina Turner
+2017-02-08T00:19:07+01:00 INFO: Antenne Niedersachsen 90er: Rhythm Is a Dancer -by- Snap!
+2017-02-08T00:23:08+01:00 INFO: Antenne Niedersachsen 90er: Don't Look Back In Anger -by- Oasis
+2017-02-08T00:28:09+01:00 INFO: Antenne Niedersachsen 90er: RELIGHT MY FIRE -by- TAKE THAT & LULU
+2017-02-08T00:32:09+01:00 INFO: Antenne Niedersachsen 90er: Song 2 -by- Blur
+2017-02-08T00:34:09+01:00 INFO: Antenne Niedersachsen 90er: FREEDOM '90 (EDIT) -by- George Michael
+2017-02-08T00:38:10+01:00 INFO: Antenne Niedersachsen 90er: Man! I Feel Like a Woman! -by- Shania Twain
+2017-02-08T00:42:11+01:00 INFO: Antenne Niedersachsen 90er: I Got 5 On It -by- Luniz
+2017-02-08T00:46:11+01:00 INFO: Antenne Niedersachsen 90er: Don't Speak -by- No Doubt
+2017-02-08T00:49:11+01:00 INFO: Antenne Niedersachsen 90er: My Destiny -by- Lionel Richie
+2017-02-08T00:53:12+01:00 INFO: Antenne Niedersachsen 90er: Pretty Fly (For a White Guy) -by- The Offspring
+2017-02-08T00:56:12+01:00 INFO: Antenne Niedersachsen 90er: Will You Be There -by- Michael Jackson
+2017-02-08T01:01:13+01:00 INFO: Antenne Niedersachsen 90er: WALKING ON THE MILKY WAY -by- O.M.D.
+2017-02-08T01:05:13+01:00 INFO: Antenne Niedersachsen 90er: LILY WAS HERE -by- DAVE STEWART& CANDY DULFER
+2017-02-08T01:10:14+01:00 INFO: Antenne Niedersachsen 90er: Mambo No. 5 (A Little Bit Of...) -by- Lou Bega
+2017-02-08T01:13:14+01:00 INFO: Antenne Niedersachsen 90er: Mishale -by- Andru Donalds
+2017-02-08T01:17:15+01:00 INFO: Antenne Niedersachsen 90er: Land of Dreaming -by- Masterboy
+2017-02-08T01:21:16+01:00 INFO: Antenne Niedersachsen 90er: Crying In the Rain -by- a-ha
+2017-02-08T01:24:16+01:00 INFO: Antenne Niedersachsen 90er: King of My Castle (Roy Malone Mix) -by- Wamdue Project
+2017-02-08T01:28:17+01:00 INFO: Antenne Niedersachsen 90er: Missing -by- Everything But the Girl
+2017-02-08T01:32:17+01:00 INFO: Antenne Niedersachsen 90er: N'oubliez Jamais -by- Joe Cocker
+2017-02-08T01:36:18+01:00 INFO: Antenne Niedersachsen 90er: Connected -by- Stereo MCs
+2017-02-08T01:41:18+01:00 INFO: Antenne Niedersachsen 90er: Breakfast at Tiffany's -by- Deep Blue Something
+2017-02-08T01:44:19+01:00 INFO: Antenne Niedersachsen 90er: (I Can't Help) Falling In Love With You -by- UB40
+2017-02-08T01:47:19+01:00 INFO: Antenne Niedersachsen 90er: Lonely -by- Nana
+2017-02-08T01:51:19+01:00 INFO: Antenne Niedersachsen 90er: Informer -by- Snow
+2017-02-08T01:55:20+01:00 INFO: Antenne Niedersachsen 90er: Remembering the First Time -by- Simply Red
+2017-02-08T01:59:20+01:00 INFO: Antenne Niedersachsen 90er: you learn -by- Alanis Morissette
+2017-02-08T02:03:20+01:00 INFO: Antenne Niedersachsen 90er: CANDLE IN THE WIND LIVE '97 -by- Elton John
+2017-02-08T02:07:21+01:00 INFO: Antenne Niedersachsen 90er: Kingston Town -by- UB40
+2017-02-08T02:11:22+01:00 INFO: Antenne Niedersachsen 90er: HAPPY PEOPLE -by- Mr. President
+2017-02-08T02:14:22+01:00 INFO: Antenne Niedersachsen 90er: Love Is All Around -by- Wet Wet Wet
+2017-02-08T02:17:22+01:00 INFO: Antenne Niedersachsen 90er: Californication -by- Red Hot Chili Peppers
+2017-02-08T02:21:23+01:00 INFO: Antenne Niedersachsen 90er: KILLER -by- ADAMSKI FEAT. SEAL
+2017-02-08T02:25:23+01:00 INFO: Antenne Niedersachsen 90er: Big Big World -by- Emilia
+2017-02-08T02:28:24+01:00 INFO: Antenne Niedersachsen 90er: I Will Always Love You -by- Whitney Houston
+2017-02-08T02:32:24+01:00 INFO: Antenne Niedersachsen 90er: Open Road -by- Gary Barlow
+2017-02-08T02:36:25+01:00 INFO: Antenne Niedersachsen 90er: When I'm Dead and Gone -by- Fury In the Slaughterhouse
+2017-02-08T02:40:25+01:00 INFO: Antenne Niedersachsen 90er: True Colors ed) -by- Phil Collins
+2017-02-08T02:43:25+01:00 INFO: Antenne Niedersachsen 90er: When I Come Around -by- Green Day
+2017-02-08T02:46:26+01:00 INFO: Antenne Niedersachsen 90er: Blue (Da Ba Dee) -by- Eiffel 65
+2017-02-08T02:49:26+01:00 INFO: Antenne Niedersachsen 90er: I Promised Myself -by- Nick Kamen
+2017-02-08T02:52:26+01:00 INFO: Antenne Niedersachsen 90er: NO WOMAN, NO CRY -by- FUGEES (REFUGEE CAMP)
+2017-02-08T02:56:27+01:00 INFO: Antenne Niedersachsen 90er: Sleeping In My Car -by- Roxette
+2017-02-08T03:00:27+01:00 INFO: Antenne Niedersachsen 90er: Jein -by- Fettes Brot
+2017-02-08T03:03:28+01:00 INFO: Antenne Niedersachsen 90er: Viva Forever -by- Spice Girls
+2017-02-08T03:08:28+01:00 INFO: Antenne Niedersachsen 90er: One -by- U2
+2017-02-08T03:12:29+01:00 INFO: Antenne Niedersachsen 90er: Never Ever -by- All Saints
+2017-02-08T03:16:30+01:00 INFO: Antenne Niedersachsen 90er: I'd Do Anything for Love (But I Won't Do That) -by- Meat Loaf
+2017-02-08T03:19:30+01:00 INFO: Antenne Niedersachsen 90er: Life Is a Flower -by- Ace of Base
+2017-02-08T03:23:31+01:00 INFO: Antenne Niedersachsen 90er: From a Distance -by- Bette Midler
+2017-02-08T03:28:31+01:00 INFO: Antenne Niedersachsen 90er: Maria Maria (feat. The Product G&B) -by- Santana
+2017-02-08T03:32:33+01:00 INFO: Antenne Niedersachsen 90er: Alles nur geklaut -by- Die Prinzen
+2017-02-08T03:35:33+01:00 INFO: Antenne Niedersachsen 90er: Alane -by- Wes
+2017-02-08T03:38:33+01:00 INFO: Antenne Niedersachsen 90er: NOVEMBER RAIN -by- GUNS´N´ROSES
+2017-02-08T03:42:34+01:00 INFO: Antenne Niedersachsen 90er: Sunchyme -by- Dario G
+2017-02-08T03:46:34+01:00 INFO: Antenne Niedersachsen 90er: Cats in the Cradle -by- Ugly Kid Joe
+2017-02-08T03:48:34+01:00 INFO: Antenne Niedersachsen 90er: If You Believe -by- Sasha
+2017-02-08T03:52:35+01:00 INFO: Antenne Niedersachsen 90er: GYPSY WOMAN -by- CRYSTAL WATERS
+2017-02-08T03:56:35+01:00 INFO: Antenne Niedersachsen 90er: Lemon Tree -by- Fool's Garden
+2017-02-08T03:59:35+01:00 INFO: Antenne Niedersachsen 90er: ALL FOR LOVE -by- BRYAN ADAMS & R. STEWART & STING
+2017-02-08T04:04:36+01:00 INFO: Antenne Niedersachsen 90er: I Believe I Can Fly -by- R. Kelly
+2017-02-08T04:09:36+01:00 INFO: Antenne Niedersachsen 90er: Learning to Fly -by- Tom Petty & The Heartbreakers
+2017-02-08T04:13:36+01:00 INFO: Antenne Niedersachsen 90er: What Can I Do? -by- The Corrs
+2017-02-08T04:17:38+01:00 INFO: Antenne Niedersachsen 90er: I'M EASY -by- Faith No More
+2017-02-08T04:20:38+01:00 INFO: Antenne Niedersachsen 90er: Fly Away -by- Lenny Kravitz
+2017-02-08T04:23:38+01:00 INFO: Antenne Niedersachsen 90er: WOULD I LIE TO YOU -by- CHARLES & EDDIE
+2017-02-08T04:28:39+01:00 INFO: Antenne Niedersachsen 90er: Truly Madly Deeply -by- Savage Garden
+2017-02-08T04:32:39+01:00 INFO: Antenne Niedersachsen 90er: Sie ist weg -by- Die Fantastischen Vier
+2017-02-08T04:36:40+01:00 INFO: Antenne Niedersachsen 90er: New York City Boy -by- Pet Shop Boys
+2017-02-08T04:41:40+01:00 INFO: Antenne Niedersachsen 90er: Don't Let the Sun Go Down On Me -by- Joe Cocker
+2017-02-08T04:46:41+01:00 INFO: Antenne Niedersachsen 90er: 2 Times (Original Radio Edit) -by- Ann Lee
+2017-02-08T04:50:41+01:00 INFO: Antenne Niedersachsen 90er: SWEET DREAMS (OLA OLA E) -by- La Bouche
+2017-02-08T04:53:41+01:00 INFO: Antenne Niedersachsen 90er: Too Much Heaven -by- Nana
+2017-02-08T04:57:42+01:00 INFO: Antenne Niedersachsen 90er: ALOAH HEJA HE -by- ACHIM REICHEL
+2017-02-08T05:01:42+01:00 INFO: Antenne Niedersachsen 90er: Closing Time -by- Semisonic
+2017-02-08T05:05:42+01:00 INFO: Antenne Niedersachsen 90er: Nothing Compares 2 U -by- Sinéad O'Connor
+2017-02-08T05:10:43+01:00 INFO: Antenne Niedersachsen 90er: Your Woman -by- White Town
+2017-02-08T05:14:43+01:00 INFO: Antenne Niedersachsen 90er: Another Cup of Coffee -by- Mike + The Mechanics
+2017-02-08T05:18:44+01:00 INFO: Antenne Niedersachsen 90er: Super Trouper -by- A*Teens
+2017-02-08T05:22:44+01:00 INFO: Antenne Niedersachsen 90er: Wicked Game -by- Chris Isaak
+2017-02-08T05:28:45+01:00 INFO: Antenne Niedersachsen 90er: Dance Into the Light -by- Phil Collins
+2017-02-08T05:32:45+01:00 INFO: Antenne Niedersachsen 90er: STAYIN' ALIVE -by- N-TRANCE feat. BEE GEES
+2017-02-08T05:35:46+01:00 INFO: Antenne Niedersachsen 90er: Rescue Me -by- Bell Book & Candle
+2017-02-08T05:39:46+01:00 INFO: Antenne Niedersachsen 90er: You Make Me Feel (Mighty Real) -by- Jimmy Somerville
+2017-02-08T05:43:47+01:00 INFO: Antenne Niedersachsen 90er: Hedonism (Just Because You Feel Good) -by- Skunk Anansie
+2017-02-08T05:46:47+01:00 INFO: Antenne Niedersachsen 90er: Babe -by- Take That
+2017-02-08T05:51:49+01:00 INFO: Antenne Niedersachsen 90er: I Want It That Way -by- Backstreet Boys
+2017-02-08T05:54:49+01:00 INFO: Antenne Niedersachsen 90er: Dangerous -by- Roxette
+2017-02-08T05:58:50+01:00 INFO: Antenne Niedersachsen 90er: A-N-N-A -by- Freundeskreis
+2017-02-08T06:00:50+01:00 INFO: Antenne Niedersachsen 90er: COME WITH ME -by- PUFF DADDY FEAT. JIMMY PAGE
+2017-02-08T06:04:50+01:00 INFO: Antenne Niedersachsen 90er: The One and Only -by- Chesney Hawkes
+2017-02-08T06:07:51+01:00 INFO: Antenne Niedersachsen 90er: I Want You Back -by- *NSYNC
+2017-02-08T06:11:51+01:00 INFO: Antenne Niedersachsen 90er: Self Esteem -by- The Offspring
+2017-02-08T06:15:52+01:00 INFO: Antenne Niedersachsen 90er: Rückenwind -by- Thomas D
+2017-02-08T06:19:52+01:00 INFO: Antenne Niedersachsen 90er: WIND OF CHANGE (EDIT) -by- Scorpions
+2017-02-08T06:22:52+01:00 INFO: Antenne Niedersachsen 90er: C U When U Get There -by- Coolio
+2017-02-08T06:26:53+01:00 INFO: Antenne Niedersachsen 90er: Two Princes -by- Spin Doctors
+2017-02-08T06:29:53+01:00 INFO: Antenne Niedersachsen 90er: How Do I -by- LeAnn Rimes
+2017-02-08T06:33:54+01:00 INFO: Antenne Niedersachsen 90er: Rhythm of My Heart -by- Rod Stewart
+2017-02-08T06:36:54+01:00 INFO: Antenne Niedersachsen 90er: Where Do You Go -by- No Mercy
+2017-02-08T06:40:55+01:00 INFO: Antenne Niedersachsen 90er: 7 SECONDS (EDIT) -by- YOUSSOU N'DOUR & NENEH CHERRY
+2017-02-08T06:43:56+01:00 INFO: Antenne Niedersachsen 90er: To the Moon & Back -by- Savage Garden
+2017-02-08T06:48:57+01:00 INFO: Antenne Niedersachsen 90er: Sweat (A La La La La Long) -by- Inner Circle
+2017-02-08T06:52:58+01:00 INFO: Antenne Niedersachsen 90er: Kaleidoscope Skies (feat. Plavka) -by- Jam & Spoon
+2017-02-08T06:55:58+01:00 INFO: Antenne Niedersachsen 90er: Summer In the City -by- Joe Cocker
+2017-02-08T06:59:58+01:00 INFO: Antenne Niedersachsen 90er: LIFTED (EDIT) -by- Lighthouse Family
+2017-02-08T07:03:00+01:00 INFO: Antenne Niedersachsen 90er: When Susannah Cries -by- Espen Lind
+2017-02-08T07:06:00+01:00 INFO: Antenne Niedersachsen 90er: Everytime We Touch ed) -by- Maggie Reilly
+2017-02-08T07:10:01+01:00 INFO: Antenne Niedersachsen 90er: Born to Make You Happy -by- Britney Spears
+2017-02-08T07:13:01+01:00 INFO: Antenne Niedersachsen 90er: DROP DEAD BEAUTIFUL -by- SIX WAS NINE
+2017-02-08T07:18:02+01:00 INFO: Antenne Niedersachsen 90er: Ghetto Superstar (This Is What You Are) [feat. Ol' Dirty Bastard & Mya] -by- Pras Michael
+2017-02-08T07:22:02+01:00 INFO: Antenne Niedersachsen 90er: Walking In Memphis -by- Marc Cohn
+2017-02-08T07:26:02+01:00 INFO: Antenne Niedersachsen 90er: WHEN YOU'RE GONE -by- BRYAN ADAMS feat. MELANIE C.
+2017-02-08T07:29:03+01:00 INFO: Antenne Niedersachsen 90er: One Night In Heaven -by- M People
+2017-02-08T07:33:03+01:00 INFO: Antenne Niedersachsen 90er: Fastlove, Pt. 1 -by- George Michael
+2017-02-08T07:38:04+01:00 INFO: Antenne Niedersachsen 90er: KNOCKIN' ON HEAVENS DOOR -by- GUNS'N'ROSES
+2017-02-08T07:41:04+01:00 INFO: Antenne Niedersachsen 90er: Everybody (Backstreet's Back) -by- Backstreet Boys
+2017-02-08T07:44:04+01:00 INFO: Antenne Niedersachsen 90er: I Don't Wanna Fight -by- Tina Turner
+2017-02-08T07:49:05+01:00 INFO: Antenne Niedersachsen 90er: Disco 2000 -by- Pulp
+2017-02-08T07:53:05+01:00 INFO: Antenne Niedersachsen 90er: Summer Dreamin' -by- Kate Yanai
+2017-02-08T07:57:06+01:00 INFO: Antenne Niedersachsen 90er: KILLING ME SOFTY -by- Fugees
+2017-02-08T08:01:06+01:00 INFO: Antenne Niedersachsen 90er: I Belong To You -by- Lenny Kravitz
+2017-02-08T08:05:07+01:00 INFO: Antenne Niedersachsen 90er: The Shoop Shoop Song (It's In His Kiss) -by- Cher
+2017-02-08T08:08:07+01:00 INFO: Antenne Niedersachsen 90er: Liebes Lied -by- Absolute Beginner
+2017-02-08T08:12:07+01:00 INFO: Antenne Niedersachsen 90er: Crazy -by- Aerosmith
+2017-02-08T08:15:08+01:00 INFO: Antenne Niedersachsen 90er: We Like to Party! (the Vengabus) (Airplay) -by- Vengaboys
+2017-02-08T08:19:08+01:00 INFO: Antenne Niedersachsen 90er: Everybody Gets a Second Chance -by- Mike + The Mechanics
+2017-02-08T08:23:08+01:00 INFO: Antenne Niedersachsen 90er: This Kiss -by- Faith Hill
+2017-02-08T08:27:09+01:00 INFO: Antenne Niedersachsen 90er: Ordinary World -by- Duran Duran
+2017-02-08T08:30:09+01:00 INFO: Antenne Niedersachsen 90er: MMMBop -by- Hanson
+2017-02-08T08:33:10+01:00 INFO: Antenne Niedersachsen 90er: Spending My Time -by- Roxette
+2017-02-08T08:37:10+01:00 INFO: Antenne Niedersachsen 90er: Kiss Me -by- Sixpence None the Richer
+2017-02-08T08:40:10+01:00 INFO: Antenne Niedersachsen 90er: ES GEHT MIR GUT -by- MARIUS MÜLLER-WESTERNHAGEN
+2017-02-08T08:44:11+01:00 INFO: Antenne Niedersachsen 90er: Rock DJ -by- Robbie Williams
+2017-02-08T08:47:11+01:00 INFO: Antenne Niedersachsen 90er: SENZA UNA DONNA (WITHOUT A WOMAN) -by- ZUCCHERO & PAUL YOUNG
+2017-02-08T08:51:11+01:00 INFO: Antenne Niedersachsen 90er: Push -by- Matchbox Twenty
+2017-02-08T08:55:12+01:00 INFO: Antenne Niedersachsen 90er: Saturday Night -by- Whigfield
+2017-02-08T08:59:12+01:00 INFO: Antenne Niedersachsen 90er: Come To Sin -by- Bananafishbones
+2017-02-08T09:02:13+01:00 INFO: Antenne Niedersachsen 90er: Life -by- Des'ree
+2017-02-08T09:06:13+01:00 INFO: Antenne Niedersachsen 90er: I Can't Dance -by- Genesis
+2017-02-08T09:09:14+01:00 INFO: Antenne Niedersachsen 90er: Désenchantée -by- Kate Ryan
+2017-02-08T09:12:14+01:00 INFO: Antenne Niedersachsen 90er: The Power of Love -by- Céline Dion
+2017-02-08T09:17:15+01:00 INFO: Antenne Niedersachsen 90er: Enjoy the Silence -by- Depeche Mode
+2017-02-08T09:20:15+01:00 INFO: Antenne Niedersachsen 90er: Losing My Religion -by- R.E.M.
+2017-02-08T09:24:15+01:00 INFO: Antenne Niedersachsen 90er: Thank U -by- Alanis Morissette
+2017-02-08T09:26:15+01:00 INFO: Antenne Niedersachsen 90er: Dreamlover -by- Mariah Carey
+2017-02-08T09:30:16+01:00 INFO: Antenne Niedersachsen 90er: Let Me Entertain You -by- Robbie Williams
+2017-02-08T09:33:18+01:00 INFO: Antenne Niedersachsen 90er: Show Me Heaven -by- Maria McKee
+2017-02-08T09:37:18+01:00 INFO: Antenne Niedersachsen 90er: AROUND THE WORLD (LA LA LA LA) -by- ATC
+2017-02-08T09:41:19+01:00 INFO: Antenne Niedersachsen 90er: Runaway Train -by- Soul Asylum
+2017-02-08T09:43:19+01:00 INFO: Antenne Niedersachsen 90er: TIME TO SAY GOODBYE -by- SARAH BRIGHTMAN/ANDREA BOCELLI
+2017-02-08T09:47:19+01:00 INFO: Antenne Niedersachsen 90er: The Days Of Pearly Spencer -by- Marc Almond
+2017-02-08T09:50:20+01:00 INFO: Antenne Niedersachsen 90er: HOW WILL I KNOW (WHO YOU ARE) -by- JESSICA
+2017-02-08T09:54:20+01:00 INFO: Antenne Niedersachsen 90er: If I Ever Lose My Faith in You -by- Sting
+2017-02-08T09:58:20+01:00 INFO: Antenne Niedersachsen 90er: SEX BOMB -by- TOM JONES vs. MOUSSE T.
+2017-02-08T10:02:21+01:00 INFO: Antenne Niedersachsen 90er: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-08T10:05:22+01:00 INFO: Antenne Niedersachsen 90er: The Show Must Go On -by- Queen
+2017-02-08T10:08:23+01:00 INFO: Antenne Niedersachsen 90er: Genie In a Bottle -by- Christina Aguilera
+2017-02-08T10:12:24+01:00 INFO: Antenne Niedersachsen 90er: Beautiful Life -by- Ace of Base
+2017-02-08T10:15:24+01:00 INFO: Antenne Niedersachsen 90er: We Can Leave the World -by- Sasha
+2017-02-08T10:19:25+01:00 INFO: Antenne Niedersachsen 90er: All I Wanna Do Is Make Love to You -by- Heart
+2017-02-08T10:24:25+01:00 INFO: Antenne Niedersachsen 90er: Children -by- Robert Miles
+2017-02-08T10:27:25+01:00 INFO: Antenne Niedersachsen 90er: '74-'75 -by- The Connells
+2017-02-08T10:32:26+01:00 INFO: Antenne Niedersachsen 90er: I Love You Always Forever -by- Donna Lewis
+2017-02-08T10:35:26+01:00 INFO: Antenne Niedersachsen 90er: Suicide Blonde -by- INXS
+2017-02-08T10:38:26+01:00 INFO: Antenne Niedersachsen 90er: They Don't Care About Us -by- Michael Jackson
+2017-02-08T10:41:27+01:00 INFO: Antenne Niedersachsen 90er: Thunder -by- East 17
+2017-02-08T10:46:27+01:00 INFO: Antenne Niedersachsen 90er: Sing It Back -by- Moloko
+2017-02-08T10:49:28+01:00 INFO: Antenne Niedersachsen 90er: Keep the Faith -by- Bon Jovi
+2017-02-08T10:53:29+01:00 INFO: Antenne Niedersachsen 90er: Waiting for Tonight -by- Jennifer Lopez
+2017-02-08T10:57:29+01:00 INFO: Antenne Niedersachsen 90er: End of the Road -by- Boyz II Men
+2017-02-08T11:00:30+01:00 INFO: Antenne Niedersachsen 90er: Northern Star -by- Melanie C
+2017-02-08T11:04:31+01:00 INFO: Antenne Niedersachsen 90er: Under the Bridge -by- Red Hot Chili Peppers
+2017-02-08T11:08:32+01:00 INFO: Antenne Niedersachsen 90er: Ray of Light -by- Madonna
+2017-02-08T11:13:32+01:00 INFO: Antenne Niedersachsen 90er: All That She Wants -by- Ace of Base
+2017-02-08T11:16:32+01:00 INFO: Antenne Niedersachsen 90er: Supergirl -by- Reamonn
+2017-02-08T11:19:33+01:00 INFO: Antenne Niedersachsen 90er: FADING LIKE A FLOWER -by- Roxette
+2017-02-08T11:22:33+01:00 INFO: Antenne Niedersachsen 90er: Miami -by- Will Smith
+2017-02-08T11:26:33+01:00 INFO: Antenne Niedersachsen 90er: I'll Be There For You -by- The Rembrandts
+2017-02-08T11:29:34+01:00 INFO: Antenne Niedersachsen 90er: Around the World (Radio Edit) -by- Daft Punk
+2017-02-08T11:33:34+01:00 INFO: Antenne Niedersachsen 90er: More Than Words -by- Extreme
+2017-02-08T11:36:34+01:00 INFO: Antenne Niedersachsen 90er: Bitch -by- Meredith Brooks
+2017-02-08T11:39:35+01:00 INFO: Antenne Niedersachsen 90er: When Do I Get to Sing \"My Way\" -by- Sparks
+2017-02-08T11:43:35+01:00 INFO: Antenne Niedersachsen 90er: No Matter What -by- Boyzone
+2017-02-08T11:48:36+01:00 INFO: Antenne Niedersachsen 90er: No Son of Mine -by- Genesis
+2017-02-08T11:51:36+01:00 INFO: Antenne Niedersachsen 90er: MYSTERIOUS GIRL -by- PETER ANDRE & BUBBLER RANX
+2017-02-08T11:55:38+01:00 INFO: Antenne Niedersachsen 90er: Mystify -by- INXS
+2017-02-08T11:58:38+01:00 INFO: Antenne Niedersachsen 90er: Show Me Love -by- Robyn
+2017-02-08T12:00:38+01:00 INFO: Antenne Niedersachsen 90er: My Father's Eyes -by- Eric Clapton
+2017-02-08T12:04:39+01:00 INFO: Antenne Niedersachsen 90er: Secret Love -by- Bee Gees
+2017-02-08T12:08:39+01:00 INFO: Antenne Niedersachsen 90er: Rhythm Divine -by- Enrique Iglesias
+2017-02-08T12:11:39+01:00 INFO: Antenne Niedersachsen 90er: I'm Gonna Be (500 Miles) -by- The Proclaimers
+2017-02-08T12:15:40+01:00 INFO: Antenne Niedersachsen 90er: Millennium -by- Robbie Williams
+2017-02-08T12:18:42+01:00 INFO: Antenne Niedersachsen 90er: Still Got the Blues (For You) -by- Gary Moore
+2017-02-08T12:22:42+01:00 INFO: Antenne Niedersachsen 90er: Laura Non C'è -by- Nek
+2017-02-08T12:26:43+01:00 INFO: Antenne Niedersachsen 90er: Lay Your Love On Me -by- Roachford
+2017-02-08T12:30:43+01:00 INFO: Antenne Niedersachsen 90er: Nothing Else Matters -by- Metallica
+2017-02-08T12:36:44+01:00 INFO: Antenne Niedersachsen 90er: LOOKING FOR THE SUMMER -by- Chris Rea
+2017-02-08T12:40:44+01:00 INFO: Antenne Niedersachsen 90er: Tubthumping -by- Chumbawamba
+2017-02-08T12:43:45+01:00 INFO: Antenne Niedersachsen 90er: I'm Every Woman -by- Whitney Houston
+2017-02-08T12:48:45+01:00 INFO: Antenne Niedersachsen 90er: Fly Away -by- Lenny Kravitz
+2017-02-08T12:52:46+01:00 INFO: Antenne Niedersachsen 90er: What's a Woman -by- Vaya Con Dios
+2017-02-08T12:56:46+01:00 INFO: Antenne Niedersachsen 90er: MfG -by- Die Fantastischen Vier
+2017-02-08T12:59:46+01:00 INFO: Antenne Niedersachsen 90er: What's Up -by- 4 Non Blondes
+2017-02-08T13:03:47+01:00 INFO: Antenne Niedersachsen 90er: Bitter Sweet Symphony -by- The Verve
+2017-02-08T13:09:48+01:00 INFO: Antenne Niedersachsen 90er: Altogether Now -by- The Farm
+2017-02-08T13:13:48+01:00 INFO: Antenne Niedersachsen 90er: She's So High -by- Tal Bachman
+2017-02-08T13:15:48+01:00 INFO: Antenne Niedersachsen 90er: Kiss from a Rose -by- Seal
+2017-02-08T13:20:49+01:00 INFO: Antenne Niedersachsen 90er: Mama -by- Spice Girls
+2017-02-08T13:24:49+01:00 INFO: Antenne Niedersachsen 90er: BLAZE OF GLORY (EDIT) -by- JON BON JOVI
+2017-02-08T13:27:50+01:00 INFO: Antenne Niedersachsen 90er: Narcotic (Radio Edit) -by- Liquido
+2017-02-08T13:30:50+01:00 INFO: Antenne Niedersachsen 90er: Ain't That Simple -by- Soulsister
+2017-02-08T13:35:50+01:00 INFO: Antenne Niedersachsen 90er: Anybody Seen My Baby? -by- The Rolling Stones
+2017-02-08T13:38:51+01:00 INFO: Antenne Niedersachsen 90er: Die Da!?! -by- Die Fantastischen Vier
+2017-02-08T13:42:51+01:00 INFO: Antenne Niedersachsen 90er: Cose Della Vita -by- Eros Ramazzotti & Tina Turner
+2017-02-08T13:45:52+01:00 INFO: Antenne Niedersachsen 90er: GO WEST (Edit) -by- Pet Shop Boys
+2017-02-08T13:49:52+01:00 INFO: Antenne Niedersachsen 90er: I Don't Want To Miss a Thing -by- Aerosmith
+2017-02-08T13:53:52+01:00 INFO: Antenne Niedersachsen 90er: (Everything I Do) I Do It for You -by- Bryan Adams
+2017-02-08T13:56:53+01:00 INFO: Antenne Niedersachsen 90er: I Want You -by- Savage Garden
+2017-02-08T14:00:53+01:00 INFO: Antenne Niedersachsen 90er: Out of the Dark -by- Falco
+2017-02-08T14:03:53+01:00 INFO: Antenne Niedersachsen 90er: You Bring On the Sun -by- Londonbeat
+2017-02-08T14:06:54+01:00 INFO: Antenne Niedersachsen 90er: Song 2 -by- Blur
+2017-02-08T14:08:54+01:00 INFO: Antenne Niedersachsen 90er: Waterfalls -by- TLC
+2017-02-08T14:12:54+01:00 INFO: Antenne Niedersachsen 90er: I Feel Lonely -by- Sasha
+2017-02-08T14:15:54+01:00 INFO: Antenne Niedersachsen 90er: FINALLY -by- CE CE PENISTON
+2017-02-08T14:20:55+01:00 INFO: Antenne Niedersachsen 90er: Livin' la Vida Loca -by- Ricky Martin
+2017-02-08T14:24:56+01:00 INFO: Antenne Niedersachsen 90er: I'll Stand By You -by- Pretenders
+2017-02-08T14:28:56+01:00 INFO: Antenne Niedersachsen 90er: Crush -by- Jennifer Paige
+2017-02-08T14:31:56+01:00 INFO: Antenne Niedersachsen 90er: I Can't Dance -by- Genesis
+2017-02-08T14:34:57+01:00 INFO: Antenne Niedersachsen 90er: I'M STILL WAITIN' (Edit) -by- SASHA feat. YOUNG DEENAY
+2017-02-08T14:37:57+01:00 INFO: Antenne Niedersachsen 90er: Ordinary World -by- Duran Duran
+2017-02-08T14:41:58+01:00 INFO: Antenne Niedersachsen 90er: Sitting Down Here -by- Lene Marlin
+2017-02-08T14:44:58+01:00 INFO: Antenne Niedersachsen 90er: Shiny Happy People -by- R.E.M.
+2017-02-08T14:48:59+01:00 INFO: Antenne Niedersachsen 90er: Un-Break My Heart -by- Toni Braxton
+2017-02-08T14:53:00+01:00 INFO: Antenne Niedersachsen 90er: I'd Do Anything for Love (But I Won't Do That) -by- Meat Loaf
+2017-02-08T14:56:00+01:00 INFO: Antenne Niedersachsen 90er: WALKING ON THE MILKY WAY -by- O.M.D.
+2017-02-08T15:01:01+01:00 INFO: Antenne Niedersachsen 90er: Mambo No. 5 (A Little Bit Of...) -by- Lou Bega
+2017-02-08T15:04:01+01:00 INFO: Antenne Niedersachsen 90er: FREEDOM '90 (EDIT) -by- George Michael
+2017-02-08T15:09:02+01:00 INFO: Antenne Niedersachsen 90er: Land of Dreaming -by- Masterboy
+2017-02-08T15:12:02+01:00 INFO: Antenne Niedersachsen 90er: When I Come Around -by- Green Day
+2017-02-08T15:15:03+01:00 INFO: Antenne Niedersachsen 90er: My Love Is Your Love -by- Whitney Houston
+2017-02-08T15:19:04+01:00 INFO: Antenne Niedersachsen 90er: Rhythm Is a Dancer -by- Snap!
+2017-02-08T15:23:04+01:00 INFO: Antenne Niedersachsen 90er: Breakfast at Tiffany's -by- Deep Blue Something
+2017-02-08T15:27:05+01:00 INFO: Antenne Niedersachsen 90er: Stay Another Day -by- East 17
+2017-02-08T15:31:06+01:00 INFO: Antenne Niedersachsen 90er: Joining You -by- Alanis Morissette
+2017-02-08T15:35:09+01:00 INFO: Antenne Niedersachsen 90er: My Destiny -by- Lionel Richie
+2017-02-08T15:39:10+01:00 INFO: Antenne Niedersachsen 90er: King of My Castle (Roy Malone Mix) -by- Wamdue Project
+2017-02-08T15:43:11+01:00 INFO: Antenne Niedersachsen 90er: Alles aus Liebe -by- Die Toten Hosen
+2017-02-08T15:47:11+01:00 INFO: Antenne Niedersachsen 90er: Lonely -by- Nana
+2017-02-08T15:51:13+01:00 INFO: Antenne Niedersachsen 90er: Something Got Me Started -by- Simply Red
+2017-02-08T15:55:13+01:00 INFO: Antenne Niedersachsen 90er: Don't Speak -by- No Doubt
+2017-02-08T15:58:14+01:00 INFO: Antenne Niedersachsen 90er: I Can See Clearly Now -by- Jimmy Cliff
+2017-02-08T16:01:15+01:00 INFO: Antenne Niedersachsen 90er: HAPPY PEOPLE -by- Mr. President
+2017-02-08T16:04:16+01:00 INFO: Antenne Niedersachsen 90er: Crying In the Rain -by- a-ha
+2017-02-08T16:08:16+01:00 INFO: Antenne Niedersachsen 90er: Remembering the First Time -by- Simply Red
+2017-02-08T16:12:17+01:00 INFO: Antenne Niedersachsen 90er: The First the Last Eternity -by- Snap!
+2017-02-08T16:16:17+01:00 INFO: Antenne Niedersachsen 90er: NO WOMAN, NO CRY -by- FUGEES (REFUGEE CAMP)
+2017-02-08T16:21:18+01:00 INFO: Antenne Niedersachsen 90er: Connected -by- Stereo MCs
+2017-02-08T16:26:19+01:00 INFO: Antenne Niedersachsen 90er: WHEN YOU'RE GONE -by- BRYAN ADAMS feat. MELANIE C.
+2017-02-08T16:29:19+01:00 INFO: Antenne Niedersachsen 90er: Earth Song -by- Michael Jackson
+2017-02-08T16:32:20+01:00 INFO: Antenne Niedersachsen 90er: Californication -by- Red Hot Chili Peppers
+2017-02-08T16:36:20+01:00 INFO: Antenne Niedersachsen 90er: Informer -by- Snow
+2017-02-08T16:40:21+01:00 INFO: Antenne Niedersachsen 90er: Big Big World -by- Emilia
+2017-02-08T16:43:25+01:00 INFO: Antenne Niedersachsen 90er: One of Us -by- Joan Osborne
+2017-02-08T16:48:26+01:00 INFO: Antenne Niedersachsen 90er: Blue (Da Ba Dee) -by- Eiffel 65
+2017-02-08T16:51:26+01:00 INFO: Antenne Niedersachsen 90er: Crucified -by- Army of Lovers
+2017-02-08T16:54:27+01:00 INFO: Antenne Niedersachsen 90er: Maria Maria (feat. The Product G&B) -by- Santana
+2017-02-08T16:58:27+01:00 INFO: Antenne Niedersachsen 90er: Fields of Gold -by- Sting
+2017-02-08T17:02:28+01:00 INFO: Antenne Niedersachsen 90er: CANDLE IN THE WIND LIVE '97 -by- Elton John
+2017-02-08T17:05:29+01:00 INFO: Antenne Niedersachsen 90er: KILLER -by- ADAMSKI FEAT. SEAL
+2017-02-08T17:09:29+01:00 INFO: Antenne Niedersachsen 90er: Never Ever -by- All Saints
+2017-02-08T17:14:30+01:00 INFO: Antenne Niedersachsen 90er: HELLO (TURN YOUR RADIO ON) -by- SHAKESPEARE'S SISTER
+2017-02-08T17:16:31+01:00 INFO: Antenne Niedersachsen 90er: Alane -by- Wes
+2017-02-08T17:20:31+01:00 INFO: Antenne Niedersachsen 90er: When I'm Dead and Gone -by- Fury In the Slaughterhouse
+2017-02-08T17:24:32+01:00 INFO: Antenne Niedersachsen 90er: Jein -by- Fettes Brot
+2017-02-08T17:28:32+01:00 INFO: Antenne Niedersachsen 90er: Heaven For Everyone -by- Queen
+2017-02-08T17:31:33+01:00 INFO: Antenne Niedersachsen 90er: Life Is a Flower -by- Ace of Base
+2017-02-08T17:35:34+01:00 INFO: Antenne Niedersachsen 90er: I Promised Myself -by- Nick Kamen
+2017-02-08T17:38:35+01:00 INFO: Antenne Niedersachsen 90er: True Colors ed) -by- Phil Collins
+2017-02-08T17:41:37+01:00 INFO: Antenne Niedersachsen 90er: In These Arms -by- Bon Jovi
+2017-02-08T17:46:38+01:00 INFO: Antenne Niedersachsen 90er: Sunchyme -by- Dario G
+2017-02-08T17:49:39+01:00 INFO: Antenne Niedersachsen 90er: KÜSSEN VERBOTEN -by- PRINZEN
+2017-02-08T17:52:40+01:00 INFO: Antenne Niedersachsen 90er: My Heart Will Go On (Love Theme from \"Titanic\") -by- Céline Dion
+2017-02-08T17:57:40+01:00 INFO: Antenne Niedersachsen 90er: Zombie -by- The Cranberries
+2017-02-08T18:00:41+01:00 INFO: Antenne Niedersachsen 90er: Fly Away -by- Lenny Kravitz
+2017-02-08T18:03:42+01:00 INFO: Antenne Niedersachsen 90er: From a Distance -by- Bette Midler
+2017-02-08T18:08:43+01:00 INFO: Antenne Niedersachsen 90er: THE BALLAD OF CHAISEY LAIN -by- Bloodhound Gang
+2017-02-08T18:10:46+01:00 INFO: Antenne Niedersachsen 90er: Sweet Harmony -by- The Beloved
+2017-02-08T18:14:47+01:00 INFO: Antenne Niedersachsen 90er: Unpretty -by- TLC
+2017-02-08T18:18:48+01:00 INFO: Antenne Niedersachsen 90er: NOVEMBER RAIN -by- GUNS´N´ROSES
+2017-02-08T18:22:48+01:00 INFO: Antenne Niedersachsen 90er: What Can I Do? -by- The Corrs
+2017-02-08T18:26:49+01:00 INFO: Antenne Niedersachsen 90er: All I Wanna Do -by- Sheryl Crow
+2017-02-08T18:30:49+01:00 INFO: Antenne Niedersachsen 90er: If You Believe -by- Sasha
+2017-02-08T18:34:50+01:00 INFO: Antenne Niedersachsen 90er: GYPSY WOMAN -by- CRYSTAL WATERS
+2017-02-08T18:38:51+01:00 INFO: Antenne Niedersachsen 90er: New York City Boy -by- Pet Shop Boys
+2017-02-08T18:42:52+01:00 INFO: Antenne Niedersachsen 90er: Bed of Roses -by- Bon Jovi
+2017-02-08T18:48:52+01:00 INFO: Antenne Niedersachsen 90er: 2 Times (Original Radio Edit) -by- Ann Lee
+2017-02-08T18:52:53+01:00 INFO: Antenne Niedersachsen 90er: Sleeping Satellite -by- Tasmin Archer
+2017-02-08T18:55:53+01:00 INFO: Antenne Niedersachsen 90er: Closing Time -by- Semisonic
+2017-02-08T19:00:54+01:00 INFO: Antenne Niedersachsen 90er: The Only Thing That Looks Good On Me Is You -by- Bryan Adams
+2017-02-08T19:03:55+01:00 INFO: Antenne Niedersachsen 90er: WOULD I LIE TO YOU -by- CHARLES & EDDIE
+2017-02-08T19:07:55+01:00 INFO: Antenne Niedersachsen 90er: Your Woman -by- White Town
+2017-02-08T19:11:56+01:00 INFO: Antenne Niedersachsen 90er: Wonderwall -by- Oasis
+2017-02-08T19:16:57+01:00 INFO: Antenne Niedersachsen 90er: I Want It That Way -by- Backstreet Boys
+2017-02-08T19:19:57+01:00 INFO: Antenne Niedersachsen 90er: Don't Let the Sun Go Down On Me -by- Joe Cocker
+2017-02-08T19:25:58+01:00 INFO: Antenne Niedersachsen 90er: MARIA (Edit) -by- Blondie
+2017-02-08T19:28:58+01:00 INFO: Antenne Niedersachsen 90er: Linger -by- The Cranberries
+2017-02-08T19:33:59+01:00 INFO: Antenne Niedersachsen 90er: You & I -by- Scorpions
+2017-02-08T19:36:59+01:00 INFO: Antenne Niedersachsen 90er: ALOAH HEJA HE -by- ACHIM REICHEL
+2017-02-08T19:41:00+01:00 INFO: Antenne Niedersachsen 90er: Rescue Me -by- Bell Book & Candle
+2017-02-08T19:44:00+01:00 INFO: Antenne Niedersachsen 90er: Right Beside You -by- Sophie B. Hawkins
+2017-02-08T19:48:00+01:00 INFO: Antenne Niedersachsen 90er: Truly Madly Deeply -by- Savage Garden
+2017-02-08T19:52:01+01:00 INFO: Antenne Niedersachsen 90er: Close to You -by- Maxi Priest
+2017-02-08T19:56:02+01:00 INFO: Antenne Niedersachsen 90er: Hedonism (Just Because You Feel Good) -by- Skunk Anansie
+2017-02-08T19:59:02+01:00 INFO: Antenne Niedersachsen 90er: Love Is Everywhere -by- Caught In the Act
+2017-02-08T20:03:03+01:00 INFO: Antenne Niedersachsen 90er: I Want You Back -by- *NSYNC
+2017-02-08T20:07:03+01:00 INFO: Antenne Niedersachsen 90er: Wicked Game -by- Chris Isaak
+2017-02-08T20:12:04+01:00 INFO: Antenne Niedersachsen 90er: Dance Into the Light -by- Phil Collins
+2017-02-08T20:16:04+01:00 INFO: Antenne Niedersachsen 90er: Insomnia -by- Faithless
+2017-02-08T20:19:05+01:00 INFO: Antenne Niedersachsen 90er: Ironic -by- Alanis Morissette
+2017-02-08T20:23:05+01:00 INFO: Antenne Niedersachsen 90er: You Make Me Feel (Mighty Real) -by- Jimmy Somerville
+2017-02-08T20:27:06+01:00 INFO: Antenne Niedersachsen 90er: Rückenwind -by- Thomas D
+2017-02-08T20:31:06+01:00 INFO: Antenne Niedersachsen 90er: Mmm Mmm Mmm Mmm -by- Crash Test Dummies
+2017-02-08T20:35:07+01:00 INFO: Antenne Niedersachsen 90er: Where Do You Go -by- No Mercy
+2017-02-08T20:39:08+01:00 INFO: Antenne Niedersachsen 90er: Dangerous -by- Roxette
+2017-02-08T20:43:08+01:00 INFO: Antenne Niedersachsen 90er: C U When U Get There -by- Coolio
+2017-02-08T20:47:09+01:00 INFO: Antenne Niedersachsen 90er: Will You Be There -by- Michael Jackson
+2017-02-08T20:52:10+01:00 INFO: Antenne Niedersachsen 90er: Disco 2000 -by- Pulp
+2017-02-08T20:56:11+01:00 INFO: Antenne Niedersachsen 90er: The Power -by- Snap!
+2017-02-08T21:00:11+01:00 INFO: Antenne Niedersachsen 90er: Torn -by- Natalie Imbruglia
+2017-02-08T21:03:12+01:00 INFO: Antenne Niedersachsen 90er: Kaleidoscope Skies (feat. Plavka) -by- Jam & Spoon
+2017-02-08T21:06:12+01:00 INFO: Antenne Niedersachsen 90er: WIND OF CHANGE (EDIT) -by- Scorpions
+2017-02-08T21:09:13+01:00 INFO: Antenne Niedersachsen 90er: LIFTED (EDIT) -by- Lighthouse Family
+2017-02-08T21:12:13+01:00 INFO: Antenne Niedersachsen 90er: Here Comes the Hotstepper -by- Ini Kamoze
+2017-02-08T21:16:14+01:00 INFO: Antenne Niedersachsen 90er: Too Much Heaven -by- Nana
+2017-02-08T21:20:14+01:00 INFO: Antenne Niedersachsen 90er: Rhythm of My Heart -by- Rod Stewart
+2017-02-08T21:24:15+01:00 INFO: Antenne Niedersachsen 90er: Born to Make You Happy -by- Britney Spears
+2017-02-08T21:27:17+01:00 INFO: Antenne Niedersachsen 90er: you learn -by- Alanis Morissette
+2017-02-08T21:32:18+01:00 INFO: Antenne Niedersachsen 90er: Fastlove, Pt. 1 -by- George Michael
+2017-02-08T21:36:19+01:00 INFO: Antenne Niedersachsen 90er: Sweat (A La La La La Long) -by- Inner Circle
+2017-02-08T21:40:20+01:00 INFO: Antenne Niedersachsen 90er: A-N-N-A -by- Freundeskreis
+2017-02-08T21:46:20+01:00 INFO: Antenne Niedersachsen 90er: RELIGHT MY FIRE -by- TAKE THAT & LULU
+2017-02-08T21:50:23+01:00 INFO: Antenne Niedersachsen 90er: Ghetto Superstar (This Is What You Are) [feat. Ol' Dirty Bastard & Mya] -by- Pras Michael
+2017-02-08T21:54:23+01:00 INFO: Antenne Niedersachsen 90er: All This Time -by- Sting
+2017-02-08T21:58:24+01:00 INFO: Antenne Niedersachsen 90er: Frozen -by- Madonna
+2017-02-08T22:02:25+01:00 INFO: Antenne Niedersachsen 90er: MMMBop -by- Hanson
+2017-02-08T22:05:28+01:00 INFO: Antenne Niedersachsen 90er: Walking In Memphis -by- Marc Cohn
+2017-02-08T22:09:29+01:00 INFO: Antenne Niedersachsen 90er: Push -by- Matchbox Twenty
+2017-02-08T22:12:29+01:00 INFO: Antenne Niedersachsen 90er: Mishale -by- Andru Donalds
+2017-02-08T22:16:30+01:00 INFO: Antenne Niedersachsen 90er: What's Your Sign? -by- Des'ree
+2017-02-08T22:20:30+01:00 INFO: Antenne Niedersachsen 90er: KNOCKIN' ON HEAVENS DOOR -by- GUNS'N'ROSES
+2017-02-08T22:24:31+01:00 INFO: Antenne Niedersachsen 90er: I Belong To You -by- Lenny Kravitz
+2017-02-08T22:28:31+01:00 INFO: Antenne Niedersachsen 90er: Missing -by- Everything But the Girl
+2017-02-08T22:32:32+01:00 INFO: Antenne Niedersachsen 90er: When Susannah Cries -by- Espen Lind
+2017-02-08T22:35:33+01:00 INFO: Antenne Niedersachsen 90er: Summer Dreamin' -by- Kate Yanai
+2017-02-08T22:38:34+01:00 INFO: Antenne Niedersachsen 90er: Liebes Lied -by- Absolute Beginner
+2017-02-08T22:42:34+01:00 INFO: Antenne Niedersachsen 90er: When I Come Around -by- Green Day
+2017-02-08T22:45:34+01:00 INFO: Antenne Niedersachsen 90er: We Like to Party! (the Vengabus) (Airplay) -by- Vengaboys
+2017-02-08T22:48:35+01:00 INFO: Antenne Niedersachsen 90er: To Be With You -by- Mr. Big
+2017-02-08T22:52:35+01:00 INFO: Antenne Niedersachsen 90er: AROUND THE WORLD (LA LA LA LA) -by- ATC
+2017-02-08T22:55:36+01:00 INFO: Antenne Niedersachsen 90er: I'd Do Anything for Love (But I Won't Do That) -by- Meat Loaf
+2017-02-08T22:58:36+01:00 INFO: Antenne Niedersachsen 90er: KILLING ME SOFTY -by- Fugees
+2017-02-08T23:03:37+01:00 INFO: Antenne Niedersachsen 90er: Kiss Me -by- Sixpence None the Richer
+2017-02-08T23:06:37+01:00 INFO: Antenne Niedersachsen 90er: Everybody Gets a Second Chance -by- Mike + The Mechanics
+2017-02-08T23:10:38+01:00 INFO: Antenne Niedersachsen 90er: Rock DJ -by- Robbie Williams
+2017-02-08T23:13:38+01:00 INFO: Antenne Niedersachsen 90er: Love Is All Around -by- Wet Wet Wet
+2017-02-08T23:16:39+01:00 INFO: Antenne Niedersachsen 90er: Bitch -by- Meredith Brooks
+2017-02-08T23:18:39+01:00 INFO: Antenne Niedersachsen 90er: Spending My Time -by- Roxette
+2017-02-08T23:22:40+01:00 INFO: Antenne Niedersachsen 90er: Supergirl -by- Reamonn
+2017-02-08T23:25:41+01:00 INFO: Antenne Niedersachsen 90er: Alles nur geklaut -by- Die Prinzen
+2017-02-08T23:27:41+01:00 INFO: Antenne Niedersachsen 90er: Désenchantée -by- Kate Ryan
+2017-02-08T23:31:42+01:00 INFO: Antenne Niedersachsen 90er: SENZA UNA DONNA (WITHOUT A WOMAN) -by- ZUCCHERO & PAUL YOUNG
+2017-02-08T23:35:43+01:00 INFO: Antenne Niedersachsen 90er: HOW WILL I KNOW (WHO YOU ARE) -by- JESSICA
+2017-02-08T23:38:43+01:00 INFO: Antenne Niedersachsen 90er: Cats in the Cradle -by- Ugly Kid Joe
+2017-02-08T23:42:44+01:00 INFO: Antenne Niedersachsen 90er: Life -by- Des'ree
+2017-02-08T23:45:45+01:00 INFO: Antenne Niedersachsen 90er: I've Been Thinking About You -by- Londonbeat
+2017-02-08T23:47:45+01:00 INFO: Antenne Niedersachsen 90er: Tubthumping -by- Chumbawamba
+2017-02-08T23:51:45+01:00 INFO: Antenne Niedersachsen 90er: I Will Always Love You -by- Whitney Houston
+2017-02-08T23:55:46+01:00 INFO: Antenne Niedersachsen 90er: Genie In a Bottle -by- Christina Aguilera
+2017-02-08T23:58:47+01:00 INFO: Antenne Niedersachsen 90er: I Can't Dance -by- Genesis

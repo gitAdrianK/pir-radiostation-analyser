@@ -1,0 +1,160 @@
+2017-02-10T01:06:00+01:00 INFO: WDR4: Du machst mir noch mein Herz kaputt -by- Stephan Sulke
+2017-02-10T01:08:00+01:00 INFO: WDR4: Crying in the rain -by- Everly Brothers
+2017-02-10T01:10:01+01:00 INFO: WDR4: Mademoiselle chante le blues -by- Patricia Kaas
+2017-02-10T01:14:01+01:00 INFO: WDR4: Some kind of wonderful -by- Drifters
+2017-02-10T01:21:01+01:00 INFO: WDR4: A walk in the park -by- Nick Straker
+2017-02-10T01:25:01+01:00 INFO: WDR4: I was made for loving you -by- Kiss
+2017-02-10T01:30:02+01:00 INFO: WDR4: Melodie d'amour -by- Ames Brothers
+2017-02-10T01:33:02+01:00 INFO: WDR4: Die Reste meines Lebens -by- Von Eden
+2017-02-10T01:37:02+01:00 INFO: WDR4: Dust in the wind -by- Kansas
+2017-02-10T01:40:02+01:00 INFO: WDR4: Je veux -by- Zaz
+2017-02-10T01:49:03+01:00 INFO: WDR4: Nah Neh Nah -by- Vaya Con Dios
+2017-02-10T01:52:03+01:00 INFO: WDR4: Jennifer Juniper -by- Donovan
+2017-02-10T01:55:03+01:00 INFO: WDR4: Don't let the sun go down on me -by- Elton John
+2017-02-10T02:06:04+01:00 INFO: WDR4: Marie, Marie -by- Shakin' Stevens
+2017-02-10T02:13:04+01:00 INFO: WDR4: Musica -by- Michel Sardou
+2017-02-10T02:17:04+01:00 INFO: WDR4: I heard it through the Grapevine -by- Marvin Gaye
+2017-02-10T02:22:05+01:00 INFO: WDR4: Dich wiederzusehn -by- Jonathan Zelter
+2017-02-10T02:26:05+01:00 INFO: WDR4: Down in the Boondocks -by- Billy Joe Royal
+2017-02-10T02:29:05+01:00 INFO: WDR4: Do you know the way to San Jose -by- Dionne Warwick
+2017-02-10T02:37:05+01:00 INFO: WDR4: All at once -by- Whitney Houston
+2017-02-10T02:42:06+01:00 INFO: WDR4: Pretty Belinda -by- Chris Andrews
+2017-02-10T02:45:06+01:00 INFO: WDR4: Oh lonesome me -by- Nancy Sinatra
+2017-02-10T02:49:06+01:00 INFO: WDR4: Confusion -by- Electric Light Orchestra
+2017-02-10T02:54:07+01:00 INFO: WDR4: Streicheleinheiten -by- Peter Cornelius
+2017-02-10T02:57:07+01:00 INFO: WDR4: Black and White -by- Three Dog Night
+2017-02-10T03:10:07+01:00 INFO: WDR4: Love of my life -by- Queen
+2017-02-10T03:14:08+01:00 INFO: WDR4: My Guy -by- Mary Wells
+2017-02-10T03:17:08+01:00 INFO: WDR4: Down on the corner -by- Creedence Clearwater Revival
+2017-02-10T03:20:08+01:00 INFO: WDR4: The gambler -by- Kenny Rogers
+2017-02-10T03:24:08+01:00 INFO: WDR4: Der Spieler -by- Achim Reichel
+2017-02-10T03:29:09+01:00 INFO: WDR4: Tu vuo' fa l'americano? -by- Dany Brillant
+2017-02-10T03:32:09+01:00 INFO: WDR4: I.O.I.O. -by- Bee Gees
+2017-02-10T03:35:09+01:00 INFO: WDR4: Frieden -by- Nik P.
+2017-02-10T03:40:09+01:00 INFO: WDR4: Queen of the heart -by- Juice Newton
+2017-02-10T03:47:10+01:00 INFO: WDR4: The winner takes it all -by- Abba
+2017-02-10T03:52:10+01:00 INFO: WDR4: Darlin' -by- Frankie Miller
+2017-02-10T03:55:10+01:00 INFO: WDR4: Haus am See -by- Peter Fox
+2017-02-10T03:58:10+01:00 INFO: WDR4: More than I can say -by- Leo Sayer
+2017-02-10T04:06:11+01:00 INFO: WDR4: Oh pretty woman -by- Roy Orbison
+2017-02-10T04:09:11+01:00 INFO: WDR4: Feuervogel -by- Andrea Berg
+2017-02-10T04:13:11+01:00 INFO: WDR4: It don't come easy -by- Ringo Starr
+2017-02-10T04:16:11+01:00 INFO: WDR4: Another somebody done somebody -by- B.J. Thomas
+2017-02-10T04:20:12+01:00 INFO: WDR4: Afrika -by- Dana Winner
+2017-02-10T04:24:12+01:00 INFO: WDR4: Son of my father -by- Chicory Tip
+2017-02-10T04:27:12+01:00 INFO: WDR4: Carrie Anne -by- Hollies
+2017-02-10T04:37:13+01:00 INFO: WDR4: How 'bout us -by- Champaign
+2017-02-10T04:40:13+01:00 INFO: WDR4: Linda -by- Ace Cats
+2017-02-10T04:44:13+01:00 INFO: WDR4: Il est cinq heures, Paris s'eveille -by- Jacques Dutronc
+2017-02-10T04:50:13+01:00 INFO: WDR4: Lighthouse -by- Westlife
+2017-02-10T04:58:14+01:00 INFO: WDR4: What a wonderful world -by- Katie Melua
+2017-02-10T05:06:14+01:00 INFO: WDR4: Just walking in the rain -by- Johnny Ray
+2017-02-10T05:09:15+01:00 INFO: WDR4: Ein Herz kann man nicht reparieren -by- Udo Lindenberg
+2017-02-10T05:13:15+01:00 INFO: WDR4: A night like this -by- Caro Emerald
+2017-02-10T05:17:15+01:00 INFO: WDR4: Tom, tom turnaround -by- New World
+2017-02-10T05:24:15+01:00 INFO: WDR4: My girl -by- Temptations
+2017-02-10T05:27:16+01:00 INFO: WDR4: Take a bow -by- Madonna
+2017-02-10T05:36:16+01:00 INFO: WDR4: Love really hurts without you -by- Billy Ocean
+2017-02-10T05:39:16+01:00 INFO: WDR4: I call your name -by- Mamas
+2017-02-10T05:42:17+01:00 INFO: WDR4: Video killed the radio-star -by- Buggles
+2017-02-10T05:46:17+01:00 INFO: WDR4: In deinem Licht -by- Zweifach
+2017-02-10T05:49:17+01:00 INFO: WDR4: Can't get enough of your love, babe -by- Barry White
+2017-02-10T05:53:17+01:00 INFO: WDR4: Et si tu n' existais pas -by- Joe Dassin
+2017-02-10T05:56:17+01:00 INFO: WDR4: Running scared -by- Ell
+2017-02-10T05:59:17+01:00 INFO: WDR4: The swinging creeper -by- The Ventures
+2017-02-10T06:06:18+01:00 INFO: WDR4: Chain reaction -by- Diana Ross
+2017-02-10T06:10:18+01:00 INFO: WDR4: If I said you have a beautiful body would you hold it against me -by- Bellamy Brothers
+2017-02-10T06:19:19+01:00 INFO: WDR4: Nur in meinem Kopf -by- Andreas Bourani
+2017-02-10T06:34:19+01:00 INFO: WDR4: Come on Eileen -by- Dexy's Midnight Runners
+2017-02-10T06:38:20+01:00 INFO: WDR4: Substitute -by- Clout
+2017-02-10T06:47:20+01:00 INFO: WDR4: Can't buy me love -by- Beatles
+2017-02-10T06:49:20+01:00 INFO: WDR4: Voci -by- Zucchero
+2017-02-10T06:53:21+01:00 INFO: WDR4: Livin' thing -by- Electric Light Orchestra (ELO)
+2017-02-10T07:23:22+01:00 INFO: WDR4: Haus am See -by- Peter Fox
+2017-02-10T07:24:22+01:00 INFO: WDR4: Juliet -by- Robin Gibb
+2017-02-10T07:28:23+01:00 INFO: WDR4: She's in love with you -by- Suzi Quatro
+2017-02-10T07:36:23+01:00 INFO: WDR4: Johnny and Mary -by- Robert Palmer
+2017-02-10T07:38:23+01:00 INFO: WDR4: Rock your baby -by- George McCrae
+2017-02-10T07:43:24+01:00 INFO: WDR4: Supreme -by- Robbie Williams
+2017-02-10T07:47:24+01:00 INFO: WDR4: Take it easy -by- Eagles
+2017-02-10T08:01:25+01:00 INFO: WDR4: Help me Rhonda -by- Beach Boys
+2017-02-10T08:31:26+01:00 INFO: WDR4: Bye bye love -by- Everly Brothers
+2017-02-10T08:42:27+01:00 INFO: WDR4: Love is in the air -by- John Paul Young
+2017-02-10T08:46:27+01:00 INFO: WDR4: Dein ist mein ganzes Herz -by- Heinz Rudolf Kunze
+2017-02-10T08:51:27+01:00 INFO: WDR4: Skyfall -by- Adele
+2017-02-10T09:06:28+01:00 INFO: WDR4: Never ending song of love -by- New Seekers
+2017-02-10T09:09:28+01:00 INFO: WDR4: Don't you (forget about me) -by- Simple Minds
+2017-02-10T09:14:29+01:00 INFO: WDR4: Ha! Ha! Said the clown -by- Manfred Mann
+2017-02-10T09:16:29+01:00 INFO: WDR4: Aff un zo -by- BAP
+2017-02-10T09:23:29+01:00 INFO: WDR4: Lay down Sally -by- Eric Clapton
+2017-02-10T09:44:50+01:00 INFO: WDR4: Banks of the Ohio -by- Olivia Newton-John
+2017-02-10T09:48:51+01:00 INFO: WDR4: Solid -by- Ashford and Simpson
+2017-02-10T10:07:52+01:00 INFO: WDR4: China girl -by- David Bowie
+2017-02-10T10:11:52+01:00 INFO: WDR4: December, 1963 (Oh, what a night) -by- The Four Seasons
+2017-02-10T10:31:56+01:00 INFO: WDR4: Heartbreaker -by- Dionne Warwick
+2017-02-10T10:33:56+01:00 INFO: WDR4: Can't get enough of your love, babe -by- Barry White
+2017-02-10T10:37:57+01:00 INFO: WDR4: Don't get me wrong -by- Pretenders
+2017-02-10T11:01:58+01:00 INFO: WDR4: Dreams are ten a penny -by- Kincade
+2017-02-10T11:29:59+01:00 INFO: WDR4: Sylvia's mother -by- Dr. Hook & The Medicine Show
+2017-02-10T11:33:59+01:00 INFO: WDR4: Always on my mind -by- Pet Shop Boys
+2017-02-10T11:50:00+01:00 INFO: WDR4: Leuchtturm -by- Nena
+2017-02-10T11:53:00+01:00 INFO: WDR4: Club at the end of the street -by- Elton John
+2017-02-10T11:57:00+01:00 INFO: WDR4: It's all over now, baby blue -by- Them
+2017-02-10T12:44:04+01:00 INFO: WDR4: One fine day -by- Sting
+2017-02-10T13:03:05+01:00 INFO: WDR4: Live it up -by- Mental As Anything
+2017-02-10T13:19:07+01:00 INFO: WDR4: Cracklin' Rosie -by- Neil Diamond
+2017-02-10T13:20:07+01:00 INFO: WDR4: Lieder -by- Adel Tawil
+2017-02-10T13:23:08+01:00 INFO: WDR4: I'm into something good -by- Herman's Hermits
+2017-02-10T13:25:08+01:00 INFO: WDR4: Sunflower -by- Glen Campbell
+2017-02-10T13:29:08+01:00 INFO: WDR4: Love of the common people -by- Paul Young
+2017-02-10T13:45:10+01:00 INFO: WDR4: Lieblingsmensch -by- Namika
+2017-02-10T13:47:10+01:00 INFO: WDR4: Proud Mary -by- Creedence Clearwater Revival
+2017-02-10T13:50:10+01:00 INFO: WDR4: Matador -by- Garland Jeffreys
+2017-02-10T13:54:10+01:00 INFO: WDR4: Don't worry, be happy -by- Bobby McFerrin
+2017-02-10T13:59:10+01:00 INFO: WDR4: Turn your radio on -by- Ray Stevens
+2017-02-10T14:08:11+01:00 INFO: WDR4: Don't play your Rock'n'Roll to me -by- Smokie
+2017-02-10T14:11:11+01:00 INFO: WDR4: Back in the high life again -by- Steve Winwood
+2017-02-10T14:15:12+01:00 INFO: WDR4: California dreamin' -by- Mamas & Papas
+2017-02-10T14:46:14+01:00 INFO: WDR4: Mrs. Robinson -by- Simon & Garfunkel
+2017-02-10T14:50:14+01:00 INFO: WDR4: You thrill me -by- Exile
+2017-02-10T15:00:15+01:00 INFO: WDR4: Saddle up -by- David Christie
+2017-02-10T15:20:16+01:00 INFO: WDR4: Stand by me -by- Ben E. King
+2017-02-10T16:16:21+01:00 INFO: WDR4: San Francisco -by- Scott McKenzie
+2017-02-10T16:40:23+01:00 INFO: WDR4: Movie star -by- Harpo
+2017-02-10T16:46:23+01:00 INFO: WDR4: Yellow river -by- Christie
+2017-02-10T16:49:24+01:00 INFO: WDR4: Fresh -by- Kool & The Gang
+2017-02-10T16:53:24+01:00 INFO: WDR4: Senza una donna (Without a woman) -by- Zucchero & Paul Young
+2017-02-10T17:30:26+01:00 INFO: WDR4: All I need is a miracle -by- Mike & The Mechanics
+2017-02-10T17:33:30+01:00 INFO: WDR4: Don't you want me -by- Human League
+2017-02-10T17:37:30+01:00 INFO: WDR4: Without you -by- Harry Nilsson
+2017-02-10T17:53:31+01:00 INFO: WDR4: Too much heaven -by- Bee Gees
+2017-02-10T17:57:32+01:00 INFO: WDR4: Fuoco nel fuoco -by- Eros Ramazzotti
+2017-02-10T18:30:37+01:00 INFO: WDR4: Stuck in the middle with you -by- Stealers Wheel
+2017-02-10T18:32:37+01:00 INFO: WDR4: Red, red wine -by- UB 40
+2017-02-10T18:35:37+01:00 INFO: WDR4: Da doo ron ron -by- Crystals
+2017-02-10T18:41:38+01:00 INFO: WDR4: Beautiful noise -by- Neil Diamond
+2017-02-10T18:45:38+01:00 INFO: WDR4: Perfect life -by- Levina
+2017-02-10T19:02:40+01:00 INFO: WDR4: Born to be alive -by- Patrick Hernandez
+2017-02-10T19:14:43+01:00 INFO: WDR4: One more night -by- Phil Collins
+2017-02-10T19:21:44+01:00 INFO: WDR4: Pflaster -by- Ich & Ich
+2017-02-10T19:32:49+01:00 INFO: WDR4: In private -by- Dusty Springfield
+2017-02-10T19:36:49+01:00 INFO: WDR4: It never rains in southern California -by- Albert Hammond
+2017-02-10T19:52:51+01:00 INFO: WDR4: I hear you knocking -by- Dave Edmunds
+2017-02-10T19:53:51+01:00 INFO: WDR4: You came -by- Kim Wilde
+2017-02-10T19:57:51+01:00 INFO: WDR4: Matrimony -by- Gilbert O'Sullivan
+2017-02-10T20:10:52+01:00 INFO: WDR4: Gavotte aus: Partita Nr. 2 E-Dur, BWV 1006 -by- Joshua Bell
+2017-02-10T20:13:52+01:00 INFO: WDR4: Der Carneval in Paris -by- Concentus Musicus Wien
+2017-02-10T20:23:54+01:00 INFO: WDR4: Liebesliedchen G-Dur, AV 182,2 -by- Wolfgang, Sinnhoffer-Quartett Sawallisch
+2017-02-10T20:28:55+01:00 INFO: WDR4: Im Sturmschritt, op. 348 -by- Wiener Philharmoniker
+2017-02-10T20:32:55+01:00 INFO: WDR4: Aufforderung zum Tanz, op 65 -by- Academy of St. Martin-in-the-Fields
+2017-02-10T21:05:57+01:00 INFO: WDR4: Galopp aus: Wilhelm Tell -by- Brighouse and Rastrick Band
+2017-02-10T21:19:58+01:00 INFO: WDR4: Andante cantabile (2) aus: Quartett D-dur, op 11 -by- Koninklijke Militaire Kapel
+2017-02-10T21:40:00+01:00 INFO: WDR4: Concerto for Cornet -by- Grimethorpe Colliery Band
+2017-02-10T22:07:03+01:00 INFO: WDR4: Desafinado -by- Orchester Max Greger
+2017-02-10T22:09:03+01:00 INFO: WDR4: Going home -by- Sophie Zelmani
+2017-02-10T22:12:04+01:00 INFO: WDR4: Vaya con Dios -by- Nicolas de Angelis
+2017-02-10T22:16:05+01:00 INFO: WDR4: Claudia -by- Ludwig Hirsch
+2017-02-10T23:43:19+01:00 INFO: WDR4: Nightingale -by- Norah Jones
+2017-02-10T23:44:19+01:00 INFO: WDR4: The tide and the sea -by- Floyd Cramer
+2017-02-10T23:46:20+01:00 INFO: WDR4: Tennessee Waltz -by- Norman Luboff Choir
+2017-02-10T23:55:20+01:00 INFO: WDR4: This is for Luisa -by- Trio Da Paz

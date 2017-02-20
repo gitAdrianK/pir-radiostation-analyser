@@ -1,0 +1,29 @@
+2017-02-07T20:50:39+01:00 INFO: 1LIVE diGGi: We Own It -by- 2 Chainz feat. Wiz Khalifa
+2017-02-07T20:54:40+01:00 INFO: 1LIVE diGGi: Work -by- Rihanna feat. Drake
+2017-02-07T20:57:41+01:00 INFO: 1LIVE diGGi: Bilder im Kopf -by- Sido
+2017-02-07T21:04:42+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-07T21:19:44+01:00 INFO: 1LIVE diGGi: No Money -by- Galantis
+2017-02-07T21:22:48+01:00 INFO: 1LIVE diGGi: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-07T21:26:48+01:00 INFO: 1LIVE diGGi: Whistle -by- Flo Rida
+2017-02-07T21:31:48+01:00 INFO: 1LIVE diGGi: I Feel So Bad -by- Kungs feat. Ephemerals
+2017-02-07T21:34:49+01:00 INFO: 1LIVE diGGi: Bills -by- LunchMoney Lewis
+2017-02-07T21:38:49+01:00 INFO: 1LIVE diGGi: I feel it coming -by- The Weeknd feat. Daft Punk
+2017-02-07T21:41:50+01:00 INFO: 1LIVE diGGi: Final Song -by- M
+2017-02-07T21:46:51+01:00 INFO: 1LIVE diGGi: Run up -by- Major Lazer feat.Nicki Minaj & Partynextdoor
+2017-02-07T21:53:51+01:00 INFO: 1LIVE diGGi: Black Beatles -by- Rae Sremmurd feat. Gucci Mane
+2017-02-07T21:56:51+01:00 INFO: 1LIVE diGGi: Bailar -by- Deorro feat. Elvis Crespo
+2017-02-07T22:29:54+01:00 INFO: 1LIVE diGGi: Shape Of You -by- Ed Sheeran
+2017-02-07T22:33:54+01:00 INFO: 1LIVE diGGi: This Is What You Came For -by- Calvin Harris feat. Rihanna
+2017-02-07T22:37:54+01:00 INFO: 1LIVE diGGi: Ride Out -by- Tyga, Wale, Yg, Rich Homie Quan Kid Ink
+2017-02-07T22:41:55+01:00 INFO: 1LIVE diGGi: Hey Baby -by- Dimitri Vegas & Like Mike feat. Diplo
+2017-02-07T22:45:55+01:00 INFO: 1LIVE diGGi: I Don't Wanna Live Forever -by- ZAYN & Taylor Swift
+2017-02-07T22:49:55+01:00 INFO: 1LIVE diGGi: Hymn For The Weekend (Seeb Remix) -by- Coldplay
+2017-02-07T22:52:55+01:00 INFO: 1LIVE diGGi: Feel -by- Mahmut Orhan feat. Sena Sener
+2017-02-07T23:03:56+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-07T23:07:56+01:00 INFO: 1LIVE diGGi: I Want You To Know -by- Zedd feat. Selena Gomez
+2017-02-07T23:11:57+01:00 INFO: 1LIVE diGGi: Bad Ideas -by- Alle Farben
+2017-02-07T23:37:58+01:00 INFO: 1LIVE diGGi: Scared To Be Lonely -by- Martin Garrix & Dua Lipa
+2017-02-07T23:42:59+01:00 INFO: 1LIVE diGGi: Capsize -by- Frenship & Emily Warren
+2017-02-07T23:49:59+01:00 INFO: 1LIVE diGGi: Young, Wild & Free -by- Snoop Dogg & Wiz Khalifa feat. Bruno Mars
+2017-02-07T23:53:59+01:00 INFO: 1LIVE diGGi: Alone -by- Alan Walker
+2017-02-07T23:56:00+01:00 INFO: 1LIVE diGGi: Living -by- Bakermat feat. Alex Clare

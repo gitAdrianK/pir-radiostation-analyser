@@ -1,0 +1,139 @@
+2017-02-12T00:06:36+01:00 INFO: WDR4: So ein Schwein ... (hat man nur einmal) -by- Wolfgang Petry
+2017-02-12T00:33:38+01:00 INFO: WDR4: Black or white -by- Michael Jackson
+2017-02-12T00:36:38+01:00 INFO: WDR4: A sky full of stars (Robin Schulz Edit) -by- Coldplay
+2017-02-12T00:56:39+01:00 INFO: WDR4: Living in a box -by- Living in a Box
+2017-02-12T00:57:39+01:00 INFO: WDR4: Geile Zeit -by- Lockvogel feat. Meltem
+2017-02-12T01:19:40+01:00 INFO: WDR4: Startbereit -by- Sarah Schiffer
+2017-02-12T01:22:40+01:00 INFO: WDR4: You make me feel (mighty real) -by- Sylvester
+2017-02-12T01:26:41+01:00 INFO: WDR4: Ein neuer Himmel (Dance Mix) -by- Maria Levin
+2017-02-12T01:38:41+01:00 INFO: WDR4: Would I lie to you -by- David Guetta & Cedric Gervais & Chris Willis
+2017-02-12T01:45:42+01:00 INFO: WDR4: AbracadabraClub Mix -by- ELECTRIC SILENCE
+2017-02-12T01:57:42+01:00 INFO: WDR4: Donna mia -by- Andreas Fulterer
+2017-02-12T02:18:44+01:00 INFO: WDR4: Mr. Saxobeat (Radio Edit) -by- Alexandra Stan
+2017-02-12T02:19:44+01:00 INFO: WDR4: Hier drin -by- Sarah Schiffer
+2017-02-12T02:22:44+01:00 INFO: WDR4: Ich hab Alain Delon geseh'n (mix triomphal) -by- Pierre Ferdinand et les Charmeurs
+2017-02-12T02:57:46+01:00 INFO: WDR4: Forever young -by- Alphaville
+2017-02-12T03:57:49+01:00 INFO: WDR4: Pures Gold (Discofox Mix) -by- Norman Langen
+2017-02-12T04:23:51+01:00 INFO: WDR4: If a song could get me you -by- Marit Larsen
+2017-02-12T04:24:51+01:00 INFO: WDR4: More than I can say -by- Leo Sayer
+2017-02-12T04:27:51+01:00 INFO: WDR4: Josephine -by- Chris Rea
+2017-02-12T04:32:51+01:00 INFO: WDR4: Hitchin' a ride -by- Vanity Fare
+2017-02-12T04:34:52+01:00 INFO: WDR4: She's the one -by- Robbie Williams
+2017-02-12T04:38:52+01:00 INFO: WDR4: Alles dreht sich -by- Laith Al-Deen
+2017-02-12T04:41:52+01:00 INFO: WDR4: Bright eyes -by- Art Garfunkel
+2017-02-12T05:05:53+01:00 INFO: WDR4: S.O.S. -by- Abba
+2017-02-12T05:17:54+01:00 INFO: WDR4: Nowhere Man -by- Beatles
+2017-02-12T05:32:55+01:00 INFO: WDR4: Stars -by- Simply Red
+2017-02-12T05:36:55+01:00 INFO: WDR4: Hang on sloopy -by- McCoys
+2017-02-12T05:39:56+01:00 INFO: WDR4: Wolke 4 -by- Philipp Dittberner & Marv
+2017-02-12T06:05:57+01:00 INFO: WDR4: Alone again -by- Gilbert O'Sullivan
+2017-02-12T06:08:57+01:00 INFO: WDR4: Is this love -by- Bob Marley & The Wailers
+2017-02-12T06:12:57+01:00 INFO: WDR4: Father and son -by- Cat Stevens
+2017-02-12T06:16:58+01:00 INFO: WDR4: Lady of the dawn -by- Mike Batt
+2017-02-12T06:20:58+01:00 INFO: WDR4: Enjoy the silence -by- Depeche Mode
+2017-02-12T06:24:58+01:00 INFO: WDR4: Here comes the rain again -by- Eurythmics
+2017-02-12T06:28:58+01:00 INFO: WDR4: Seasons in the Sun -by- Terry Jacks
+2017-02-12T06:32:59+01:00 INFO: WDR4: Lucky day -by- Sasha
+2017-02-12T06:35:59+01:00 INFO: WDR4: Lieber so -by- Yvonne Catterfeld
+2017-02-12T06:39:59+01:00 INFO: WDR4: My little lady -by- Tremeloes
+2017-02-12T06:41:59+01:00 INFO: WDR4: Jealous Guy -by- Roxy Music
+2017-02-12T06:47:00+01:00 INFO: WDR4: I hear you now -by- Jon & Vangelis
+2017-02-12T06:51:00+01:00 INFO: WDR4: Valerie -by- Steve Winwood
+2017-02-12T06:55:00+01:00 INFO: WDR4: Weak in the presence of beauty -by- Alison Moyet
+2017-02-12T06:59:00+01:00 INFO: WDR4: A horse with no name -by- America
+2017-02-12T07:06:01+01:00 INFO: WDR4: So you win again -by- Hot Chocolate
+2017-02-12T07:14:01+01:00 INFO: WDR4: Take me where the sun is shining -by- Coleske
+2017-02-12T07:18:01+01:00 INFO: WDR4: Sweets for my sweet -by- Searchers
+2017-02-12T07:20:01+01:00 INFO: WDR4: Hallelujah -by- Leonard Cohen
+2017-02-12T07:25:02+01:00 INFO: WDR4: The promise you made -by- Cock Robin
+2017-02-12T07:29:02+01:00 INFO: WDR4: You're so vain -by- Carly Simon
+2017-02-12T07:33:02+01:00 INFO: WDR4: You and me (in my pocket) -by- Milow
+2017-02-12T07:36:02+01:00 INFO: WDR4: Coward of the county -by- Kenny Rogers
+2017-02-12T07:40:02+01:00 INFO: WDR4: The tide is high -by- Blondie
+2017-02-12T07:44:03+01:00 INFO: WDR4: Am seidenen Faden -by- Tim Bendzko
+2017-02-12T07:48:03+01:00 INFO: WDR4: She moves (far away) -by- Alle Farben & Graham Candy
+2017-02-12T07:51:03+01:00 INFO: WDR4: Co-co -by- Sweet
+2017-02-12T07:54:03+01:00 INFO: WDR4: Lean on me -by- Bill Withers
+2017-02-12T07:58:04+01:00 INFO: WDR4: Ella, elle l'a -by- France Gall
+2017-02-12T08:05:04+01:00 INFO: WDR4: I don't want to be a hero -by- Johnny Hates Jazz
+2017-02-12T08:44:06+01:00 INFO: WDR4: Pata pata -by- Miriam Makeba
+2017-02-12T08:47:06+01:00 INFO: WDR4: Big big world -by- Emilia
+2017-02-12T08:50:07+01:00 INFO: WDR4: Do you really want to hurt me -by- Culture Club
+2017-02-12T09:05:08+01:00 INFO: WDR4: Top of the world -by- Carpenters
+2017-02-12T09:08:08+01:00 INFO: WDR4: Waiting for a girl like you -by- Foreigner
+2017-02-12T10:19:15+01:00 INFO: WDR4: You're the first, the last, my everything -by- Barry White
+2017-02-12T10:31:15+01:00 INFO: WDR4: Don't let me be misunderstood -by- Santa Esmeralda
+2017-02-12T10:34:16+01:00 INFO: WDR4: I'm on fire -by- Bruce Springsteen
+2017-02-12T10:42:16+01:00 INFO: WDR4: Raindrops keep falling on my head -by- B. J. Thomas
+2017-02-12T10:46:16+01:00 INFO: WDR4: Typical male -by- Tina Turner
+2017-02-12T10:50:16+01:00 INFO: WDR4: Diamante -by- Zucchero & Randy Crawford
+2017-02-12T10:53:17+01:00 INFO: WDR4: Lyin' eyes -by- Eagles
+2017-02-12T11:05:17+01:00 INFO: WDR4: Knowing me, knowing you -by- Abba
+2017-02-12T11:10:18+01:00 INFO: WDR4: Good luck charm -by- Elvis Presley
+2017-02-12T11:18:18+01:00 INFO: WDR4: Feels like heaven -by- Fiction Factory
+2017-02-12T11:23:18+01:00 INFO: WDR4: If you don't know me by now -by- Simply Red
+2017-02-12T11:26:19+01:00 INFO: WDR4: Still the same -by- Bob Seger
+2017-02-12T12:05:21+01:00 INFO: WDR4: Ebony and ivory -by- Stevie Wonder & Paul McCartney
+2017-02-12T12:10:21+01:00 INFO: WDR4: Matthew and son -by- Cat Stevens
+2017-02-12T12:14:21+01:00 INFO: WDR4: If I said you have a beautiful body would you hold it against me -by- Bellamy Brothers
+2017-02-12T12:22:22+01:00 INFO: WDR4: No, no, never -by- Texas Lightning
+2017-02-12T12:24:22+01:00 INFO: WDR4: We belong -by- Pat Benatar
+2017-02-12T12:27:22+01:00 INFO: WDR4: Der Letzte macht das Licht aus -by- Robert Redweik
+2017-02-12T12:33:22+01:00 INFO: WDR4: Always look on the bright side -by- Monty Python feat. Eric Idle
+2017-02-12T12:36:23+01:00 INFO: WDR4: In the year 2525 -by- Zager & Evans
+2017-02-12T12:51:23+01:00 INFO: WDR4: Right back where we started from -by- Maxine Nightingale
+2017-02-12T12:55:24+01:00 INFO: WDR4: After the love has gone -by- Earth Wind & Fire
+2017-02-12T13:05:24+01:00 INFO: WDR4: Stumblin' in -by- Suzi Quatro & Chris Norman
+2017-02-12T13:09:25+01:00 INFO: WDR4: A kind of magic -by- Queen
+2017-02-12T13:17:25+01:00 INFO: WDR4: Up, up and away -by- 5th Dimension
+2017-02-12T13:24:25+01:00 INFO: WDR4: Livin' thing -by- Electric Light Orchestra (ELO)
+2017-02-12T13:26:26+01:00 INFO: WDR4: Careless whisper -by- George Michael
+2017-02-12T13:31:26+01:00 INFO: WDR4: Everything I own -by- Boy George
+2017-02-12T13:48:27+01:00 INFO: WDR4: Aloha heja he -by- Achim Reichel
+2017-02-12T14:06:28+01:00 INFO: WDR4: Don't get me wrong -by- Pretenders
+2017-02-12T14:09:28+01:00 INFO: WDR4: Hymn -by- Barclay James Harvest
+2017-02-12T14:14:28+01:00 INFO: WDR4: If paradise is half as nice -by- Amen Corner
+2017-02-12T14:16:28+01:00 INFO: WDR4: Send my love (to your new lover) -by- Adele
+2017-02-12T14:49:32+01:00 INFO: WDR4: From a distance -by- Bette Midler
+2017-02-12T14:56:33+01:00 INFO: WDR4: Dein Lied -by- Laith Al-Deen
+2017-02-12T15:06:33+01:00 INFO: WDR4: Don't stop -by- Fleetwood Mac
+2017-02-12T15:13:34+01:00 INFO: WDR4: More than this -by- Roxy Music
+2017-02-12T15:23:34+01:00 INFO: WDR4: Africa -by- Toto
+2017-02-12T15:26:35+01:00 INFO: WDR4: Can't get enough of your love, babe -by- Barry White
+2017-02-12T15:41:35+01:00 INFO: WDR4: Stuck in the middle with you -by- Stealers Wheel
+2017-02-12T15:44:36+01:00 INFO: WDR4: Ticket to ride -by- Beatles
+2017-02-12T15:47:36+01:00 INFO: WDR4: Reality -by- Richard Sanderson
+2017-02-12T15:51:36+01:00 INFO: WDR4: Supreme -by- Robbie Williams
+2017-02-12T16:20:38+01:00 INFO: WDR4: My name is Jack -by- Manfred Mann
+2017-02-12T16:31:38+01:00 INFO: WDR4: Samba pa ti -by- Santana
+2017-02-12T16:32:38+01:00 INFO: WDR4: Good times -by- Chic
+2017-02-12T16:36:38+01:00 INFO: WDR4: I guess that's why they call it the blues -by- Elton John
+2017-02-12T16:50:39+01:00 INFO: WDR4: Penny lover -by- Lionel Richie
+2017-02-12T16:53:39+01:00 INFO: WDR4: Broken wings -by- Mr. Mister
+2017-02-12T16:56:40+01:00 INFO: WDR4: Lifted -by- Lighthouse Family
+2017-02-12T17:09:41+01:00 INFO: WDR4: Who'll stop the rain? -by- Creedence Clearwater Revival
+2017-02-12T17:11:41+01:00 INFO: WDR4: The winner takes it all -by- Abba
+2017-02-12T17:12:41+01:00 INFO: WDR4: The winner -by- Abba
+2017-02-12T17:18:42+01:00 INFO: WDR4: Haus am See -by- Peter Fox
+2017-02-12T17:23:43+01:00 INFO: WDR4: To all the girls I've loved before -by- Julio Iglesias & Willie Nelson
+2017-02-12T17:26:43+01:00 INFO: WDR4: The candy man -by- Sammy Davis Jr.
+2017-02-12T17:33:44+01:00 INFO: WDR4: Themenmusik   aus: The good, the bad and the ugly -by- Orchester Hugo Montenegro
+2017-02-12T17:35:46+01:00 INFO: WDR4: Try to remember   aus: The fantasticks (Musical, 1960) -by- Harry Belafonte
+2017-02-12T17:39:46+01:00 INFO: WDR4: West Side Story (Musical) -by- Barbra Streisand
+2017-02-12T17:45:47+01:00 INFO: WDR4: Always look on the bright side -by- Monty Python feat. Eric Idle
+2017-02-12T17:48:48+01:00 INFO: WDR4: Xanadu -by- Olivia Newton-John & Electric Light Orchestra
+2017-02-12T17:53:49+01:00 INFO: WDR4: Limelight   Aus: Limelight (Rampenlicht) (Film, 1952) -by- The Hollywood Filmfestival Orchestra
+2017-02-12T17:57:49+01:00 INFO: WDR4: Casino Royale Theme   aus: James Bond 007Casino Royale (Film, 1966) -by- Herb Alpert
+2017-02-12T18:18:52+01:00 INFO: WDR4: Linkes Auge blau   aus: Drillinge an Bord (Film, 1959) -by- Heinz Erhardt
+2017-02-12T18:24:53+01:00 INFO: WDR4: Il ra -by- Adriano Celentano
+2017-02-12T18:27:53+01:00 INFO: WDR4: Il ragazzo della Via Gluck -by- Adriano Celentano
+2017-02-12T18:30:54+01:00 INFO: WDR4: Weil ich so sexy bin    aus: Und du mein Schatz bleibst hier (Film, 1961) -by- Trude Herr
+2017-02-12T18:33:55+01:00 INFO: WDR4: Du, die Wanne ist voll -by- Dieter Hallervorden /Helga Feddersen
+2017-02-12T18:45:56+01:00 INFO: WDR4: I want to go back to Michigan   aus: Pardon Us -by- Stan Laurel
+2017-02-12T18:50:57+01:00 INFO: WDR4: Pumpernickel und Babett -by- Chris Howland
+2017-02-12T18:54:57+01:00 INFO: WDR4: Zwei wie Pech und Schwefel (Film, 1974) -by- Oliver Onions
+2017-02-12T18:57:58+01:00 INFO: WDR4: The pink panther theme   aus: The pink panther (Orig) -by- Orchester Henry Mancini
+2017-02-12T19:10:01+01:00 INFO: WDR4: Kansas City -by- Les Humphries Singers
+2017-02-12T19:25:03+01:00 INFO: WDR4: Oh, Carol -by- Neil Sedaka
+2017-02-12T19:27:03+01:00 INFO: WDR4: Hard Rock Cafe -by- Carole King
+2017-02-12T19:46:04+01:00 INFO: WDR4: Grau zieht der Nebel -by- Alexandra

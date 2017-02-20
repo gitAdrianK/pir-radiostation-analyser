@@ -1,0 +1,299 @@
+2017-02-08T00:00:06+01:00 INFO: Antenne Niedersachsen On Air: Neuanfang -by- Clueso
+2017-02-08T00:03:06+01:00 INFO: Antenne Niedersachsen On Air: China Girl -by- David Bowie
+2017-02-08T00:09:06+01:00 INFO: Antenne Niedersachsen On Air: Happy -by- Pharrell Williams
+2017-02-08T00:13:07+01:00 INFO: Antenne Niedersachsen On Air: Let's Hurt Tonight -by- OneRepublic
+2017-02-08T00:19:07+01:00 INFO: Antenne Niedersachsen On Air: Irgendwas bleibt -by- Silbermond
+2017-02-08T00:22:08+01:00 INFO: Antenne Niedersachsen On Air: Marvin Gaye (feat. Meghan Trainor) -by- Charlie Puth
+2017-02-08T00:29:09+01:00 INFO: Antenne Niedersachsen On Air: Silent Running -by- Mike + The Mechanics
+2017-02-08T00:35:10+01:00 INFO: Antenne Niedersachsen On Air: I'm All About You -by- Rea Garvey
+2017-02-08T00:41:11+01:00 INFO: Antenne Niedersachsen On Air: Am I Wrong -by- Nico & Vinz
+2017-02-08T00:44:11+01:00 INFO: Antenne Niedersachsen On Air: Scars to Your Beautiful -by- Alessia Cara
+2017-02-08T00:50:12+01:00 INFO: Antenne Niedersachsen On Air: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-08T00:54:12+01:00 INFO: Antenne Niedersachsen On Air: 7 Years -by- Lukas Graham
+2017-02-08T01:02:13+01:00 INFO: Antenne Niedersachsen On Air: Love My Life -by- Robbie Williams
+2017-02-08T01:06:14+01:00 INFO: Antenne Niedersachsen On Air: Demons -by- Imagine Dragons
+2017-02-08T01:10:14+01:00 INFO: Antenne Niedersachsen On Air: Take On Me -by- a-ha
+2017-02-08T01:14:15+01:00 INFO: Antenne Niedersachsen On Air: Way Down We Go -by- Kaleo
+2017-02-08T01:19:15+01:00 INFO: Antenne Niedersachsen On Air: Forever and for Always -by- Shania Twain
+2017-02-08T01:23:16+01:00 INFO: Antenne Niedersachsen On Air: Spirits -by- The Strumbellas
+2017-02-08T01:31:17+01:00 INFO: Antenne Niedersachsen On Air: My Way -by- Calvin Harris
+2017-02-08T01:34:17+01:00 INFO: Antenne Niedersachsen On Air: HELLO (TURN YOUR RADIO ON) -by- SHAKESPEARE'S SISTER
+2017-02-08T01:40:18+01:00 INFO: Antenne Niedersachsen On Air: Waves -by- Mr. Probz
+2017-02-08T01:45:19+01:00 INFO: Antenne Niedersachsen On Air: SILVER LINING -by- Imany
+2017-02-08T01:48:19+01:00 INFO: Antenne Niedersachsen On Air: Bed of Roses -by- Bon Jovi
+2017-02-08T01:55:20+01:00 INFO: Antenne Niedersachsen On Air: Wasn't Expecting That -by- Jamie Lawson
+2017-02-08T02:02:20+01:00 INFO: Antenne Niedersachsen On Air: Chöre -by- Mark Forster
+2017-02-08T02:06:21+01:00 INFO: Antenne Niedersachsen On Air: A and Kicking -by- Simple Minds
+2017-02-08T02:13:22+01:00 INFO: Antenne Niedersachsen On Air: Lights -by- Ellie Goulding
+2017-02-08T02:16:22+01:00 INFO: Antenne Niedersachsen On Air: Shape of You -by- Ed Sheeran
+2017-02-08T02:22:23+01:00 INFO: Antenne Niedersachsen On Air: Behind Blue Eyes -by- Limp Bizkit
+2017-02-08T02:27:23+01:00 INFO: Antenne Niedersachsen On Air: Bonfire (feat. Alma) -by- Felix Jaehn
+2017-02-08T02:34:24+01:00 INFO: Antenne Niedersachsen On Air: Born In the U.S.A. -by- Bruce Springsteen
+2017-02-08T02:38:25+01:00 INFO: Antenne Niedersachsen On Air: Water Under the Bridge -by- Adele
+2017-02-08T02:45:26+01:00 INFO: Antenne Niedersachsen On Air: Take Me To Church -by- Hozier
+2017-02-08T02:50:26+01:00 INFO: Antenne Niedersachsen On Air: Rockabye (feat. Sean Paul & Anne-Marie) -by- Clean Bandit
+2017-02-08T02:54:27+01:00 INFO: Antenne Niedersachsen On Air: Torn -by- Natalie Imbruglia
+2017-02-08T03:02:27+01:00 INFO: Antenne Niedersachsen On Air: Bad Ideas -by- Alle Farben
+2017-02-08T03:05:28+01:00 INFO: Antenne Niedersachsen On Air: Avenir -by- Louane
+2017-02-08T03:10:28+01:00 INFO: Antenne Niedersachsen On Air: I Still Haven't Found What I'm Looking For -by- U2
+2017-02-08T03:14:29+01:00 INFO: Antenne Niedersachsen On Air: Shed a Light (feat. Cheat Codes) -by- Robin Schulz & David Guetta
+2017-02-08T03:19:30+01:00 INFO: Antenne Niedersachsen On Air: Human -by- The Killers
+2017-02-08T03:23:31+01:00 INFO: Antenne Niedersachsen On Air: If I Were Sorry -by- Frans
+2017-02-08T03:30:32+01:00 INFO: Antenne Niedersachsen On Air: The Sound of Silence -by- Disturbed
+2017-02-08T03:34:33+01:00 INFO: Antenne Niedersachsen On Air: The Sign -by- Ace of Base
+2017-02-08T03:40:33+01:00 INFO: Antenne Niedersachsen On Air: Lifesaver -by- Sunrise Avenue
+2017-02-08T03:44:34+01:00 INFO: Antenne Niedersachsen On Air: Feuerwerk -by- Wincent Weiss
+2017-02-08T03:50:34+01:00 INFO: Antenne Niedersachsen On Air: I'm So Excited -by- The Pointer Sisters
+2017-02-08T04:02:36+01:00 INFO: Antenne Niedersachsen On Air: Cocoon -by- Milky Chance
+2017-02-08T04:06:36+01:00 INFO: Antenne Niedersachsen On Air: Hold the Line -by- Toto
+2017-02-08T04:12:36+01:00 INFO: Antenne Niedersachsen On Air: Next to Me -by- Emeli Sandé
+2017-02-08T04:15:37+01:00 INFO: Antenne Niedersachsen On Air: Hologramm -by- Joy Denalane
+2017-02-08T04:22:37+01:00 INFO: Antenne Niedersachsen On Air: Give a Little Bit -by- The Goo Goo Dolls
+2017-02-08T04:25:38+01:00 INFO: Antenne Niedersachsen On Air: FourFiveSeconds -by- Rihanna and Kanye West and Paul McCartney
+2017-02-08T04:29:38+01:00 INFO: Antenne Niedersachsen On Air: Another Brick In the Wall, Pt. 2 -by- Pink Floyd
+2017-02-08T04:32:38+01:00 INFO: Antenne Niedersachsen On Air: Wenn sie tanzt -by- Max Giesinger
+2017-02-08T04:37:39+01:00 INFO: Antenne Niedersachsen On Air: Shake It Off -by- Taylor Swift
+2017-02-08T04:41:39+01:00 INFO: Antenne Niedersachsen On Air: Never Give Up -by- Sia
+2017-02-08T04:48:40+01:00 INFO: Antenne Niedersachsen On Air: Mmm Mmm Mmm Mmm -by- Crash Test Dummies
+2017-02-08T04:51:40+01:00 INFO: Antenne Niedersachsen On Air: Adventure of a Lifetime -by- Coldplay
+2017-02-08T05:01:41+01:00 INFO: Antenne Niedersachsen On Air: Wolke 4 -by- Philipp Dittberner & Marv
+2017-02-08T05:05:42+01:00 INFO: Antenne Niedersachsen On Air: Losing My Religion -by- R.E.M.
+2017-02-08T05:09:42+01:00 INFO: Antenne Niedersachsen On Air: Say You Won't Let Go -by- James Arthur
+2017-02-08T05:12:43+01:00 INFO: Antenne Niedersachsen On Air: Send My Love (To Your New Lover) -by- Adele
+2017-02-08T05:17:43+01:00 INFO: Antenne Niedersachsen On Air: The Boys of Summer -by- Don Henley
+2017-02-08T05:21:44+01:00 INFO: Antenne Niedersachsen On Air: I Took a Pill In Ibiza -by- Mike Posner
+2017-02-08T05:28:45+01:00 INFO: Antenne Niedersachsen On Air: Howling at the Moon -by- Milow
+2017-02-08T05:31:45+01:00 INFO: Antenne Niedersachsen On Air: Maniac (Flashdance Version) (Re-Recorded / Remastered) -by- Michael Sembello
+2017-02-08T05:37:46+01:00 INFO: Antenne Niedersachsen On Air: I'm All About You -by- Rea Garvey
+2017-02-08T05:40:46+01:00 INFO: Antenne Niedersachsen On Air: Upside Down -by- Jack Johnson
+2017-02-08T05:43:46+01:00 INFO: Antenne Niedersachsen On Air: Geiles Leben -by- Glasperlenspiel
+2017-02-08T05:48:48+01:00 INFO: Antenne Niedersachsen On Air: Count On Me -by- Bruno Mars
+2017-02-08T05:51:49+01:00 INFO: Antenne Niedersachsen On Air: Radio Ga Ga -by- Queen
+2017-02-08T06:00:50+01:00 INFO: Antenne Niedersachsen On Air: Neuanfang -by- Clueso
+2017-02-08T06:03:50+01:00 INFO: Antenne Niedersachsen On Air: Relax -by- Frankie Goes to Hollywood
+2017-02-08T06:07:51+01:00 INFO: Antenne Niedersachsen On Air: Treat You Better -by- Shawn Mendes
+2017-02-08T06:10:51+01:00 INFO: Antenne Niedersachsen On Air: Wherever You Will Go -by- The Calling
+2017-02-08T06:18:52+01:00 INFO: Antenne Niedersachsen On Air: Ich will nur dass du weißt (feat. Adel Tawil) -by- SDP
+2017-02-08T06:22:52+01:00 INFO: Antenne Niedersachsen On Air: Into the Groove -by- Madonna
+2017-02-08T06:29:53+01:00 INFO: Antenne Niedersachsen On Air: Love My Life -by- Robbie Williams
+2017-02-08T06:31:54+01:00 INFO: Antenne Niedersachsen On Air: I'd Do Anything for Love (But I Won't Do That) -by- Meat Loaf
+2017-02-08T06:38:54+01:00 INFO: Antenne Niedersachsen On Air: Sugar (feat. Francesco Yates) -by- Robin Schulz
+2017-02-08T06:41:55+01:00 INFO: Antenne Niedersachsen On Air: Tage wie diese -by- Die Toten Hosen
+2017-02-08T06:48:56+01:00 INFO: Antenne Niedersachsen On Air: The Sun Always Shines On TV -by- a-ha
+2017-02-08T06:51:57+01:00 INFO: Antenne Niedersachsen On Air: Hold Back the River -by- James Bay
+2017-02-08T07:00:59+01:00 INFO: Antenne Niedersachsen On Air: My Way -by- Calvin Harris
+2017-02-08T07:03:59+01:00 INFO: Antenne Niedersachsen On Air: Friday I'm In Love -by- The Cure
+2017-02-08T07:10:00+01:00 INFO: Antenne Niedersachsen On Air: 80 Millionen -by- Max Giesinger
+2017-02-08T07:19:02+01:00 INFO: Antenne Niedersachsen On Air: That's All -by- Genesis
+2017-02-08T07:21:02+01:00 INFO: Antenne Niedersachsen On Air: Waiting for Love -by- Avicii
+2017-02-08T07:30:03+01:00 INFO: Antenne Niedersachsen On Air: Chöre -by- Mark Forster
+2017-02-08T07:34:03+01:00 INFO: Antenne Niedersachsen On Air: Flesh for Fantasy -by- Billy Idol
+2017-02-08T07:39:04+01:00 INFO: Antenne Niedersachsen On Air: The Riddle -by- Gigi d'Agostino
+2017-02-08T07:48:05+01:00 INFO: Antenne Niedersachsen On Air: Dear Darlin' -by- Olly Murs
+2017-02-08T07:51:05+01:00 INFO: Antenne Niedersachsen On Air: Every Breath You Take -by- The Police
+2017-02-08T08:01:07+01:00 INFO: Antenne Niedersachsen On Air: Water Under the Bridge -by- Adele
+2017-02-08T08:03:07+01:00 INFO: Antenne Niedersachsen On Air: Zu spät -by- Die Ärzte
+2017-02-08T08:19:08+01:00 INFO: Antenne Niedersachsen On Air: ON FIRE -by- STEFANE HEINZMANN
+2017-02-08T08:22:08+01:00 INFO: Antenne Niedersachsen On Air: Love Changes (Everything) -by- Climie Fisher
+2017-02-08T08:31:09+01:00 INFO: Antenne Niedersachsen On Air: The Sound of Silence -by- Disturbed
+2017-02-08T08:35:10+01:00 INFO: Antenne Niedersachsen On Air: LADY (HEAR ME TONIGHT) -by- MODJO
+2017-02-08T08:38:10+01:00 INFO: Antenne Niedersachsen On Air: Herz über Kopf -by- Joris
+2017-02-08T08:44:11+01:00 INFO: Antenne Niedersachsen On Air: I Couldn't Care Less -by- Leslie Clio
+2017-02-08T08:49:11+01:00 INFO: Antenne Niedersachsen On Air: I Can't Stand the Rain -by- Tina Turner
+2017-02-08T08:53:12+01:00 INFO: Antenne Niedersachsen On Air: King -by- Years & Years
+2017-02-08T09:01:12+01:00 INFO: Antenne Niedersachsen On Air: Bad Ideas -by- Alle Farben
+2017-02-08T09:04:13+01:00 INFO: Antenne Niedersachsen On Air: Wake Me Up -by- Aloe Blacc
+2017-02-08T09:07:13+01:00 INFO: Antenne Niedersachsen On Air: You Can Leave Your Hat On -by- Joe Cocker
+2017-02-08T09:11:14+01:00 INFO: Antenne Niedersachsen On Air: Are You with Me (Radio Edit) -by- Lost Frequencies
+2017-02-08T09:13:14+01:00 INFO: Antenne Niedersachsen On Air: Schönste Zeit -by- Bosse
+2017-02-08T09:16:14+01:00 INFO: Antenne Niedersachsen On Air: Let Me Entertain You -by- Robbie Williams
+2017-02-08T09:19:14+01:00 INFO: Antenne Niedersachsen On Air: Photograph -by- Ed Sheeran
+2017-02-08T09:22:15+01:00 INFO: Antenne Niedersachsen On Air: Haus am See -by- Peter Fox
+2017-02-08T09:25:15+01:00 INFO: Antenne Niedersachsen On Air: Be the One -by- Dua Lipa
+2017-02-08T09:33:18+01:00 INFO: Antenne Niedersachsen On Air: Wherever I Go -by- OneRepublic
+2017-02-08T09:36:18+01:00 INFO: Antenne Niedersachsen On Air: Footloose -by- Kenny Loggins
+2017-02-08T09:39:19+01:00 INFO: Antenne Niedersachsen On Air: Cocoon -by- Milky Chance
+2017-02-08T09:43:19+01:00 INFO: Antenne Niedersachsen On Air: No No Never -by- Texas Lightning
+2017-02-08T09:49:20+01:00 INFO: Antenne Niedersachsen On Air: New York, Rio, Rosenheim -by- Sportfreunde Stiller
+2017-02-08T09:52:20+01:00 INFO: Antenne Niedersachsen On Air: I Wanna Dance With Somebody -by- Whitney Houston
+2017-02-08T09:59:21+01:00 INFO: Antenne Niedersachsen On Air: Cheerleader (feat. Kid Ink) -by- Omi
+2017-02-08T10:03:22+01:00 INFO: Antenne Niedersachsen On Air: Hungry Heart -by- Bruce Springsteen
+2017-02-08T10:09:23+01:00 INFO: Antenne Niedersachsen On Air: I Gotta Feeling -by- The Black Eyed Peas
+2017-02-08T10:12:23+01:00 INFO: Antenne Niedersachsen On Air: It's a Beautiful Day -by- Michael Bublé
+2017-02-08T10:20:24+01:00 INFO: Antenne Niedersachsen On Air: Got My Mind Set On You -by- George Harrison
+2017-02-08T10:24:24+01:00 INFO: Antenne Niedersachsen On Air: Don't Be So Shy -by- Imany
+2017-02-08T10:31:25+01:00 INFO: Antenne Niedersachsen On Air: You and Me (In My Pocket) -by- Milow
+2017-02-08T10:34:25+01:00 INFO: Antenne Niedersachsen On Air: Say You Won't Let Go -by- James Arthur
+2017-02-08T10:37:26+01:00 INFO: Antenne Niedersachsen On Air: The Bad Touch -by- Bloodhound Gang
+2017-02-08T10:40:26+01:00 INFO: Antenne Niedersachsen On Air: Rockabye (feat. Sean Paul & Anne-Marie) -by- Clean Bandit
+2017-02-08T10:47:27+01:00 INFO: Antenne Niedersachsen On Air: When Tomorrow Comes -by- Eurythmics
+2017-02-08T10:50:27+01:00 INFO: Antenne Niedersachsen On Air: Home (feat. Nico Santos) -by- Topic
+2017-02-08T10:59:28+01:00 INFO: Antenne Niedersachsen On Air: Love of the Common People -by- Paul Young
+2017-02-08T11:02:28+01:00 INFO: Antenne Niedersachsen On Air: Don't You Know (feat. Jamie N Commons) -by- Kungs
+2017-02-08T11:04:29+01:00 INFO: Antenne Niedersachsen On Air: I'm All About You -by- Rea Garvey
+2017-02-08T11:09:30+01:00 INFO: Antenne Niedersachsen On Air: SAILING ON THE SEVEN SEAS -by- O.M.D.
+2017-02-08T11:16:31+01:00 INFO: Antenne Niedersachsen On Air: Hollywood Hills -by- Sunrise Avenue
+2017-02-08T11:20:31+01:00 INFO: Antenne Niedersachsen On Air: Lights -by- Ellie Goulding
+2017-02-08T11:25:32+01:00 INFO: Antenne Niedersachsen On Air: Up (feat. Demi Lovato) -by- Olly Murs
+2017-02-08T11:29:33+01:00 INFO: Antenne Niedersachsen On Air: Something Happened On the Way To Heaven -by- Phil Collins
+2017-02-08T11:35:34+01:00 INFO: Antenne Niedersachsen On Air: Firework -by- Katy Perry
+2017-02-08T11:39:34+01:00 INFO: Antenne Niedersachsen On Air: Catch & Release -by- Matt Simons
+2017-02-08T11:42:35+01:00 INFO: Antenne Niedersachsen On Air: Waves -by- Mr. Probz
+2017-02-08T11:47:36+01:00 INFO: Antenne Niedersachsen On Air: Rosanna -by- Toto
+2017-02-08T11:51:36+01:00 INFO: Antenne Niedersachsen On Air: Ich lass für dich das Licht an -by- Revolverheld
+2017-02-08T11:59:37+01:00 INFO: Antenne Niedersachsen On Air: Book of Love (feat. Polina) -by- Felix Jaehn
+2017-02-08T12:02:38+01:00 INFO: Antenne Niedersachsen On Air: Livin' On a Prayer -by- Bon Jovi
+2017-02-08T12:09:38+01:00 INFO: Antenne Niedersachsen On Air: Just the Way You Are -by- Bruno Mars
+2017-02-08T12:12:39+01:00 INFO: Antenne Niedersachsen On Air: Hey Brother -by- Avicii
+2017-02-08T12:21:40+01:00 INFO: Antenne Niedersachsen On Air: Mambo -by- Herbert Grönemeyer
+2017-02-08T12:24:40+01:00 INFO: Antenne Niedersachsen On Air: Dos Bros -by- The BossHoss
+2017-02-08T12:28:41+01:00 INFO: Antenne Niedersachsen On Air: I Do -by- Colbie Caillat
+2017-02-08T12:31:41+01:00 INFO: Antenne Niedersachsen On Air: My Way -by- Calvin Harris
+2017-02-08T12:33:41+01:00 INFO: Antenne Niedersachsen On Air: Time To Wonder -by- Fury In the Slaughterhouse
+2017-02-08T12:37:42+01:00 INFO: Antenne Niedersachsen On Air: Never Give Up -by- Sia
+2017-02-08T12:38:42+01:00 INFO: Antenne Niedersachsen On Air: Mercy -by- Shawn Mendes
+2017-02-08T12:47:43+01:00 INFO: Antenne Niedersachsen On Air: Kyrie -by- Mr. Mister
+2017-02-08T12:50:43+01:00 INFO: Antenne Niedersachsen On Air: Ex's & Oh's -by- Elle King
+2017-02-08T12:59:44+01:00 INFO: Antenne Niedersachsen On Air: Summer Of '69 -by- Bryan Adams
+2017-02-08T13:01:45+01:00 INFO: Antenne Niedersachsen On Air: Keep My Cool -by- Madcon
+2017-02-08T13:04:45+01:00 INFO: Antenne Niedersachsen On Air: Chöre -by- Mark Forster
+2017-02-08T13:08:46+01:00 INFO: Antenne Niedersachsen On Air: Fireflies -by- Owl City
+2017-02-08T13:11:46+01:00 INFO: Antenne Niedersachsen On Air: The One and Only -by- Chesney Hawkes
+2017-02-08T13:18:47+01:00 INFO: Antenne Niedersachsen On Air: Dream On -by- Amy Macdonald
+2017-02-08T13:21:47+01:00 INFO: Antenne Niedersachsen On Air: Can't Say No -by- Rea Garvey
+2017-02-08T13:27:47+01:00 INFO: Antenne Niedersachsen On Air: Try Me (feat. Jennifer Lopez & Matoma) -by- Jason Derulo
+2017-02-08T13:30:48+01:00 INFO: Antenne Niedersachsen On Air: Sunglasses at Night -by- Corey Hart
+2017-02-08T13:37:49+01:00 INFO: Antenne Niedersachsen On Air: MARCHIN ON -by- ONE REPUBLIC & TIMBALAND
+2017-02-08T13:41:49+01:00 INFO: Antenne Niedersachsen On Air: Shut Up and Dance -by- WALK THE MOON
+2017-02-08T13:48:50+01:00 INFO: Antenne Niedersachsen On Air: Just Can't Get Enough -by- Depeche Mode
+2017-02-08T13:51:50+01:00 INFO: Antenne Niedersachsen On Air: I FOLLOW RIVERS -by- LYKKIE LI
+2017-02-08T13:59:52+01:00 INFO: Antenne Niedersachsen On Air: Renegades -by- X Ambassadors
+2017-02-08T14:02:52+01:00 INFO: Antenne Niedersachsen On Air: All I Need Is a Miracle -by- Mike + The Mechanics
+2017-02-08T14:11:53+01:00 INFO: Antenne Niedersachsen On Air: Waka Waka (This Time for Africa) (feat. Freshlyground) -by- Shakira
+2017-02-08T14:19:55+01:00 INFO: Antenne Niedersachsen On Air: Ghostbusters -by- Ray Parker, Jr.
+2017-02-08T14:23:55+01:00 INFO: Antenne Niedersachsen On Air: CAN'T STOP THE FEELING -by- Justin Timberlake
+2017-02-08T14:27:55+01:00 INFO: Antenne Niedersachsen On Air: Ein Kompliment -by- Sportfreunde Stiller
+2017-02-08T14:31:56+01:00 INFO: Antenne Niedersachsen On Air: Bad Ideas -by- Alle Farben
+2017-02-08T14:34:56+01:00 INFO: Antenne Niedersachsen On Air: As I Lay Me Down -by- Sophie B. Hawkins
+2017-02-08T14:37:57+01:00 INFO: Antenne Niedersachsen On Air: Grow Up -by- Olly Murs
+2017-02-08T14:41:58+01:00 INFO: Antenne Niedersachsen On Air: Fade Out Lines -by- The Avener
+2017-02-08T14:47:59+01:00 INFO: Antenne Niedersachsen On Air: Westerland -by- Die Ärzte
+2017-02-08T14:51:59+01:00 INFO: Antenne Niedersachsen On Air: FourFiveSeconds -by- Rihanna and Kanye West and Paul McCartney
+2017-02-08T15:00:01+01:00 INFO: Antenne Niedersachsen On Air: Baby Jane -by- Rod Stewart
+2017-02-08T15:03:01+01:00 INFO: Antenne Niedersachsen On Air: Das ist dein Leben -by- Philipp Dittberner
+2017-02-08T15:06:01+01:00 INFO: Antenne Niedersachsen On Air: Cocoon -by- Milky Chance
+2017-02-08T15:09:02+01:00 INFO: Antenne Niedersachsen On Air: Sleeping In My Car -by- Roxette
+2017-02-08T15:12:02+01:00 INFO: Antenne Niedersachsen On Air: Castle on the Hill -by- Ed Sheeran
+2017-02-08T15:21:04+01:00 INFO: Antenne Niedersachsen On Air: Crazy -by- Gnarls Barkley
+2017-02-08T15:23:04+01:00 INFO: Antenne Niedersachsen On Air: Millionen Lichter -by- Christina Stürmer
+2017-02-08T15:28:05+01:00 INFO: Antenne Niedersachsen On Air: Let Me Love You (feat. Justin Bieber) -by- DJ Snake
+2017-02-08T15:32:06+01:00 INFO: Antenne Niedersachsen On Air: (I Just) Died in Your Arms -by- Cutting Crew
+2017-02-08T15:38:10+01:00 INFO: Antenne Niedersachsen On Air: Set Fire to the Rain -by- Adele
+2017-02-08T15:41:10+01:00 INFO: Antenne Niedersachsen On Air: Spirits -by- The Strumbellas
+2017-02-08T15:49:12+01:00 INFO: Antenne Niedersachsen On Air: Hold Me Now -by- Thompson Twins
+2017-02-08T15:51:13+01:00 INFO: Antenne Niedersachsen On Air: Happy -by- Pharrell Williams
+2017-02-08T15:59:14+01:00 INFO: Antenne Niedersachsen On Air: Ich will nur dass du weißt (feat. Adel Tawil) -by- SDP
+2017-02-08T16:03:15+01:00 INFO: Antenne Niedersachsen On Air: Flashdance...What a Feeling -by- Irene Cara
+2017-02-08T16:09:16+01:00 INFO: Antenne Niedersachsen On Air: Hey, Soul Sister -by- Train
+2017-02-08T16:12:17+01:00 INFO: Antenne Niedersachsen On Air: Move In the Right Direction -by- Gossip
+2017-02-08T16:21:18+01:00 INFO: Antenne Niedersachsen On Air: Road to Nowhere -by- Talking Heads
+2017-02-08T16:23:18+01:00 INFO: Antenne Niedersachsen On Air: Reality (feat. Janieck Devy) -by- Lost Frequencies
+2017-02-08T16:28:19+01:00 INFO: Antenne Niedersachsen On Air: Little In the Middle -by- Milow
+2017-02-08T16:31:20+01:00 INFO: Antenne Niedersachsen On Air: I'm All About You -by- Rea Garvey
+2017-02-08T16:34:20+01:00 INFO: Antenne Niedersachsen On Air: Bilder von dir -by- Laith Al-Deen
+2017-02-08T16:37:21+01:00 INFO: Antenne Niedersachsen On Air: Scars to Your Beautiful -by- Alessia Cara
+2017-02-08T16:41:21+01:00 INFO: Antenne Niedersachsen On Air: Prayer in C (Robin Schulz Radio Edit) -by- Lilly Wood & The Prick and Robin Schulz
+2017-02-08T16:48:26+01:00 INFO: Antenne Niedersachsen On Air: You're the Voice -by- John Farnham
+2017-02-08T16:51:26+01:00 INFO: Antenne Niedersachsen On Air: One Call Away -by- Charlie Puth
+2017-02-08T16:59:27+01:00 INFO: Antenne Niedersachsen On Air: The Best -by- Tina Turner
+2017-02-08T17:02:28+01:00 INFO: Antenne Niedersachsen On Air: Please Tell Rosie (feat. YOUNOTUS) -by- Alle Farben
+2017-02-08T17:05:29+01:00 INFO: Antenne Niedersachsen On Air: Neuanfang -by- Clueso
+2017-02-08T17:08:29+01:00 INFO: Antenne Niedersachsen On Air: Two Princes -by- Spin Doctors
+2017-02-08T17:11:30+01:00 INFO: Antenne Niedersachsen On Air: SILVER LINING -by- Imany
+2017-02-08T17:20:32+01:00 INFO: Antenne Niedersachsen On Air: Still -by- Jupiter Jones
+2017-02-08T17:23:32+01:00 INFO: Antenne Niedersachsen On Air: On Top of the World -by- Imagine Dragons
+2017-02-08T17:28:32+01:00 INFO: Antenne Niedersachsen On Air: Cheap Thrills (feat. Sean Paul) -by- Sia
+2017-02-08T17:32:33+01:00 INFO: Antenne Niedersachsen On Air: I Want To Break Free -by- Queen
+2017-02-08T17:38:35+01:00 INFO: Antenne Niedersachsen On Air: Dance With Somebody -by- Mando Diao
+2017-02-08T17:46:38+01:00 INFO: Antenne Niedersachsen On Air: You Can Call Me Al -by- Paul Simon
+2017-02-08T17:50:39+01:00 INFO: Antenne Niedersachsen On Air: Nothing Is Over -by- Sunrise Avenue
+2017-02-08T17:58:41+01:00 INFO: Antenne Niedersachsen On Air: When I Wake Up -by- Lions Head
+2017-02-08T18:01:42+01:00 INFO: Antenne Niedersachsen On Air: China Girl -by- David Bowie
+2017-02-08T18:09:46+01:00 INFO: Antenne Niedersachsen On Air: The Lazy Song -by- Bruno Mars
+2017-02-08T18:12:47+01:00 INFO: Antenne Niedersachsen On Air: Auf anderen Wegen -by- Andreas Bourani
+2017-02-08T18:20:48+01:00 INFO: Antenne Niedersachsen On Air: Ain't Nobody -by- Rufus and Chaka Khan
+2017-02-08T18:23:48+01:00 INFO: Antenne Niedersachsen On Air: Jolene (feat. The Common Linnets) -by- The BossHoss
+2017-02-08T18:28:48+01:00 INFO: Antenne Niedersachsen On Air: I Need A Dollar -by- Aloe Blacc
+2017-02-08T18:30:49+01:00 INFO: Antenne Niedersachsen On Air: Chöre -by- Mark Forster
+2017-02-08T18:34:50+01:00 INFO: Antenne Niedersachsen On Air: Save Tonight -by- Eagle-Eye Cherry
+2017-02-08T18:37:50+01:00 INFO: Antenne Niedersachsen On Air: Rockabye (feat. Sean Paul & Anne-Marie) -by- Clean Bandit
+2017-02-08T18:40:50+01:00 INFO: Antenne Niedersachsen On Air: Oh My Love -by- Rea Garvey
+2017-02-08T18:47:51+01:00 INFO: Antenne Niedersachsen On Air: Wonderful Life -by- Black
+2017-02-08T18:51:52+01:00 INFO: Antenne Niedersachsen On Air: THIS GIRL -by- KUNGS,  COOKIN ON 3 BURNERS
+2017-02-08T18:59:53+01:00 INFO: Antenne Niedersachsen On Air: Dancing In the Dark -by- Bruce Springsteen
+2017-02-08T19:02:53+01:00 INFO: Antenne Niedersachsen On Air: I Took a Pill In Ibiza -by- Mike Posner
+2017-02-08T19:06:54+01:00 INFO: Antenne Niedersachsen On Air: The Sound of Silence -by- Disturbed
+2017-02-08T19:10:54+01:00 INFO: Antenne Niedersachsen On Air: Everybody Gets a Second Chance -by- Mike + The Mechanics
+2017-02-08T19:14:55+01:00 INFO: Antenne Niedersachsen On Air: Waiting for Love -by- Avicii
+2017-02-08T19:20:55+01:00 INFO: Antenne Niedersachsen On Air: One Day In Your Life -by- Anastacia
+2017-02-08T19:22:56+01:00 INFO: Antenne Niedersachsen On Air: All About That Bass -by- Meghan Trainor
+2017-02-08T19:28:56+01:00 INFO: Antenne Niedersachsen On Air: Lose Control -by- Matt Simons
+2017-02-08T19:30:57+01:00 INFO: Antenne Niedersachsen On Air: Money for Nothing -by- Dire Straits
+2017-02-08T19:38:58+01:00 INFO: Antenne Niedersachsen On Air: Glow -by- Madcon
+2017-02-08T19:42:58+01:00 INFO: Antenne Niedersachsen On Air: Let's Hurt Tonight -by- OneRepublic
+2017-02-08T19:47:59+01:00 INFO: Antenne Niedersachsen On Air: The Riddle -by- Nik Kershaw
+2017-02-08T19:52:00+01:00 INFO: Antenne Niedersachsen On Air: Blame It on Me -by- George Ezra
+2017-02-08T20:00:01+01:00 INFO: Antenne Niedersachsen On Air: Herz über Kopf -by- Joris
+2017-02-08T20:03:01+01:00 INFO: Antenne Niedersachsen On Air: Unchain My Heart -by- Joe Cocker
+2017-02-08T20:09:02+01:00 INFO: Antenne Niedersachsen On Air: Sweet About Me -by- Gabriella Cilmi
+2017-02-08T20:12:03+01:00 INFO: Antenne Niedersachsen On Air: Way Down We Go -by- Kaleo
+2017-02-08T20:18:04+01:00 INFO: Antenne Niedersachsen On Air: If I Could Turn Back Time -by- Cher
+2017-02-08T20:22:04+01:00 INFO: Antenne Niedersachsen On Air: Hey -by- Andreas Bourani
+2017-02-08T20:29:05+01:00 INFO: Antenne Niedersachsen On Air: Give a Little Bit -by- The Goo Goo Dolls
+2017-02-08T20:32:06+01:00 INFO: Antenne Niedersachsen On Air: Cocoon -by- Milky Chance
+2017-02-08T20:36:07+01:00 INFO: Antenne Niedersachsen On Air: Heal the World -by- Michael Jackson
+2017-02-08T20:39:07+01:00 INFO: Antenne Niedersachsen On Air: Demons -by- Imagine Dragons
+2017-02-08T20:42:08+01:00 INFO: Antenne Niedersachsen On Air: Never Give Up -by- Sia
+2017-02-08T20:47:09+01:00 INFO: Antenne Niedersachsen On Air: Like the Way I Do -by- Melissa Etheridge
+2017-02-08T20:52:10+01:00 INFO: Antenne Niedersachsen On Air: Am I Wrong -by- Nico & Vinz
+2017-02-08T21:00:11+01:00 INFO: Antenne Niedersachsen On Air: Little Lies -by- Fleetwood Mac
+2017-02-08T21:03:12+01:00 INFO: Antenne Niedersachsen On Air: King -by- Years & Years
+2017-02-08T21:06:12+01:00 INFO: Antenne Niedersachsen On Air: Wenn sie tanzt -by- Max Giesinger
+2017-02-08T21:09:13+01:00 INFO: Antenne Niedersachsen On Air: Won't Forget These Days -by- Fury In the Slaughterhouse
+2017-02-08T21:12:13+01:00 INFO: Antenne Niedersachsen On Air: Dream On -by- Amy Macdonald
+2017-02-08T21:15:14+01:00 INFO: Antenne Niedersachsen On Air: On Fire -by- Stefanie Heinzmann
+2017-02-08T21:22:15+01:00 INFO: Antenne Niedersachsen On Air: Bad Day -by- Daniel Powter
+2017-02-08T21:24:15+01:00 INFO: Antenne Niedersachsen On Air: Whatever -by- Cro
+2017-02-08T21:30:18+01:00 INFO: Antenne Niedersachsen On Air: No No No -by- Milow
+2017-02-08T21:33:18+01:00 INFO: Antenne Niedersachsen On Air: Big in Japan '88) -by- Alphaville
+2017-02-08T21:40:20+01:00 INFO: Antenne Niedersachsen On Air: Irgendwas bleibt -by- Silbermond
+2017-02-08T21:43:20+01:00 INFO: Antenne Niedersachsen On Air: Shape of You -by- Ed Sheeran
+2017-02-08T21:49:22+01:00 INFO: Antenne Niedersachsen On Air: Musik nur, wenn sie laut ist -by- Herbert Grönemeyer
+2017-02-08T21:52:23+01:00 INFO: Antenne Niedersachsen On Air: Heart To Heart -by- James Blunt
+2017-02-08T22:00:24+01:00 INFO: Antenne Niedersachsen On Air: Bonfire (feat. Alma) -by- Felix Jaehn
+2017-02-08T22:03:25+01:00 INFO: Antenne Niedersachsen On Air: Sometimes -by- Erasure
+2017-02-08T22:09:29+01:00 INFO: Antenne Niedersachsen On Air: Not Fair -by- Lily Allen
+2017-02-08T22:13:30+01:00 INFO: Antenne Niedersachsen On Air: Hologramm -by- Joy Denalane
+2017-02-08T22:18:30+01:00 INFO: Antenne Niedersachsen On Air: The Great Commandment -by- Camouflage
+2017-02-08T22:21:30+01:00 INFO: Antenne Niedersachsen On Air: If I Were Sorry -by- Frans
+2017-02-08T22:27:31+01:00 INFO: Antenne Niedersachsen On Air: I Gotta Feeling -by- The Black Eyed Peas
+2017-02-08T22:31:32+01:00 INFO: Antenne Niedersachsen On Air: Neuanfang -by- Clueso
+2017-02-08T22:34:33+01:00 INFO: Antenne Niedersachsen On Air: Losing My Religion -by- R.E.M.
+2017-02-08T22:38:33+01:00 INFO: Antenne Niedersachsen On Air: Wake Me Up -by- Avicii
+2017-02-08T22:42:34+01:00 INFO: Antenne Niedersachsen On Air: Grow Up -by- Olly Murs
+2017-02-08T22:48:34+01:00 INFO: Antenne Niedersachsen On Air: Pride (In the Name of Love) -by- U2
+2017-02-08T22:52:35+01:00 INFO: Antenne Niedersachsen On Air: You're Not Alone -by- Mads Langer
+2017-02-08T22:59:36+01:00 INFO: Antenne Niedersachsen On Air: Our House -by- Madness
+2017-02-08T23:02:36+01:00 INFO: Antenne Niedersachsen On Air: Just Like Fire -by- P!nk
+2017-02-08T23:06:37+01:00 INFO: Antenne Niedersachsen On Air: My Way -by- Calvin Harris
+2017-02-08T23:08:37+01:00 INFO: Antenne Niedersachsen On Air: Fields of Gold -by- Sting
+2017-02-08T23:11:38+01:00 INFO: Antenne Niedersachsen On Air: Castle on the Hill -by- Ed Sheeran
+2017-02-08T23:16:39+01:00 INFO: Antenne Niedersachsen On Air: Are You with Me (Radio Edit) -by- Lost Frequencies
+2017-02-08T23:20:39+01:00 INFO: Antenne Niedersachsen On Air: All Summer Long -by- Kid Rock
+2017-02-08T23:23:41+01:00 INFO: Antenne Niedersachsen On Air: Zuhause -by- Adel Tawil
+2017-02-08T23:30:42+01:00 INFO: Antenne Niedersachsen On Air: Kids -by- OneRepublic
+2017-02-08T23:33:42+01:00 INFO: Antenne Niedersachsen On Air: Don't You Want Me -by- The Human League
+2017-02-08T23:40:44+01:00 INFO: Antenne Niedersachsen On Air: Behind Blue Eyes -by- Limp Bizkit
+2017-02-08T23:43:44+01:00 INFO: Antenne Niedersachsen On Air: Shed a Light (feat. Cheat Codes) -by- Robin Schulz & David Guetta
+2017-02-08T23:48:45+01:00 INFO: Antenne Niedersachsen On Air: Don't You (Forget About Me) -by- Simple Minds
+2017-02-08T23:51:45+01:00 INFO: Antenne Niedersachsen On Air: Impossible -by- James Arthur

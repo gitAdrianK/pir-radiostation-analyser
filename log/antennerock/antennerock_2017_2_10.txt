@@ -1,0 +1,382 @@
+2017-02-10T00:03:54+01:00 INFO: Antenne Rock: DROPS OF JUPITER (TELL ME) -by- Train
+2017-02-10T00:07:54+01:00 INFO: Antenne Rock: 1979 -by- Smashing Pumpkins
+2017-02-10T00:11:55+01:00 INFO: Antenne Rock: Welcome to the Black Parade -by- My Chemical Romance
+2017-02-10T00:17:57+01:00 INFO: Antenne Rock: Seven Nation Army -by- The White Stripes
+2017-02-10T00:20:57+01:00 INFO: Antenne Rock: The Sound of Silence -by- Disturbed
+2017-02-10T00:25:58+01:00 INFO: Antenne Rock: Where Is My Mind? -by- Pixies
+2017-02-10T00:29:58+01:00 INFO: Antenne Rock: KINGS AND QUEENS -by- 30 SECONDS TO MARS
+2017-02-10T00:33:59+01:00 INFO: Antenne Rock: Behind Blue Eyes -by- Limp Bizkit
+2017-02-10T00:39:00+01:00 INFO: Antenne Rock: Dark Necessities -by- Red Hot Chili Peppers
+2017-02-10T00:43:00+01:00 INFO: Antenne Rock: Along Comes Mary -by- Bloodhound Gang
+2017-02-10T00:46:01+01:00 INFO: Antenne Rock: 21 Guns -by- Green Day
+2017-02-10T00:51:01+01:00 INFO: Antenne Rock: Renegades -by- X Ambassadors
+2017-02-10T00:54:02+01:00 INFO: Antenne Rock: In the End -by- LINKIN PARK
+2017-02-10T00:57:02+01:00 INFO: Antenne Rock: America -by- Razorlight
+2017-02-10T01:01:03+01:00 INFO: Antenne Rock: If Everyone Cared -by- Nickelback
+2017-02-10T01:04:05+01:00 INFO: Antenne Rock: All Star -by- Smash Mouth
+2017-02-10T01:07:06+01:00 INFO: Antenne Rock: I Don’t Want To Be Here Anymore -by- Rise Against
+2017-02-10T01:11:06+01:00 INFO: Antenne Rock: Unrockbar -by- Die Ärzte
+2017-02-10T01:15:07+01:00 INFO: Antenne Rock: Banquet -by- Bloc Party
+2017-02-10T01:19:07+01:00 INFO: Antenne Rock: Urgent -by- Foreigner
+2017-02-10T01:24:08+01:00 INFO: Antenne Rock: Can You Feel My Heart -by- Bring Me the Horizon
+2017-02-10T01:27:08+01:00 INFO: Antenne Rock: Why Does It Always Rain on Me? -by- Travis
+2017-02-10T01:31:09+01:00 INFO: Antenne Rock: Snow (Hey Oh) -by- Red Hot Chili Peppers
+2017-02-10T01:36:09+01:00 INFO: Antenne Rock: Are You Gonna Go My Way -by- Lenny Kravitz
+2017-02-10T01:39:10+01:00 INFO: Antenne Rock: 1,000 Years -by- The Gaslight Anthem
+2017-02-10T01:43:10+01:00 INFO: Antenne Rock: Pretty In Scarlet -by- Guano Apes
+2017-02-10T01:46:10+01:00 INFO: Antenne Rock: Jane Became Insane -by- Beatsteaks
+2017-02-10T01:49:11+01:00 INFO: Antenne Rock: Out of the Black -by- Royal Blood
+2017-02-10T01:53:11+01:00 INFO: Antenne Rock: The Boys of Summer -by- Don Henley
+2017-02-10T01:58:12+01:00 INFO: Antenne Rock: Love Hurts -by- Incubus
+2017-02-10T02:02:12+01:00 INFO: Antenne Rock: Something from Nothing -by- Foo Fighters
+2017-02-10T02:06:12+01:00 INFO: Antenne Rock: Butterfly -by- Crazy Town
+2017-02-10T02:10:13+01:00 INFO: Antenne Rock: Engel -by- Rammstein
+2017-02-10T02:14:13+01:00 INFO: Antenne Rock: THE KILL (BURY ME) (RADIO EDIT) -by- 30 SECONDS TO MARS
+2017-02-10T02:18:14+01:00 INFO: Antenne Rock: Californication -by- Red Hot Chili Peppers
+2017-02-10T02:21:14+01:00 INFO: Antenne Rock: Because We Can -by- Bon Jovi
+2017-02-10T02:26:15+01:00 INFO: Antenne Rock: Born In the U.S.A. -by- Bruce Springsteen
+2017-02-10T02:30:15+01:00 INFO: Antenne Rock: Know Your Enemy -by- Green Day
+2017-02-10T02:34:17+01:00 INFO: Antenne Rock: Over My Head (Better Off Dead) -by- Sum 41
+2017-02-10T02:36:17+01:00 INFO: Antenne Rock: Supersoaker -by- Kings of Leon
+2017-02-10T02:40:18+01:00 INFO: Antenne Rock: Enter Sandman -by- Metallica
+2017-02-10T02:45:19+01:00 INFO: Antenne Rock: Foxtrot Uniform Charlie Kilo -by- Bloodhound Gang
+2017-02-10T02:48:19+01:00 INFO: Antenne Rock: Stand Up and Run -by- Billy Talent
+2017-02-10T02:51:20+01:00 INFO: Antenne Rock: How You Remind Me -by- Nickelback
+2017-02-10T02:55:20+01:00 INFO: Antenne Rock: Books from Boxes -by- Maxïmo Park
+2017-02-10T02:58:20+01:00 INFO: Antenne Rock: Another One Bites the Dust -by- Queen
+2017-02-10T03:05:21+01:00 INFO: Antenne Rock: Every You Every Me -by- Placebo
+2017-02-10T03:08:21+01:00 INFO: Antenne Rock: Black Chandelier -by- Biffy Clyro
+2017-02-10T03:12:22+01:00 INFO: Antenne Rock: Sing -by- Travis
+2017-02-10T03:15:22+01:00 INFO: Antenne Rock: WHEN YOUR HEART STOPS BEATING -by- PLUS 44
+2017-02-10T03:18:22+01:00 INFO: Antenne Rock: Rebel Yell -by- Billy Idol
+2017-02-10T03:24:23+01:00 INFO: Antenne Rock: Cape of Our Hero -by- Volbeat
+2017-02-10T03:27:23+01:00 INFO: Antenne Rock: Hold On -by- Good Charlotte
+2017-02-10T03:31:24+01:00 INFO: Antenne Rock: I Write Sins Not Tragedies -by- Panic! At the Disco
+2017-02-10T03:34:24+01:00 INFO: Antenne Rock: Insane In the Brain -by- Cypress Hill
+2017-02-10T03:38:25+01:00 INFO: Antenne Rock: Gentleman of the Year -by- Beatsteaks
+2017-02-10T03:42:25+01:00 INFO: Antenne Rock: A -by- P.O.D.
+2017-02-10T03:45:25+01:00 INFO: Antenne Rock: I'm Shipping Up to Boston -by- Dropkick Murphys
+2017-02-10T03:48:26+01:00 INFO: Antenne Rock: My Songs Know What You Did In the Dark (Light Em Up) -by- Fall Out Boy
+2017-02-10T03:51:26+01:00 INFO: Antenne Rock: Beds Are Burning -by- Midnight Oil
+2017-02-10T03:55:26+01:00 INFO: Antenne Rock: Rock & Roll Queen -by- The Subways
+2017-02-10T03:58:27+01:00 INFO: Antenne Rock: My God Is the Sun -by- Queens of the Stone Age
+2017-02-10T04:01:27+01:00 INFO: Antenne Rock: SaySaySay -by- Beatsteaks
+2017-02-10T04:05:28+01:00 INFO: Antenne Rock: Blurry -by- Puddle of Mudd
+2017-02-10T04:10:28+01:00 INFO: Antenne Rock: Lords of the Boards -by- Guano Apes
+2017-02-10T04:13:29+01:00 INFO: Antenne Rock: Wake Me Up When September Ends -by- Green Day
+2017-02-10T04:18:29+01:00 INFO: Antenne Rock: Boom -by- P.O.D.
+2017-02-10T04:21:29+01:00 INFO: Antenne Rock: UP IN THE AIR -by- 30 SECONDS TO MARS
+2017-02-10T04:25:30+01:00 INFO: Antenne Rock: You Give Love a Bad Name -by- Bon Jovi
+2017-02-10T04:29:30+01:00 INFO: Antenne Rock: Fallen Leaves -by- Billy Talent
+2017-02-10T04:32:31+01:00 INFO: Antenne Rock: By the Way -by- Red Hot Chili Peppers
+2017-02-10T04:36:31+01:00 INFO: Antenne Rock: Figure It Out -by- Royal Blood
+2017-02-10T04:39:31+01:00 INFO: Antenne Rock: Punk Rock Song -by- Bad Religion
+2017-02-10T04:41:32+01:00 INFO: Antenne Rock: What I've Done -by- LINKIN PARK
+2017-02-10T04:45:32+01:00 INFO: Antenne Rock: Biblical -by- Biffy Clyro
+2017-02-10T04:48:33+01:00 INFO: Antenne Rock: Fat Lip -by- Sum 41
+2017-02-10T04:52:33+01:00 INFO: Antenne Rock: Chelsea Dagger -by- The Fratellis
+2017-02-10T04:55:33+01:00 INFO: Antenne Rock: White Wedding -by- Billy Idol
+2017-02-10T04:59:36+01:00 INFO: Antenne Rock: Lola Montez -by- Volbeat
+2017-02-10T05:03:37+01:00 INFO: Antenne Rock: Rockstar -by- Nickelback
+2017-02-10T05:07:37+01:00 INFO: Antenne Rock: SCHREI NACH LIEBE -by- ÄRZTE
+2017-02-10T05:11:38+01:00 INFO: Antenne Rock: Undisclosed Desires -by- Muse
+2017-02-10T05:15:39+01:00 INFO: Antenne Rock: First Date -by- Blink-182
+2017-02-10T05:18:39+01:00 INFO: Antenne Rock: Dery -by- Babyshambles
+2017-02-10T05:20:39+01:00 INFO: Antenne Rock: Sunday Bloody Sunday -by- U2
+2017-02-10T05:26:40+01:00 INFO: Antenne Rock: Alone Together -by- Fall Out Boy
+2017-02-10T05:29:40+01:00 INFO: Antenne Rock: Beverly Hills -by- Weezer
+2017-02-10T05:36:41+01:00 INFO: Antenne Rock: Learn to Fly -by- Foo Fighters
+2017-02-10T05:40:41+01:00 INFO: Antenne Rock: Throne -by- Bring Me the Horizon
+2017-02-10T05:43:41+01:00 INFO: Antenne Rock: It's Been Awhile -by- Staind
+2017-02-10T05:48:43+01:00 INFO: Antenne Rock: Cut Off the Top -by- Beatsteaks
+2017-02-10T05:51:43+01:00 INFO: Antenne Rock: FOR EVIGT -by- Volbeat
+2017-02-10T05:55:43+01:00 INFO: Antenne Rock: Livin' On a Prayer -by- Bon Jovi
+2017-02-10T05:59:44+01:00 INFO: Antenne Rock: Boulevard of Broken Dreams -by- Green Day
+2017-02-10T06:00:44+01:00 INFO: Antenne Rock: American Slang -by- The Gaslight Anthem
+2017-02-10T06:03:45+01:00 INFO: Antenne Rock: She Hates Me -by- Puddle of Mudd
+2017-02-10T06:07:45+01:00 INFO: Antenne Rock: Self Esteem -by- The Offspring
+2017-02-10T06:11:46+01:00 INFO: Antenne Rock: Surrender -by- Billy Talent
+2017-02-10T06:15:46+01:00 INFO: Antenne Rock: Can't Stop -by- Red Hot Chili Peppers
+2017-02-10T06:19:47+01:00 INFO: Antenne Rock: Centuries -by- Fall Out Boy
+2017-02-10T06:23:47+01:00 INFO: Antenne Rock: Celebrate Youth -by- Rick Springfield
+2017-02-10T06:27:48+01:00 INFO: Antenne Rock: Bleed It Out -by- LINKIN PARK
+2017-02-10T06:30:48+01:00 INFO: Antenne Rock: Fat Lip -by- Sum 41
+2017-02-10T06:33:48+01:00 INFO: Antenne Rock: Sail -by- AWOLNATION
+2017-02-10T06:37:49+01:00 INFO: Antenne Rock: The Kids Aren't Alright -by- The Offspring
+2017-02-10T06:40:50+01:00 INFO: Antenne Rock: Savior -by- Rise Against
+2017-02-10T06:44:53+01:00 INFO: Antenne Rock: Fossils -by- Circa Waves
+2017-02-10T06:50:54+01:00 INFO: Antenne Rock: Empty Walls -by- Serj Tankian
+2017-02-10T06:54:54+01:00 INFO: Antenne Rock: Westerland -by- Die Ärzte
+2017-02-10T06:57:56+01:00 INFO: Antenne Rock: Pacifier -by- Catfish and the Bottlemen
+2017-02-10T07:01:57+01:00 INFO: Antenne Rock: Mountains -by- Biffy Clyro
+2017-02-10T07:04:57+01:00 INFO: Antenne Rock: What's My Age Again? -by- Blink-182
+2017-02-10T07:07:58+01:00 INFO: Antenne Rock: Air Is Free -by- Johnossi
+2017-02-10T07:10:58+01:00 INFO: Antenne Rock: Island in the Sun -by- Weezer
+2017-02-10T07:14:58+01:00 INFO: Antenne Rock: Woman -by- Wolfmother
+2017-02-10T07:17:59+01:00 INFO: Antenne Rock: Jump -by- Van Halen
+2017-02-10T07:21:59+01:00 INFO: Antenne Rock: True Friends -by- Bring Me the Horizon
+2017-02-10T07:26:00+01:00 INFO: Antenne Rock: No One Knows -by- Queens of the Stone Age
+2017-02-10T07:30:00+01:00 INFO: Antenne Rock: Demons Galore -by- Beatsteaks
+2017-02-10T07:33:00+01:00 INFO: Antenne Rock: Song 2 -by- Blur
+2017-02-10T07:35:01+01:00 INFO: Antenne Rock: Take a Look Around -by- Limp Bizkit
+2017-02-10T07:40:01+01:00 INFO: Antenne Rock: Best of You -by- Foo Fighters
+2017-02-10T07:44:01+01:00 INFO: Antenne Rock: Waste a Moment -by- Kings of Leon
+2017-02-10T07:47:02+01:00 INFO: Antenne Rock: SUMMER OF 69 -by- BRYAN ADAM
+2017-02-10T07:50:02+01:00 INFO: Antenne Rock: Red Flag -by- Billy Talent
+2017-02-10T07:54:02+01:00 INFO: Antenne Rock: Still Breathing -by- Green Day
+2017-02-10T07:57:03+01:00 INFO: Antenne Rock: Crawling -by- LINKIN PARK
+2017-02-10T08:01:03+01:00 INFO: Antenne Rock: Re-arrange -by- Biffy Clyro
+2017-02-10T08:04:03+01:00 INFO: Antenne Rock: Tainted Love -by- Marilyn Manson
+2017-02-10T08:08:04+01:00 INFO: Antenne Rock: Give It Away -by- Red Hot Chili Peppers
+2017-02-10T08:12:04+01:00 INFO: Antenne Rock: Twisted Transistor -by- Korn
+2017-02-10T08:15:05+01:00 INFO: Antenne Rock: Amerika -by- Rammstein
+2017-02-10T08:19:05+01:00 INFO: Antenne Rock: No Sleep -by- Twin Atlantic
+2017-02-10T08:23:05+01:00 INFO: Antenne Rock: Poison -by- Alice Cooper
+2017-02-10T08:28:07+01:00 INFO: Antenne Rock: American Idiot -by- Green Day
+2017-02-10T08:30:07+01:00 INFO: Antenne Rock: Chop Suey! -by- System of a Down
+2017-02-10T08:34:08+01:00 INFO: Antenne Rock: Mountain At My Gates -by- Foals
+2017-02-10T08:38:09+01:00 INFO: Antenne Rock: What It's Like -by- Everlast
+2017-02-10T08:43:09+01:00 INFO: Antenne Rock: Dig -by- Incubus
+2017-02-10T08:47:10+01:00 INFO: Antenne Rock: Rabbit Hole -by- Jamie T
+2017-02-10T08:50:11+01:00 INFO: Antenne Rock: I Believe in a Thing Called Love -by- The Darkness
+2017-02-10T08:54:11+01:00 INFO: Antenne Rock: Junge -by- Die Ärzte
+2017-02-10T08:57:11+01:00 INFO: Antenne Rock: Rock You Like a Hurricane -by- Scorpions
+2017-02-10T09:01:12+01:00 INFO: Antenne Rock: Let's Dance to Joy Division -by- The Wombats
+2017-02-10T09:04:12+01:00 INFO: Antenne Rock: Wonderwall -by- Oasis
+2017-02-10T09:08:12+01:00 INFO: Antenne Rock: Homesick -by- Catfish and the Bottlemen
+2017-02-10T09:11:13+01:00 INFO: Antenne Rock: Hand In Hand -by- Beatsteaks
+2017-02-10T09:17:13+01:00 INFO: Antenne Rock: You Shook Me All Night Long -by- AC/DC
+2017-02-10T09:21:14+01:00 INFO: Antenne Rock: Fallen -by- Volbeat
+2017-02-10T09:25:14+01:00 INFO: Antenne Rock: NUMB/ENCORE -by- JAY Z FEAT. LINKIN PARK
+2017-02-10T09:29:15+01:00 INFO: Antenne Rock: Try Honesty -by- Billy Talent
+2017-02-10T09:33:15+01:00 INFO: Antenne Rock: It's My Life -by- Bon Jovi
+2017-02-10T09:36:18+01:00 INFO: Antenne Rock: Howl -by- Biffy Clyro
+2017-02-10T09:40:18+01:00 INFO: Antenne Rock: My Generation -by- Limp Bizkit
+2017-02-10T09:44:19+01:00 INFO: Antenne Rock: Coming Undone -by- Korn
+2017-02-10T09:47:19+01:00 INFO: Antenne Rock: September -by- Daughtry
+2017-02-10T09:51:19+01:00 INFO: Antenne Rock: The Passenger -by- Iggy Pop
+2017-02-10T09:59:20+01:00 INFO: Antenne Rock: Heart and Soul -by- Twin Atlantic
+2017-02-10T10:03:20+01:00 INFO: Antenne Rock: Tommy-Gun -by- Royal Republic
+2017-02-10T10:05:21+01:00 INFO: Antenne Rock: Toxicity -by- System of a Down
+2017-02-10T10:09:21+01:00 INFO: Antenne Rock: Basket Case -by- Green Day
+2017-02-10T10:12:22+01:00 INFO: Antenne Rock: Never Miss a Beat -by- Kaiser Chiefs
+2017-02-10T10:15:22+01:00 INFO: Antenne Rock: Scars -by- Papa Roach
+2017-02-10T10:18:23+01:00 INFO: Antenne Rock: Radioactive -by- Kings of Leon
+2017-02-10T10:22:23+01:00 INFO: Antenne Rock: Another Brick In the Wall, Pt. 1 -by- Pink Floyd
+2017-02-10T10:25:23+01:00 INFO: Antenne Rock: Human -by- The Killers
+2017-02-10T10:29:24+01:00 INFO: Antenne Rock: Heaven Is a Halfpipe -by- OPM
+2017-02-10T10:33:24+01:00 INFO: Antenne Rock: Zombie -by- Jamie T
+2017-02-10T10:37:25+01:00 INFO: Antenne Rock: Scar Tissue -by- Red Hot Chili Peppers
+2017-02-10T10:41:26+01:00 INFO: Antenne Rock: Moving to New York -by- The Wombats
+2017-02-10T10:44:26+01:00 INFO: Antenne Rock: Shout at the Moon -by- Mallory Knox
+2017-02-10T10:47:27+01:00 INFO: Antenne Rock: In Too Deep -by- Sum 41
+2017-02-10T10:51:27+01:00 INFO: Antenne Rock: Lasse redn -by- Die Ärzte
+2017-02-10T10:54:27+01:00 INFO: Antenne Rock: Burning Heart -by- Survivor
+2017-02-10T10:57:28+01:00 INFO: Antenne Rock: Ready to Start -by- Arcade Fire
+2017-02-10T11:02:29+01:00 INFO: Antenne Rock: Gives You Hell -by- The All-American Rejects
+2017-02-10T11:05:29+01:00 INFO: Antenne Rock: Drive -by- Incubus
+2017-02-10T11:09:30+01:00 INFO: Antenne Rock: Burning In the Skies -by- LINKIN PARK
+2017-02-10T11:13:30+01:00 INFO: Antenne Rock: Lifestyles of the Rich & Famous -by- Good Charlotte
+2017-02-10T11:16:30+01:00 INFO: Antenne Rock: Lonely Day -by- System of a Down
+2017-02-10T11:19:31+01:00 INFO: Antenne Rock: Cold As Ice -by- Foreigner
+2017-02-10T11:22:31+01:00 INFO: Antenne Rock: Animal Style -by- Biffy Clyro
+2017-02-10T11:26:31+01:00 INFO: Antenne Rock: RING OF FIRE -by- H-BLOCKX
+2017-02-10T11:29:32+01:00 INFO: Antenne Rock: Feels Like Tonight -by- Daughtry
+2017-02-10T11:33:32+01:00 INFO: Antenne Rock: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-10T11:37:33+01:00 INFO: Antenne Rock: Sing -by- My Chemical Romance
+2017-02-10T11:41:33+01:00 INFO: Antenne Rock: My Doorbell -by- The White Stripes
+2017-02-10T11:45:34+01:00 INFO: Antenne Rock: Still Counting -by- Volbeat
+2017-02-10T11:49:34+01:00 INFO: Antenne Rock: Under Cover of Darkness -by- The Strokes
+2017-02-10T11:53:34+01:00 INFO: Antenne Rock: Blinded By the Light -by- Manfred Mann's Earth Band
+2017-02-10T11:57:35+01:00 INFO: Antenne Rock: Know Your Enemy -by- Green Day
+2017-02-10T12:00:35+01:00 INFO: Antenne Rock: Satellite -by- Rise Against
+2017-02-10T12:04:36+01:00 INFO: Antenne Rock: Rollin' (Air Raid Vehicle) -by- Limp Bizkit
+2017-02-10T12:07:36+01:00 INFO: Antenne Rock: Hier kommt Alex -by- Die Toten Hosen
+2017-02-10T12:12:39+01:00 INFO: Antenne Rock: Rusted from the Rain -by- Billy Talent
+2017-02-10T12:16:39+01:00 INFO: Antenne Rock: Holiday (Faded Ending) -by- Green Day
+2017-02-10T12:20:40+01:00 INFO: Antenne Rock: Automatic -by- Beatsteaks
+2017-02-10T12:24:40+01:00 INFO: Antenne Rock: I Was Made for Lovin' You -by- Kiss
+2017-02-10T12:28:41+01:00 INFO: Antenne Rock: Heavy Cross -by- Gossip
+2017-02-10T12:33:42+01:00 INFO: Antenne Rock: Smooth Criminal -by- Alien Ant Farm
+2017-02-10T12:36:42+01:00 INFO: Antenne Rock: Walk -by- Foo Fighters
+2017-02-10T12:40:44+01:00 INFO: Antenne Rock: Fly Away -by- Lenny Kravitz
+2017-02-10T12:44:44+01:00 INFO: Antenne Rock: Calling -by- Donots
+2017-02-10T12:47:45+01:00 INFO: Antenne Rock: SEARCH & DESTROY -by- 30 SECONDS TO MARS
+2017-02-10T12:51:45+01:00 INFO: Antenne Rock: Sonne -by- Rammstein
+2017-02-10T12:55:46+01:00 INFO: Antenne Rock: Papillon -by- Editors
+2017-02-10T13:01:46+01:00 INFO: Antenne Rock: Have a Nice Day -by- Bon Jovi
+2017-02-10T13:04:47+01:00 INFO: Antenne Rock: NOTHING ELSE MATTERS (EDIT) -by- Metallica
+2017-02-10T13:09:49+01:00 INFO: Antenne Rock: We Don't Need Money to Have a Good Time -by- The Subways
+2017-02-10T13:12:50+01:00 INFO: Antenne Rock: Youth of the Nation -by- P.O.D.
+2017-02-10T13:16:51+01:00 INFO: Antenne Rock: Uhn Tiss Uhn Tiss Uhn Tiss -by- Bloodhound Gang
+2017-02-10T13:20:51+01:00 INFO: Antenne Rock: DRIVER'S SEAT -by- SNIFF'N' THE TEARS
+2017-02-10T13:25:52+01:00 INFO: Antenne Rock: When We Stand Together -by- Nickelback
+2017-02-10T13:28:52+01:00 INFO: Antenne Rock: DROPS OF JUPITER (TELL ME) -by- Train
+2017-02-10T13:32:53+01:00 INFO: Antenne Rock: Use Somebody -by- Kings of Leon
+2017-02-10T13:36:54+01:00 INFO: Antenne Rock: Got the Life -by- Korn
+2017-02-10T13:39:55+01:00 INFO: Antenne Rock: Tanzt du noch einmal mit mir? -by- Broilers
+2017-02-10T13:42:55+01:00 INFO: Antenne Rock: Seven Nation Army -by- The White Stripes
+2017-02-10T13:46:56+01:00 INFO: Antenne Rock: 21 Guns -by- Green Day
+2017-02-10T13:51:57+01:00 INFO: Antenne Rock: Lonely Boy -by- The Black Keys
+2017-02-10T13:54:57+01:00 INFO: Antenne Rock: Here I Go Again -by- Whitesnake
+2017-02-10T13:59:00+01:00 INFO: Antenne Rock: Someday -by- The Strokes
+2017-02-10T14:02:00+01:00 INFO: Antenne Rock: BURN IT DOWN -by- LINKIN PARK
+2017-02-10T14:05:01+01:00 INFO: Antenne Rock: Californication -by- Red Hot Chili Peppers
+2017-02-10T14:09:01+01:00 INFO: Antenne Rock: Join Me -by- HIM
+2017-02-10T14:12:02+01:00 INFO: Antenne Rock: The Captain -by- Biffy Clyro
+2017-02-10T14:15:02+01:00 INFO: Antenne Rock: Behind Blue Eyes -by- Limp Bizkit
+2017-02-10T14:20:03+01:00 INFO: Antenne Rock: These Days -by- Foo Fighters
+2017-02-10T14:25:04+01:00 INFO: Antenne Rock: UNDER PRESSURE -by- QUEEN & DAVID BOWIE
+2017-02-10T14:29:04+01:00 INFO: Antenne Rock: KINGS AND QUEENS -by- 30 SECONDS TO MARS
+2017-02-10T14:33:05+01:00 INFO: Antenne Rock: Why Does It Always Rain on Me? -by- Travis
+2017-02-10T14:38:05+01:00 INFO: Antenne Rock: You're So Yesterday -by- Donots
+2017-02-10T14:41:06+01:00 INFO: Antenne Rock: Maria -by- Blondie
+2017-02-10T14:45:06+01:00 INFO: Antenne Rock: Song to Say Goodbye -by- Placebo
+2017-02-10T14:49:07+01:00 INFO: Antenne Rock: Kiss Kiss Bang Bang -by- The Subways
+2017-02-10T14:52:07+01:00 INFO: Antenne Rock: Pretty In Scarlet -by- Guano Apes
+2017-02-10T14:55:08+01:00 INFO: Antenne Rock: Dani California -by- Red Hot Chili Peppers
+2017-02-10T15:00:09+01:00 INFO: Antenne Rock: Heat of the Moment -by- Asia
+2017-02-10T15:03:09+01:00 INFO: Antenne Rock: Welcome to the Black Parade -by- My Chemical Romance
+2017-02-10T15:08:10+01:00 INFO: Antenne Rock: Two Princes -by- Spin Doctors
+2017-02-10T15:12:10+01:00 INFO: Antenne Rock: M & F -by- Die Ärzte
+2017-02-10T15:16:11+01:00 INFO: Antenne Rock: DROPS OF JUPITER (TELL ME) -by- Train
+2017-02-10T15:20:11+01:00 INFO: Antenne Rock: Sex On Fire -by- Kings of Leon
+2017-02-10T15:24:12+01:00 INFO: Antenne Rock: Hold the Line -by- Toto
+2017-02-10T15:28:12+01:00 INFO: Antenne Rock: Oh Love -by- Green Day
+2017-02-10T15:33:13+01:00 INFO: Antenne Rock: Seven Nation Army -by- The White Stripes
+2017-02-10T15:36:13+01:00 INFO: Antenne Rock: America -by- Razorlight
+2017-02-10T15:40:14+01:00 INFO: Antenne Rock: KNOCKIN' ON HEAVEN'S DOOR -by- GUNS'N'ROSES
+2017-02-10T15:46:15+01:00 INFO: Antenne Rock: EVERYBODY WANTS TO BE AN ASTRONA -by- Royal Republic
+2017-02-10T15:48:15+01:00 INFO: Antenne Rock: All the Small Things -by- Blink-182
+2017-02-10T15:51:15+01:00 INFO: Antenne Rock: Leave Out All the Rest -by- LINKIN PARK
+2017-02-10T15:55:16+01:00 INFO: Antenne Rock: Surprise Surprise -by- Billy Talent
+2017-02-10T15:58:16+01:00 INFO: Antenne Rock: Sweet Home Alabama -by- Lynyrd Skynyrd
+2017-02-10T16:02:18+01:00 INFO: Antenne Rock: Little Black Submarines -by- The Black Keys
+2017-02-10T16:06:18+01:00 INFO: Antenne Rock: Hold On -by- Good Charlotte
+2017-02-10T16:10:19+01:00 INFO: Antenne Rock: Don't Look Back In Anger -by- Oasis
+2017-02-10T16:14:20+01:00 INFO: Antenne Rock: Wheels -by- Foo Fighters
+2017-02-10T16:19:21+01:00 INFO: Antenne Rock: Sing -by- Travis
+2017-02-10T16:22:21+01:00 INFO: Antenne Rock: So Long (feat. Frank Turner) -by- Donots
+2017-02-10T16:27:22+01:00 INFO: Antenne Rock: Whatever You Want -by- Status Quo
+2017-02-10T16:30:22+01:00 INFO: Antenne Rock: Meds (feat. Alison Mosshart) -by- Placebo
+2017-02-10T16:33:22+01:00 INFO: Antenne Rock: Over My Head (Better Off Dead) -by- Sum 41
+2017-02-10T16:36:24+01:00 INFO: Antenne Rock: Turning Into You -by- The Offspring
+2017-02-10T16:40:26+01:00 INFO: Antenne Rock: Open Your Eyes -by- Guano Apes
+2017-02-10T16:43:26+01:00 INFO: Antenne Rock: Snow (Hey Oh) -by- Red Hot Chili Peppers
+2017-02-10T16:47:26+01:00 INFO: Antenne Rock: THIS IS WAR -by- 30 SECONDS TO MARS
+2017-02-10T16:51:27+01:00 INFO: Antenne Rock: Unrockbar -by- Die Ärzte
+2017-02-10T16:55:27+01:00 INFO: Antenne Rock: Banquet -by- Bloc Party
+2017-02-10T16:58:28+01:00 INFO: Antenne Rock: More Than a Feeling -by- Boston
+2017-02-10T17:03:29+01:00 INFO: Antenne Rock: Love Hurts -by- Incubus
+2017-02-10T17:07:30+01:00 INFO: Antenne Rock: Why Don't You Get a Job -by- The Offspring
+2017-02-10T17:10:30+01:00 INFO: Antenne Rock: Heaven Nor Hell -by- Volbeat
+2017-02-10T17:14:31+01:00 INFO: Antenne Rock: A -by- P.O.D.
+2017-02-10T17:17:32+01:00 INFO: Antenne Rock: Foxtrot Uniform Charlie Kilo -by- Bloodhound Gang
+2017-02-10T17:20:32+01:00 INFO: Antenne Rock: Shadow on the Wall -by- Mike Oldfield
+2017-02-10T17:25:33+01:00 INFO: Antenne Rock: Temple -by- Kings of Leon
+2017-02-10T17:30:35+01:00 INFO: Antenne Rock: Blurry -by- Puddle of Mudd
+2017-02-10T17:34:36+01:00 INFO: Antenne Rock: Fallen Leaves -by- Billy Talent
+2017-02-10T17:38:36+01:00 INFO: Antenne Rock: Semi-Charmed Life -by- Third Eye Blind
+2017-02-10T17:42:36+01:00 INFO: Antenne Rock: Help Is On the Way -by- Rise Against
+2017-02-10T17:46:37+01:00 INFO: Antenne Rock: How You Remind Me -by- Nickelback
+2017-02-10T17:50:38+01:00 INFO: Antenne Rock: What I've Done -by- LINKIN PARK
+2017-02-10T17:53:38+01:00 INFO: Antenne Rock: Sleepwalking -by- Bring Me the Horizon
+2017-02-10T17:57:40+01:00 INFO: Antenne Rock: Why Can't This Be Love -by- Van Halen
+2017-02-10T18:00:41+01:00 INFO: Antenne Rock: Long Rock & Roll -by- Daughtry
+2017-02-10T18:03:41+01:00 INFO: Antenne Rock: Boom -by- P.O.D.
+2017-02-10T18:06:41+01:00 INFO: Antenne Rock: Pretty Fly (For a White Guy) -by- The Offspring
+2017-02-10T18:09:42+01:00 INFO: Antenne Rock: Fluorescent Adolescent -by- Arctic Monkeys
+2017-02-10T18:13:43+01:00 INFO: Antenne Rock: Fat Lip -by- Sum 41
+2017-02-10T18:15:44+01:00 INFO: Antenne Rock: The Sound of Silence -by- Disturbed
+2017-02-10T18:20:45+01:00 INFO: Antenne Rock: Don't Stop Me Now -by- Queen
+2017-02-10T18:23:46+01:00 INFO: Antenne Rock: THE KILL (BURY ME) (RADIO EDIT) -by- 30 SECONDS TO MARS
+2017-02-10T18:27:50+01:00 INFO: Antenne Rock: By the Way -by- Red Hot Chili Peppers
+2017-02-10T18:31:51+01:00 INFO: Antenne Rock: Dark Necessities -by- Red Hot Chili Peppers
+2017-02-10T18:34:51+01:00 INFO: Antenne Rock: Schunder-Song -by- Die Ärzte
+2017-02-10T18:37:52+01:00 INFO: Antenne Rock: Wake Me Up When September Ends -by- Green Day
+2017-02-10T18:42:53+01:00 INFO: Antenne Rock: Renegades -by- X Ambassadors
+2017-02-10T18:45:53+01:00 INFO: Antenne Rock: First Date -by- Blink-182
+2017-02-10T18:48:54+01:00 INFO: Antenne Rock: Cut Off the Top -by- Beatsteaks
+2017-02-10T18:51:54+01:00 INFO: Antenne Rock: You Ain't Seen Nothing Yet -by- Bachman-Turner Overdrive
+2017-02-10T18:55:55+01:00 INFO: Antenne Rock: Kathleen -by- Catfish and the Bottlemen
+2017-02-10T18:57:56+01:00 INFO: Antenne Rock: WHEN YOUR HEART STOPS BEATING -by- PLUS 44
+2017-02-10T19:01:56+01:00 INFO: Antenne Rock: I Write Sins Not Tragedies -by- Panic! At the Disco
+2017-02-10T19:04:57+01:00 INFO: Antenne Rock: NOVEMBER RAIN -by- GUNS´N´ROSES
+2017-02-10T19:08:57+01:00 INFO: Antenne Rock: 1,000 Years -by- The Gaslight Anthem
+2017-02-10T19:12:58+01:00 INFO: Antenne Rock: Beverly Hills -by- Weezer
+2017-02-10T19:15:58+01:00 INFO: Antenne Rock: I'm Shipping Up to Boston -by- Dropkick Murphys
+2017-02-10T19:17:59+01:00 INFO: Antenne Rock: Rockin' All Over the World -by- Status Quo
+2017-02-10T19:22:59+01:00 INFO: Antenne Rock: I Don’t Want To Be Here Anymore -by- Rise Against
+2017-02-10T19:26:00+01:00 INFO: Antenne Rock: Numb -by- LINKIN PARK
+2017-02-10T19:30:00+01:00 INFO: Antenne Rock: Rock & Roll Queen -by- The Subways
+2017-02-10T19:32:01+01:00 INFO: Antenne Rock: The Bad Touch -by- Bloodhound Gang
+2017-02-10T19:36:01+01:00 INFO: Antenne Rock: Can You Feel My Heart -by- Bring Me the Horizon
+2017-02-10T19:44:02+01:00 INFO: Antenne Rock: Chelsea Dagger -by- The Fratellis
+2017-02-10T19:48:03+01:00 INFO: Antenne Rock: Out of the Black -by- Royal Blood
+2017-02-10T19:52:03+01:00 INFO: Antenne Rock: Locomotive Breath -by- Jethro Tull
+2017-02-10T19:55:04+01:00 INFO: Antenne Rock: The River -by- Good Charlotte
+2017-02-10T19:58:04+01:00 INFO: Antenne Rock: D.N.A. -by- Beatsteaks
+2017-02-10T20:00:04+01:00 INFO: Antenne Rock: It's Been Awhile -by- Staind
+2017-02-10T20:05:05+01:00 INFO: Antenne Rock: Something from Nothing -by- Foo Fighters
+2017-02-10T20:09:06+01:00 INFO: Antenne Rock: Can't Stop -by- Red Hot Chili Peppers
+2017-02-10T20:14:07+01:00 INFO: Antenne Rock: Fight for Your Right -by- Beastie Boys
+2017-02-10T20:17:07+01:00 INFO: Antenne Rock: Rockstar -by- Nickelback
+2017-02-10T20:21:09+01:00 INFO: Antenne Rock: My Way -by- Limp Bizkit
+2017-02-10T20:25:10+01:00 INFO: Antenne Rock: Because We Can -by- Bon Jovi
+2017-02-10T20:29:10+01:00 INFO: Antenne Rock: So Lonely -by- The Police
+2017-02-10T20:34:10+01:00 INFO: Antenne Rock: Boulevard of Broken Dreams -by- Green Day
+2017-02-10T20:38:11+01:00 INFO: Antenne Rock: She Hates Me -by- Puddle of Mudd
+2017-02-10T20:41:11+01:00 INFO: Antenne Rock: Supersoaker -by- Kings of Leon
+2017-02-10T20:45:12+01:00 INFO: Antenne Rock: Loser -by- Beck
+2017-02-10T20:49:12+01:00 INFO: Antenne Rock: Dery -by- Babyshambles
+2017-02-10T20:52:12+01:00 INFO: Antenne Rock: Stand Up and Run -by- Billy Talent
+2017-02-10T20:54:13+01:00 INFO: Antenne Rock: Island in the Sun -by- Weezer
+2017-02-10T21:02:13+01:00 INFO: Antenne Rock: Empty Walls -by- Serj Tankian
+2017-02-10T21:05:14+01:00 INFO: Antenne Rock: Come As You Are -by- Nirvana
+2017-02-10T21:09:16+01:00 INFO: Antenne Rock: Black Chandelier -by- Biffy Clyro
+2017-02-10T21:15:17+01:00 INFO: Antenne Rock: Woman -by- Wolfmother
+2017-02-10T21:18:17+01:00 INFO: Antenne Rock: It's a Hard Life -by- Queen
+2017-02-10T21:22:17+01:00 INFO: Antenne Rock: Cape of Our Hero -by- Volbeat
+2017-02-10T21:26:18+01:00 INFO: Antenne Rock: No One Knows -by- Queens of the Stone Age
+2017-02-10T21:30:19+01:00 INFO: Antenne Rock: Best of You -by- Foo Fighters
+2017-02-10T21:34:19+01:00 INFO: Antenne Rock: THE BALLAD OF CHAISEY LAIN -by- Bloodhound Gang
+2017-02-10T21:37:20+01:00 INFO: Antenne Rock: Gentleman of the Year -by- Beatsteaks
+2017-02-10T21:41:20+01:00 INFO: Antenne Rock: Tainted Love -by- Marilyn Manson
+2017-02-10T21:44:21+01:00 INFO: Antenne Rock: Dig -by- Incubus
+2017-02-10T21:48:21+01:00 INFO: Antenne Rock: My Songs Know What You Did In the Dark (Light Em Up) -by- Fall Out Boy
+2017-02-10T21:51:22+01:00 INFO: Antenne Rock: Owner of a Lonely Heart -by- Yes
+2017-02-10T21:55:23+01:00 INFO: Antenne Rock: Junge -by- Die Ärzte
+2017-02-10T21:58:24+01:00 INFO: Antenne Rock: My God Is the Sun -by- Queens of the Stone Age
+2017-02-10T22:02:25+01:00 INFO: Antenne Rock: SaySaySay -by- Beatsteaks
+2017-02-10T22:05:25+01:00 INFO: Antenne Rock: Amerika -by- Rammstein
+2017-02-10T22:09:26+01:00 INFO: Antenne Rock: Otherside -by- Red Hot Chili Peppers
+2017-02-10T22:13:27+01:00 INFO: Antenne Rock: American Idiot -by- Green Day
+2017-02-10T22:16:28+01:00 INFO: Antenne Rock: I Believe in a Thing Called Love -by- The Darkness
+2017-02-10T22:20:29+01:00 INFO: Antenne Rock: UP IN THE AIR -by- 30 SECONDS TO MARS
+2017-02-10T22:24:29+01:00 INFO: Antenne Rock: For You -by- Manfred Mann's Earth Band
+2017-02-10T22:28:31+01:00 INFO: Antenne Rock: Red Flag -by- Billy Talent
+2017-02-10T22:31:31+01:00 INFO: Antenne Rock: NUMB/ENCORE -by- JAY Z FEAT. LINKIN PARK
+2017-02-10T22:35:32+01:00 INFO: Antenne Rock: Figure It Out -by- Royal Blood
+2017-02-10T22:38:32+01:00 INFO: Antenne Rock: Sweet Dreams (Are Made of This) -by- Marilyn Manson
+2017-02-10T22:42:33+01:00 INFO: Antenne Rock: Bleed It Out -by- LINKIN PARK
+2017-02-10T22:45:33+01:00 INFO: Antenne Rock: Biblical -by- Biffy Clyro
+2017-02-10T22:49:33+01:00 INFO: Antenne Rock: Chop Suey! -by- System of a Down
+2017-02-10T22:52:33+01:00 INFO: Antenne Rock: Savior -by- Rise Against
+2017-02-10T22:56:34+01:00 INFO: Antenne Rock: Born to Be Wild -by- Steppenwolf
+2017-02-10T23:00:35+01:00 INFO: Antenne Rock: Lola Montez -by- Volbeat
+2017-02-10T23:03:35+01:00 INFO: Antenne Rock: Teddy Picker -by- Arctic Monkeys
+2017-02-10T23:06:36+01:00 INFO: Antenne Rock: Lithium -by- Nirvana
+2017-02-10T23:10:36+01:00 INFO: Antenne Rock: Undisclosed Desires -by- Muse
+2017-02-10T23:14:37+01:00 INFO: Antenne Rock: My Generation -by- Limp Bizkit
+2017-02-10T23:18:37+01:00 INFO: Antenne Rock: Let's Dance to Joy Division -by- The Wombats
+2017-02-10T23:21:38+01:00 INFO: Antenne Rock: I Want You to Want Me -by- Cheap Trick
+2017-02-10T23:25:39+01:00 INFO: Antenne Rock: Alone Together -by- Fall Out Boy
+2017-02-10T23:28:39+01:00 INFO: Antenne Rock: Fell In Love With a Girl -by- The White Stripes
+2017-02-10T23:33:40+01:00 INFO: Antenne Rock: Why Don't You Get a Job -by- The Offspring
+2017-02-10T23:36:40+01:00 INFO: Antenne Rock: Throne -by- Bring Me the Horizon
+2017-02-10T23:40:41+01:00 INFO: Antenne Rock: Scars -by- Papa Roach
+2017-02-10T23:43:43+01:00 INFO: Antenne Rock: Demons Galore -by- Beatsteaks
+2017-02-10T23:46:44+01:00 INFO: Antenne Rock: FOR EVIGT -by- Volbeat
+2017-02-10T23:51:44+01:00 INFO: Antenne Rock: Paranoid -by- Black Sabbath
+2017-02-10T23:53:44+01:00 INFO: Antenne Rock: Feels Like Tonight -by- Daughtry
+2017-02-10T23:57:46+01:00 INFO: Antenne Rock: CLOSER TO THE EDGE -by- 30 SECONDS TO MARS

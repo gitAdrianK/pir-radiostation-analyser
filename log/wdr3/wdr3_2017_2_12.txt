@@ -1,0 +1,5 @@
+2017-02-12T09:21:08+01:00 INFO: WDR3: Der 23. Psalm, op. post. 132, D 706 -by- Franz Schubert
+2017-02-12T11:58:20+01:00 INFO: WDR3: Sinfonie Nr. 4 A-dur op. 90 -by- Felix Mendelssohn Bartholdy
+2017-02-12T12:06:21+01:00 INFO: WDR3: Eine englische Suite G-Dur -by- Hubert Parry
+2017-02-12T12:26:22+01:00 INFO: WDR3: Pajarillo -by- Traditional
+2017-02-12T12:59:24+01:00 INFO: WDR3: Sinfonie B-Dur, op. 35,2 -by- Johann Franz Xaver Sterkel

@@ -1,0 +1,57 @@
+2017-02-07T20:43:38+01:00 INFO: NDR Plus: Du gehst mir unter die Haut -by- Alexander Klaws
+2017-02-07T20:45:38+01:00 INFO: NDR Plus: Caterina -by- Perry Como
+2017-02-07T20:47:39+01:00 INFO: NDR Plus: Das schaffst du nicht -by- IBO
+2017-02-07T20:50:39+01:00 INFO: NDR Plus: Ganz in wei&szlig; -by- Roy Black
+2017-02-07T20:53:39+01:00 INFO: NDR Plus: Feuervogel -by- Andrea Berg
+2017-02-07T20:56:40+01:00 INFO: NDR Plus: Rund um die Welt geht das Lied der Liebe -by- Nina &amp; Mike
+2017-02-07T21:00:41+01:00 INFO: NDR Plus: Domani l&#39;amore vincer&agrave; -by- Claudia Jung &amp; Rosanna Perenic
+2017-02-07T21:06:42+01:00 INFO: NDR Plus: Da nahm er seine Gitarre -by- Howard Carpendale
+2017-02-07T21:09:42+01:00 INFO: NDR Plus: Verdammt guter Tag -by- Feuerherz
+2017-02-07T21:12:43+01:00 INFO: NDR Plus: Tea for two Cha Cha -by- Tommy Dorsey
+2017-02-07T21:15:43+01:00 INFO: NDR Plus: Antonio -by- Kristina Bach
+2017-02-07T21:19:44+01:00 INFO: NDR Plus: Danke Sch&ouml;n -by- Botho Lucas-Chor
+2017-02-07T21:21:44+01:00 INFO: NDR Plus: Oh Magdalenna -by- Cappuccinos
+2017-02-07T21:24:45+01:00 INFO: NDR Plus: Galveston -by- Glen Campbell
+2017-02-07T21:27:45+01:00 INFO: NDR Plus: Linda -by- Ace Cats
+2017-02-07T21:30:45+01:00 INFO: NDR Plus: Oh no no -by- Wencke Myhre
+2017-02-07T21:34:46+01:00 INFO: NDR Plus: Da oben -by- Nik P.
+2017-02-07T21:38:46+01:00 INFO: NDR Plus: Juanita banana -by- Mal Sondock
+2017-02-07T21:40:48+01:00 INFO: NDR Plus: Tr&auml;ume haben Fl&uuml;gel -by- Michelle
+2017-02-07T21:43:48+01:00 INFO: NDR Plus: K&uuml;sse von dir -by- Rex Gildo
+2017-02-07T21:46:49+01:00 INFO: NDR Plus: 13 Tage -by- Schweizer
+2017-02-07T21:50:49+01:00 INFO: NDR Plus: Un homme et une femme -by- Mireille Mathieu
+2017-02-07T21:53:49+01:00 INFO: NDR Plus: An den Str&auml;nden meiner Sehnsucht -by- Oliver Haidt
+2017-02-07T21:57:49+01:00 INFO: NDR Plus: Hallo, wie geht es Robert -by- Gitte
+2017-02-07T21:59:50+01:00 INFO: NDR Plus: Deine Fl&uuml;gel fangen Feuer -by- Andreas Martin
+2017-02-07T22:06:50+01:00 INFO: NDR Plus: Er ist ein Kerl (der 30-Tonner Diesel) -by- Gunter Gabriel
+2017-02-07T22:10:50+01:00 INFO: NDR Plus: Einmal um die Welt -by- Mary Roos
+2017-02-07T22:14:51+01:00 INFO: NDR Plus: Merci, ch&eacute;rie -by- Udo J&uuml;rgens
+2017-02-07T22:17:51+01:00 INFO: NDR Plus: River Lady -by- Roger Whittaker
+2017-02-07T22:20:51+01:00 INFO: NDR Plus: Starke Gef&uuml;hle -by- Juliane Werding
+2017-02-07T22:24:52+01:00 INFO: NDR Plus: Chi chi -by- John Buck &amp; The Blazers
+2017-02-07T22:26:52+01:00 INFO: NDR Plus: Es ist Morgen und ich liebe dich noch immer -by- Michael Schanze
+2017-02-07T22:30:52+01:00 INFO: NDR Plus: Bist auch du allein -by- Julian Frank
+2017-02-07T22:33:52+01:00 INFO: NDR Plus: Dieser S&auml;nger braucht nur ein Chanson -by- Joe Dassin
+2017-02-07T22:36:52+01:00 INFO: NDR Plus: Zu nah am Feuer -by- Stefan Waggershausen &amp; Alice
+2017-02-07T22:41:53+01:00 INFO: NDR Plus: Love&#39;s Theme -by- Love Unlimited Orchestra
+2017-02-07T22:45:53+01:00 INFO: NDR Plus: Nein hei&szlig;t ja -by- G. G. Anderson
+2017-02-07T22:48:53+01:00 INFO: NDR Plus: Singin&#39; in the rain -by- Doris Day
+2017-02-07T22:51:54+01:00 INFO: NDR Plus: Bring mir die Sonne wieder zur&uuml;ck -by- Patrick Lindner
+2017-02-07T22:54:54+01:00 INFO: NDR Plus: Diese Nacht hat viele Lichter -by- Conny Froboess
+2017-02-07T22:57:54+01:00 INFO: NDR Plus: Musik ist mein Leben -by- Wolfgang Petry
+2017-02-07T23:06:55+01:00 INFO: NDR Plus: Lucille -by- Michael Holm
+2017-02-07T23:09:55+01:00 INFO: NDR Plus: Theme From Elvira Madigan -by- 101 Strings Orchestra
+2017-02-07T23:14:56+01:00 INFO: NDR Plus: Drau&szlig;en warten die Sterne -by- Puhdys
+2017-02-07T23:18:56+01:00 INFO: NDR Plus: Melodie einer Nacht -by- Esther Ofarim
+2017-02-07T23:20:56+01:00 INFO: NDR Plus: &Uuml;berdosis Gl&uuml;ck -by- Fux
+2017-02-07T23:27:59+01:00 INFO: NDR Plus: Alle porte del sole -by- Gigliola Cinquetti
+2017-02-07T23:28:59+01:00 INFO: NDR Plus: Dich wiederzusehn -by- Jonathan Zelter
+2017-02-07T23:33:59+01:00 INFO: NDR Plus: Hello Mary Lou -by- Phil &amp; John
+2017-02-07T23:36:00+01:00 INFO: NDR Plus: Chico-Chico Charlie -by- Heidi Br&uuml;hl
+2017-02-07T23:38:00+01:00 INFO: NDR Plus: Wegen dir -by- Nicki
+2017-02-07T23:42:00+01:00 INFO: NDR Plus: Music to watch girls by -by- Bob Crewe Generation
+2017-02-07T23:45:00+01:00 INFO: NDR Plus: Ein wei&szlig;es Boot -by- Fantasy
+2017-02-07T23:48:01+01:00 INFO: NDR Plus: Komm, komm zu mir -by- Edina Pop
+2017-02-07T23:50:01+01:00 INFO: NDR Plus: Keine Angst, das kann man lernen -by- Siw Inger
+2017-02-07T23:53:01+01:00 INFO: NDR Plus: Release me -by- Engelbert
+2017-02-07T23:57:01+01:00 INFO: NDR Plus: Du und ich allein -by- Chris Roberts

@@ -1,0 +1,44 @@
+2017-02-09T06:06:01+01:00 INFO: WDR3: Konzert G-Dur -by- Nicola Porpora
+2017-02-09T06:25:03+01:00 INFO: WDR3: Konzert G-Dur, QV 5:174 -by- Johann Joachim Quantz
+2017-02-09T06:36:04+01:00 INFO: WDR3: Walzer E-Dur, KK IVa,12 -by- Fryderyk Chopin
+2017-02-09T06:39:04+01:00 INFO: WDR3: Romanze Nr. 2 F-Dur, op. 50 -by- Ludwig van Beethoven
+2017-02-09T07:08:05+01:00 INFO: WDR3: Konzert f-Moll, BWV 1056 -by- Johann Sebastian Bach
+2017-02-09T07:18:06+01:00 INFO: WDR3: Humoreske -by- Alexander Zemlinsky
+2017-02-09T07:25:06+01:00 INFO: WDR3: Suite de ballet -by- Emile Jaques-Dalcroze
+2017-02-09T07:38:07+01:00 INFO: WDR3: Antiche arie e danze per liuto -by- Ottorino Respighi
+2017-02-09T07:45:07+01:00 INFO: WDR3: Nocturne et Saltarello -by- George Enescu
+2017-02-09T07:48:07+01:00 INFO: WDR3: Sonate Nr. 5 F-Dur -by- Francesco Barsanti
+2017-02-09T07:58:08+01:00 INFO: WDR3: La Sevesca -by- Agostino Guerrieri
+2017-02-09T08:35:09+01:00 INFO: WDR3: Sinfonie Nr. 2, op. 16 -by- Carl Nielsen
+2017-02-09T08:55:10+01:00 INFO: WDR3: 6 Romanzen -by- Giuseppe Verdi
+2017-02-09T09:08:11+01:00 INFO: WDR3: Ein Sommernachtstraum -by- Felix Mendelssohn Bartholdy
+2017-02-09T12:11:28+01:00 INFO: WDR3: 6 Intermezzi, op. 4 -by- Robert Schumann
+2017-02-09T12:34:29+01:00 INFO: WDR3: Suite Nr. 5, op. 34 -by- Hanns Eisler
+2017-02-09T12:52:30+01:00 INFO: WDR3: Sinfonie Nr. 2 C-Dur, J 51 -by- Carl Maria von Weber
+2017-02-09T12:57:30+01:00 INFO: WDR3: Meister Olof, op. 22 -by- Tor Aulin
+2017-02-09T13:08:32+01:00 INFO: WDR3: Carmen-Fantasie -by- Pablo de Sarasate
+2017-02-09T13:22:32+01:00 INFO: WDR3: Suite "Alster" F-Dur, TWV 55:F11 -by- Georg Philipp Telemann
+2017-02-09T13:54:39+01:00 INFO: WDR3: Don Carlo -by- Giuseppe Verdi
+2017-02-09T14:08:40+01:00 INFO: WDR3: Ballade f-Moll, op. 52 -by- Fryderyk Chopin
+2017-02-09T14:23:41+01:00 INFO: WDR3: Sinfonie Nr. 7 h-Moll, D 759 -by- Franz Schubert
+2017-02-09T15:09:48+01:00 INFO: WDR3: Ch' ami la vita, SV 23 -by- Claudio Monteverdi
+2017-02-09T15:26:49+01:00 INFO: WDR3: Simple Symphony -by- Benjamin Britten
+2017-02-09T15:57:55+01:00 INFO: WDR3: Pomp and Circumstance, op. 39 -by- Edward Elgar
+2017-02-09T16:07:56+01:00 INFO: WDR3: Sinfonie F-Dur, MH 25 -by- Michael Haydn
+2017-02-09T16:09:56+01:00 INFO: WDR3: Scherzo d-Moll -by- Julius Reubke
+2017-02-09T16:41:59+01:00 INFO: WDR3: Belsazar, op. 57 -by- Robert Schumann
+2017-02-09T16:49:59+01:00 INFO: WDR3: Romanze F-Dur, AV 75 -by- Richard Strauss
+2017-02-09T16:58:00+01:00 INFO: WDR3: Sinfonische Skizzen -by- George Whitefield Chadwick
+2017-02-09T17:06:00+01:00 INFO: WDR3: Sinfonie Nr. 4 D-Dur, KV 19 -by- Wolfgang Amadeus Mozart
+2017-02-09T17:11:01+01:00 INFO: WDR3: Rain Tree Sketch I -by- Toru Takemitsu
+2017-02-09T17:26:03+01:00 INFO: WDR3: Quartett F-Dur, op. 77,2, Hob. III:82 -by- Joseph Haydn
+2017-02-09T17:31:04+01:00 INFO: WDR3: Sonate -by- Leonard Bernstein
+2017-02-09T17:43:06+01:00 INFO: WDR3: Sinfonie Es-Dur -by- Anton Filtz
+2017-02-09T18:13:11+01:00 INFO: WDR3: Carmela dame la llave -by- Marc Ribot
+2017-02-09T18:23:13+01:00 INFO: WDR3: One note Samba -by- Nancy Wilson
+2017-02-09T18:34:14+01:00 INFO: WDR3: Ring ring dingaling -by- Natalia M. King
+2017-02-09T18:42:15+01:00 INFO: WDR3: Book of slim -by- The Three Sounds
+2017-02-09T18:46:15+01:00 INFO: WDR3: Alles geht einmal zu Ende -by- Manfred Krug
+2017-02-09T18:49:16+01:00 INFO: WDR3: I feel the earth move -by- Carole King
+2017-02-09T18:56:16+01:00 INFO: WDR3: Mr. Puffy -by- John Scofield
+2017-02-09T19:59:22+01:00 INFO: WDR3: So Fare -by- Volker Bertelmann

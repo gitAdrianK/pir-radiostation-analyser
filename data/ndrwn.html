@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="css/jquery.dynatable.css">
+        <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery.dynatable.js"></script>
+    </head>
+    <body>
+        <a href="../index.html">back</a><br>
+        <table id="my-table">
+          <thead>
+            <th>Artist</th>
+            <th>Title</th>
+            <th>Count</th>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+        <script>
+            $.getJSON('radio/ndrwn.json', function (response) {
+                $('#my-table').dynatable({
+                    dataset: {
+                        records: response
+                    },
+                });
+            });
+        </script>
+        <a href="../index.html">back</a><br>
+    </body>
+</html>

@@ -1,0 +1,1462 @@
+[
+  {
+    "artist": "Snow",
+    "title": "Informer",
+    "count": 5
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "My Father's Eyes",
+    "count": 4
+  },
+  {
+    "artist": "CHARLES & EDDIE",
+    "title": "WOULD I LIE TO YOU",
+    "count": 5
+  },
+  {
+    "artist": "The Beloved",
+    "title": "Sweet Harmony",
+    "count": 5
+  },
+  {
+    "artist": "Queen",
+    "title": "The Show Must Go On",
+    "count": 5
+  },
+  {
+    "artist": "a-ha",
+    "title": "Crying In the Rain",
+    "count": 5
+  },
+  {
+    "artist": "Skunk Anansie",
+    "title": "Hedonism (Just Because You Feel Good)",
+    "count": 5
+  },
+  {
+    "artist": "Sting",
+    "title": "If I Ever Lose My Faith in You",
+    "count": 3
+  },
+  {
+    "artist": "Soul Asylum",
+    "title": "Runaway Train",
+    "count": 4
+  },
+  {
+    "artist": "N-TRANCE feat. BEE GEES",
+    "title": "STAYIN' ALIVE",
+    "count": 4
+  },
+  {
+    "artist": "Chris Rea",
+    "title": "LOOKING FOR THE SUMMER",
+    "count": 7
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "Goldeneye (2003 Remaster)",
+    "count": 3
+  },
+  {
+    "artist": "Moby",
+    "title": "Why Does My Heart Feel So Bad?",
+    "count": 4
+  },
+  {
+    "artist": "Absolute Beginner",
+    "title": "Liebes Lied",
+    "count": 6
+  },
+  {
+    "artist": "Semisonic",
+    "title": "Closing Time",
+    "count": 5
+  },
+  {
+    "artist": "Army of Lovers",
+    "title": "Crucified",
+    "count": 4
+  },
+  {
+    "artist": "East 17",
+    "title": "Stay Another Day",
+    "count": 4
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "I Don't Wanna Fight",
+    "count": 4
+  },
+  {
+    "artist": "Donna Lewis",
+    "title": "I Love You Always Forever",
+    "count": 6
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Anybody Seen My Baby?",
+    "count": 4
+  },
+  {
+    "artist": "Scorpions",
+    "title": "You & I",
+    "count": 5
+  },
+  {
+    "artist": "Tasmin Archer",
+    "title": "Sleeping Satellite",
+    "count": 4
+  },
+  {
+    "artist": "Maxi Priest",
+    "title": "Close to You",
+    "count": 4
+  },
+  {
+    "artist": "Falco",
+    "title": "Out of the Dark",
+    "count": 3
+  },
+  {
+    "artist": "Londonbeat",
+    "title": "I've Been Thinking About You",
+    "count": 4
+  },
+  {
+    "artist": "Thomas D",
+    "title": "Rückenwind",
+    "count": 6
+  },
+  {
+    "artist": "FUGEES (REFUGEE CAMP)",
+    "title": "NO WOMAN, NO CRY",
+    "count": 7
+  },
+  {
+    "artist": "Cher",
+    "title": "The Shoop Shoop Song (It's In His Kiss)",
+    "count": 5
+  },
+  {
+    "artist": "Metallica",
+    "title": "Nothing Else Matters",
+    "count": 7
+  },
+  {
+    "artist": "Melanie C",
+    "title": "Northern Star",
+    "count": 5
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Let Me Entertain You",
+    "count": 6
+  },
+  {
+    "artist": "U2",
+    "title": "One",
+    "count": 5
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "New York City Boy",
+    "count": 6
+  },
+  {
+    "artist": "Gary Moore",
+    "title": "Still Got the Blues (For You)",
+    "count": 6
+  },
+  {
+    "artist": "Pretenders",
+    "title": "I'll Stand By You",
+    "count": 3
+  },
+  {
+    "artist": "Caught In the Act",
+    "title": "Love Is Everywhere",
+    "count": 5
+  },
+  {
+    "artist": "The Offspring",
+    "title": "Pretty Fly (For a White Guy)",
+    "count": 6
+  },
+  {
+    "artist": "CE CE PENISTON",
+    "title": "FINALLY",
+    "count": 5
+  },
+  {
+    "artist": "The Cranberries",
+    "title": "Linger",
+    "count": 5
+  },
+  {
+    "artist": "Ronan Keating",
+    "title": "When You Say Nothing At All",
+    "count": 5
+  },
+  {
+    "artist": "Savage Garden",
+    "title": "To the Moon & Back",
+    "count": 4
+  },
+  {
+    "artist": "Sparks",
+    "title": "When Do I Get to Sing \\\"My Way\\\"",
+    "count": 4
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "Summer In the City",
+    "count": 4
+  },
+  {
+    "artist": "DAVE STEWART& CANDY DULFER",
+    "title": "LILY WAS HERE",
+    "count": 5
+  },
+  {
+    "artist": "Kate Ryan",
+    "title": "Désenchantée",
+    "count": 6
+  },
+  {
+    "artist": "ADAMSKI FEAT. SEAL",
+    "title": "KILLER",
+    "count": 5
+  },
+  {
+    "artist": "Die Fantastischen Vier",
+    "title": "MfG",
+    "count": 6
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Crazy",
+    "count": 4
+  },
+  {
+    "artist": "Gary Barlow",
+    "title": "Open Road",
+    "count": 4
+  },
+  {
+    "artist": "Liquido",
+    "title": "Narcotic (Radio Edit)",
+    "count": 6
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "The Only Thing That Looks Good On Me Is You",
+    "count": 4
+  },
+  {
+    "artist": "MARIUS MÜLLER-WESTERNHAGEN",
+    "title": "ES GEHT MIR GUT",
+    "count": 3
+  },
+  {
+    "artist": "Chumbawamba",
+    "title": "Tubthumping",
+    "count": 6
+  },
+  {
+    "artist": "Freundeskreis",
+    "title": "A-N-N-A",
+    "count": 5
+  },
+  {
+    "artist": "Roxette",
+    "title": "Sleeping In My Car",
+    "count": 4
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "Dreamlover",
+    "count": 3
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Millennium",
+    "count": 5
+  },
+  {
+    "artist": "Snap!",
+    "title": "Rhythm Is a Dancer",
+    "count": 6
+  },
+  {
+    "artist": "Roxette",
+    "title": "Dangerous",
+    "count": 5
+  },
+  {
+    "artist": "TAKE THAT & LULU",
+    "title": "RELIGHT MY FIRE",
+    "count": 5
+  },
+  {
+    "artist": "Luniz",
+    "title": "I Got 5 On It",
+    "count": 4
+  },
+  {
+    "artist": "Spin Doctors",
+    "title": "Two Princes",
+    "count": 4
+  },
+  {
+    "artist": "Simply Red",
+    "title": "Something Got Me Started",
+    "count": 4
+  },
+  {
+    "artist": "JESSICA",
+    "title": "HOW WILL I KNOW (WHO YOU ARE)",
+    "count": 6
+  },
+  {
+    "artist": "Savage Garden",
+    "title": "Truly Madly Deeply",
+    "count": 5
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "count": 5
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Will You Be There",
+    "count": 5
+  },
+  {
+    "artist": "CRYSTAL WATERS",
+    "title": "GYPSY WOMAN",
+    "count": 5
+  },
+  {
+    "artist": "Enrique Iglesias",
+    "title": "Rhythm Divine",
+    "count": 6
+  },
+  {
+    "artist": "Faith No More",
+    "title": "I'M EASY",
+    "count": 5
+  },
+  {
+    "artist": "Sophie B. Hawkins",
+    "title": "Right Beside You",
+    "count": 4
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now",
+    "count": 4
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "My Love Is Your Love",
+    "count": 6
+  },
+  {
+    "artist": "La Bouche",
+    "title": "SWEET DREAMS (OLA OLA E)",
+    "count": 5
+  },
+  {
+    "artist": "Queen",
+    "title": "Heaven For Everyone",
+    "count": 5
+  },
+  {
+    "artist": "UB40",
+    "title": "(I Can't Help) Falling In Love With You",
+    "count": 2
+  },
+  {
+    "artist": "Sasha",
+    "title": "We Can Leave the World",
+    "count": 7
+  },
+  {
+    "artist": "Santana",
+    "title": "Maria Maria (feat. The Product G&B)",
+    "count": 5
+  },
+  {
+    "artist": "O.M.D.",
+    "title": "WALKING ON THE MILKY WAY",
+    "count": 6
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "Don't Let the Sun Go Down On Me",
+    "count": 5
+  },
+  {
+    "artist": "Wes",
+    "title": "Alane",
+    "count": 6
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "Dance Into the Light",
+    "count": 6
+  },
+  {
+    "artist": "All Saints",
+    "title": "Never Ever",
+    "count": 6
+  },
+  {
+    "artist": "Alanis Morissette",
+    "title": "Joining You",
+    "count": 5
+  },
+  {
+    "artist": "No Mercy",
+    "title": "Where Do You Go",
+    "count": 5
+  },
+  {
+    "artist": "Espen Lind",
+    "title": "When Susannah Cries",
+    "count": 5
+  },
+  {
+    "artist": "SHAKESPEARE'S SISTER",
+    "title": "HELLO (TURN YOUR RADIO ON)",
+    "count": 4
+  },
+  {
+    "artist": "Maria McKee",
+    "title": "Show Me Heaven",
+    "count": 5
+  },
+  {
+    "artist": "Cher",
+    "title": "Love and Understanding",
+    "count": 5
+  },
+  {
+    "artist": "Des'ree",
+    "title": "What's Your Sign?",
+    "count": 4
+  },
+  {
+    "artist": "Chris Isaak",
+    "title": "Wicked Game",
+    "count": 5
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Secret Love",
+    "count": 6
+  },
+  {
+    "artist": "Nick Kamen",
+    "title": "I Promised Myself",
+    "count": 5
+  },
+  {
+    "artist": "Genesis",
+    "title": "I Can't Dance",
+    "count": 11
+  },
+  {
+    "artist": "Pulp",
+    "title": "Disco 2000",
+    "count": 5
+  },
+  {
+    "artist": "Sheryl Crow",
+    "title": "All I Wanna Do",
+    "count": 5
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "They Don't Care About Us",
+    "count": 5
+  },
+  {
+    "artist": "George Michael",
+    "title": "FREEDOM '90 (EDIT)",
+    "count": 5
+  },
+  {
+    "artist": "Mike + The Mechanics",
+    "title": "Another Cup of Coffee",
+    "count": 5
+  },
+  {
+    "artist": "Madonna",
+    "title": "Frozen",
+    "count": 4
+  },
+  {
+    "artist": "Lou Bega",
+    "title": "Mambo No. 5 (A Little Bit Of...)",
+    "count": 7
+  },
+  {
+    "artist": "Dr. Alban",
+    "title": "Sing Hallelujah!",
+    "count": 4
+  },
+  {
+    "artist": "Nana",
+    "title": "Too Much Heaven",
+    "count": 6
+  },
+  {
+    "artist": "Savage Garden",
+    "title": "I Want You",
+    "count": 7
+  },
+  {
+    "artist": "Roxette",
+    "title": "FADING LIKE A FLOWER",
+    "count": 5
+  },
+  {
+    "artist": "Christina Aguilera",
+    "title": "Genie In a Bottle",
+    "count": 5
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Losing My Religion",
+    "count": 5
+  },
+  {
+    "artist": "Ugly Kid Joe",
+    "title": "Cats in the Cradle",
+    "count": 5
+  },
+  {
+    "artist": "Ace of Base",
+    "title": "Beautiful Life",
+    "count": 4
+  },
+  {
+    "artist": "Spice Girls",
+    "title": "Mama",
+    "count": 7
+  },
+  {
+    "artist": "Coolio",
+    "title": "C U When U Get There",
+    "count": 6
+  },
+  {
+    "artist": "M People",
+    "title": "One Night In Heaven",
+    "count": 4
+  },
+  {
+    "artist": "Oasis",
+    "title": "Don't Look Back In Anger",
+    "count": 5
+  },
+  {
+    "artist": "A*Teens",
+    "title": "Super Trouper",
+    "count": 5
+  },
+  {
+    "artist": "Take That",
+    "title": "Babe",
+    "count": 5
+  },
+  {
+    "artist": "The Farm",
+    "title": "Altogether Now",
+    "count": 6
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "(Everything I Do) I Do It for You",
+    "count": 5
+  },
+  {
+    "artist": "Green Day",
+    "title": "When I Come Around",
+    "count": 8
+  },
+  {
+    "artist": "Fugees",
+    "title": "KILLING ME SOFTY",
+    "count": 6
+  },
+  {
+    "artist": "SARAH BRIGHTMAN/ANDREA BOCELLI",
+    "title": "TIME TO SAY GOODBYE",
+    "count": 5
+  },
+  {
+    "artist": "Madonna",
+    "title": "Ray of Light",
+    "count": 7
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "True Colors ed)",
+    "count": 4
+  },
+  {
+    "artist": "Lighthouse Family",
+    "title": "LIFTED (EDIT)",
+    "count": 6
+  },
+  {
+    "artist": "East 17",
+    "title": "Thunder",
+    "count": 4
+  },
+  {
+    "artist": "Ace of Base",
+    "title": "All That She Wants",
+    "count": 4
+  },
+  {
+    "artist": "Ace of Base",
+    "title": "Life Is a Flower",
+    "count": 5
+  },
+  {
+    "artist": "Des'ree",
+    "title": "Life",
+    "count": 4
+  },
+  {
+    "artist": "Céline Dion",
+    "title": "My Heart Will Go On (Love Theme from \\\"Titanic\\\")",
+    "count": 3
+  },
+  {
+    "artist": "Robyn",
+    "title": "Show Me Love",
+    "count": 6
+  },
+  {
+    "artist": "The Cranberries",
+    "title": "Zombie",
+    "count": 5
+  },
+  {
+    "artist": "Emilia",
+    "title": "Big Big World",
+    "count": 7
+  },
+  {
+    "artist": "Deep Blue Something",
+    "title": "Breakfast at Tiffany's",
+    "count": 6
+  },
+  {
+    "artist": "Roachford",
+    "title": "Lay Your Love On Me",
+    "count": 4
+  },
+  {
+    "artist": "Vengaboys",
+    "title": "We Like to Party! (the Vengabus) (Airplay)",
+    "count": 5
+  },
+  {
+    "artist": "Sixpence None the Richer",
+    "title": "Kiss Me",
+    "count": 5
+  },
+  {
+    "artist": "Meat Loaf",
+    "title": "I'd Do Anything for Love (But I Won't Do That)",
+    "count": 9
+  },
+  {
+    "artist": "Boyzone",
+    "title": "No Matter What",
+    "count": 8
+  },
+  {
+    "artist": "Maggie Reilly",
+    "title": "Everytime We Touch ed)",
+    "count": 5
+  },
+  {
+    "artist": "Jennifer Paige",
+    "title": "Crush",
+    "count": 6
+  },
+  {
+    "artist": "Die Prinzen",
+    "title": "Alles nur geklaut",
+    "count": 5
+  },
+  {
+    "artist": "Wamdue Project",
+    "title": "King of My Castle (Roy Malone Mix)",
+    "count": 7
+  },
+  {
+    "artist": "Ann Lee",
+    "title": "2 Times (Original Radio Edit)",
+    "count": 5
+  },
+  {
+    "artist": "Mr. Big",
+    "title": "To Be With You",
+    "count": 4
+  },
+  {
+    "artist": "Fury In the Slaughterhouse",
+    "title": "When I'm Dead and Gone",
+    "count": 5
+  },
+  {
+    "artist": "ÄRZTE",
+    "title": "MÄNNER SIND SCHWEINE",
+    "count": 3
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Rhythm of My Heart",
+    "count": 5
+  },
+  {
+    "artist": "Will Smith",
+    "title": "Miami",
+    "count": 7
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Californication",
+    "count": 7
+  },
+  {
+    "artist": "PUFF DADDY FEAT. JIMMY PAGE",
+    "title": "COME WITH ME",
+    "count": 5
+  },
+  {
+    "artist": "Heart",
+    "title": "All I Wanna Do Is Make Love to You",
+    "count": 5
+  },
+  {
+    "artist": "Tom Petty & The Heartbreakers",
+    "title": "Learning to Fly",
+    "count": 5
+  },
+  {
+    "artist": "ZUCCHERO & PAUL YOUNG",
+    "title": "SENZA UNA DONNA (WITHOUT A WOMAN)",
+    "count": 5
+  },
+  {
+    "artist": "LeAnn Rimes",
+    "title": "How Do I",
+    "count": 5
+  },
+  {
+    "artist": "UB40",
+    "title": "Kingston Town",
+    "count": 5
+  },
+  {
+    "artist": "Fettes Brot",
+    "title": "Jein",
+    "count": 7
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "I Will Always Love You",
+    "count": 5
+  },
+  {
+    "artist": "Matchbox Twenty",
+    "title": "Push",
+    "count": 5
+  },
+  {
+    "artist": "Hanson",
+    "title": "MMMBop",
+    "count": 6
+  },
+  {
+    "artist": "YOUSSOU N'DOUR & NENEH CHERRY",
+    "title": "7 SECONDS (EDIT)",
+    "count": 4
+  },
+  {
+    "artist": "Paula Abdul",
+    "title": "Rush Rush",
+    "count": 5
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "N'oubliez Jamais",
+    "count": 4
+  },
+  {
+    "artist": "Mr. President",
+    "title": "HAPPY PEOPLE",
+    "count": 7
+  },
+  {
+    "artist": "Moloko",
+    "title": "Sing It Back",
+    "count": 5
+  },
+  {
+    "artist": "Soulsister",
+    "title": "Ain't That Simple",
+    "count": 3
+  },
+  {
+    "artist": "The Proclaimers",
+    "title": "I'm Gonna Be (500 Miles)",
+    "count": 4
+  },
+  {
+    "artist": "Ini Kamoze",
+    "title": "Here Comes the Hotstepper",
+    "count": 5
+  },
+  {
+    "artist": "Elton John",
+    "title": "CANDLE IN THE WIND LIVE '97",
+    "count": 7
+  },
+  {
+    "artist": "TLC",
+    "title": "Waterfalls",
+    "count": 4
+  },
+  {
+    "artist": "Tal Bachman",
+    "title": "She's So High",
+    "count": 5
+  },
+  {
+    "artist": "GUNS'N'ROSES",
+    "title": "KNOCKIN' ON HEAVENS DOOR",
+    "count": 5
+  },
+  {
+    "artist": "Nek",
+    "title": "Laura Non C'è",
+    "count": 5
+  },
+  {
+    "artist": "Alanis Morissette",
+    "title": "Thank U",
+    "count": 4
+  },
+  {
+    "artist": "Lionel Richie",
+    "title": "My Destiny",
+    "count": 5
+  },
+  {
+    "artist": "Céline Dion",
+    "title": "The Power of Love",
+    "count": 3
+  },
+  {
+    "artist": "Alanis Morissette",
+    "title": "Ironic",
+    "count": 4
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Earth Song",
+    "count": 4
+  },
+  {
+    "artist": "Die Fantastischen Vier",
+    "title": "Die Da!?!",
+    "count": 6
+  },
+  {
+    "artist": "Falco",
+    "title": "Egoist",
+    "count": 5
+  },
+  {
+    "artist": "Bette Midler",
+    "title": "From a Distance",
+    "count": 5
+  },
+  {
+    "artist": "Blondie",
+    "title": "MARIA (Edit)",
+    "count": 4
+  },
+  {
+    "artist": "George Michael & Mary J. Blige",
+    "title": "As (Duet With Mary J. Blige)",
+    "count": 6
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Alles aus Liebe",
+    "count": 4
+  },
+  {
+    "artist": "Eros Ramazzotti & Tina Turner",
+    "title": "Cose Della Vita",
+    "count": 5
+  },
+  {
+    "artist": "Genesis",
+    "title": "No Son of Mine",
+    "count": 5
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Enjoy the Silence",
+    "count": 6
+  },
+  {
+    "artist": "Inner Circle",
+    "title": "Sweat (A La La La La Long)",
+    "count": 5
+  },
+  {
+    "artist": "Mike + The Mechanics",
+    "title": "Everybody Gets a Second Chance",
+    "count": 6
+  },
+  {
+    "artist": "Sting",
+    "title": "All This Time",
+    "count": 4
+  },
+  {
+    "artist": "The Connells",
+    "title": "'74-'75",
+    "count": 4
+  },
+  {
+    "artist": "Jam & Spoon",
+    "title": "Kaleidoscope Skies (feat. Plavka)",
+    "count": 6
+  },
+  {
+    "artist": "BRYAN ADAMS & R. STEWART & STING",
+    "title": "ALL FOR LOVE",
+    "count": 5
+  },
+  {
+    "artist": "Faithless",
+    "title": "Insomnia",
+    "count": 3
+  },
+  {
+    "artist": "Blur",
+    "title": "Song 2",
+    "count": 6
+  },
+  {
+    "artist": "Chesney Hawkes",
+    "title": "The One and Only",
+    "count": 5
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Around the World (Radio Edit)",
+    "count": 5
+  },
+  {
+    "artist": "TLC",
+    "title": "Unpretty",
+    "count": 5
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "I'm Every Woman",
+    "count": 4
+  },
+  {
+    "artist": "Vanilla Ice",
+    "title": "Ice Ice Baby",
+    "count": 5
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Shiny Happy People",
+    "count": 4
+  },
+  {
+    "artist": "Marc Cohn",
+    "title": "Walking In Memphis",
+    "count": 5
+  },
+  {
+    "artist": "Seal",
+    "title": "Kiss from a Rose",
+    "count": 4
+  },
+  {
+    "artist": "Sasha",
+    "title": "If You Believe",
+    "count": 6
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "title": "Fly Away",
+    "count": 10
+  },
+  {
+    "artist": "Jimmy Somerville",
+    "title": "You Make Me Feel (Mighty Real)",
+    "count": 5
+  },
+  {
+    "artist": "Shania Twain",
+    "title": "Man! I Feel Like a Woman!",
+    "count": 5
+  },
+  {
+    "artist": "PRINZEN",
+    "title": "KÜSSEN VERBOTEN",
+    "count": 4
+  },
+  {
+    "artist": "Andru Donalds",
+    "title": "Mishale",
+    "count": 4
+  },
+  {
+    "artist": "Robert Miles",
+    "title": "Children",
+    "count": 6
+  },
+  {
+    "artist": "TOM JONES vs. MOUSSE T.",
+    "title": "SEX BOMB",
+    "count": 4
+  },
+  {
+    "artist": "Lenny Kravitz",
+    "title": "I Belong To You",
+    "count": 6
+  },
+  {
+    "artist": "Snap!",
+    "title": "The Power",
+    "count": 4
+  },
+  {
+    "artist": "Simply Red",
+    "title": "Remembering the First Time",
+    "count": 5
+  },
+  {
+    "artist": "Boyz II Men",
+    "title": "End of the Road",
+    "count": 4
+  },
+  {
+    "artist": "JON BON JOVI",
+    "title": "BLAZE OF GLORY (EDIT)",
+    "count": 6
+  },
+  {
+    "artist": "SASHA feat. YOUNG DEENAY",
+    "title": "I'M STILL WAITIN' (Edit)",
+    "count": 6
+  },
+  {
+    "artist": "Whigfield",
+    "title": "Saturday Night",
+    "count": 4
+  },
+  {
+    "artist": "Faith Hill",
+    "title": "This Kiss",
+    "count": 3
+  },
+  {
+    "artist": "Everything But the Girl",
+    "title": "Missing",
+    "count": 5
+  },
+  {
+    "artist": "Londonbeat",
+    "title": "You Bring On the Sun",
+    "count": 5
+  },
+  {
+    "artist": "The Rembrandts",
+    "title": "I'll Be There For You",
+    "count": 4
+  },
+  {
+    "artist": "No Doubt",
+    "title": "Don't Speak",
+    "count": 5
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Under the Bridge",
+    "count": 5
+  },
+  {
+    "artist": "INXS",
+    "title": "Mystify",
+    "count": 4
+  },
+  {
+    "artist": "Smash Mouth",
+    "title": "All Star",
+    "count": 6
+  },
+  {
+    "artist": "*NSYNC",
+    "title": "I Want You Back",
+    "count": 5
+  },
+  {
+    "artist": "Xavier Naidoo",
+    "title": "Nicht von dieser Welt",
+    "count": 3
+  },
+  {
+    "artist": "4 Non Blondes",
+    "title": "What's Up",
+    "count": 4
+  },
+  {
+    "artist": "Spice Girls",
+    "title": "Viva Forever",
+    "count": 4
+  },
+  {
+    "artist": "Reamonn",
+    "title": "Supergirl",
+    "count": 6
+  },
+  {
+    "artist": "GUNS´N´ROSES",
+    "title": "NOVEMBER RAIN",
+    "count": 5
+  },
+  {
+    "artist": "STEFAN RAAB",
+    "title": "HIER KOMMT DIE MAUS",
+    "count": 6
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Rock DJ",
+    "count": 6
+  },
+  {
+    "artist": "ATC",
+    "title": "AROUND THE WORLD (LA LA LA LA)",
+    "count": 6
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "I Don't Want To Miss a Thing",
+    "count": 6
+  },
+  {
+    "artist": "Bell Book & Candle",
+    "title": "Rescue Me",
+    "count": 4
+  },
+  {
+    "artist": "Backstreet Boys",
+    "title": "Everybody (Backstreet's Back)",
+    "count": 3
+  },
+  {
+    "artist": "Dario G",
+    "title": "Sunchyme",
+    "count": 5
+  },
+  {
+    "artist": "Fool's Garden",
+    "title": "Lemon Tree",
+    "count": 4
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "In These Arms",
+    "count": 5
+  },
+  {
+    "artist": "Sinéad O'Connor",
+    "title": "Nothing Compares 2 U",
+    "count": 5
+  },
+  {
+    "artist": "Natalie Imbruglia",
+    "title": "Torn",
+    "count": 4
+  },
+  {
+    "artist": "Bloodhound Gang",
+    "title": "THE BALLAD OF CHAISEY LAIN",
+    "count": 4
+  },
+  {
+    "artist": "Kate Yanai",
+    "title": "Summer Dreamin'",
+    "count": 5
+  },
+  {
+    "artist": "Meredith Brooks",
+    "title": "Bitch",
+    "count": 7
+  },
+  {
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "count": 5
+  },
+  {
+    "artist": "Bananafishbones",
+    "title": "Come To Sin",
+    "count": 3
+  },
+  {
+    "artist": "Roxette",
+    "title": "Spending My Time",
+    "count": 5
+  },
+  {
+    "artist": "Backstreet Boys",
+    "title": "I Want It That Way",
+    "count": 5
+  },
+  {
+    "artist": "Ricky Martin",
+    "title": "Livin' la Vida Loca",
+    "count": 7
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "count": 4
+  },
+  {
+    "artist": "Scorpions",
+    "title": "WIND OF CHANGE (EDIT)",
+    "count": 5
+  },
+  {
+    "artist": "R. Kelly",
+    "title": "I Believe I Can Fly",
+    "count": 4
+  },
+  {
+    "artist": "Fugees",
+    "title": "Ready or Not",
+    "count": 5
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "Keep the Faith",
+    "count": 5
+  },
+  {
+    "artist": "Snap!",
+    "title": "The First the Last Eternity",
+    "count": 5
+  },
+  {
+    "artist": "White Town",
+    "title": "Your Woman",
+    "count": 6
+  },
+  {
+    "artist": "Joan Osborne",
+    "title": "One of Us",
+    "count": 4
+  },
+  {
+    "artist": "Alanis Morissette",
+    "title": "you learn",
+    "count": 4
+  },
+  {
+    "artist": "INXS",
+    "title": "Suicide Blonde",
+    "count": 5
+  },
+  {
+    "artist": "Héroes del Silencio",
+    "title": "Entre Dos Tierras",
+    "count": 4
+  },
+  {
+    "artist": "PETER ANDRE & BUBBLER RANX",
+    "title": "MYSTERIOUS GIRL",
+    "count": 6
+  },
+  {
+    "artist": "Duran Duran",
+    "title": "Ordinary World",
+    "count": 8
+  },
+  {
+    "artist": "Lene Marlin",
+    "title": "Sitting Down Here",
+    "count": 7
+  },
+  {
+    "artist": "Britney Spears",
+    "title": "Born to Make You Happy",
+    "count": 5
+  },
+  {
+    "artist": "Toni Braxton",
+    "title": "Un-Break My Heart",
+    "count": 4
+  },
+  {
+    "artist": "Pras Michael",
+    "title": "Ghetto Superstar (This Is What You Are) [feat. Ol' Dirty Bastard & Mya]",
+    "count": 5
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Everybody Hurts",
+    "count": 5
+  },
+  {
+    "artist": "The Corrs",
+    "title": "What Can I Do?",
+    "count": 5
+  },
+  {
+    "artist": "SIX WAS NINE",
+    "title": "DROP DEAD BEAUTIFUL",
+    "count": 4
+  },
+  {
+    "artist": "Extreme",
+    "title": "More Than Words",
+    "count": 6
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "Bed of Roses",
+    "count": 4
+  },
+  {
+    "artist": "Marc Almond",
+    "title": "The Days Of Pearly Spencer",
+    "count": 5
+  },
+  {
+    "artist": "ACHIM REICHEL",
+    "title": "ALOAH HEJA HE",
+    "count": 5
+  },
+  {
+    "artist": "Nana",
+    "title": "Lonely",
+    "count": 7
+  },
+  {
+    "artist": "Eiffel 65",
+    "title": "Blue (Da Ba Dee)",
+    "count": 5
+  },
+  {
+    "artist": "Sting",
+    "title": "Fields of Gold",
+    "count": 3
+  },
+  {
+    "artist": "Jennifer Lopez",
+    "title": "Waiting for Tonight",
+    "count": 6
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "GO WEST (Edit)",
+    "count": 1
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "I Saved the World Today",
+    "count": 6
+  },
+  {
+    "artist": "Take That",
+    "title": "Back for Good",
+    "count": 3
+  },
+  {
+    "artist": "The Offspring",
+    "title": "Self Esteem",
+    "count": 4
+  },
+  {
+    "artist": "Sasha",
+    "title": "I Feel Lonely",
+    "count": 5
+  },
+  {
+    "artist": "Crash Test Dummies",
+    "title": "Mmm Mmm Mmm Mmm",
+    "count": 5
+  },
+  {
+    "artist": "Masterboy",
+    "title": "Land of Dreaming",
+    "count": 6
+  },
+  {
+    "artist": "BRYAN ADAMS feat. MELANIE C.",
+    "title": "WHEN YOU'RE GONE",
+    "count": 5
+  },
+  {
+    "artist": "Vaya Con Dios",
+    "title": "What's a Woman",
+    "count": 5
+  },
+  {
+    "artist": "Stereo MCs",
+    "title": "Connected",
+    "count": 5
+  },
+  {
+    "artist": "Wet Wet Wet",
+    "title": "Love Is All Around",
+    "count": 5
+  },
+  {
+    "artist": "Amanda Marshall",
+    "title": "Let It Rain",
+    "count": 2
+  },
+  {
+    "artist": "Die Fantastischen Vier",
+    "title": "Sie ist weg",
+    "count": 5
+  },
+  {
+    "artist": "Sophie B. Hawkins",
+    "title": "As I Lay Me Down",
+    "count": 3
+  },
+  {
+    "artist": "George Michael",
+    "title": "Fastlove, Pt. 1",
+    "count": 6
+  }
+]

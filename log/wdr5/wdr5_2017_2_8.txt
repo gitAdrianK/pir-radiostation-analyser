@@ -1,0 +1,30 @@
+2017-02-08T00:08:01+01:00 INFO: WDR5: Wissenschaft und mehr mit Marija Bakker -by- Leonardo
+2017-02-08T02:06:11+01:00 INFO: WDR5: Das Landesmagazin mit Wolfgang Meyer -by- Westblick
+2017-02-08T06:39:29+01:00 INFO: WDR5: "Les petits mondes sont partout" -by- Lesley Kernochan
+2017-02-08T07:14:31+01:00 INFO: WDR5: "Angel" -by- Hannah Miller
+2017-02-08T07:46:33+01:00 INFO: WDR5: "Back to you" -by- Jacob Bellens
+2017-02-08T08:15:34+01:00 INFO: WDR5: "Impossible" -by- Jessica Gall
+2017-02-08T09:13:38+01:00 INFO: WDR5: "This Town" -by- Peter Katz
+2017-02-08T10:08:41+01:00 INFO: WDR5: "Let You Down" -by- Awa-Ly
+2017-02-08T10:31:43+01:00 INFO: WDR5: "A long time" -by- Mayer Hawthorne
+2017-02-08T11:33:50+01:00 INFO: WDR5: "Without you" -by- Y'akoto
+2017-02-08T11:57:52+01:00 INFO: WDR5: "Soul Vibration" -by- J-Walk
+2017-02-08T12:17:53+01:00 INFO: WDR5: "Will it grow" -by- Jakob Dylan
+2017-02-08T14:08:05+01:00 INFO: WDR5: Aktuelles aus der Kultur mit Rebecca Link -by- Scala
+2017-02-08T14:12:05+01:00 INFO: WDR5: "aus: The empire strikes back: The Imperial march" -by- London Symphony Orchestra
+2017-02-08T14:15:05+01:00 INFO: WDR5: Aktuelles aus der Kul -by- Scala
+2017-02-08T14:49:11+01:00 INFO: WDR5: Aktuelles aus der -by- Scala
+2017-02-08T15:18:13+01:00 INFO: WDR5: Wissenschaft und m -by- Leonardo
+2017-02-08T15:23:14+01:00 INFO: WDR5: "Free Song" -by- Maria Taylor
+2017-02-08T15:31:14+01:00 INFO: WDR5: "Provincial Blues" -by- Jason Collett
+2017-02-08T15:49:18+01:00 INFO: WDR5: "Play the blues" -by- Joan Armatrading
+2017-02-08T16:13:24+01:00 INFO: WDR5: "Girl Can't Decide (Live Acoustic Version)" -by- Bird
+2017-02-08T16:47:30+01:00 INFO: WDR5: "The days of Pearly Spencer" -by- David McWilliams
+2017-02-08T16:53:31+01:00 INFO: WDR5: "James" -by- Santiago Lara
+2017-02-08T17:07:32+01:00 INFO: WDR5: Das Landesmagazin mit Irene Geuer -by- Westblick
+2017-02-08T17:31:35+01:00 INFO: WDR5: "Alcoholic Drinks" -by- Fab Samperi
+2017-02-08T17:36:36+01:00 INFO: WDR5: Das Landesmagazi -by- Westblick
+2017-02-08T21:07:05+01:00 INFO: WDR5: Aktuelles aus der -by- Scala
+2017-02-08T21:09:05+01:00 INFO: WDR5: Aktuelles aus der Kultur mit Rebecca Link -by- Scala
+2017-02-08T22:09:10+01:00 INFO: WDR5: Unterhaltung nach zehn -by- U 22
+2017-02-08T23:31:24+01:00 INFO: WDR5: Berichte -by- heute

@@ -1,0 +1,832 @@
+[
+  {
+    "artist": "The Beach Boys",
+    "title": "Surfin' U.S.A.",
+    "count": 7
+  },
+  {
+    "artist": "Kool & The Gang",
+    "title": "Fresh",
+    "count": 11
+  },
+  {
+    "artist": "AMY WINEHOUSE FEAT. MARK RONSON",
+    "title": "VALERIE",
+    "count": 8
+  },
+  {
+    "artist": "Of Monsters and Men",
+    "title": "Little Talks",
+    "count": 9
+  },
+  {
+    "artist": "Olly Murs",
+    "title": "Up (feat. Demi Lovato)",
+    "count": 9
+  },
+  {
+    "artist": "NICK STRAKER BAND",
+    "title": "A WALK IN THE PARK",
+    "count": 11
+  },
+  {
+    "artist": "Taylor Swift",
+    "title": "Shake It Off",
+    "count": 9
+  },
+  {
+    "artist": "Shakira",
+    "title": "Waka Waka (This Time for Africa) (feat. Freshlyground)",
+    "count": 9
+  },
+  {
+    "artist": "Tal Bachman",
+    "title": "She's So High",
+    "count": 11
+  },
+  {
+    "artist": "OWL CITY FEAT. CARLY REA JEPSEN",
+    "title": "GOOD TIME",
+    "count": 8
+  },
+  {
+    "artist": "Ryan Paris",
+    "title": "Dolce Vita",
+    "count": 11
+  },
+  {
+    "artist": "Seeed",
+    "title": "Aufstehn!",
+    "count": 9
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Locked Out of Heaven",
+    "count": 8
+  },
+  {
+    "artist": "The Black Eyed Peas",
+    "title": "Where Is the Love?",
+    "count": 9
+  },
+  {
+    "artist": "Bastille",
+    "title": "Good Grief",
+    "count": 9
+  },
+  {
+    "artist": "Kool & The Gang",
+    "title": "Celebration",
+    "count": 10
+  },
+  {
+    "artist": "Ollie Gabriel",
+    "title": "Running Man",
+    "count": 8
+  },
+  {
+    "artist": "Imagine Dragons",
+    "title": "On Top of the World",
+    "count": 9
+  },
+  {
+    "artist": "Kenny Loggins",
+    "title": "Footloose",
+    "count": 9
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Be the One",
+    "count": 8
+  },
+  {
+    "artist": "Jessie J",
+    "title": "Price Tag (feat. B.o.B)",
+    "count": 9
+  },
+  {
+    "artist": "Miriam Makeba",
+    "title": "Pata Pata",
+    "count": 11
+  },
+  {
+    "artist": "K'naan",
+    "title": "Wavin' Flag",
+    "count": 8
+  },
+  {
+    "artist": "Natalie Imbruglia",
+    "title": "Torn",
+    "count": 10
+  },
+  {
+    "artist": "Maroon 5",
+    "title": "Moves Like Jagger (feat. Christina Aguilera)",
+    "count": 8
+  },
+  {
+    "artist": "The Temptations",
+    "title": "My Girl",
+    "count": 9
+  },
+  {
+    "artist": "Peter Fox",
+    "title": "Haus am See",
+    "count": 8
+  },
+  {
+    "artist": "The Script",
+    "title": "Superheroes",
+    "count": 10
+  },
+  {
+    "artist": "Gloria Estefan",
+    "title": "Conga",
+    "count": 11
+  },
+  {
+    "artist": "Jackson 5",
+    "title": "I Want You Back",
+    "count": 11
+  },
+  {
+    "artist": "Justin Timberlake",
+    "title": "CAN'T STOP THE FEELING",
+    "count": 9
+  },
+  {
+    "artist": "Sigala",
+    "title": "SWEET LOVIN'",
+    "count": 8
+  },
+  {
+    "artist": "Ellie Goulding",
+    "title": "Something In the Way You Move",
+    "count": 9
+  },
+  {
+    "artist": "Ben E. King",
+    "title": "Stand By Me",
+    "count": 12
+  },
+  {
+    "artist": "EFF",
+    "title": "Stimme",
+    "count": 9
+  },
+  {
+    "artist": "Alle Farben",
+    "title": "Bad Ideas",
+    "count": 9
+  },
+  {
+    "artist": "Eric Prydz",
+    "title": "Call On Me",
+    "count": 9
+  },
+  {
+    "artist": "Mark Ronson",
+    "title": "Uptown Funk (feat. Bruno Mars)",
+    "count": 8
+  },
+  {
+    "artist": "Olly Murs",
+    "title": "Wrapped Up",
+    "count": 8
+  },
+  {
+    "artist": "Pharrell Williams",
+    "title": "Happy",
+    "count": 8
+  },
+  {
+    "artist": "Cro",
+    "title": "Einmal um die Welt",
+    "count": 9
+  },
+  {
+    "artist": "Jack Johnson",
+    "title": "Upside Down",
+    "count": 8
+  },
+  {
+    "artist": "Sixpence None the Richer",
+    "title": "Kiss Me",
+    "count": 11
+  },
+  {
+    "artist": "Harry Belafonte",
+    "title": "Matilda",
+    "count": 12
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Let's Dance",
+    "count": 11
+  },
+  {
+    "artist": "Carly Rae Jepsen",
+    "title": "Call Me Maybe",
+    "count": 8
+  },
+  {
+    "artist": "Uncle Kracker",
+    "title": "Follow Me",
+    "count": 11
+  },
+  {
+    "artist": "Madness",
+    "title": "Our House",
+    "count": 11
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Wouldn't It Be Nice",
+    "count": 12
+  },
+  {
+    "artist": "JOHN PAUL YOUNG",
+    "title": "LOVE IS IN THE AIR",
+    "count": 11
+  },
+  {
+    "artist": "Norman Greenbaum",
+    "title": "Spirit In the Sky",
+    "count": 10
+  },
+  {
+    "artist": "The Rembrandts",
+    "title": "I'll Be There For You",
+    "count": 12
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+    "count": 8
+  },
+  {
+    "artist": "Icona Pop",
+    "title": "I Love It",
+    "count": 9
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations",
+    "count": 10
+  },
+  {
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "count": 12
+  },
+  {
+    "artist": "The Proclaimers",
+    "title": "I'm Gonna Be (500 Miles)",
+    "count": 10
+  },
+  {
+    "artist": "Shakira",
+    "title": "Whenever, Wherever",
+    "count": 9
+  },
+  {
+    "artist": "Barclay James Harvest",
+    "title": "Life Is for Living",
+    "count": 10
+  },
+  {
+    "artist": "KESHA",
+    "title": "TIK TOK",
+    "count": 9
+  },
+  {
+    "artist": "WALK THE MOON",
+    "title": "Shut Up and Dance",
+    "count": 9
+  },
+  {
+    "artist": "Sheryl Crow",
+    "title": "All I Wanna Do",
+    "count": 9
+  },
+  {
+    "artist": "Charlie Puth",
+    "title": "Marvin Gaye (feat. Meghan Trainor)",
+    "count": 7
+  },
+  {
+    "artist": "P!nk",
+    "title": "So What",
+    "count": 8
+  },
+  {
+    "artist": "Jackson 5",
+    "title": "Abc",
+    "count": 10
+  },
+  {
+    "artist": "Kate Yanai",
+    "title": "SUMMER DREAMING (BACARDI FEELING)",
+    "count": 11
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "I Wanna Dance With Somebody",
+    "count": 10
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Surfin' USA",
+    "count": 3
+  },
+  {
+    "artist": "KUNGS,  COOKIN ON 3 BURNERS",
+    "title": "THIS GIRL",
+    "count": 9
+  },
+  {
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "count": 9
+  },
+  {
+    "artist": "Toploader",
+    "title": "Dancing In the Moonlight",
+    "count": 21
+  },
+  {
+    "artist": "The Pointer Sisters",
+    "title": "Jump (For My Love)",
+    "count": 12
+  },
+  {
+    "artist": "The Pointer Sisters",
+    "title": "I'm So Excited",
+    "count": 12
+  },
+  {
+    "artist": "The Strumbellas",
+    "title": "Spirits",
+    "count": 10
+  },
+  {
+    "artist": "The Monkees",
+    "title": "I'm a Believer",
+    "count": 10
+  },
+  {
+    "artist": "Madcon",
+    "title": "Keep My Cool",
+    "count": 9
+  },
+  {
+    "artist": "Culture Club",
+    "title": "Karma Chameleon",
+    "count": 10
+  },
+  {
+    "artist": "Steve Winwood",
+    "title": "Valerie",
+    "count": 10
+  },
+  {
+    "artist": "Alle Farben",
+    "title": "Please Tell Rosie (feat. YOUNOTUS)",
+    "count": 9
+  },
+  {
+    "artist": "Meghan Trainor",
+    "title": "All About That Bass",
+    "count": 8
+  },
+  {
+    "artist": "Lost Frequencies",
+    "title": "Reality (feat. Janieck Devy)",
+    "count": 8
+  },
+  {
+    "artist": "Supertramp",
+    "title": "Dreamer",
+    "count": 8
+  },
+  {
+    "artist": "Smash Mouth",
+    "title": "All Star",
+    "count": 12
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Treasure",
+    "count": 9
+  },
+  {
+    "artist": "Fatboy Slim",
+    "title": "Praise You",
+    "count": 12
+  },
+  {
+    "artist": "Madonna",
+    "title": "Into the Groove",
+    "count": 11
+  },
+  {
+    "artist": "Katrina & The Waves",
+    "title": "Walking On Sunshine",
+    "count": 10
+  },
+  {
+    "artist": "Diana Ross",
+    "title": "Upside Down",
+    "count": 11
+  },
+  {
+    "artist": "The Cure",
+    "title": "Friday I'm In Love",
+    "count": 9
+  },
+  {
+    "artist": "Jason Derulo",
+    "title": "Want to Want Me",
+    "count": 8
+  },
+  {
+    "artist": "Miami Sound Machine",
+    "title": "Dr. Beat",
+    "count": 11
+  },
+  {
+    "artist": "Bobby McFerrin",
+    "title": "Don't Worry Be Happy",
+    "count": 11
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "24K Magic",
+    "count": 10
+  },
+  {
+    "artist": "Bob Marley",
+    "title": "Jamming",
+    "count": 11
+  },
+  {
+    "artist": "Passenger",
+    "title": "Anywhere",
+    "count": 10
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "CALIFORNIA GURLS",
+    "count": 9
+  },
+  {
+    "artist": "Zara Larsson",
+    "title": "Lush Life",
+    "count": 8
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "title": "Monday, Monday",
+    "count": 12
+  },
+  {
+    "artist": "Alvaro Soler",
+    "title": "El Mismo Sol",
+    "count": 9
+  },
+  {
+    "artist": "Will Smith",
+    "title": "Miami",
+    "count": 11
+  },
+  {
+    "artist": "Dexy's Midnight Runners",
+    "title": "Come On Eileen",
+    "count": 12
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine",
+    "count": 9
+  },
+  {
+    "artist": "Madonna",
+    "title": "Like a Virgin",
+    "count": 12
+  },
+  {
+    "artist": "LunchMoney Lewis",
+    "title": "Bills",
+    "count": 8
+  },
+  {
+    "artist": "Ray Parker, Jr.",
+    "title": "Ghostbusters",
+    "count": 12
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Here Comes the Sun",
+    "count": 11
+  },
+  {
+    "artist": "Cher",
+    "title": "The Shoop Shoop Song (It's In His Kiss)",
+    "count": 11
+  },
+  {
+    "artist": "The Black Eyed Peas",
+    "title": "I Gotta Feeling",
+    "count": 8
+  },
+  {
+    "artist": "Outkast",
+    "title": "Hey Ya!",
+    "count": 9
+  },
+  {
+    "artist": "Christina Aguilera",
+    "title": "Candyman",
+    "count": 9
+  },
+  {
+    "artist": "Fun.",
+    "title": "Some Nights",
+    "count": 9
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Adventure of a Lifetime",
+    "count": 9
+  },
+  {
+    "artist": "Wham!",
+    "title": "Club Tropicana",
+    "count": 8
+  },
+  {
+    "artist": "Michael Bublé",
+    "title": "It's a Beautiful Day",
+    "count": 9
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Firework",
+    "count": 10
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now",
+    "count": 11
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Fun, Fun, Fun",
+    "count": 8
+  },
+  {
+    "artist": "Sia",
+    "title": "Cheap Thrills (feat. Sean Paul)",
+    "count": 9
+  },
+  {
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "count": 9
+  },
+  {
+    "artist": "Kris",
+    "title": "Diese Tage (feat. Dante Thomas)",
+    "count": 7
+  },
+  {
+    "artist": "Duke Dumont",
+    "title": "I Got U (feat. Jax Jones)",
+    "count": 8
+  },
+  {
+    "artist": "Louis Armstrong",
+    "title": "What a Wonderful World",
+    "count": 10
+  },
+  {
+    "artist": "Clean Bandit",
+    "title": "Rather Be (feat. Jess Glynne)",
+    "count": 8
+  },
+  {
+    "artist": "Major Lazer",
+    "title": "LIGHT IT UP",
+    "count": 10
+  },
+  {
+    "artist": "WALK THE MOON",
+    "title": "Work This Body",
+    "count": 9
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Chöre",
+    "count": 10
+  },
+  {
+    "artist": "Blink-182",
+    "title": "All the Small Things",
+    "count": 12
+  },
+  {
+    "artist": "Flo Rida",
+    "title": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",
+    "count": 8
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Flash mich",
+    "count": 10
+  },
+  {
+    "artist": "Shaggy",
+    "title": "Angel (feat. Rayvon)",
+    "count": 11
+  },
+  {
+    "artist": "Rea Garvey",
+    "title": "Oh My Love",
+    "count": 9
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Girls Just Want to Have Fun",
+    "count": 10
+  },
+  {
+    "artist": "MAGIC!",
+    "title": "Rude",
+    "count": 8
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Viva La Vida",
+    "count": 9
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Candy",
+    "count": 8
+  },
+  {
+    "artist": "Rudimental",
+    "title": "Lay It All On Me (feat. Ed Sheeran)",
+    "count": 8
+  },
+  {
+    "artist": "Laid Back",
+    "title": "Sunshine Reggae (Mix '82)",
+    "count": 12
+  },
+  {
+    "artist": "Carly Rae Jepsen",
+    "title": "I Really Like You",
+    "count": 7
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "You Sexy Thing",
+    "count": 11
+  },
+  {
+    "artist": "Madcon",
+    "title": "Don't Worry (feat. Ray Dalton)",
+    "count": 8
+  },
+  {
+    "artist": "Lukas Graham",
+    "title": "Drunk in the Morning",
+    "count": 8
+  },
+  {
+    "artist": "Bastille",
+    "title": "Pompeii",
+    "count": 9
+  },
+  {
+    "artist": "Coldplay",
+    "title": "A Sky Full of Stars",
+    "count": 8
+  },
+  {
+    "artist": "OLIVIA NEWTON-JOHN & JOHN TRAVO",
+    "title": "YOU'RE THE ONE THAT I WANT",
+    "count": 11
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "September",
+    "count": 11
+  },
+  {
+    "artist": "Wham!",
+    "title": "Wake Me Up Before You Go Go",
+    "count": 12
+  },
+  {
+    "artist": "Petula Clark",
+    "title": "Downtown",
+    "count": 9
+  },
+  {
+    "artist": "Jason Mraz",
+    "title": "I'm Yours",
+    "count": 10
+  },
+  {
+    "artist": "Calvin Harris",
+    "title": "My Way",
+    "count": 9
+  },
+  {
+    "artist": "Queen",
+    "title": "Crazy Little Thing Called Love",
+    "count": 9
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Barbara Ann",
+    "count": 11
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Auf uns",
+    "count": 8
+  },
+  {
+    "artist": "DNCE",
+    "title": "Cake by the Ocean",
+    "count": 9
+  },
+  {
+    "artist": "Peter Gabriel",
+    "title": "Solsbury Hill",
+    "count": 11
+  },
+  {
+    "artist": "MIKA",
+    "title": "Grace Kelly",
+    "count": 8
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Hymn for the Weekend",
+    "count": 9
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "count": 12
+  },
+  {
+    "artist": "Sheppard",
+    "title": "Let Me Down Easy",
+    "count": 9
+  },
+  {
+    "artist": "Omi",
+    "title": "Hula Hoop",
+    "count": 9
+  },
+  {
+    "artist": "Train",
+    "title": "Hey, Soul Sister",
+    "count": 9
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "You Can't Hurry Love",
+    "count": 11
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Lovely Day",
+    "count": 9
+  },
+  {
+    "artist": "Omi",
+    "title": "Cheerleader (feat. Kid Ink)",
+    "count": 9
+  },
+  {
+    "artist": "Barry Manilow",
+    "title": "Copacabana",
+    "count": 10
+  },
+  {
+    "artist": "David Dundas",
+    "title": "Jeans On",
+    "count": 12
+  },
+  {
+    "artist": "Matt Simons",
+    "title": "Catch & Release",
+    "count": 8
+  }
+]

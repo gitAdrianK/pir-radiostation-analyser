@@ -1,0 +1,44 @@
+2017-02-07T20:43:39+01:00 INFO: Antenne Niedersachsen On Air: Shape of You -by- Ed Sheeran
+2017-02-07T20:45:39+01:00 INFO: Antenne Niedersachsen On Air: When I Find Love Again -by- James Blunt
+2017-02-07T20:50:39+01:00 INFO: Antenne Niedersachsen On Air: Talkin' Bout a Revolution -by- Tracy Chapman
+2017-02-07T20:53:40+01:00 INFO: Antenne Niedersachsen On Air: Count On Me -by- Bruno Mars
+2017-02-07T21:00:41+01:00 INFO: Antenne Niedersachsen On Air: Are You with Me (Radio Edit) -by- Lost Frequencies
+2017-02-07T21:02:42+01:00 INFO: Antenne Niedersachsen On Air: Ride Like the Wind -by- Christopher Cross
+2017-02-07T21:10:43+01:00 INFO: Antenne Niedersachsen On Air: Freunde Bleiben -by- Revolverheld
+2017-02-07T21:13:44+01:00 INFO: Antenne Niedersachsen On Air: Let's Hurt Tonight -by- OneRepublic
+2017-02-07T21:18:45+01:00 INFO: Antenne Niedersachsen On Air: Billie Jean -by- Michael Jackson
+2017-02-07T21:21:45+01:00 INFO: Antenne Niedersachsen On Air: Today's the Day -by- P!nk
+2017-02-07T21:28:46+01:00 INFO: Antenne Niedersachsen On Air: STADT -by- CASSANDRA STEEN & ADEL TAWIL
+2017-02-07T21:31:47+01:00 INFO: Antenne Niedersachsen On Air: My Way -by- Calvin Harris
+2017-02-07T21:35:47+01:00 INFO: Antenne Niedersachsen On Air: True Colors ed) -by- Phil Collins
+2017-02-07T21:37:47+01:00 INFO: Antenne Niedersachsen On Air: Move In the Right Direction -by- Gossip
+2017-02-07T21:41:48+01:00 INFO: Antenne Niedersachsen On Air: Feuerwerk -by- Wincent Weiss
+2017-02-07T21:47:49+01:00 INFO: Antenne Niedersachsen On Air: With or Without You -by- U2
+2017-02-07T21:50:49+01:00 INFO: Antenne Niedersachsen On Air: Wake Me Up -by- Avicii
+2017-02-07T21:59:50+01:00 INFO: Antenne Niedersachsen On Air: Gold -by- Spandau Ballet
+2017-02-07T22:02:50+01:00 INFO: Antenne Niedersachsen On Air: Home (feat. Nico Santos) -by- Topic
+2017-02-07T22:05:51+01:00 INFO: Antenne Niedersachsen On Air: Chöre -by- Mark Forster
+2017-02-07T22:09:51+01:00 INFO: Antenne Niedersachsen On Air: Ironic -by- Alanis Morissette
+2017-02-07T22:12:52+01:00 INFO: Antenne Niedersachsen On Air: Never Give Up -by- Sia
+2017-02-07T22:15:52+01:00 INFO: Antenne Niedersachsen On Air: Bis ans Ende der Welt -by- Joris
+2017-02-07T22:20:53+01:00 INFO: Antenne Niedersachsen On Air: Talk -by- Coldplay
+2017-02-07T22:23:53+01:00 INFO: Antenne Niedersachsen On Air: Habits (Stay High) -by- Tove Lo
+2017-02-07T22:30:54+01:00 INFO: Antenne Niedersachsen On Air: Geiles Leben -by- Glasperlenspiel
+2017-02-07T22:33:54+01:00 INFO: Antenne Niedersachsen On Air: Sledgehammer -by- Peter Gabriel
+2017-02-07T22:40:55+01:00 INFO: Antenne Niedersachsen On Air: Underneath Your Clothes -by- Shakira
+2017-02-07T22:44:55+01:00 INFO: Antenne Niedersachsen On Air: Shed a Light (feat. Cheat Codes) -by- Robin Schulz & David Guetta
+2017-02-07T22:50:56+01:00 INFO: Antenne Niedersachsen On Air: Summer Of '69 -by- Bryan Adams
+2017-02-07T22:53:56+01:00 INFO: Antenne Niedersachsen On Air: Pompeii -by- Bastille
+2017-02-07T23:00:57+01:00 INFO: Antenne Niedersachsen On Air: Jolene (feat. The Common Linnets) -by- The BossHoss
+2017-02-07T23:03:58+01:00 INFO: Antenne Niedersachsen On Air: Here Comes the Rain Again -by- Eurythmics
+2017-02-07T23:10:59+01:00 INFO: Antenne Niedersachsen On Air: I Do -by- Colbie Caillat
+2017-02-07T23:13:59+01:00 INFO: Antenne Niedersachsen On Air: Hologramm -by- Joy Denalane
+2017-02-07T23:19:00+01:00 INFO: Antenne Niedersachsen On Air: A Kind of Magic -by- Queen
+2017-02-07T23:23:00+01:00 INFO: Antenne Niedersachsen On Air: Cheerleader (feat. Kid Ink) -by- Omi
+2017-02-07T23:29:01+01:00 INFO: Antenne Niedersachsen On Air: Little In the Middle -by- Milow
+2017-02-07T23:32:02+01:00 INFO: Antenne Niedersachsen On Air: The Sound of Silence -by- Disturbed
+2017-02-07T23:36:02+01:00 INFO: Antenne Niedersachsen On Air: Dancing In the Moonlight -by- Toploader
+2017-02-07T23:40:03+01:00 INFO: Antenne Niedersachsen On Air: Walk -by- Kwabs
+2017-02-07T23:43:03+01:00 INFO: Antenne Niedersachsen On Air: Dream On -by- Amy Macdonald
+2017-02-07T23:48:04+01:00 INFO: Antenne Niedersachsen On Air: Tainted Love -by- Soft Cell
+2017-02-07T23:51:04+01:00 INFO: Antenne Niedersachsen On Air: Blame It on Me -by- George Ezra

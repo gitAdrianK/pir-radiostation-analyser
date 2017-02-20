@@ -1,0 +1,199 @@
+2017-02-10T05:06:18+01:00 INFO: NDR Welle Nord: Verliebte Jungs -by- Purple Schulz
+2017-02-10T05:10:18+01:00 INFO: NDR Welle Nord: If I could turn back time -by- Cher
+2017-02-10T05:14:19+01:00 INFO: NDR Welle Nord: You&#39;re the one that I want -by- Olivia Newton-John &amp; John Travolta
+2017-02-10T05:17:19+01:00 INFO: NDR Welle Nord: Together forever -by- Rick Astley
+2017-02-10T05:21:19+01:00 INFO: NDR Welle Nord: Stay the night -by- James Blunt
+2017-02-10T05:25:19+01:00 INFO: NDR Welle Nord: Another day in paradise -by- Phil Collins
+2017-02-10T05:33:20+01:00 INFO: NDR Welle Nord: Rockabye -by- Clean Bandit feat. Sean Paul &amp; Anne-Marie
+2017-02-10T05:36:20+01:00 INFO: NDR Welle Nord: Knockin&#39; on heaven&#39;s door -by- Bob Dylan
+2017-02-10T05:40:20+01:00 INFO: NDR Welle Nord: Verdamp lang her (Verdammt lang her) -by- BAP
+2017-02-10T05:47:21+01:00 INFO: NDR Welle Nord: September -by- Earth Wind &amp; Fire
+2017-02-10T05:52:21+01:00 INFO: NDR Welle Nord: Dear Mr. President -by- Pink
+2017-02-10T05:57:21+01:00 INFO: NDR Welle Nord: True -by- Spandau Ballet
+2017-02-10T06:07:22+01:00 INFO: NDR Welle Nord: Wieder zuhaus -by- Klaus Lage Band
+2017-02-10T06:10:22+01:00 INFO: NDR Welle Nord: Love is all around -by- Wet Wet Wet
+2017-02-10T06:22:23+01:00 INFO: NDR Welle Nord: Have I told you lately -by- Rod Stewart
+2017-02-10T06:27:23+01:00 INFO: NDR Welle Nord: Mercy -by- Duffy
+2017-02-10T06:33:24+01:00 INFO: NDR Welle Nord: Love my life -by- Robbie Williams
+2017-02-10T06:36:24+01:00 INFO: NDR Welle Nord: Taxi nach Paris -by- Felix De Luxe
+2017-02-10T06:41:24+01:00 INFO: NDR Welle Nord: You to me are everything -by- Real Thing
+2017-02-10T06:45:25+01:00 INFO: NDR Welle Nord: My love -by- Zucchero
+2017-02-10T06:49:25+01:00 INFO: NDR Welle Nord: Friends will be friends -by- Queen
+2017-02-10T06:53:25+01:00 INFO: NDR Welle Nord: Calling America -by- Electric Light Orchestra
+2017-02-10T06:57:25+01:00 INFO: NDR Welle Nord: Shattered dreams -by- Johnny Hates Jazz
+2017-02-10T07:05:26+01:00 INFO: NDR Welle Nord: Life is for living -by- Barclay James Harvest
+2017-02-10T07:08:26+01:00 INFO: NDR Welle Nord: Lay down Sally -by- Eric Clapton
+2017-02-10T07:16:27+01:00 INFO: NDR Welle Nord: Take me where the sun is shining -by- Coleske
+2017-02-10T07:20:27+01:00 INFO: NDR Welle Nord: Irgendwie, irgendwo, irgendwann -by- Nena
+2017-02-10T07:25:27+01:00 INFO: NDR Welle Nord: Stay with me -by- Sam Smith
+2017-02-10T07:28:28+01:00 INFO: NDR Welle Nord: I&#39;m too sexy -by- Right Said Fred
+2017-02-10T07:34:28+01:00 INFO: NDR Welle Nord: Human -by- Rag&#39;n&#39;bone Man
+2017-02-10T07:37:28+01:00 INFO: NDR Welle Nord: Painter man -by- Boney M.
+2017-02-10T07:42:29+01:00 INFO: NDR Welle Nord: Big in Japan -by- Alphaville
+2017-02-10T07:46:29+01:00 INFO: NDR Welle Nord: The night you murdered love -by- ABC
+2017-02-10T07:52:29+01:00 INFO: NDR Welle Nord: Lieder -by- Adel Tawil
+2017-02-10T07:57:30+01:00 INFO: NDR Welle Nord: Beach baby -by- First Class
+2017-02-10T08:09:30+01:00 INFO: NDR Welle Nord: Don&#39;t you (forget about me) -by- Simple Minds
+2017-02-10T08:13:31+01:00 INFO: NDR Welle Nord: Water under the bridge -by- Adele
+2017-02-10T08:23:31+01:00 INFO: NDR Welle Nord: Runaway train -by- Soul Asylum
+2017-02-10T08:27:32+01:00 INFO: NDR Welle Nord: Lucky man -by- Lake Emerson &amp; Palmer
+2017-02-10T08:33:32+01:00 INFO: NDR Welle Nord: Do you believe in love -by- Huey Lewis &amp; The News
+2017-02-10T08:37:32+01:00 INFO: NDR Welle Nord: Human -by- Killers
+2017-02-10T08:43:33+01:00 INFO: NDR Welle Nord: Rasta man -by- Saragossa Band
+2017-02-10T08:47:33+01:00 INFO: NDR Welle Nord: Human -by- Human League
+2017-02-10T08:53:33+01:00 INFO: NDR Welle Nord: Wolke 4 -by- Philipp Dittberner &amp; Marv
+2017-02-10T08:56:34+01:00 INFO: NDR Welle Nord: A walk in the park -by- Nick Straker Band
+2017-02-10T09:06:34+01:00 INFO: NDR Welle Nord: Caribbean Queen (No more love on the run) -by- Billy Ocean
+2017-02-10T09:10:34+01:00 INFO: NDR Welle Nord: Rama lama ding dong -by- Rocky Sharpe &amp; The Replays
+2017-02-10T09:14:35+01:00 INFO: NDR Welle Nord: Dein Lied -by- Laith Al-Deen
+2017-02-10T09:18:35+01:00 INFO: NDR Welle Nord: Road to nowhere -by- Talking Heads
+2017-02-10T09:23:35+01:00 INFO: NDR Welle Nord: Count on me -by- Bruno Mars
+2017-02-10T09:27:36+01:00 INFO: NDR Welle Nord: Hey little girl -by- Icehouse
+2017-02-10T09:34:36+01:00 INFO: NDR Welle Nord: Don&#39;t be so shy -by- Imany &amp; Karas
+2017-02-10T09:37:36+01:00 INFO: NDR Welle Nord: Over my shoulder -by- Mike &amp; The Mechanics
+2017-02-10T09:43:37+01:00 INFO: NDR Welle Nord: More than I can say -by- Leo Sayer
+2017-02-10T09:49:37+01:00 INFO: NDR Welle Nord: The night you murdered love -by- ABC
+2017-02-10T09:54:37+01:00 INFO: NDR Welle Nord: Unter deiner Flagge -by- Unheilig
+2017-02-10T09:57:38+01:00 INFO: NDR Welle Nord: Xanadu -by- Electric Light Orchestra
+2017-02-10T10:06:38+01:00 INFO: NDR Welle Nord: Land of confusion -by- Genesis
+2017-02-10T10:10:39+01:00 INFO: NDR Welle Nord: With a little help from my friends -by- Beatles
+2017-02-10T10:15:39+01:00 INFO: NDR Welle Nord: Golden brown -by- Stranglers
+2017-02-10T10:19:39+01:00 INFO: NDR Welle Nord: Reeperbahn -by- Udo Lindenberg &amp; Jan Delay
+2017-02-10T10:23:39+01:00 INFO: NDR Welle Nord: Sunday girl -by- Blondie
+2017-02-10T10:26:40+01:00 INFO: NDR Welle Nord: White flag -by- Dido
+2017-02-10T10:33:42+01:00 INFO: NDR Welle Nord: Don&#39;t you know -by- Kungs feat. Jamie N. Commons
+2017-02-10T10:36:43+01:00 INFO: NDR Welle Nord: Don&#39;t get me wrong -by- Pretenders
+2017-02-10T10:43:43+01:00 INFO: NDR Welle Nord: Message in a bottle -by- Police
+2017-02-10T10:47:43+01:00 INFO: NDR Welle Nord: Das hat die Welt noch nicht gesehen -by- S&ouml;hne Mannheims
+2017-02-10T10:52:44+01:00 INFO: NDR Welle Nord: Moonlight shadow -by- Mike Oldfield &amp; Maggie Reilly
+2017-02-10T10:54:44+01:00 INFO: NDR Welle Nord: Never can say goodbye -by- Gloria Gaynor
+2017-02-10T10:57:44+01:00 INFO: NDR Welle Nord: Manic Monday -by- Bangles
+2017-02-10T11:06:45+01:00 INFO: NDR Welle Nord: Musik nur, wenn sie laut ist -by- Herbert Gr&ouml;nemeyer
+2017-02-10T11:10:45+01:00 INFO: NDR Welle Nord: When a man loves a woman -by- Percy Sledge
+2017-02-10T11:17:46+01:00 INFO: NDR Welle Nord: The Flood -by- Take That
+2017-02-10T11:23:46+01:00 INFO: NDR Welle Nord: Chain reaction -by- Diana Ross &amp; Bee Gees
+2017-02-10T11:27:46+01:00 INFO: NDR Welle Nord: It never rains in Southern California -by- Albert Hammond
+2017-02-10T11:33:47+01:00 INFO: NDR Welle Nord: I won&#39;t let you down -by- Ph. D.
+2017-02-10T11:37:47+01:00 INFO: NDR Welle Nord: Wenn sie tanzt -by- Max Giesinger
+2017-02-10T11:44:47+01:00 INFO: NDR Welle Nord: I&#39;m so excited -by- Pointer Sisters
+2017-02-10T11:48:48+01:00 INFO: NDR Welle Nord: Another brick in the wall (Part 2) -by- Pink Floyd
+2017-02-10T11:53:48+01:00 INFO: NDR Welle Nord: She moves (far away) -by- Alle Farben &amp; Graham Candy
+2017-02-10T11:57:49+01:00 INFO: NDR Welle Nord: Sailing on the seven seas -by- Orchestral Manoeuvres In The Dark
+2017-02-10T12:08:50+01:00 INFO: NDR Welle Nord: Lieder der Freiheit -by- Santiano
+2017-02-10T12:12:50+01:00 INFO: NDR Welle Nord: Flashdance (What a feeling) -by- Irene Cara
+2017-02-10T12:15:50+01:00 INFO: NDR Welle Nord: A glass of champagne -by- Sailor
+2017-02-10T12:20:51+01:00 INFO: NDR Welle Nord: High on emotion -by- Chris De Burgh
+2017-02-10T12:24:51+01:00 INFO: NDR Welle Nord: Don&#39;t talk just kiss -by- Right Said Fred
+2017-02-10T12:28:52+01:00 INFO: NDR Welle Nord: The lion sleeps tonight (Wimoweh) -by- Tight Fit
+2017-02-10T12:34:52+01:00 INFO: NDR Welle Nord: Treat you better -by- Shawn Mendes
+2017-02-10T12:37:52+01:00 INFO: NDR Welle Nord: Ich brauch dich jetzt -by- Heinz Rudolf Kunze
+2017-02-10T12:42:53+01:00 INFO: NDR Welle Nord: One of us -by- Abba
+2017-02-10T12:47:54+01:00 INFO: NDR Welle Nord: My oh my -by- Slade
+2017-02-10T12:52:54+01:00 INFO: NDR Welle Nord: Weather with you -by- Crowded House
+2017-02-10T12:55:54+01:00 INFO: NDR Welle Nord: There must be an angel (Playing with my heart) -by- Eurythmics
+2017-02-10T13:06:56+01:00 INFO: NDR Welle Nord: Rosemarie -by- Hubert Kah
+2017-02-10T13:09:59+01:00 INFO: NDR Welle Nord: Yesterday -by- Beatles
+2017-02-10T13:11:59+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T13:20:00+01:00 INFO: NDR Welle Nord: The greatest love of all -by- Whitney Houston
+2017-02-10T13:24:00+01:00 INFO: NDR Welle Nord: Cecilia -by- Simon &amp; Garfunkel
+2017-02-10T13:26:01+01:00 INFO: NDR Welle Nord: Sledgehammer -by- Peter Gabriel
+2017-02-10T13:35:04+01:00 INFO: NDR Welle Nord: Keine Maschine -by- Tim Bendzko
+2017-02-10T13:38:05+01:00 INFO: NDR Welle Nord: Looking for the summer -by- Chris Rea
+2017-02-10T13:45:06+01:00 INFO: NDR Welle Nord: Ain&#39;t no sunshine -by- Bill Withers
+2017-02-10T13:46:06+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T13:47:06+01:00 INFO: NDR Welle Nord: Africa -by- Rose Laurens
+2017-02-10T13:51:06+01:00 INFO: NDR Welle Nord: It&#39;s my life -by- Dr. Alban
+2017-02-10T13:54:07+01:00 INFO: NDR Welle Nord: Radio Ga Ga -by- Queen
+2017-02-10T13:57:07+01:00 INFO: NDR Welle Nord: Fade out lines -by- The Avener
+2017-02-10T14:07:08+01:00 INFO: NDR Welle Nord: Go west -by- Pet Shop Boys
+2017-02-10T14:10:08+01:00 INFO: NDR Welle Nord: Love my life -by- Robbie Williams
+2017-02-10T14:19:09+01:00 INFO: NDR Welle Nord: Heart of gold -by- Neil Young
+2017-02-10T14:24:10+01:00 INFO: NDR Welle Nord: St. Elmo&#39;s Fire (Man in motion) -by- John Parr
+2017-02-10T14:28:10+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T14:29:12+01:00 INFO: NDR Welle Nord: Radio Ga Ga -by- Queen
+2017-02-10T14:35:13+01:00 INFO: NDR Welle Nord: Hot stuff -by- Donna Summer
+2017-02-10T14:36:13+01:00 INFO: NDR Welle Nord: Love my life -by- Robbie Williams
+2017-02-10T14:41:14+01:00 INFO: NDR Welle Nord: Heart of gold -by- Neil Young
+2017-02-10T14:45:14+01:00 INFO: NDR Welle Nord: Losing my religion -by- R.E.M.
+2017-02-10T14:48:14+01:00 INFO: NDR Welle Nord: Eiszeit -by- Peter Maffay
+2017-02-10T14:53:15+01:00 INFO: NDR Welle Nord: Story of my life -by- One Direction
+2017-02-10T14:57:15+01:00 INFO: NDR Welle Nord: Radio Ga Ga -by- Queen
+2017-02-10T14:58:15+01:00 INFO: NDR Welle Nord: Every beat of my heart -by- Rod Stewart
+2017-02-10T14:59:16+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T15:07:16+01:00 INFO: NDR Welle Nord: Break my stride -by- Matthew Wilder
+2017-02-10T15:10:17+01:00 INFO: NDR Welle Nord: Achy breaky heart -by- Billy Ray Cyrus
+2017-02-10T15:16:17+01:00 INFO: NDR Welle Nord: Nine to five  (9 to 5) -by- Sheena Easton
+2017-02-10T15:20:17+01:00 INFO: NDR Welle Nord: The captain of her heart -by- Double
+2017-02-10T15:24:17+01:00 INFO: NDR Welle Nord: Nur ein Wort -by- Wir Sind Helden
+2017-02-10T15:28:18+01:00 INFO: NDR Welle Nord: Private dancer -by- Tina Turner
+2017-02-10T15:35:19+01:00 INFO: NDR Welle Nord: Human -by- Rag&#39;n&#39;bone Man
+2017-02-10T15:36:19+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T15:38:19+01:00 INFO: NDR Welle Nord: Like a virgin -by- Madonna
+2017-02-10T15:44:20+01:00 INFO: NDR Welle Nord: Ferry cross the Mersey -by- Gerry and The Pacemakers
+2017-02-10T15:47:20+01:00 INFO: NDR Welle Nord: She said -by- Plan B
+2017-02-10T15:52:21+01:00 INFO: NDR Welle Nord: Du knallst in mein Leben -by- Udo Lindenberg
+2017-02-10T15:55:21+01:00 INFO: NDR Welle Nord: You&#39;re so vain -by- Carly Simon
+2017-02-10T15:57:21+01:00 INFO: NDR Welle Nord: All Summer Long (Radio Edit) -by- Kid Rock
+2017-02-10T15:58:21+01:00 INFO: NDR Welle Nord: Let&#39;s dance -by- David Bowie
+2017-02-10T16:07:22+01:00 INFO: NDR Welle Nord: The safety dance -by- Men Without Hats
+2017-02-10T16:10:23+01:00 INFO: NDR Welle Nord: Get it on -by- T. Rex
+2017-02-10T16:15:23+01:00 INFO: NDR Welle Nord: Applaus, Applaus -by- Sportfreunde Stiller
+2017-02-10T16:21:24+01:00 INFO: NDR Welle Nord: Don&#39;t go -by- Yazoo
+2017-02-10T16:23:24+01:00 INFO: NDR Welle Nord: Three times a lady -by- Commodores
+2017-02-10T16:27:24+01:00 INFO: NDR Welle Nord: In the air tonight -by- Phil Collins
+2017-02-10T16:35:25+01:00 INFO: NDR Welle Nord: What is love 2016 -by- Lost Frequencies
+2017-02-10T16:45:26+01:00 INFO: NDR Welle Nord: Hijo de la luna -by- Loona
+2017-02-10T16:49:26+01:00 INFO: NDR Welle Nord: American pie (Part 1) -by- Don McLean
+2017-02-10T16:54:29+01:00 INFO: NDR Welle Nord: Stadt -by- Cassandra Steen &amp; Adel Tawil
+2017-02-10T16:57:29+01:00 INFO: NDR Welle Nord: Love changes (everything) -by- Climie Fisher
+2017-02-10T17:10:31+01:00 INFO: NDR Welle Nord: Uptown girl -by- Billy Joel
+2017-02-10T17:13:32+01:00 INFO: NDR Welle Nord: Don&#39;t be so shy -by- Imany &amp; Karas
+2017-02-10T17:17:33+01:00 INFO: NDR Welle Nord: Was wir alleine nicht schaffen -by- Xavier Naidoo
+2017-02-10T17:21:33+01:00 INFO: NDR Welle Nord: Night fever -by- Bee Gees
+2017-02-10T17:24:33+01:00 INFO: NDR Welle Nord: Downtown train -by- Rod Stewart
+2017-02-10T17:28:34+01:00 INFO: NDR Welle Nord: Hit the road Jack -by- Ray Charles
+2017-02-10T17:35:35+01:00 INFO: NDR Welle Nord: Here comes the rain again -by- Eurythmics
+2017-02-10T17:39:35+01:00 INFO: NDR Welle Nord: Bridge over troubled water -by- Simon &amp; Garfunkel
+2017-02-10T17:46:36+01:00 INFO: NDR Welle Nord: Auf anderen Wegen -by- Andreas Bourani
+2017-02-10T17:50:38+01:00 INFO: NDR Welle Nord: Cambodia -by- Kim Wilde
+2017-02-10T17:54:39+01:00 INFO: NDR Welle Nord: Free me -by- Uriah Heep
+2017-02-10T17:58:39+01:00 INFO: NDR Welle Nord: Rolling in the deep -by- Adele
+2017-02-10T18:07:42+01:00 INFO: NDR Welle Nord: Chained To The Rhythm -by- Katy Perry &amp; Skip Marley
+2017-02-10T18:10:42+01:00 INFO: NDR Welle Nord: Kein Zur&uuml;ck -by- Wolfsheim
+2017-02-10T18:15:43+01:00 INFO: NDR Welle Nord: Eye of the tiger -by- Survivor
+2017-02-10T18:18:43+01:00 INFO: NDR Welle Nord: Budapest -by- George Ezra
+2017-02-10T18:22:44+01:00 INFO: NDR Welle Nord: Eye in the sky -by- Alan Parsons Project
+2017-02-10T18:26:44+01:00 INFO: NDR Welle Nord: Oh what a night  (December, 1963) -by- Four Seasons
+2017-02-10T18:32:45+01:00 INFO: NDR Welle Nord: Bitter end -by- Rag&#39;n&#39;Bone Man
+2017-02-10T18:36:45+01:00 INFO: NDR Welle Nord: Give it up -by- KC &amp; The Sunshine Band
+2017-02-10T18:40:45+01:00 INFO: NDR Welle Nord: Never going back again -by- Fleetwood Mac
+2017-02-10T18:43:46+01:00 INFO: NDR Welle Nord: Symphonie -by- Silbermond
+2017-02-10T18:47:46+01:00 INFO: NDR Welle Nord: Holding back the years -by- Simply Red
+2017-02-10T18:52:47+01:00 INFO: NDR Welle Nord: How bizarre -by- OMC
+2017-02-10T18:58:48+01:00 INFO: NDR Welle Nord: You&#39;re my mate -by- Right Said Fred
+2017-02-10T19:07:49+01:00 INFO: NDR Welle Nord: Happy -by- Pharrell Williams
+2017-02-10T19:11:49+01:00 INFO: NDR Welle Nord: Wild horses -by- Rolling Stones
+2017-02-10T19:16:50+01:00 INFO: NDR Welle Nord: Gimme hope Jo&#39;Anna -by- Eddy Grant
+2017-02-10T19:20:50+01:00 INFO: NDR Welle Nord: Perfect Life -by- Levina
+2017-02-10T19:25:51+01:00 INFO: NDR Welle Nord: Tonight -by- Reamonn
+2017-02-10T19:27:51+01:00 INFO: NDR Welle Nord: Didn&#39;t we almost have it all -by- Whitney Houston
+2017-02-10T19:33:52+01:00 INFO: NDR Welle Nord: Musik sein -by- Wincent Weiss
+2017-02-10T19:36:52+01:00 INFO: NDR Welle Nord: What you get is what you see -by- Tina Turner
+2017-02-10T19:42:53+01:00 INFO: NDR Welle Nord: Dear darlin&#39; -by- Olly Murs
+2017-02-10T19:45:53+01:00 INFO: NDR Welle Nord: I&#39;m not in love -by- 10 cc
+2017-02-10T19:49:54+01:00 INFO: NDR Welle Nord: Tonight, I celebrate my love -by- Roberta Flack &amp; Peabo Bryson
+2017-02-10T19:52:56+01:00 INFO: NDR Welle Nord: All around the world -by- Lisa Stansfield
+2017-02-10T19:55:57+01:00 INFO: NDR Welle Nord: Earth song -by- Michael Jackson
+2017-02-10T20:06:58+01:00 INFO: NDR Welle Nord: Jolene -by- BossHoss &amp; Common Linnets
+2017-02-10T20:09:59+01:00 INFO: NDR Welle Nord: Tainted love -by- Soft Cell
+2017-02-10T20:19:00+01:00 INFO: NDR Welle Nord: Stumblin&#39; in -by- Suzi Quatro &amp; Chris Norman
+2017-02-10T20:28:01+01:00 INFO: NDR Welle Nord: Wenn sie tanzt -by- Max Giesinger
+2017-02-10T20:33:01+01:00 INFO: NDR Welle Nord: Dance hall days -by- Wang Chung
+2017-02-10T20:37:01+01:00 INFO: NDR Welle Nord: Lady Madonna -by- Beatles
+2017-02-10T20:43:02+01:00 INFO: NDR Welle Nord: Let her go -by- Passenger
+2017-02-10T20:48:02+01:00 INFO: NDR Welle Nord: Believe -by- Cher
+2017-02-10T20:54:03+01:00 INFO: NDR Welle Nord: Wunder gescheh&#39;n -by- Nena
+2017-02-10T20:57:03+01:00 INFO: NDR Welle Nord: I don&#39;t want to talk about it -by- Rod Stewart
+2017-02-10T21:52:10+01:00 INFO: NDR Welle Nord: De Dag (ward noch goot) -by- Fabius
+2017-02-10T21:56:11+01:00 INFO: NDR Welle Nord: Blots de Nacht -by- Ina M&uuml;ller
+2017-02-10T22:01:11+01:00 INFO: NDR Welle Nord: Caledonia Swing -by- Van Morrison

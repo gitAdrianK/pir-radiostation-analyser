@@ -1,0 +1,57 @@
+2017-02-07T20:44:38+01:00 INFO: Antenne Niedersachsen Charts: Scars to Your Beautiful -by- Alessia Cara
+2017-02-07T20:47:39+01:00 INFO: Antenne Niedersachsen Charts: Never Give Up -by- Sia
+2017-02-07T20:51:40+01:00 INFO: Antenne Niedersachsen Charts: I Feel It Coming (feat. Daft Punk) -by- The Weeknd
+2017-02-07T20:55:41+01:00 INFO: Antenne Niedersachsen Charts: Shed a Light (feat. Cheat Codes) -by- Robin Schulz & David Guetta
+2017-02-07T20:58:41+01:00 INFO: Antenne Niedersachsen Charts: Alone -by- Alan Walker
+2017-02-07T21:01:42+01:00 INFO: Antenne Niedersachsen Charts: Feel (feat. Sena Sener) -by- Mahmut Orhan
+2017-02-07T21:04:42+01:00 INFO: Antenne Niedersachsen Charts: Way Down We Go -by- Kaleo
+2017-02-07T21:07:43+01:00 INFO: Antenne Niedersachsen Charts: Meine Posse (feat. Samy Deluxe) -by- Beginner
+2017-02-07T21:11:44+01:00 INFO: Antenne Niedersachsen Charts: HandClap -by- Fitz & The Tantrums
+2017-02-07T21:14:44+01:00 INFO: Antenne Niedersachsen Charts: Where's the Revolution -by- Depeche Mode
+2017-02-07T21:18:45+01:00 INFO: Antenne Niedersachsen Charts: Skin -by- Rag'n'Bone Man
+2017-02-07T21:22:45+01:00 INFO: Antenne Niedersachsen Charts: Scared to Be Lonely -by- Martin Garrix & Dua Lipa
+2017-02-07T21:25:46+01:00 INFO: Antenne Niedersachsen Charts: Dancing on My Own -by- Calum Scott
+2017-02-07T21:30:47+01:00 INFO: Antenne Niedersachsen Charts: The Mack (feat. Mark Morrison & Fetty Wap) -by- Nevada
+2017-02-07T21:32:47+01:00 INFO: Antenne Niedersachsen Charts: So schön kaputt -by- SDP
+2017-02-07T21:36:47+01:00 INFO: Antenne Niedersachsen Charts: LOIN (PILLULE VIOLETTE) -by- MAITRE GIMS FEAT. DANY SYNTHE
+2017-02-07T21:39:48+01:00 INFO: Antenne Niedersachsen Charts: RUN UP -by- MAJOR LAZOR FEAT. PARTYNEXTDOOR & NICKI MINAJ
+2017-02-07T21:42:49+01:00 INFO: Antenne Niedersachsen Charts: No Roots -by- Alice Merton
+2017-02-07T21:46:50+01:00 INFO: Antenne Niedersachsen Charts: Believer -by- Imagine Dragons
+2017-02-07T21:50:50+01:00 INFO: Antenne Niedersachsen Charts: Steady 1234 (feat. Jasmine Thompson & Skizzy Mars) -by- Vice
+2017-02-07T21:52:50+01:00 INFO: Antenne Niedersachsen Charts: Tuesday (feat. Danelle Sandoval) -by- Burak Yeter
+2017-02-07T21:56:51+01:00 INFO: Antenne Niedersachsen Charts: Solo Dance -by- Martin Jensen
+2017-02-07T21:58:51+01:00 INFO: Antenne Niedersachsen Charts: Now and Later -by- Sage the Gemini
+2017-02-07T22:02:51+01:00 INFO: Antenne Niedersachsen Charts: Baby -by- Bakermat
+2017-02-07T22:04:52+01:00 INFO: Antenne Niedersachsen Charts: Castle on the Hill -by- Ed Sheeran
+2017-02-07T22:09:52+01:00 INFO: Antenne Niedersachsen Charts: Paris -by- The Chainsmokers
+2017-02-07T22:12:53+01:00 INFO: Antenne Niedersachsen Charts: Lost on You -by- LP
+2017-02-07T22:16:53+01:00 INFO: Antenne Niedersachsen Charts: I Feel So Bad (feat. Ephemerals) -by- Kungs
+2017-02-07T22:19:53+01:00 INFO: Antenne Niedersachsen Charts: No Lie (feat. Dua Lipa) -by- Sean Paul
+2017-02-07T22:23:54+01:00 INFO: Antenne Niedersachsen Charts: Wenn sie tanzt -by- Max Giesinger
+2017-02-07T22:27:54+01:00 INFO: Antenne Niedersachsen Charts: Call on Me -by- Starley
+2017-02-07T22:29:54+01:00 INFO: Antenne Niedersachsen Charts: Love My Life -by- Robbie Williams
+2017-02-07T22:33:55+01:00 INFO: Antenne Niedersachsen Charts: The Sound of Silence -by- Disturbed
+2017-02-07T22:37:55+01:00 INFO: Antenne Niedersachsen Charts: Shape of You -by- Ed Sheeran
+2017-02-07T22:41:56+01:00 INFO: Antenne Niedersachsen Charts: Rockabye (feat. Sean Paul & Anne-Marie) -by- Clean Bandit
+2017-02-07T22:44:56+01:00 INFO: Antenne Niedersachsen Charts: Chöre -by- Mark Forster
+2017-02-07T22:48:56+01:00 INFO: Antenne Niedersachsen Charts: I Feel It Coming (feat. Daft Punk) -by- The Weeknd
+2017-02-07T22:52:57+01:00 INFO: Antenne Niedersachsen Charts: I DON'T WANNA LIVE FOREVER -by- ZAYN I TAYLOR SWIFT
+2017-02-07T22:56:57+01:00 INFO: Antenne Niedersachsen Charts: Chantaje (feat. Maluma) -by- Shakira
+2017-02-07T22:59:58+01:00 INFO: Antenne Niedersachsen Charts: Dream On -by- Amy Macdonald
+2017-02-07T23:03:58+01:00 INFO: Antenne Niedersachsen Charts: Way Down We Go -by- Kaleo
+2017-02-07T23:06:58+01:00 INFO: Antenne Niedersachsen Charts: Dye My Hair -by- Alma
+2017-02-07T23:09:59+01:00 INFO: Antenne Niedersachsen Charts: Starboy (feat. Daft Punk) -by- The Weeknd
+2017-02-07T23:13:59+01:00 INFO: Antenne Niedersachsen Charts: 24K Magic -by- Bruno Mars
+2017-02-07T23:18:00+01:00 INFO: Antenne Niedersachsen Charts: Skin -by- Rag'n'Bone Man
+2017-02-07T23:22:00+01:00 INFO: Antenne Niedersachsen Charts: Bad Ideas -by- Alle Farben
+2017-02-07T23:24:00+01:00 INFO: Antenne Niedersachsen Charts: Cocoon -by- Milky Chance
+2017-02-07T23:28:01+01:00 INFO: Antenne Niedersachsen Charts: Scars to Your Beautiful -by- Alessia Cara
+2017-02-07T23:32:02+01:00 INFO: Antenne Niedersachsen Charts: Never Give Up -by- Sia
+2017-02-07T23:36:02+01:00 INFO: Antenne Niedersachsen Charts: LOIN (PILLULE VIOLETTE) -by- MAITRE GIMS FEAT. DANY SYNTHE
+2017-02-07T23:39:03+01:00 INFO: Antenne Niedersachsen Charts: Shed a Light (feat. Cheat Codes) -by- Robin Schulz & David Guetta
+2017-02-07T23:42:03+01:00 INFO: Antenne Niedersachsen Charts: Love Me Now -by- John Legend
+2017-02-07T23:46:04+01:00 INFO: Antenne Niedersachsen Charts: Alone -by- Alan Walker
+2017-02-07T23:48:04+01:00 INFO: Antenne Niedersachsen Charts: Steady 1234 (feat. Jasmine Thompson & Skizzy Mars) -by- Vice
+2017-02-07T23:51:04+01:00 INFO: Antenne Niedersachsen Charts: Hulapalu -by- Andreas Gabalier
+2017-02-07T23:54:05+01:00 INFO: Antenne Niedersachsen Charts: Feel (feat. Sena Sener) -by- Mahmut Orhan
+2017-02-07T23:57:05+01:00 INFO: Antenne Niedersachsen Charts: Where's the Revolution -by- Depeche Mode

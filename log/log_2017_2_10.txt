@@ -1,0 +1,8 @@
+2017-02-10T08:11:07+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Schlager
+2017-02-10T08:33:09+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Charts
+2017-02-10T10:41:27+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Deutsch
+2017-02-10T10:41:28+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Schlager
+2017-02-10T10:41:28+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Charts
+2017-02-10T10:41:28+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Love
+2017-02-10T10:41:28+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen On Air
+2017-02-10T12:15:45+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Love

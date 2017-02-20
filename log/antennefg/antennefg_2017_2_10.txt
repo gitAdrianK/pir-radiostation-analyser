@@ -1,0 +1,421 @@
+2017-02-10T00:00:54+01:00 INFO: Antenne Niedersachsen Feel Good: Good Grief -by- Bastille
+2017-02-10T00:03:55+01:00 INFO: Antenne Niedersachsen Feel Good: Conga -by- Gloria Estefan
+2017-02-10T00:07:55+01:00 INFO: Antenne Niedersachsen Feel Good: Flash mich -by- Mark Forster
+2017-02-10T00:10:56+01:00 INFO: Antenne Niedersachsen Feel Good: Ghostbusters -by- Ray Parker, Jr.
+2017-02-10T00:14:57+01:00 INFO: Antenne Niedersachsen Feel Good: 24K Magic -by- Bruno Mars
+2017-02-10T00:18:57+01:00 INFO: Antenne Niedersachsen Feel Good: All Star -by- Smash Mouth
+2017-02-10T00:22:58+01:00 INFO: Antenne Niedersachsen Feel Good: I Wanna Dance With Somebody -by- Whitney Houston
+2017-02-10T00:26:58+01:00 INFO: Antenne Niedersachsen Feel Good: Candy -by- Robbie Williams
+2017-02-10T00:30:58+01:00 INFO: Antenne Niedersachsen Feel Good: Wannabe -by- Spice Girls
+2017-02-10T00:32:59+01:00 INFO: Antenne Niedersachsen Feel Good: Work This Body -by- WALK THE MOON
+2017-02-10T00:36:00+01:00 INFO: Antenne Niedersachsen Feel Good: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-10T00:39:00+01:00 INFO: Antenne Niedersachsen Feel Good: Einmal um die Welt -by- Cro
+2017-02-10T00:42:00+01:00 INFO: Antenne Niedersachsen Feel Good: Dancing In the Moonlight -by- Toploader
+2017-02-10T00:45:01+01:00 INFO: Antenne Niedersachsen Feel Good: I Love It -by- Icona Pop
+2017-02-10T00:48:01+01:00 INFO: Antenne Niedersachsen Feel Good: My Girl -by- The Temptations
+2017-02-10T00:50:01+01:00 INFO: Antenne Niedersachsen Feel Good: TIK TOK -by- KESHA
+2017-02-10T00:54:02+01:00 INFO: Antenne Niedersachsen Feel Good: Solsbury Hill -by- Peter Gabriel
+2017-02-10T00:58:02+01:00 INFO: Antenne Niedersachsen Feel Good: Call On Me -by- Eric Prydz
+2017-02-10T01:01:03+01:00 INFO: Antenne Niedersachsen Feel Good: Whenever, Wherever -by- Shakira
+2017-02-10T01:04:05+01:00 INFO: Antenne Niedersachsen Feel Good: Spirit In the Sky -by- Norman Greenbaum
+2017-02-10T01:08:06+01:00 INFO: Antenne Niedersachsen Feel Good: So What -by- P!nk
+2017-02-10T01:11:06+01:00 INFO: Antenne Niedersachsen Feel Good: You Can't Hurry Love -by- Phil Collins
+2017-02-10T01:14:07+01:00 INFO: Antenne Niedersachsen Feel Good: Hymn for the Weekend -by- Coldplay
+2017-02-10T01:18:07+01:00 INFO: Antenne Niedersachsen Feel Good: Like a Virgin -by- Madonna
+2017-02-10T01:21:08+01:00 INFO: Antenne Niedersachsen Feel Good: Let's Dance -by- David Bowie
+2017-02-10T01:25:08+01:00 INFO: Antenne Niedersachsen Feel Good: Rude -by- MAGIC!
+2017-02-10T01:29:09+01:00 INFO: Antenne Niedersachsen Feel Good: The Shoop Shoop Song (It's In His Kiss) -by- Cher
+2017-02-10T01:32:09+01:00 INFO: Antenne Niedersachsen Feel Good: Little Talks -by- Of Monsters and Men
+2017-02-10T01:36:09+01:00 INFO: Antenne Niedersachsen Feel Good: Footloose -by- Kenny Loggins
+2017-02-10T01:39:10+01:00 INFO: Antenne Niedersachsen Feel Good: Catch & Release -by- Matt Simons
+2017-02-10T01:42:10+01:00 INFO: Antenne Niedersachsen Feel Good: Respect -by- Aretha Franklin
+2017-02-10T01:45:10+01:00 INFO: Antenne Niedersachsen Feel Good: All About That Bass -by- Meghan Trainor
+2017-02-10T01:48:10+01:00 INFO: Antenne Niedersachsen Feel Good: Crazy Little Thing Called Love -by- Queen
+2017-02-10T01:51:11+01:00 INFO: Antenne Niedersachsen Feel Good: Uptown Funk (feat. Bruno Mars) -by- Mark Ronson
+2017-02-10T01:55:11+01:00 INFO: Antenne Niedersachsen Feel Good: Girls Just Want to Have Fun -by- Cyndi Lauper
+2017-02-10T01:58:11+01:00 INFO: Antenne Niedersachsen Feel Good: It's a Beautiful Day -by- Michael Bublé
+2017-02-10T02:02:12+01:00 INFO: Antenne Niedersachsen Feel Good: Cheerleader (feat. Kid Ink) -by- Omi
+2017-02-10T02:04:12+01:00 INFO: Antenne Niedersachsen Feel Good: Kiss Me -by- Sixpence None the Richer
+2017-02-10T02:08:13+01:00 INFO: Antenne Niedersachsen Feel Good: Haus am See -by- Peter Fox
+2017-02-10T02:11:13+01:00 INFO: Antenne Niedersachsen Feel Good: Valerie -by- Steve Winwood
+2017-02-10T02:15:13+01:00 INFO: Antenne Niedersachsen Feel Good: Happy -by- Pharrell Williams
+2017-02-10T02:19:14+01:00 INFO: Antenne Niedersachsen Feel Good: Dreamer -by- Supertramp
+2017-02-10T02:23:14+01:00 INFO: Antenne Niedersachsen Feel Good: Good Vibrations -by- The Beach Boys
+2017-02-10T02:26:15+01:00 INFO: Antenne Niedersachsen Feel Good: Oh My Love -by- Rea Garvey
+2017-02-10T02:30:15+01:00 INFO: Antenne Niedersachsen Feel Good: She's So High -by- Tal Bachman
+2017-02-10T02:34:17+01:00 INFO: Antenne Niedersachsen Feel Good: Let Me Down Easy -by- Sheppard
+2017-02-10T02:37:17+01:00 INFO: Antenne Niedersachsen Feel Good: Fun, Fun, Fun -by- The Beach Boys
+2017-02-10T02:39:18+01:00 INFO: Antenne Niedersachsen Feel Good: Waka Waka (This Time for Africa) (feat. Freshlyground) -by- Shakira
+2017-02-10T02:43:19+01:00 INFO: Antenne Niedersachsen Feel Good: Here Comes the Sun -by- The Beatles
+2017-02-10T02:46:19+01:00 INFO: Antenne Niedersachsen Feel Good: Shut Up and Dance -by- WALK THE MOON
+2017-02-10T02:49:19+01:00 INFO: Antenne Niedersachsen Feel Good: Friday I'm In Love -by- The Cure
+2017-02-10T02:53:20+01:00 INFO: Antenne Niedersachsen Feel Good: Lush Life -by- Zara Larsson
+2017-02-10T02:56:20+01:00 INFO: Antenne Niedersachsen Feel Good: Follow Me -by- Uncle Kracker
+2017-02-10T02:59:21+01:00 INFO: Antenne Niedersachsen Feel Good: Viva La Vida -by- Coldplay
+2017-02-10T03:03:21+01:00 INFO: Antenne Niedersachsen Feel Good: Running Man -by- Ollie Gabriel
+2017-02-10T03:07:21+01:00 INFO: Antenne Niedersachsen Feel Good: Jump (For My Love) -by- The Pointer Sisters
+2017-02-10T03:10:22+01:00 INFO: Antenne Niedersachsen Feel Good: Keep My Cool -by- Madcon
+2017-02-10T03:13:22+01:00 INFO: Antenne Niedersachsen Feel Good: Dolce Vita -by- Ryan Paris
+2017-02-10T03:17:22+01:00 INFO: Antenne Niedersachsen Feel Good: Lay It All On Me (feat. Ed Sheeran) -by- Rudimental
+2017-02-10T03:20:23+01:00 INFO: Antenne Niedersachsen Feel Good: Angel (feat. Rayvon) -by- Shaggy
+2017-02-10T03:24:23+01:00 INFO: Antenne Niedersachsen Feel Good: All I Wanna Do -by- Sheryl Crow
+2017-02-10T03:28:24+01:00 INFO: Antenne Niedersachsen Feel Good: I Really Like You -by- Carly Rae Jepsen
+2017-02-10T03:32:24+01:00 INFO: Antenne Niedersachsen Feel Good: Miami -by- Will Smith
+2017-02-10T03:35:24+01:00 INFO: Antenne Niedersachsen Feel Good: Treasure -by- Bruno Mars
+2017-02-10T03:38:25+01:00 INFO: Antenne Niedersachsen Feel Good: I Want You Back -by- Jackson 5
+2017-02-10T03:41:25+01:00 INFO: Antenne Niedersachsen Feel Good: Hula Hoop -by- Omi
+2017-02-10T03:44:25+01:00 INFO: Antenne Niedersachsen Feel Good: I'm Gonna Be (500 Miles) -by- The Proclaimers
+2017-02-10T03:48:26+01:00 INFO: Antenne Niedersachsen Feel Good: Call Me Maybe -by- Carly Rae Jepsen
+2017-02-10T03:51:26+01:00 INFO: Antenne Niedersachsen Feel Good: I'll Be There For You -by- The Rembrandts
+2017-02-10T03:54:26+01:00 INFO: Antenne Niedersachsen Feel Good: Wrapped Up -by- Olly Murs
+2017-02-10T03:57:27+01:00 INFO: Antenne Niedersachsen Feel Good: September -by- Earth, Wind & Fire
+2017-02-10T04:00:27+01:00 INFO: Antenne Niedersachsen Feel Good: Riptide -by- Vance Joy
+2017-02-10T04:03:27+01:00 INFO: Antenne Niedersachsen Feel Good: Dancing In the Moonlight -by- Toploader
+2017-02-10T04:07:28+01:00 INFO: Antenne Niedersachsen Feel Good: Hey, Soul Sister -by- Train
+2017-02-10T04:11:28+01:00 INFO: Antenne Niedersachsen Feel Good: Ain't No Sunshine -by- Bill Withers
+2017-02-10T04:13:29+01:00 INFO: Antenne Niedersachsen Feel Good: Some Nights -by- Fun.
+2017-02-10T04:17:29+01:00 INFO: Antenne Niedersachsen Feel Good: All the Small Things -by- Blink-182
+2017-02-10T04:20:29+01:00 INFO: Antenne Niedersachsen Feel Good: Don't Worry Be Happy -by- Bobby McFerrin
+2017-02-10T04:24:30+01:00 INFO: Antenne Niedersachsen Feel Good: Grace Kelly -by- MIKA
+2017-02-10T04:27:30+01:00 INFO: Antenne Niedersachsen Feel Good: Praise You -by- Fatboy Slim
+2017-02-10T04:32:31+01:00 INFO: Antenne Niedersachsen Feel Good: Shake It Off -by- Taylor Swift
+2017-02-10T04:36:31+01:00 INFO: Antenne Niedersachsen Feel Good: In the Summertime -by- Mungo Jerry
+2017-02-10T04:39:31+01:00 INFO: Antenne Niedersachsen Feel Good: Moves Like Jagger (feat. Christina Aguilera) -by- Maroon 5
+2017-02-10T04:43:32+01:00 INFO: Antenne Niedersachsen Feel Good: Wouldn't It Be Nice -by- The Beach Boys
+2017-02-10T04:45:32+01:00 INFO: Antenne Niedersachsen Feel Good: Get Lucky (Radio Edit) [feat. Pharrell Williams] -by- Daft Punk
+2017-02-10T04:49:33+01:00 INFO: Antenne Niedersachsen Feel Good: Abc -by- Jackson 5
+2017-02-10T04:52:33+01:00 INFO: Antenne Niedersachsen Feel Good: Pompeii -by- Bastille
+2017-02-10T04:55:33+01:00 INFO: Antenne Niedersachsen Feel Good: Matilda -by- Harry Belafonte
+2017-02-10T04:59:36+01:00 INFO: Antenne Niedersachsen Feel Good: On Top of the World -by- Imagine Dragons
+2017-02-10T05:02:37+01:00 INFO: Antenne Niedersachsen Feel Good: I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) -by- Flo Rida
+2017-02-10T05:05:37+01:00 INFO: Antenne Niedersachsen Feel Good: I'm So Excited -by- The Pointer Sisters
+2017-02-10T05:11:38+01:00 INFO: Antenne Niedersachsen Feel Good: Locked Out of Heaven -by- Bruno Mars
+2017-02-10T05:14:39+01:00 INFO: Antenne Niedersachsen Feel Good: Jamming -by- Bob Marley
+2017-02-10T05:17:39+01:00 INFO: Antenne Niedersachsen Feel Good: SWEET LOVIN' -by- Sigala
+2017-02-10T05:21:39+01:00 INFO: Antenne Niedersachsen Feel Good: Karma Chameleon -by- Culture Club
+2017-02-10T05:25:40+01:00 INFO: Antenne Niedersachsen Feel Good: Jeans On -by- David Dundas
+2017-02-10T05:28:40+01:00 INFO: Antenne Niedersachsen Feel Good: Up (feat. Demi Lovato) -by- Olly Murs
+2017-02-10T05:32:41+01:00 INFO: Antenne Niedersachsen Feel Good: Come On Eileen -by- Dexy's Midnight Runners
+2017-02-10T05:36:41+01:00 INFO: Antenne Niedersachsen Feel Good: Aufstehn! -by- Seeed
+2017-02-10T05:39:41+01:00 INFO: Antenne Niedersachsen Feel Good: Wake Me Up Before You Go Go -by- Wham!
+2017-02-10T05:43:42+01:00 INFO: Antenne Niedersachsen Feel Good: El Mismo Sol -by- Alvaro Soler
+2017-02-10T05:46:42+01:00 INFO: Antenne Niedersachsen Feel Good: Barbara Ann -by- The Beach Boys
+2017-02-10T05:48:43+01:00 INFO: Antenne Niedersachsen Feel Good: VALERIE -by- AMY WINEHOUSE FEAT. MARK RONSON
+2017-02-10T05:52:43+01:00 INFO: Antenne Niedersachsen Feel Good: I Can See Clearly Now -by- Jimmy Cliff
+2017-02-10T05:55:43+01:00 INFO: Antenne Niedersachsen Feel Good: Auf uns -by- Andreas Bourani
+2017-02-10T05:59:44+01:00 INFO: Antenne Niedersachsen Feel Good: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-10T06:00:44+01:00 INFO: Antenne Niedersachsen Feel Good: GOOD TIME -by- OWL CITY FEAT. CARLY REA JEPSEN
+2017-02-10T06:03:45+01:00 INFO: Antenne Niedersachsen Feel Good: Copacabana -by- Barry Manilow
+2017-02-10T06:07:45+01:00 INFO: Antenne Niedersachsen Feel Good: Marvin Gaye (feat. Meghan Trainor) -by- Charlie Puth
+2017-02-10T06:10:46+01:00 INFO: Antenne Niedersachsen Feel Good: Stand By Me -by- Ben E. King
+2017-02-10T06:13:46+01:00 INFO: Antenne Niedersachsen Feel Good: Candyman -by- Christina Aguilera
+2017-02-10T06:16:46+01:00 INFO: Antenne Niedersachsen Feel Good: Lovely Day -by- Bill Withers
+2017-02-10T06:20:47+01:00 INFO: Antenne Niedersachsen Feel Good: Our House -by- Madness
+2017-02-10T06:23:47+01:00 INFO: Antenne Niedersachsen Feel Good: Rather Be (feat. Jess Glynne) -by- Clean Bandit
+2017-02-10T06:27:48+01:00 INFO: Antenne Niedersachsen Feel Good: Into the Groove -by- Madonna
+2017-02-10T06:31:48+01:00 INFO: Antenne Niedersachsen Feel Good: A Sky Full of Stars -by- Coldplay
+2017-02-10T06:36:49+01:00 INFO: Antenne Niedersachsen Feel Good: Monday, Monday -by- The Mamas & The Papas
+2017-02-10T06:39:49+01:00 INFO: Antenne Niedersachsen Feel Good: Upside Down -by- Jack Johnson
+2017-02-10T06:42:50+01:00 INFO: Antenne Niedersachsen Feel Good: Pata Pata -by- Miriam Makeba
+2017-02-10T06:46:53+01:00 INFO: Antenne Niedersachsen Feel Good: Be the One -by- Dua Lipa
+2017-02-10T06:49:53+01:00 INFO: Antenne Niedersachsen Feel Good: I'm a Believer -by- The Monkees
+2017-02-10T06:52:54+01:00 INFO: Antenne Niedersachsen Feel Good: I Got U (feat. Jax Jones) -by- Duke Dumont
+2017-02-10T06:55:54+01:00 INFO: Antenne Niedersachsen Feel Good: A WALK IN THE PARK -by- NICK STRAKER BAND
+2017-02-10T06:59:56+01:00 INFO: Antenne Niedersachsen Feel Good: Something In the Way You Move -by- Ellie Goulding
+2017-02-10T07:03:57+01:00 INFO: Antenne Niedersachsen Feel Good: Want to Want Me -by- Jason Derulo
+2017-02-10T07:06:58+01:00 INFO: Antenne Niedersachsen Feel Good: SUMMER DREAMING (BACARDI FEELING) -by- Kate Yanai
+2017-02-10T07:09:58+01:00 INFO: Antenne Niedersachsen Feel Good: Price Tag (feat. B.o.B) -by- Jessie J
+2017-02-10T07:13:58+01:00 INFO: Antenne Niedersachsen Feel Good: Sunshine Reggae (Mix '82) -by- Laid Back
+2017-02-10T07:16:59+01:00 INFO: Antenne Niedersachsen Feel Good: CALIFORNIA GURLS -by- Katy Perry
+2017-02-10T07:20:00+01:00 INFO: Antenne Niedersachsen Feel Good: Walking On Sunshine -by- Katrina & The Waves
+2017-02-10T07:24:00+01:00 INFO: Antenne Niedersachsen Feel Good: What a Wonderful World -by- Louis Armstrong
+2017-02-10T07:26:00+01:00 INFO: Antenne Niedersachsen Feel Good: Wavin' Flag -by- K'naan
+2017-02-10T07:30:01+01:00 INFO: Antenne Niedersachsen Feel Good: You Sexy Thing -by- Hot Chocolate
+2017-02-10T07:34:01+01:00 INFO: Antenne Niedersachsen Feel Good: Diese Tage (feat. Dante Thomas) -by- Kris
+2017-02-10T07:37:02+01:00 INFO: Antenne Niedersachsen Feel Good: Fresh -by- Kool & The Gang
+2017-02-10T07:41:02+01:00 INFO: Antenne Niedersachsen Feel Good: Where Is the Love? -by- The Black Eyed Peas
+2017-02-10T07:45:02+01:00 INFO: Antenne Niedersachsen Feel Good: The Shoop Shoop Song (It's In His Kiss) -by- Cher
+2017-02-10T07:48:03+01:00 INFO: Antenne Niedersachsen Feel Good: Drunk in the Morning -by- Lukas Graham
+2017-02-10T07:51:03+01:00 INFO: Antenne Niedersachsen Feel Good: Spirit In the Sky -by- Norman Greenbaum
+2017-02-10T07:55:03+01:00 INFO: Antenne Niedersachsen Feel Good: Bills -by- LunchMoney Lewis
+2017-02-10T07:59:04+01:00 INFO: Antenne Niedersachsen Feel Good: Respect -by- Aretha Franklin
+2017-02-10T08:01:04+01:00 INFO: Antenne Niedersachsen Feel Good: Chöre -by- Mark Forster
+2017-02-10T08:04:04+01:00 INFO: Antenne Niedersachsen Feel Good: Like a Virgin -by- Madonna
+2017-02-10T08:07:05+01:00 INFO: Antenne Niedersachsen Feel Good: Bad Ideas -by- Alle Farben
+2017-02-10T08:10:05+01:00 INFO: Antenne Niedersachsen Feel Good: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-10T08:13:07+01:00 INFO: Antenne Niedersachsen Feel Good: Cheap Thrills (feat. Sean Paul) -by- Sia
+2017-02-10T08:16:07+01:00 INFO: Antenne Niedersachsen Feel Good: My Girl -by- The Temptations
+2017-02-10T08:19:08+01:00 INFO: Antenne Niedersachsen Feel Good: Upside Down -by- Diana Ross
+2017-02-10T08:23:08+01:00 INFO: Antenne Niedersachsen Feel Good: LIGHT IT UP -by- Major Lazer
+2017-02-10T08:25:08+01:00 INFO: Antenne Niedersachsen Feel Good: Solsbury Hill -by- Peter Gabriel
+2017-02-10T08:30:09+01:00 INFO: Antenne Niedersachsen Feel Good: Anywhere -by- Passenger
+2017-02-10T08:33:09+01:00 INFO: Antenne Niedersachsen Feel Good: Dr. Beat -by- Miami Sound Machine
+2017-02-10T08:39:10+01:00 INFO: Antenne Niedersachsen Feel Good: Spirits -by- The Strumbellas
+2017-02-10T08:42:10+01:00 INFO: Antenne Niedersachsen Feel Good: Downtown -by- Petula Clark
+2017-02-10T08:45:11+01:00 INFO: Antenne Niedersachsen Feel Good: I'm Yours -by- Jason Mraz
+2017-02-10T08:49:11+01:00 INFO: Antenne Niedersachsen Feel Good: You Can't Hurry Love -by- Phil Collins
+2017-02-10T08:52:12+01:00 INFO: Antenne Niedersachsen Feel Good: Firework -by- Katy Perry
+2017-02-10T08:56:12+01:00 INFO: Antenne Niedersachsen Feel Good: Jump (For My Love) -by- The Pointer Sisters
+2017-02-10T08:59:12+01:00 INFO: Antenne Niedersachsen Feel Good: Superheroes -by- The Script
+2017-02-10T09:04:13+01:00 INFO: Antenne Niedersachsen Feel Good: Cake by the Ocean -by- DNCE
+2017-02-10T09:07:13+01:00 INFO: Antenne Niedersachsen Feel Good: Let's Dance -by- David Bowie
+2017-02-10T09:11:14+01:00 INFO: Antenne Niedersachsen Feel Good: CAN'T STOP THE FEELING -by- Justin Timberlake
+2017-02-10T09:15:14+01:00 INFO: Antenne Niedersachsen Feel Good: Footloose -by- Kenny Loggins
+2017-02-10T09:19:15+01:00 INFO: Antenne Niedersachsen Feel Good: Hey Ya! -by- Outkast
+2017-02-10T09:23:15+01:00 INFO: Antenne Niedersachsen Feel Good: Ghostbusters -by- Ray Parker, Jr.
+2017-02-10T09:27:15+01:00 INFO: Antenne Niedersachsen Feel Good: All Star -by- Smash Mouth
+2017-02-10T09:30:16+01:00 INFO: Antenne Niedersachsen Feel Good: My Way -by- Calvin Harris
+2017-02-10T09:34:17+01:00 INFO: Antenne Niedersachsen Feel Good: I Wanna Dance With Somebody -by- Whitney Houston
+2017-02-10T09:38:18+01:00 INFO: Antenne Niedersachsen Feel Good: Adventure of a Lifetime -by- Coldplay
+2017-02-10T09:42:18+01:00 INFO: Antenne Niedersachsen Feel Good: Wannabe -by- Spice Girls
+2017-02-10T09:45:19+01:00 INFO: Antenne Niedersachsen Feel Good: Stimme -by- EFF
+2017-02-10T09:48:19+01:00 INFO: Antenne Niedersachsen Feel Good: Dancing In the Moonlight -by- Toploader
+2017-02-10T09:52:20+01:00 INFO: Antenne Niedersachsen Feel Good: THIS GIRL -by- KUNGS,  COOKIN ON 3 BURNERS
+2017-02-10T09:55:20+01:00 INFO: Antenne Niedersachsen Feel Good: Dolce Vita -by- Ryan Paris
+2017-02-10T09:58:20+01:00 INFO: Antenne Niedersachsen Feel Good: Please Tell Rosie (feat. YOUNOTUS) -by- Alle Farben
+2017-02-10T10:01:21+01:00 INFO: Antenne Niedersachsen Feel Good: Flash mich -by- Mark Forster
+2017-02-10T10:04:21+01:00 INFO: Antenne Niedersachsen Feel Good: Surfin' U.S.A. -by- The Beach Boys
+2017-02-10T10:07:21+01:00 INFO: Antenne Niedersachsen Feel Good: 24K Magic -by- Bruno Mars
+2017-02-10T10:10:21+01:00 INFO: Antenne Niedersachsen Feel Good: Conga -by- Gloria Estefan
+2017-02-10T10:15:22+01:00 INFO: Antenne Niedersachsen Feel Good: Candy -by- Robbie Williams
+2017-02-10T10:18:22+01:00 INFO: Antenne Niedersachsen Feel Good: Here Comes the Sun -by- The Beatles
+2017-02-10T10:21:22+01:00 INFO: Antenne Niedersachsen Feel Good: Friday I'm In Love -by- The Cure
+2017-02-10T10:25:24+01:00 INFO: Antenne Niedersachsen Feel Good: Work This Body -by- WALK THE MOON
+2017-02-10T10:28:24+01:00 INFO: Antenne Niedersachsen Feel Good: Follow Me -by- Uncle Kracker
+2017-02-10T10:31:24+01:00 INFO: Antenne Niedersachsen Feel Good: Einmal um die Welt -by- Cro
+2017-02-10T10:34:25+01:00 INFO: Antenne Niedersachsen Feel Good: Club Tropicana -by- Wham!
+2017-02-10T10:37:25+01:00 INFO: Antenne Niedersachsen Feel Good: I Love It -by- Icona Pop
+2017-02-10T10:40:25+01:00 INFO: Antenne Niedersachsen Feel Good: Miami -by- Will Smith
+2017-02-10T10:44:26+01:00 INFO: Antenne Niedersachsen Feel Good: TIK TOK -by- KESHA
+2017-02-10T10:47:26+01:00 INFO: Antenne Niedersachsen Feel Good: I Want You Back -by- Jackson 5
+2017-02-10T10:50:26+01:00 INFO: Antenne Niedersachsen Feel Good: Call On Me -by- Eric Prydz
+2017-02-10T10:52:27+01:00 INFO: Antenne Niedersachsen Feel Good: I'm So Excited -by- The Pointer Sisters
+2017-02-10T10:57:27+01:00 INFO: Antenne Niedersachsen Feel Good: Whenever, Wherever -by- Shakira
+2017-02-10T11:01:28+01:00 INFO: Antenne Niedersachsen Feel Good: So What -by- P!nk
+2017-02-10T11:04:28+01:00 INFO: Antenne Niedersachsen Feel Good: Ain't No Sunshine -by- Bill Withers
+2017-02-10T11:06:29+01:00 INFO: Antenne Niedersachsen Feel Good: Hymn for the Weekend -by- Coldplay
+2017-02-10T11:10:29+01:00 INFO: Antenne Niedersachsen Feel Good: Valerie -by- Steve Winwood
+2017-02-10T11:14:30+01:00 INFO: Antenne Niedersachsen Feel Good: Rude -by- MAGIC!
+2017-02-10T11:17:30+01:00 INFO: Antenne Niedersachsen Feel Good: Kiss Me -by- Sixpence None the Richer
+2017-02-10T11:21:31+01:00 INFO: Antenne Niedersachsen Feel Good: Dreamer -by- Supertramp
+2017-02-10T11:24:31+01:00 INFO: Antenne Niedersachsen Feel Good: Little Talks -by- Of Monsters and Men
+2017-02-10T11:28:31+01:00 INFO: Antenne Niedersachsen Feel Good: She's So High -by- Tal Bachman
+2017-02-10T11:32:32+01:00 INFO: Antenne Niedersachsen Feel Good: Catch & Release -by- Matt Simons
+2017-02-10T11:35:32+01:00 INFO: Antenne Niedersachsen Feel Good: Fun, Fun, Fun -by- The Beach Boys
+2017-02-10T11:37:32+01:00 INFO: Antenne Niedersachsen Feel Good: All About That Bass -by- Meghan Trainor
+2017-02-10T11:40:33+01:00 INFO: Antenne Niedersachsen Feel Good: Good Vibrations -by- The Beach Boys
+2017-02-10T11:44:33+01:00 INFO: Antenne Niedersachsen Feel Good: Uptown Funk (feat. Bruno Mars) -by- Mark Ronson
+2017-02-10T11:48:33+01:00 INFO: Antenne Niedersachsen Feel Good: I'll Be There For You -by- The Rembrandts
+2017-02-10T11:51:34+01:00 INFO: Antenne Niedersachsen Feel Good: It's a Beautiful Day -by- Michael Bublé
+2017-02-10T11:54:34+01:00 INFO: Antenne Niedersachsen Feel Good: September -by- Earth, Wind & Fire
+2017-02-10T11:57:35+01:00 INFO: Antenne Niedersachsen Feel Good: Cheerleader (feat. Kid Ink) -by- Omi
+2017-02-10T12:00:35+01:00 INFO: Antenne Niedersachsen Feel Good: Haus am See -by- Peter Fox
+2017-02-10T12:03:36+01:00 INFO: Antenne Niedersachsen Feel Good: All the Small Things -by- Blink-182
+2017-02-10T12:06:36+01:00 INFO: Antenne Niedersachsen Feel Good: Happy -by- Pharrell Williams
+2017-02-10T12:10:37+01:00 INFO: Antenne Niedersachsen Feel Good: Copacabana -by- Barry Manilow
+2017-02-10T12:14:38+01:00 INFO: Antenne Niedersachsen Feel Good: Oh My Love -by- Rea Garvey
+2017-02-10T12:18:38+01:00 INFO: Antenne Niedersachsen Feel Good: Stand By Me -by- Ben E. King
+2017-02-10T12:21:39+01:00 INFO: Antenne Niedersachsen Feel Good: Karma Chameleon -by- Culture Club
+2017-02-10T12:25:39+01:00 INFO: Antenne Niedersachsen Feel Good: Let Me Down Easy -by- Sheppard
+2017-02-10T12:28:40+01:00 INFO: Antenne Niedersachsen Feel Good: Jamming -by- Bob Marley
+2017-02-10T12:32:41+01:00 INFO: Antenne Niedersachsen Feel Good: Waka Waka (This Time for Africa) (feat. Freshlyground) -by- Shakira
+2017-02-10T12:35:41+01:00 INFO: Antenne Niedersachsen Feel Good: Jeans On -by- David Dundas
+2017-02-10T12:38:41+01:00 INFO: Antenne Niedersachsen Feel Good: Shut Up and Dance -by- WALK THE MOON
+2017-02-10T12:42:44+01:00 INFO: Antenne Niedersachsen Feel Good: Lovely Day -by- Bill Withers
+2017-02-10T12:46:45+01:00 INFO: Antenne Niedersachsen Feel Good: Lush Life -by- Zara Larsson
+2017-02-10T12:49:45+01:00 INFO: Antenne Niedersachsen Feel Good: Come On Eileen -by- Dexy's Midnight Runners
+2017-02-10T12:53:46+01:00 INFO: Antenne Niedersachsen Feel Good: Viva La Vida -by- Coldplay
+2017-02-10T12:56:46+01:00 INFO: Antenne Niedersachsen Feel Good: Upside Down -by- Diana Ross
+2017-02-10T13:00:46+01:00 INFO: Antenne Niedersachsen Feel Good: Keep My Cool -by- Madcon
+2017-02-10T13:03:47+01:00 INFO: Antenne Niedersachsen Feel Good: Don't Worry Be Happy -by- Bobby McFerrin
+2017-02-10T13:07:47+01:00 INFO: Antenne Niedersachsen Feel Good: Lay It All On Me (feat. Ed Sheeran) -by- Rudimental
+2017-02-10T13:10:50+01:00 INFO: Antenne Niedersachsen Feel Good: Wake Me Up Before You Go Go -by- Wham!
+2017-02-10T13:14:50+01:00 INFO: Antenne Niedersachsen Feel Good: I Really Like You -by- Carly Rae Jepsen
+2017-02-10T13:18:51+01:00 INFO: Antenne Niedersachsen Feel Good: Praise You -by- Fatboy Slim
+2017-02-10T13:23:51+01:00 INFO: Antenne Niedersachsen Feel Good: In the Summertime -by- Mungo Jerry
+2017-02-10T13:27:52+01:00 INFO: Antenne Niedersachsen Feel Good: Treasure -by- Bruno Mars
+2017-02-10T13:30:52+01:00 INFO: Antenne Niedersachsen Feel Good: Barbara Ann -by- The Beach Boys
+2017-02-10T13:31:54+01:00 INFO: Antenne Niedersachsen Feel Good: Call Me Maybe -by- Carly Rae Jepsen
+2017-02-10T13:35:55+01:00 INFO: Antenne Niedersachsen Feel Good: Wouldn't It Be Nice -by- The Beach Boys
+2017-02-10T13:37:55+01:00 INFO: Antenne Niedersachsen Feel Good: Hula Hoop -by- Omi
+2017-02-10T13:41:56+01:00 INFO: Antenne Niedersachsen Feel Good: Abc -by- Jackson 5
+2017-02-10T13:43:56+01:00 INFO: Antenne Niedersachsen Feel Good: Wrapped Up -by- Olly Murs
+2017-02-10T13:46:56+01:00 INFO: Antenne Niedersachsen Feel Good: Matilda -by- Harry Belafonte
+2017-02-10T13:50:57+01:00 INFO: Antenne Niedersachsen Feel Good: Reality (feat. Janieck Devy) -by- Lost Frequencies
+2017-02-10T13:53:57+01:00 INFO: Antenne Niedersachsen Feel Good: Life Is for Living -by- Barclay James Harvest
+2017-02-10T13:57:00+01:00 INFO: Antenne Niedersachsen Feel Good: Riptide -by- Vance Joy
+2017-02-10T14:00:00+01:00 INFO: Antenne Niedersachsen Feel Good: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-10T14:04:00+01:00 INFO: Antenne Niedersachsen Feel Good: Hey, Soul Sister -by- Train
+2017-02-10T14:07:01+01:00 INFO: Antenne Niedersachsen Feel Good: SUMMER DREAMING (BACARDI FEELING) -by- Kate Yanai
+2017-02-10T14:11:01+01:00 INFO: Antenne Niedersachsen Feel Good: Some Nights -by- Fun.
+2017-02-10T14:15:02+01:00 INFO: Antenne Niedersachsen Feel Good: Celebration -by- Kool & The Gang
+2017-02-10T14:20:03+01:00 INFO: Antenne Niedersachsen Feel Good: Grace Kelly -by- MIKA
+2017-02-10T14:23:03+01:00 INFO: Antenne Niedersachsen Feel Good: Like a Virgin -by- Madonna
+2017-02-10T14:26:04+01:00 INFO: Antenne Niedersachsen Feel Good: A WALK IN THE PARK -by- NICK STRAKER BAND
+2017-02-10T14:29:04+01:00 INFO: Antenne Niedersachsen Feel Good: Shake It Off -by- Taylor Swift
+2017-02-10T14:33:05+01:00 INFO: Antenne Niedersachsen Feel Good: You Sexy Thing -by- Hot Chocolate
+2017-02-10T14:37:05+01:00 INFO: Antenne Niedersachsen Feel Good: Moves Like Jagger (feat. Christina Aguilera) -by- Maroon 5
+2017-02-10T14:40:06+01:00 INFO: Antenne Niedersachsen Feel Good: Monday, Monday -by- The Mamas & The Papas
+2017-02-10T14:43:06+01:00 INFO: Antenne Niedersachsen Feel Good: Get Lucky (Radio Edit) [feat. Pharrell Williams] -by- Daft Punk
+2017-02-10T14:47:07+01:00 INFO: Antenne Niedersachsen Feel Good: Pata Pata -by- Miriam Makeba
+2017-02-10T14:51:07+01:00 INFO: Antenne Niedersachsen Feel Good: Pompeii -by- Bastille
+2017-02-10T14:54:08+01:00 INFO: Antenne Niedersachsen Feel Good: Torn -by- Natalie Imbruglia
+2017-02-10T14:58:08+01:00 INFO: Antenne Niedersachsen Feel Good: On Top of the World -by- Imagine Dragons
+2017-02-10T15:02:10+01:00 INFO: Antenne Niedersachsen Feel Good: I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) -by- Flo Rida
+2017-02-10T15:05:12+01:00 INFO: Antenne Niedersachsen Feel Good: Walking On Sunshine -by- Katrina & The Waves
+2017-02-10T15:08:13+01:00 INFO: Antenne Niedersachsen Feel Good: SWEET LOVIN' -by- Sigala
+2017-02-10T15:12:13+01:00 INFO: Antenne Niedersachsen Feel Good: Sunshine Reggae (Mix '82) -by- Laid Back
+2017-02-10T15:15:14+01:00 INFO: Antenne Niedersachsen Feel Good: Aufstehn! -by- Seeed
+2017-02-10T15:19:14+01:00 INFO: Antenne Niedersachsen Feel Good: What a Wonderful World -by- Louis Armstrong
+2017-02-10T15:21:14+01:00 INFO: Antenne Niedersachsen Feel Good: Our House -by- Madness
+2017-02-10T15:24:15+01:00 INFO: Antenne Niedersachsen Feel Good: Up (feat. Demi Lovato) -by- Olly Murs
+2017-02-10T15:28:15+01:00 INFO: Antenne Niedersachsen Feel Good: I'm a Believer -by- The Monkees
+2017-02-10T15:31:16+01:00 INFO: Antenne Niedersachsen Feel Good: El Mismo Sol -by- Alvaro Soler
+2017-02-10T15:34:16+01:00 INFO: Antenne Niedersachsen Feel Good: Respect -by- Aretha Franklin
+2017-02-10T15:36:17+01:00 INFO: Antenne Niedersachsen Feel Good: VALERIE -by- AMY WINEHOUSE FEAT. MARK RONSON
+2017-02-10T15:40:17+01:00 INFO: Antenne Niedersachsen Feel Good: Let's Dance -by- David Bowie
+2017-02-10T15:44:18+01:00 INFO: Antenne Niedersachsen Feel Good: Auf uns -by- Andreas Bourani
+2017-02-10T15:48:18+01:00 INFO: Antenne Niedersachsen Feel Good: Girls Just Want to Have Fun -by- Cyndi Lauper
+2017-02-10T15:51:19+01:00 INFO: Antenne Niedersachsen Feel Good: I Gotta Feeling -by- The Black Eyed Peas
+2017-02-10T15:55:21+01:00 INFO: Antenne Niedersachsen Feel Good: Fresh -by- Kool & The Gang
+2017-02-10T16:00:22+01:00 INFO: Antenne Niedersachsen Feel Good: Marvin Gaye (feat. Meghan Trainor) -by- Charlie Puth
+2017-02-10T16:03:22+01:00 INFO: Antenne Niedersachsen Feel Good: Solsbury Hill -by- Peter Gabriel
+2017-02-10T16:07:23+01:00 INFO: Antenne Niedersachsen Feel Good: Candyman -by- Christina Aguilera
+2017-02-10T16:11:23+01:00 INFO: Antenne Niedersachsen Feel Good: You Can't Hurry Love -by- Phil Collins
+2017-02-10T16:14:24+01:00 INFO: Antenne Niedersachsen Feel Good: Rather Be (feat. Jess Glynne) -by- Clean Bandit
+2017-02-10T16:17:24+01:00 INFO: Antenne Niedersachsen Feel Good: Into the Groove -by- Madonna
+2017-02-10T16:22:25+01:00 INFO: Antenne Niedersachsen Feel Good: Crazy Little Thing Called Love -by- Queen
+2017-02-10T16:25:25+01:00 INFO: Antenne Niedersachsen Feel Good: A Sky Full of Stars -by- Coldplay
+2017-02-10T16:29:26+01:00 INFO: Antenne Niedersachsen Feel Good: Conga -by- Gloria Estefan
+2017-02-10T16:33:26+01:00 INFO: Antenne Niedersachsen Feel Good: Upside Down -by- Jack Johnson
+2017-02-10T16:36:27+01:00 INFO: Antenne Niedersachsen Feel Good: Downtown -by- Petula Clark
+2017-02-10T16:39:27+01:00 INFO: Antenne Niedersachsen Feel Good: Be the One -by- Dua Lipa
+2017-02-10T16:43:27+01:00 INFO: Antenne Niedersachsen Feel Good: Dolce Vita -by- Ryan Paris
+2017-02-10T16:46:28+01:00 INFO: Antenne Niedersachsen Feel Good: I Got U (feat. Jax Jones) -by- Duke Dumont
+2017-02-10T16:49:28+01:00 INFO: Antenne Niedersachsen Feel Good: Angel (feat. Rayvon) -by- Shaggy
+2017-02-10T16:53:29+01:00 INFO: Antenne Niedersachsen Feel Good: Something In the Way You Move -by- Ellie Goulding
+2017-02-10T16:56:30+01:00 INFO: Antenne Niedersachsen Feel Good: Jump (For My Love) -by- The Pointer Sisters
+2017-02-10T17:00:30+01:00 INFO: Antenne Niedersachsen Feel Good: Price Tag (feat. B.o.B) -by- Jessie J
+2017-02-10T17:04:31+01:00 INFO: Antenne Niedersachsen Feel Good: Ghostbusters -by- Ray Parker, Jr.
+2017-02-10T17:08:32+01:00 INFO: Antenne Niedersachsen Feel Good: CALIFORNIA GURLS -by- Katy Perry
+2017-02-10T17:11:33+01:00 INFO: Antenne Niedersachsen Feel Good: All Star -by- Smash Mouth
+2017-02-10T17:14:33+01:00 INFO: Antenne Niedersachsen Feel Good: Wavin' Flag -by- K'naan
+2017-02-10T17:18:33+01:00 INFO: Antenne Niedersachsen Feel Good: I Wanna Dance With Somebody -by- Whitney Houston
+2017-02-10T17:23:34+01:00 INFO: Antenne Niedersachsen Feel Good: Dancing In the Moonlight -by- Toploader
+2017-02-10T17:27:35+01:00 INFO: Antenne Niedersachsen Feel Good: Where Is the Love? -by- The Black Eyed Peas
+2017-02-10T17:30:35+01:00 INFO: Antenne Niedersachsen Feel Good: Wannabe -by- Spice Girls
+2017-02-10T17:33:36+01:00 INFO: Antenne Niedersachsen Feel Good: Diese Tage (feat. Dante Thomas) -by- Kris
+2017-02-10T17:37:36+01:00 INFO: Antenne Niedersachsen Feel Good: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-10T17:39:36+01:00 INFO: Antenne Niedersachsen Feel Good: Drunk in the Morning -by- Lukas Graham
+2017-02-10T17:44:41+01:00 INFO: Antenne Niedersachsen Feel Good: My Girl -by- The Temptations
+2017-02-10T17:45:42+01:00 INFO: Antenne Niedersachsen Feel Good: Bills -by- LunchMoney Lewis
+2017-02-10T17:49:43+01:00 INFO: Antenne Niedersachsen Feel Good: Kiss Me -by- Sixpence None the Richer
+2017-02-10T17:52:44+01:00 INFO: Antenne Niedersachsen Feel Good: Don't Worry (feat. Ray Dalton) -by- Madcon
+2017-02-10T17:55:44+01:00 INFO: Antenne Niedersachsen Feel Good: Valerie -by- Steve Winwood
+2017-02-10T17:59:45+01:00 INFO: Antenne Niedersachsen Feel Good: Chöre -by- Mark Forster
+2017-02-10T18:00:45+01:00 INFO: Antenne Niedersachsen Feel Good: Bad Ideas -by- Alle Farben
+2017-02-10T18:02:45+01:00 INFO: Antenne Niedersachsen Feel Good: Dr. Beat -by- Miami Sound Machine
+2017-02-10T18:09:46+01:00 INFO: Antenne Niedersachsen Feel Good: Cheap Thrills (feat. Sean Paul) -by- Sia
+2017-02-10T18:12:46+01:00 INFO: Antenne Niedersachsen Feel Good: Surfin' U.S.A. -by- The Beach Boys
+2017-02-10T18:14:47+01:00 INFO: Antenne Niedersachsen Feel Good: LIGHT IT UP -by- Major Lazer
+2017-02-10T18:17:47+01:00 INFO: Antenne Niedersachsen Feel Good: I Want You Back -by- Jackson 5
+2017-02-10T18:20:48+01:00 INFO: Antenne Niedersachsen Feel Good: I'm Gonna Be (500 Miles) -by- The Proclaimers
+2017-02-10T18:24:48+01:00 INFO: Antenne Niedersachsen Feel Good: Anywhere -by- Passenger
+2017-02-10T18:27:49+01:00 INFO: Antenne Niedersachsen Feel Good: I'm So Excited -by- The Pointer Sisters
+2017-02-10T18:32:49+01:00 INFO: Antenne Niedersachsen Feel Good: Spirits -by- The Strumbellas
+2017-02-10T18:35:49+01:00 INFO: Antenne Niedersachsen Feel Good: I'll Be There For You -by- The Rembrandts
+2017-02-10T18:38:50+01:00 INFO: Antenne Niedersachsen Feel Good: I'm Yours -by- Jason Mraz
+2017-02-10T18:42:50+01:00 INFO: Antenne Niedersachsen Feel Good: Wake Me Up Before You Go Go -by- Wham!
+2017-02-10T18:46:51+01:00 INFO: Antenne Niedersachsen Feel Good: Firework -by- Katy Perry
+2017-02-10T18:49:51+01:00 INFO: Antenne Niedersachsen Feel Good: All the Small Things -by- Blink-182
+2017-02-10T18:52:52+01:00 INFO: Antenne Niedersachsen Feel Good: Superheroes -by- The Script
+2017-02-10T18:56:52+01:00 INFO: Antenne Niedersachsen Feel Good: September -by- Earth, Wind & Fire
+2017-02-10T19:00:52+01:00 INFO: Antenne Niedersachsen Feel Good: CAN'T STOP THE FEELING -by- Justin Timberlake
+2017-02-10T19:04:54+01:00 INFO: Antenne Niedersachsen Feel Good: She's So High -by- Tal Bachman
+2017-02-10T19:07:54+01:00 INFO: Antenne Niedersachsen Feel Good: Hey Ya! -by- Outkast
+2017-02-10T19:11:54+01:00 INFO: Antenne Niedersachsen Feel Good: Fun, Fun, Fun -by- The Beach Boys
+2017-02-10T19:13:55+01:00 INFO: Antenne Niedersachsen Feel Good: My Way -by- Calvin Harris
+2017-02-10T19:17:55+01:00 INFO: Antenne Niedersachsen Feel Good: Here Comes the Sun -by- The Beatles
+2017-02-10T19:20:56+01:00 INFO: Antenne Niedersachsen Feel Good: Friday I'm In Love -by- The Cure
+2017-02-10T19:24:56+01:00 INFO: Antenne Niedersachsen Feel Good: Adventure of a Lifetime -by- Coldplay
+2017-02-10T19:27:57+01:00 INFO: Antenne Niedersachsen Feel Good: Follow Me -by- Uncle Kracker
+2017-02-10T19:31:59+01:00 INFO: Antenne Niedersachsen Feel Good: Stimme -by- EFF
+2017-02-10T19:34:59+01:00 INFO: Antenne Niedersachsen Feel Good: Miami -by- Will Smith
+2017-02-10T19:38:00+01:00 INFO: Antenne Niedersachsen Feel Good: THIS GIRL -by- KUNGS,  COOKIN ON 3 BURNERS
+2017-02-10T19:42:00+01:00 INFO: Antenne Niedersachsen Feel Good: Ain't No Sunshine -by- Bill Withers
+2017-02-10T19:44:00+01:00 INFO: Antenne Niedersachsen Feel Good: Please Tell Rosie (feat. YOUNOTUS) -by- Alle Farben
+2017-02-10T19:46:02+01:00 INFO: Antenne Niedersachsen Feel Good: Don't Worry Be Happy -by- Bobby McFerrin
+2017-02-10T19:50:02+01:00 INFO: Antenne Niedersachsen Feel Good: Good Grief -by- Bastille
+2017-02-10T19:54:03+01:00 INFO: Antenne Niedersachsen Feel Good: Good Vibrations -by- The Beach Boys
+2017-02-10T19:57:04+01:00 INFO: Antenne Niedersachsen Feel Good: Flash mich -by- Mark Forster
+2017-02-10T20:00:04+01:00 INFO: Antenne Niedersachsen Feel Good: Praise You -by- Fatboy Slim
+2017-02-10T20:06:05+01:00 INFO: Antenne Niedersachsen Feel Good: 24K Magic -by- Bruno Mars
+2017-02-10T20:09:05+01:00 INFO: Antenne Niedersachsen Feel Good: Jamming -by- Bob Marley
+2017-02-10T20:12:05+01:00 INFO: Antenne Niedersachsen Feel Good: Candy -by- Robbie Williams
+2017-02-10T20:16:06+01:00 INFO: Antenne Niedersachsen Feel Good: Karma Chameleon -by- Culture Club
+2017-02-10T20:20:06+01:00 INFO: Antenne Niedersachsen Feel Good: Work This Body -by- WALK THE MOON
+2017-02-10T20:22:06+01:00 INFO: Antenne Niedersachsen Feel Good: Jeans On -by- David Dundas
+2017-02-10T20:26:07+01:00 INFO: Antenne Niedersachsen Feel Good: Come On Eileen -by- Dexy's Midnight Runners
+2017-02-10T20:30:07+01:00 INFO: Antenne Niedersachsen Feel Good: Einmal um die Welt -by- Cro
+2017-02-10T20:33:07+01:00 INFO: Antenne Niedersachsen Feel Good: Upside Down -by- Diana Ross
+2017-02-10T20:36:08+01:00 INFO: Antenne Niedersachsen Feel Good: I Love It -by- Icona Pop
+2017-02-10T20:39:08+01:00 INFO: Antenne Niedersachsen Feel Good: I Can See Clearly Now -by- Jimmy Cliff
+2017-02-10T20:42:08+01:00 INFO: Antenne Niedersachsen Feel Good: TIK TOK -by- KESHA
+2017-02-10T20:45:09+01:00 INFO: Antenne Niedersachsen Feel Good: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-10T20:48:09+01:00 INFO: Antenne Niedersachsen Feel Good: Call On Me -by- Eric Prydz
+2017-02-10T20:51:09+01:00 INFO: Antenne Niedersachsen Feel Good: SUMMER DREAMING (BACARDI FEELING) -by- Kate Yanai
+2017-02-10T20:55:10+01:00 INFO: Antenne Niedersachsen Feel Good: Whenever, Wherever -by- Shakira
+2017-02-10T20:58:10+01:00 INFO: Antenne Niedersachsen Feel Good: Celebration -by- Kool & The Gang
+2017-02-10T21:03:10+01:00 INFO: Antenne Niedersachsen Feel Good: Hymn for the Weekend -by- Coldplay
+2017-02-10T21:06:11+01:00 INFO: Antenne Niedersachsen Feel Good: In the Summertime -by- Mungo Jerry
+2017-02-10T21:10:11+01:00 INFO: Antenne Niedersachsen Feel Good: Rude -by- MAGIC!
+2017-02-10T21:14:11+01:00 INFO: Antenne Niedersachsen Feel Good: Wouldn't It Be Nice -by- The Beach Boys
+2017-02-10T21:16:12+01:00 INFO: Antenne Niedersachsen Feel Good: Little Talks -by- Of Monsters and Men
+2017-02-10T21:20:12+01:00 INFO: Antenne Niedersachsen Feel Good: Club Tropicana -by- Wham!
+2017-02-10T21:24:14+01:00 INFO: Antenne Niedersachsen Feel Good: Abc -by- Jackson 5
+2017-02-10T21:27:15+01:00 INFO: Antenne Niedersachsen Feel Good: Catch & Release -by- Matt Simons
+2017-02-10T21:30:15+01:00 INFO: Antenne Niedersachsen Feel Good: Matilda -by- Harry Belafonte
+2017-02-10T21:34:16+01:00 INFO: Antenne Niedersachsen Feel Good: All About That Bass -by- Meghan Trainor
+2017-02-10T21:37:16+01:00 INFO: Antenne Niedersachsen Feel Good: Life Is for Living -by- Barclay James Harvest
+2017-02-10T21:40:16+01:00 INFO: Antenne Niedersachsen Feel Good: Uptown Funk (feat. Bruno Mars) -by- Mark Ronson
+2017-02-10T21:44:17+01:00 INFO: Antenne Niedersachsen Feel Good: Copacabana -by- Barry Manilow
+2017-02-10T21:48:18+01:00 INFO: Antenne Niedersachsen Feel Good: It's a Beautiful Day -by- Michael Bublé
+2017-02-10T21:52:19+01:00 INFO: Antenne Niedersachsen Feel Good: Stand By Me -by- Ben E. King
+2017-02-10T21:54:19+01:00 INFO: Antenne Niedersachsen Feel Good: Cheerleader (feat. Kid Ink) -by- Omi
+2017-02-10T21:57:20+01:00 INFO: Antenne Niedersachsen Feel Good: Lovely Day -by- Bill Withers
+2017-02-10T22:02:21+01:00 INFO: Antenne Niedersachsen Feel Good: Happy -by- Pharrell Williams
+2017-02-10T22:05:21+01:00 INFO: Antenne Niedersachsen Feel Good: Barbara Ann -by- The Beach Boys
+2017-02-10T22:07:22+01:00 INFO: Antenne Niedersachsen Feel Good: Oh My Love -by- Rea Garvey
+2017-02-10T22:11:23+01:00 INFO: Antenne Niedersachsen Feel Good: Like a Virgin -by- Madonna
+2017-02-10T22:14:23+01:00 INFO: Antenne Niedersachsen Feel Good: Let Me Down Easy -by- Sheppard
+2017-02-10T22:17:23+01:00 INFO: Antenne Niedersachsen Feel Good: A WALK IN THE PARK -by- NICK STRAKER BAND
+2017-02-10T22:22:24+01:00 INFO: Antenne Niedersachsen Feel Good: You Sexy Thing -by- Hot Chocolate
+2017-02-10T22:25:25+01:00 INFO: Antenne Niedersachsen Feel Good: Waka Waka (This Time for Africa) (feat. Freshlyground) -by- Shakira
+2017-02-10T22:28:25+01:00 INFO: Antenne Niedersachsen Feel Good: The Shoop Shoop Song (It's In His Kiss) -by- Cher
+2017-02-10T22:31:25+01:00 INFO: Antenne Niedersachsen Feel Good: Shut Up and Dance -by- WALK THE MOON
+2017-02-10T22:34:26+01:00 INFO: Antenne Niedersachsen Feel Good: Spirit In the Sky -by- Norman Greenbaum
+2017-02-10T22:38:27+01:00 INFO: Antenne Niedersachsen Feel Good: Lush Life -by- Zara Larsson
+2017-02-10T22:42:28+01:00 INFO: Antenne Niedersachsen Feel Good: Respect -by- Aretha Franklin
+2017-02-10T22:44:28+01:00 INFO: Antenne Niedersachsen Feel Good: Viva La Vida -by- Coldplay
+2017-02-10T22:48:28+01:00 INFO: Antenne Niedersachsen Feel Good: Girls Just Want to Have Fun -by- Cyndi Lauper
+2017-02-10T22:51:29+01:00 INFO: Antenne Niedersachsen Feel Good: Running Man -by- Ollie Gabriel
+2017-02-10T22:55:29+01:00 INFO: Antenne Niedersachsen Feel Good: Let's Dance -by- David Bowie
+2017-02-10T22:59:31+01:00 INFO: Antenne Niedersachsen Feel Good: Keep My Cool -by- Madcon
+2017-02-10T23:02:31+01:00 INFO: Antenne Niedersachsen Feel Good: Lay It All On Me (feat. Ed Sheeran) -by- Rudimental
+2017-02-10T23:05:32+01:00 INFO: Antenne Niedersachsen Feel Good: Fresh -by- Kool & The Gang
+2017-02-10T23:09:32+01:00 INFO: Antenne Niedersachsen Feel Good: I Really Like You -by- Carly Rae Jepsen
+2017-02-10T23:13:32+01:00 INFO: Antenne Niedersachsen Feel Good: What a Wonderful World -by- Louis Armstrong
+2017-02-10T23:15:33+01:00 INFO: Antenne Niedersachsen Feel Good: Treasure -by- Bruno Mars
+2017-02-10T23:18:33+01:00 INFO: Antenne Niedersachsen Feel Good: Our House -by- Madness
+2017-02-10T23:22:34+01:00 INFO: Antenne Niedersachsen Feel Good: Monday, Monday -by- The Mamas & The Papas
+2017-02-10T23:25:34+01:00 INFO: Antenne Niedersachsen Feel Good: Call Me Maybe -by- Carly Rae Jepsen
+2017-02-10T23:28:35+01:00 INFO: Antenne Niedersachsen Feel Good: I'm a Believer -by- The Monkees
+2017-02-10T23:30:35+01:00 INFO: Antenne Niedersachsen Feel Good: Hula Hoop -by- Omi
+2017-02-10T23:34:36+01:00 INFO: Antenne Niedersachsen Feel Good: Pata Pata -by- Miriam Makeba
+2017-02-10T23:38:37+01:00 INFO: Antenne Niedersachsen Feel Good: Wrapped Up -by- Olly Murs
+2017-02-10T23:41:40+01:00 INFO: Antenne Niedersachsen Feel Good: Torn -by- Natalie Imbruglia
+2017-02-10T23:44:40+01:00 INFO: Antenne Niedersachsen Feel Good: Reality (feat. Janieck Devy) -by- Lost Frequencies
+2017-02-10T23:47:41+01:00 INFO: Antenne Niedersachsen Feel Good: Into the Groove -by- Madonna
+2017-02-10T23:51:44+01:00 INFO: Antenne Niedersachsen Feel Good: Riptide -by- Vance Joy
+2017-02-10T23:55:45+01:00 INFO: Antenne Niedersachsen Feel Good: All Star -by- Smash Mouth
+2017-02-10T23:58:46+01:00 INFO: Antenne Niedersachsen Feel Good: Hey, Soul Sister -by- Train

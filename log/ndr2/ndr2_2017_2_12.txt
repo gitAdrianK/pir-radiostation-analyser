@@ -1,0 +1,63 @@
+2017-02-12T00:04:45+01:00 INFO: NDR 2: Ch&ouml;re -by- Mark Forster
+2017-02-12T00:08:46+01:00 INFO: NDR 2: Silver Lining (Clap Your Hands) -by- Imany
+2017-02-12T00:10:46+01:00 INFO: NDR 2: Wherever I Go -by- OneRepublic
+2017-02-12T00:14:46+01:00 INFO: NDR 2: Rockabye -by- Clean Bandit &amp; Sean Paul
+2017-02-12T00:17:46+01:00 INFO: NDR 2: Want To Want Me -by- Jason Derulo
+2017-02-12T00:21:47+01:00 INFO: NDR 2: By Your Side -by- Jonas Blue &amp; RAYE
+2017-02-12T00:24:47+01:00 INFO: NDR 2: How You Remind Me -by- Nickelback
+2017-02-12T00:28:47+01:00 INFO: NDR 2: Everybody -by- DJ Bobo
+2017-02-12T00:32:47+01:00 INFO: NDR 2: Dancing On My Own -by- Calum Scott
+2017-02-12T00:36:48+01:00 INFO: NDR 2: Wenn Sie Tanzt -by- Max Giesinger
+2017-02-12T00:39:48+01:00 INFO: NDR 2: Lost On You -by- LP
+2017-02-12T00:43:49+01:00 INFO: NDR 2: Happy -by- Pharrell Williams
+2017-02-12T00:46:49+01:00 INFO: NDR 2: Cheap Thrills -by- Sia
+2017-02-12T00:50:51+01:00 INFO: NDR 2: Waves -by- Dean Lewis
+2017-02-12T00:54:52+01:00 INFO: NDR 2: Feuerwerk -by- Wincent Weiss
+2017-02-12T00:57:52+01:00 INFO: NDR 2: You Give Love A Bad Name -by- Bon Jovi
+2017-02-12T01:06:53+01:00 INFO: NDR 2: Faded -by- Alan Walker
+2017-02-12T01:09:53+01:00 INFO: NDR 2: Tausend Bunte Tr&auml;ume -by- Julian Le Play
+2017-02-12T01:13:53+01:00 INFO: NDR 2: Hall Of Fame -by- Script &amp; Will.I.Am
+2017-02-12T01:16:53+01:00 INFO: NDR 2: Dream On -by- Amy MacDonald
+2017-02-12T01:19:54+01:00 INFO: NDR 2: Love My Life -by- Robbie Williams
+2017-02-12T01:22:54+01:00 INFO: NDR 2: Ain&#39;t Your Mama -by- Jennifer Lopez
+2017-02-12T01:26:54+01:00 INFO: NDR 2: Good Grief -by- Bastille
+2017-02-12T01:29:54+01:00 INFO: NDR 2: You Can&#39;t Hurry Love -by- Phil Collins
+2017-02-12T01:32:55+01:00 INFO: NDR 2: Don&#39;t Mind Me -by- Walking On Cars
+2017-02-12T01:36:55+01:00 INFO: NDR 2: Nur In Meinem Kopf -by- Andreas Bourani
+2017-02-12T01:40:55+01:00 INFO: NDR 2: I Don&#39;t Wanna Live Forever (Fifty Shades Darker) -by- Zayn &amp; Taylor Swift
+2017-02-12T01:44:55+01:00 INFO: NDR 2: Lose Control -by- Matt Simons
+2017-02-12T01:47:56+01:00 INFO: NDR 2: Don&#39;t You Know -by- Kungs &amp; Jamie N Commons
+2017-02-12T01:50:56+01:00 INFO: NDR 2: Impossible -by- James Arthur
+2017-02-12T01:53:56+01:00 INFO: NDR 2: Call On Me -by- Starley
+2017-02-12T01:56:56+01:00 INFO: NDR 2: When You Say Nothing At All -by- Ronan Keating
+2017-02-12T02:06:57+01:00 INFO: NDR 2: I&#39;m All About You -by- Rea Garvey
+2017-02-12T02:09:57+01:00 INFO: NDR 2: Ooh Love -by- Ria Mae
+2017-02-12T02:12:57+01:00 INFO: NDR 2: Break Your Heart -by- Taio Cruz
+2017-02-12T02:15:58+01:00 INFO: NDR 2: Love On The Brain -by- Rihanna
+2017-02-12T02:19:58+01:00 INFO: NDR 2: Stressed Out -by- Twenty One Pilots
+2017-02-12T02:22:58+01:00 INFO: NDR 2: Tage Wie Diese -by- Toten Hosen
+2017-02-12T02:27:59+01:00 INFO: NDR 2: Time After Time -by- Cyndi Lauper
+2017-02-12T02:31:59+01:00 INFO: NDR 2: On Hold -by- xx
+2017-02-12T02:35:59+01:00 INFO: NDR 2: Spirits -by- Strumbellas
+2017-02-12T02:38:59+01:00 INFO: NDR 2: Shed A Light -by- Robin Schulz &amp; David Guetta
+2017-02-12T02:42:00+01:00 INFO: NDR 2: Fresh Eyes -by- Andy Grammer
+2017-02-12T02:46:00+01:00 INFO: NDR 2: Poker Face -by- Lady Gaga
+2017-02-12T02:51:00+01:00 INFO: NDR 2: Bad Ideas -by- Alle Farben
+2017-02-12T02:53:00+01:00 INFO: NDR 2: Final Song -by- M&Oslash;
+2017-02-12T02:57:01+01:00 INFO: NDR 2: Radio Ga Ga -by- Queen
+2017-02-12T03:07:01+01:00 INFO: NDR 2: Don&#39;t Be So Shy -by- Imany
+2017-02-12T03:10:01+01:00 INFO: NDR 2: Au&szlig;erhalb Der Zeit -by- Bosse
+2017-02-12T03:14:02+01:00 INFO: NDR 2: Fairytale Gone Bad -by- Sunrise Avenue
+2017-02-12T03:16:02+01:00 INFO: NDR 2: Dear Life -by- Melanie C.
+2017-02-12T03:20:02+01:00 INFO: NDR 2: Stole The Show -by- Kygo &amp; Parson James
+2017-02-12T03:23:02+01:00 INFO: NDR 2: Get Lucky -by- Daft Punk
+2017-02-12T03:27:03+01:00 INFO: NDR 2: Black Or White -by- Michael Jackson
+2017-02-12T03:31:03+01:00 INFO: NDR 2: Places -by- Martin Solveig &amp; Ina Wroldsen
+2017-02-12T03:34:03+01:00 INFO: NDR 2: If I Were Sorry -by- Frans
+2017-02-12T03:38:03+01:00 INFO: NDR 2: Love Me Now -by- John Legend
+2017-02-12T03:41:04+01:00 INFO: NDR 2: Cocoon -by- Milky Chance
+2017-02-12T03:46:04+01:00 INFO: NDR 2: Blank Space -by- Taylor Swift
+2017-02-12T03:50:04+01:00 INFO: NDR 2: What Is Love 2016 -by- Lost Frequencies
+2017-02-12T03:52:04+01:00 INFO: NDR 2: Irgendwas -by- Yvonne Catterfeld &amp; Bengio
+2017-02-12T03:56:04+01:00 INFO: NDR 2: Thinking &#39;Bout You -by- Dua Lipa
+2017-02-12T03:58:05+01:00 INFO: NDR 2: Tainted Love -by- Soft Cell

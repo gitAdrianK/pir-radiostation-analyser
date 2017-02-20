@@ -1,0 +1,372 @@
+2017-02-10T00:00:58+01:00 INFO: Antenne Niedersachsen Love: ICH KENNE NICHTS (DAS SO SCHÖN IST WIE DU) -by- RZA & XAVIER NAIDOO
+2017-02-10T00:05:59+01:00 INFO: Antenne Niedersachsen Love: YOU'RE ALL I NEED TO GET BY -by- Marvin Gaye
+2017-02-10T00:08:59+01:00 INFO: Antenne Niedersachsen Love: Das Beste -by- Silbermond
+2017-02-10T00:13:00+01:00 INFO: Antenne Niedersachsen Love: Greatest Love of All -by- Whitney Houston
+2017-02-10T00:18:00+01:00 INFO: Antenne Niedersachsen Love: Soulmate -by- Natasha Bedingfield
+2017-02-10T00:21:01+01:00 INFO: Antenne Niedersachsen Love: Right Here Waiting -by- Richard Marx
+2017-02-10T00:25:01+01:00 INFO: Antenne Niedersachsen Love: You're Not Alone -by- Mads Langer
+2017-02-10T00:28:01+01:00 INFO: Antenne Niedersachsen Love: It Must Have Been Love -by- Roxette
+2017-02-10T00:33:02+01:00 INFO: Antenne Niedersachsen Love: How Deep Is Your Love -by- Take That
+2017-02-10T00:36:02+01:00 INFO: Antenne Niedersachsen Love: Say You, Say Me -by- Lionel Richie
+2017-02-10T00:41:03+01:00 INFO: Antenne Niedersachsen Love: Eternal Flame -by- The Bangles
+2017-02-10T00:44:03+01:00 INFO: Antenne Niedersachsen Love: I Don't Want To Miss a Thing -by- Aerosmith
+2017-02-10T00:49:04+01:00 INFO: Antenne Niedersachsen Love: SHE'S LIKE THE WIND -by- PATRICK SWAYZEfeat.WENDY FRASER
+2017-02-10T00:52:04+01:00 INFO: Antenne Niedersachsen Love: A Thousand Miles -by- Vanessa Carlton
+2017-02-10T00:56:04+01:00 INFO: Antenne Niedersachsen Love: What Can I Do? -by- The Corrs
+2017-02-10T01:01:05+01:00 INFO: Antenne Niedersachsen Love: Somethin' Stupid -by- Robbie Williams & Nicole Kidman
+2017-02-10T01:03:05+01:00 INFO: Antenne Niedersachsen Love: Up Where We Belong -by- Joe Cocker & Jennifer Warnes
+2017-02-10T01:07:06+01:00 INFO: Antenne Niedersachsen Love: Your Body Is a Wonderland -by- John Mayer
+2017-02-10T01:10:06+01:00 INFO: Antenne Niedersachsen Love: Woman -by- John Lennon
+2017-02-10T01:14:07+01:00 INFO: Antenne Niedersachsen Love: Champagne Supernova -by- Oasis
+2017-02-10T01:21:08+01:00 INFO: Antenne Niedersachsen Love: I Just Called to Say I Love You -by- Stevie Wonder
+2017-02-10T01:26:08+01:00 INFO: Antenne Niedersachsen Love: There You'll Be -by- Faith Hill
+2017-02-10T01:29:09+01:00 INFO: Antenne Niedersachsen Love: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T01:33:09+01:00 INFO: Antenne Niedersachsen Love: All of Me -by- John Legend
+2017-02-10T01:36:09+01:00 INFO: Antenne Niedersachsen Love: Hello -by- Lionel Richie
+2017-02-10T01:40:10+01:00 INFO: Antenne Niedersachsen Love: To Be With You -by- Mr. Big
+2017-02-10T01:43:10+01:00 INFO: Antenne Niedersachsen Love: Ultraleicht -by- Andreas Bourani
+2017-02-10T01:47:10+01:00 INFO: Antenne Niedersachsen Love: More Than Words -by- Extreme
+2017-02-10T01:50:11+01:00 INFO: Antenne Niedersachsen Love: California King Bed -by- Rihanna
+2017-02-10T01:55:11+01:00 INFO: Antenne Niedersachsen Love: Wie schön du bist -by- Sarah Connor
+2017-02-10T01:58:12+01:00 INFO: Antenne Niedersachsen Love: Bed of Roses -by- Bon Jovi
+2017-02-10T02:02:12+01:00 INFO: Antenne Niedersachsen Love: Thank You -by- Dido
+2017-02-10T02:06:12+01:00 INFO: Antenne Niedersachsen Love: I Will Always Love You -by- Whitney Houston
+2017-02-10T02:10:13+01:00 INFO: Antenne Niedersachsen Love: You're Still the One -by- Shania Twain
+2017-02-10T02:13:13+01:00 INFO: Antenne Niedersachsen Love: ALL FOR LOVE -by- BRYAN ADAMS & R. STEWART & STING
+2017-02-10T02:18:14+01:00 INFO: Antenne Niedersachsen Love: Make You Feel My Love -by- Adele
+2017-02-10T02:21:14+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Céline Dion
+2017-02-10T02:26:15+01:00 INFO: Antenne Niedersachsen Love: Wonderwall -by- Oasis
+2017-02-10T02:30:15+01:00 INFO: Antenne Niedersachsen Love: (I've Had) The Time of My Life -by- Bill Medley & Jennifer Warnes
+2017-02-10T02:33:16+01:00 INFO: Antenne Niedersachsen Love: Kiss Me -by- Sixpence None the Richer
+2017-02-10T02:36:17+01:00 INFO: Antenne Niedersachsen Love: Hungry Eyes -by- Eric Carmen
+2017-02-10T02:40:18+01:00 INFO: Antenne Niedersachsen Love: Jessie -by- Joshua Kadison
+2017-02-10T02:44:19+01:00 INFO: Antenne Niedersachsen Love: CAN'T WAIT UNTILL TONIGHT -by- MAX
+2017-02-10T02:48:19+01:00 INFO: Antenne Niedersachsen Love: Stuck On You -by- Lionel Richie
+2017-02-10T02:51:20+01:00 INFO: Antenne Niedersachsen Love: ICH KENNE NICHTS (DAS SO SCHÖN IST WIE DU) -by- RZA & XAVIER NAIDOO
+2017-02-10T02:56:20+01:00 INFO: Antenne Niedersachsen Love: You're Beautiful -by- James Blunt
+2017-02-10T03:00:21+01:00 INFO: Antenne Niedersachsen Love: Kayleigh -by- Marillion
+2017-02-10T03:03:21+01:00 INFO: Antenne Niedersachsen Love: Lieblingsmensch -by- Namika
+2017-02-10T03:06:21+01:00 INFO: Antenne Niedersachsen Love: Stuck With You -by- Huey Lewis & The News
+2017-02-10T03:10:22+01:00 INFO: Antenne Niedersachsen Love: Life -by- Des'ree
+2017-02-10T03:13:22+01:00 INFO: Antenne Niedersachsen Love: You -by- Ten Sharp
+2017-02-10T03:18:22+01:00 INFO: Antenne Niedersachsen Love: Underneath Your Clothes -by- Shakira
+2017-02-10T03:21:23+01:00 INFO: Antenne Niedersachsen Love: Caravan of Love -by- The Housemartins
+2017-02-10T03:25:23+01:00 INFO: Antenne Niedersachsen Love: Love's Divine -by- Seal
+2017-02-10T03:29:24+01:00 INFO: Antenne Niedersachsen Love: Get Here -by- Oleta Adams
+2017-02-10T03:34:24+01:00 INFO: Antenne Niedersachsen Love: Somewhere Only We Know -by- Keane
+2017-02-10T03:38:24+01:00 INFO: Antenne Niedersachsen Love: I Swear -by- All-4-One
+2017-02-10T03:42:25+01:00 INFO: Antenne Niedersachsen Love: I'll Make Love to You -by- Boyz II Men
+2017-02-10T03:46:25+01:00 INFO: Antenne Niedersachsen Love: (I Wish I Knew How It Would Feel to Be) Free / One -by- Lighthouse Family
+2017-02-10T03:50:26+01:00 INFO: Antenne Niedersachsen Love: My Baby Just Cares for Me -by- Nina Simone
+2017-02-10T03:53:26+01:00 INFO: Antenne Niedersachsen Love: Das Beste -by- Silbermond
+2017-02-10T03:58:27+01:00 INFO: Antenne Niedersachsen Love: Und wenn ein Lied -by- Söhne Mannheims
+2017-02-10T04:02:27+01:00 INFO: Antenne Niedersachsen Love: Call You Home -by- Kelvin Jones
+2017-02-10T04:05:28+01:00 INFO: Antenne Niedersachsen Love: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T04:08:28+01:00 INFO: Antenne Niedersachsen Love: When You Say Nothing At All -by- Ronan Keating
+2017-02-10T04:12:28+01:00 INFO: Antenne Niedersachsen Love: Somebody To Love -by- Queen
+2017-02-10T04:16:29+01:00 INFO: Antenne Niedersachsen Love: My Heart Will Go On (Love Theme from \"Titanic\") -by- Céline Dion
+2017-02-10T04:20:29+01:00 INFO: Antenne Niedersachsen Love: That's the Way Love Goes -by- Janet Jackson
+2017-02-10T04:25:30+01:00 INFO: Antenne Niedersachsen Love: Truly Madly Deeply -by- Savage Garden
+2017-02-10T04:29:30+01:00 INFO: Antenne Niedersachsen Love: The Sweetest Taboo -by- Sade
+2017-02-10T04:33:31+01:00 INFO: Antenne Niedersachsen Love: If You Believe -by- Sasha
+2017-02-10T04:37:31+01:00 INFO: Antenne Niedersachsen Love: Can You Feel the Love Tonight -by- Elton John
+2017-02-10T04:41:32+01:00 INFO: Antenne Niedersachsen Love: You Are So Beautiful -by- Joe Cocker
+2017-02-10T04:44:32+01:00 INFO: Antenne Niedersachsen Love: A-N-N-A -by- Freundeskreis
+2017-02-10T04:50:33+01:00 INFO: Antenne Niedersachsen Love: Every Breath You Take -by- The Police
+2017-02-10T04:53:33+01:00 INFO: Antenne Niedersachsen Love: KILLING ME SOFTY -by- Fugees
+2017-02-10T04:58:36+01:00 INFO: Antenne Niedersachsen Love: Read All About It, Pt. 3 -by- Emeli Sandé
+2017-02-10T05:03:38+01:00 INFO: Antenne Niedersachsen Love: I'm Yours -by- Jason Mraz
+2017-02-10T05:07:38+01:00 INFO: Antenne Niedersachsen Love: Kiss from a Rose -by- Seal
+2017-02-10T05:10:38+01:00 INFO: Antenne Niedersachsen Love: She's the One -by- Robbie Williams
+2017-02-10T05:14:39+01:00 INFO: Antenne Niedersachsen Love: You Gotta Be -by- Des'ree
+2017-02-10T05:18:39+01:00 INFO: Antenne Niedersachsen Love: Wenn Worte meine Sprache wären -by- Tim Bendzko
+2017-02-10T05:21:39+01:00 INFO: Antenne Niedersachsen Love: Lean On Me -by- Bill Withers
+2017-02-10T05:26:40+01:00 INFO: Antenne Niedersachsen Love: Wonderwall -by- Oasis
+2017-02-10T05:30:40+01:00 INFO: Antenne Niedersachsen Love: You Are the Sunshine of My Life -by- Stevie Wonder
+2017-02-10T05:33:41+01:00 INFO: Antenne Niedersachsen Love: You and Me (In My Pocket) -by- Milow
+2017-02-10T05:36:41+01:00 INFO: Antenne Niedersachsen Love: Is It a Crime -by- Sade
+2017-02-10T05:42:41+01:00 INFO: Antenne Niedersachsen Love: Für immer und dich -by- Rio Reiser
+2017-02-10T05:48:43+01:00 INFO: Antenne Niedersachsen Love: Come Away With Me -by- Norah Jones
+2017-02-10T05:51:43+01:00 INFO: Antenne Niedersachsen Love: YOU'RE ALL I NEED TO GET BY -by- Marvin Gaye
+2017-02-10T05:54:43+01:00 INFO: Antenne Niedersachsen Love: Never Ever -by- All Saints
+2017-02-10T05:58:44+01:00 INFO: Antenne Niedersachsen Love: She's Got That Light -by- Orange Blue
+2017-02-10T06:00:44+01:00 INFO: Antenne Niedersachsen Love: How Deep Is Your Love -by- Take That
+2017-02-10T06:03:45+01:00 INFO: Antenne Niedersachsen Love: Say You, Say Me -by- Lionel Richie
+2017-02-10T06:08:45+01:00 INFO: Antenne Niedersachsen Love: We've Got Tonight -by- Ronan Keating & Jeanette
+2017-02-10T06:12:46+01:00 INFO: Antenne Niedersachsen Love: Eternal Flame -by- The Bangles
+2017-02-10T06:15:46+01:00 INFO: Antenne Niedersachsen Love: I Don't Want To Miss a Thing -by- Aerosmith
+2017-02-10T06:19:47+01:00 INFO: Antenne Niedersachsen Love: SHE'S LIKE THE WIND -by- PATRICK SWAYZEfeat.WENDY FRASER
+2017-02-10T06:23:47+01:00 INFO: Antenne Niedersachsen Love: Bilder von dir -by- Laith Al-Deen
+2017-02-10T06:27:48+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Frankie Goes to Hollywood
+2017-02-10T06:33:48+01:00 INFO: Antenne Niedersachsen Love: If a Song Could Get Me You -by- Marit Larsen
+2017-02-10T06:36:49+01:00 INFO: Antenne Niedersachsen Love: Up Where We Belong -by- Joe Cocker & Jennifer Warnes
+2017-02-10T06:39:49+01:00 INFO: Antenne Niedersachsen Love: Woman -by- John Lennon
+2017-02-10T06:43:52+01:00 INFO: Antenne Niedersachsen Love: Lovefool -by- The Cardigans
+2017-02-10T06:46:53+01:00 INFO: Antenne Niedersachsen Love: I Just Called to Say I Love You -by- Stevie Wonder
+2017-02-10T06:50:54+01:00 INFO: Antenne Niedersachsen Love: True Colors ed) -by- Phil Collins
+2017-02-10T06:54:54+01:00 INFO: Antenne Niedersachsen Love: Wasn't Expecting That -by- Jamie Lawson
+2017-02-10T06:57:56+01:00 INFO: Antenne Niedersachsen Love: MERCY MERCY ME -by- Marvin Gaye
+2017-02-10T07:01:57+01:00 INFO: Antenne Niedersachsen Love: All Out of Love -by- Andru Donalds
+2017-02-10T07:05:57+01:00 INFO: Antenne Niedersachsen Love: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T07:08:57+01:00 INFO: Antenne Niedersachsen Love: A Thousand Miles -by- Vanessa Carlton
+2017-02-10T07:12:58+01:00 INFO: Antenne Niedersachsen Love: Hello -by- Lionel Richie
+2017-02-10T07:16:58+01:00 INFO: Antenne Niedersachsen Love: Champagne Supernova -by- Oasis
+2017-02-10T07:23:59+01:00 INFO: Antenne Niedersachsen Love: Bed of Roses -by- Bon Jovi
+2017-02-10T07:28:59+01:00 INFO: Antenne Niedersachsen Love: Wie schön du bist -by- Sarah Connor
+2017-02-10T07:32:00+01:00 INFO: Antenne Niedersachsen Love: Love Is All Around -by- Wet Wet Wet
+2017-02-10T07:34:00+01:00 INFO: Antenne Niedersachsen Love: Lieblingsmensch -by- Namika
+2017-02-10T07:38:00+01:00 INFO: Antenne Niedersachsen Love: I Will Always Love You -by- Whitney Houston
+2017-02-10T07:41:01+01:00 INFO: Antenne Niedersachsen Love: ALL FOR LOVE -by- BRYAN ADAMS & R. STEWART & STING
+2017-02-10T07:46:01+01:00 INFO: Antenne Niedersachsen Love: My Heart Will Go On (Love Theme from \"Titanic\") -by- Céline Dion
+2017-02-10T07:49:02+01:00 INFO: Antenne Niedersachsen Love: Kiss from a Rose -by- Seal
+2017-02-10T07:53:02+01:00 INFO: Antenne Niedersachsen Love: Kiss Me -by- Sixpence None the Richer
+2017-02-10T07:56:02+01:00 INFO: Antenne Niedersachsen Love: Life -by- Des'ree
+2017-02-10T07:59:03+01:00 INFO: Antenne Niedersachsen Love: True Colors -by- Cyndi Lauper
+2017-02-10T08:03:03+01:00 INFO: Antenne Niedersachsen Love: Your Song -by- Ellie Goulding
+2017-02-10T08:06:03+01:00 INFO: Antenne Niedersachsen Love: Can You Feel the Love Tonight -by- Elton John
+2017-02-10T08:10:04+01:00 INFO: Antenne Niedersachsen Love: All of Me -by- John Legend
+2017-02-10T08:13:04+01:00 INFO: Antenne Niedersachsen Love: Jessie -by- Joshua Kadison
+2017-02-10T08:18:05+01:00 INFO: Antenne Niedersachsen Love: Ultraleicht -by- Andreas Bourani
+2017-02-10T08:21:05+01:00 INFO: Antenne Niedersachsen Love: Stuck On You -by- Lionel Richie
+2017-02-10T08:25:06+01:00 INFO: Antenne Niedersachsen Love: California King Bed -by- Rihanna
+2017-02-10T08:29:06+01:00 INFO: Antenne Niedersachsen Love: Kayleigh -by- Marillion
+2017-02-10T08:33:07+01:00 INFO: Antenne Niedersachsen Love: Call You Home -by- Kelvin Jones
+2017-02-10T08:35:07+01:00 INFO: Antenne Niedersachsen Love: Purple Rain -by- Prince & The Revolution
+2017-02-10T08:39:08+01:00 INFO: Antenne Niedersachsen Love: SONG FOR WHOEVER (EDIT) -by- The Beautiful South
+2017-02-10T08:43:08+01:00 INFO: Antenne Niedersachsen Love: Truly Madly Deeply -by- Savage Garden
+2017-02-10T08:47:09+01:00 INFO: Antenne Niedersachsen Love: Stuck With You -by- Huey Lewis & The News
+2017-02-10T08:51:09+01:00 INFO: Antenne Niedersachsen Love: If You Believe -by- Sasha
+2017-02-10T08:55:10+01:00 INFO: Antenne Niedersachsen Love: A-N-N-A -by- Freundeskreis
+2017-02-10T09:01:10+01:00 INFO: Antenne Niedersachsen Love: What Can I Do? -by- The Corrs
+2017-02-10T09:05:11+01:00 INFO: Antenne Niedersachsen Love: Caravan of Love -by- The Housemartins
+2017-02-10T09:08:11+01:00 INFO: Antenne Niedersachsen Love: Your Body Is a Wonderland -by- John Mayer
+2017-02-10T09:12:12+01:00 INFO: Antenne Niedersachsen Love: Get Here -by- Oleta Adams
+2017-02-10T09:17:12+01:00 INFO: Antenne Niedersachsen Love: You're Still the One -by- Shania Twain
+2017-02-10T09:20:12+01:00 INFO: Antenne Niedersachsen Love: I Swear -by- All-4-One
+2017-02-10T09:25:13+01:00 INFO: Antenne Niedersachsen Love: Make You Feel My Love -by- Adele
+2017-02-10T09:28:13+01:00 INFO: Antenne Niedersachsen Love: I'll Make Love to You -by- Boyz II Men
+2017-02-10T09:32:14+01:00 INFO: Antenne Niedersachsen Love: How Long Will I Love You -by- Ellie Goulding
+2017-02-10T09:34:16+01:00 INFO: Antenne Niedersachsen Love: My Baby Just Cares for Me -by- Nina Simone
+2017-02-10T09:38:18+01:00 INFO: Antenne Niedersachsen Love: Nothing's Gonna Change My Love for You -by- Glenn Medeiros
+2017-02-10T09:42:18+01:00 INFO: Antenne Niedersachsen Love: There You'll Be -by- Faith Hill
+2017-02-10T09:46:19+01:00 INFO: Antenne Niedersachsen Love: Secret -by- Madonna
+2017-02-10T09:50:20+01:00 INFO: Antenne Niedersachsen Love: When You Say Nothing At All -by- Ronan Keating
+2017-02-10T09:53:20+01:00 INFO: Antenne Niedersachsen Love: Soulmate -by- Natasha Bedingfield
+2017-02-10T09:56:20+01:00 INFO: Antenne Niedersachsen Love: SENZA UNA DONNA (WITHOUT A WOMAN) -by- ZUCCHERO & PAUL YOUNG
+2017-02-10T10:01:21+01:00 INFO: Antenne Niedersachsen Love: CAN'T WAIT UNTILL TONIGHT -by- MAX
+2017-02-10T10:03:21+01:00 INFO: Antenne Niedersachsen Love: The Sweetest Taboo -by- Sade
+2017-02-10T10:08:22+01:00 INFO: Antenne Niedersachsen Love: Somewhere Only We Know -by- Keane
+2017-02-10T10:12:22+01:00 INFO: Antenne Niedersachsen Love: Every Breath You Take -by- The Police
+2017-02-10T10:15:23+01:00 INFO: Antenne Niedersachsen Love: (I Wish I Knew How It Would Feel to Be) Free / One -by- Lighthouse Family
+2017-02-10T10:19:23+01:00 INFO: Antenne Niedersachsen Love: Heaven -by- Bryan Adams
+2017-02-10T10:23:24+01:00 INFO: Antenne Niedersachsen Love: ICH KENNE NICHTS (DAS SO SCHÖN IST WIE DU) -by- RZA & XAVIER NAIDOO
+2017-02-10T10:29:24+01:00 INFO: Antenne Niedersachsen Love: You Are So Beautiful -by- Joe Cocker
+2017-02-10T10:32:25+01:00 INFO: Antenne Niedersachsen Love: You're Beautiful -by- James Blunt
+2017-02-10T10:35:25+01:00 INFO: Antenne Niedersachsen Love: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-10T10:38:25+01:00 INFO: Antenne Niedersachsen Love: Lean On Me -by- Bill Withers
+2017-02-10T10:42:28+01:00 INFO: Antenne Niedersachsen Love: Das Beste -by- Silbermond
+2017-02-10T10:47:28+01:00 INFO: Antenne Niedersachsen Love: Your Song -by- Elton John
+2017-02-10T10:51:29+01:00 INFO: Antenne Niedersachsen Love: If a Song Could Get Me You -by- Marit Larsen
+2017-02-10T10:54:29+01:00 INFO: Antenne Niedersachsen Love: She's the One -by- Robbie Williams
+2017-02-10T10:58:31+01:00 INFO: Antenne Niedersachsen Love: Take a Bow -by- Madonna
+2017-02-10T11:03:31+01:00 INFO: Antenne Niedersachsen Love: Love's Divine -by- Seal
+2017-02-10T11:07:32+01:00 INFO: Antenne Niedersachsen Love: YOU'RE ALL I NEED TO GET BY -by- Marvin Gaye
+2017-02-10T11:10:33+01:00 INFO: Antenne Niedersachsen Love: As Long As You Love Me -by- Backstreet Boys
+2017-02-10T11:13:33+01:00 INFO: Antenne Niedersachsen Love: Is It a Crime -by- Sade
+2017-02-10T11:20:34+01:00 INFO: Antenne Niedersachsen Love: All Out of Love -by- Andru Donalds
+2017-02-10T11:23:34+01:00 INFO: Antenne Niedersachsen Love: Greatest Love of All -by- Whitney Houston
+2017-02-10T11:29:35+01:00 INFO: Antenne Niedersachsen Love: How Deep Is Your Love -by- Take That
+2017-02-10T11:32:35+01:00 INFO: Antenne Niedersachsen Love: Right Here Waiting -by- Richard Marx
+2017-02-10T11:36:36+01:00 INFO: Antenne Niedersachsen Love: Und wenn ein Lied -by- Söhne Mannheims
+2017-02-10T11:41:36+01:00 INFO: Antenne Niedersachsen Love: It Must Have Been Love -by- Roxette
+2017-02-10T11:45:37+01:00 INFO: Antenne Niedersachsen Love: Say You, Say Me -by- Lionel Richie
+2017-02-10T11:49:38+01:00 INFO: Antenne Niedersachsen Love: We've Got Tonight -by- Ronan Keating & Jeanette
+2017-02-10T11:53:38+01:00 INFO: Antenne Niedersachsen Love: Eternal Flame -by- The Bangles
+2017-02-10T11:56:39+01:00 INFO: Antenne Niedersachsen Love: I Don't Want To Miss a Thing -by- Aerosmith
+2017-02-10T12:01:41+01:00 INFO: Antenne Niedersachsen Love: Read All About It, Pt. 3 -by- Emeli Sandé
+2017-02-10T12:05:42+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Frankie Goes to Hollywood
+2017-02-10T12:10:43+01:00 INFO: Antenne Niedersachsen Love: I'm Yours -by- Jason Mraz
+2017-02-10T12:14:43+01:00 INFO: Antenne Niedersachsen Love: Up Where We Belong -by- Joe Cocker & Jennifer Warnes
+2017-02-10T12:18:46+01:00 INFO: Antenne Niedersachsen Love: Lovefool -by- The Cardigans
+2017-02-10T12:21:46+01:00 INFO: Antenne Niedersachsen Love: Woman -by- John Lennon
+2017-02-10T12:24:47+01:00 INFO: Antenne Niedersachsen Love: Come Away With Me -by- Norah Jones
+2017-02-10T12:28:47+01:00 INFO: Antenne Niedersachsen Love: I Just Called to Say I Love You -by- Stevie Wonder
+2017-02-10T12:32:48+01:00 INFO: Antenne Niedersachsen Love: Never Ever -by- All Saints
+2017-02-10T12:36:48+01:00 INFO: Antenne Niedersachsen Love: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T12:40:49+01:00 INFO: Antenne Niedersachsen Love: To Be With You -by- Mr. Big
+2017-02-10T12:43:50+01:00 INFO: Antenne Niedersachsen Love: Somethin' Stupid -by- Robbie Williams & Nicole Kidman
+2017-02-10T12:46:50+01:00 INFO: Antenne Niedersachsen Love: More Than Words -by- Extreme
+2017-02-10T12:49:50+01:00 INFO: Antenne Niedersachsen Love: How Long Will I Love You -by- Ellie Goulding
+2017-02-10T12:52:51+01:00 INFO: Antenne Niedersachsen Love: There You'll Be -by- Faith Hill
+2017-02-10T12:55:51+01:00 INFO: Antenne Niedersachsen Love: Hello -by- Lionel Richie
+2017-02-10T13:00:52+01:00 INFO: Antenne Niedersachsen Love: Wonderwall -by- Oasis
+2017-02-10T13:04:53+01:00 INFO: Antenne Niedersachsen Love: I Will Always Love You -by- Whitney Houston
+2017-02-10T13:08:53+01:00 INFO: Antenne Niedersachsen Love: You and Me (In My Pocket) -by- Milow
+2017-02-10T13:11:53+01:00 INFO: Antenne Niedersachsen Love: ALL FOR LOVE -by- BRYAN ADAMS & R. STEWART & STING
+2017-02-10T13:16:54+01:00 INFO: Antenne Niedersachsen Love: Thank You -by- Dido
+2017-02-10T13:19:54+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Céline Dion
+2017-02-10T13:24:55+01:00 INFO: Antenne Niedersachsen Love: What Can I Do? -by- The Corrs
+2017-02-10T13:28:55+01:00 INFO: Antenne Niedersachsen Love: Kiss from a Rose -by- Seal
+2017-02-10T13:32:56+01:00 INFO: Antenne Niedersachsen Love: Make You Feel My Love -by- Adele
+2017-02-10T13:35:57+01:00 INFO: Antenne Niedersachsen Love: Can You Feel the Love Tonight -by- Elton John
+2017-02-10T13:39:58+01:00 INFO: Antenne Niedersachsen Love: (I've Had) The Time of My Life -by- Bill Medley & Jennifer Warnes
+2017-02-10T13:42:58+01:00 INFO: Antenne Niedersachsen Love: Ultraleicht -by- Andreas Bourani
+2017-02-10T13:46:59+01:00 INFO: Antenne Niedersachsen Love: You Gotta Be -by- Des'ree
+2017-02-10T13:50:59+01:00 INFO: Antenne Niedersachsen Love: Your Song -by- Ellie Goulding
+2017-02-10T13:54:00+01:00 INFO: Antenne Niedersachsen Love: Wie schön du bist -by- Sarah Connor
+2017-02-10T13:57:00+01:00 INFO: Antenne Niedersachsen Love: Stuck On You -by- Lionel Richie
+2017-02-10T14:01:01+01:00 INFO: Antenne Niedersachsen Love: Wasn't Expecting That -by- Jamie Lawson
+2017-02-10T14:04:01+01:00 INFO: Antenne Niedersachsen Love: Kayleigh -by- Marillion
+2017-02-10T14:08:02+01:00 INFO: Antenne Niedersachsen Love: Wenn Worte meine Sprache wären -by- Tim Bendzko
+2017-02-10T14:11:02+01:00 INFO: Antenne Niedersachsen Love: Purple Rain -by- Prince & The Revolution
+2017-02-10T14:15:02+01:00 INFO: Antenne Niedersachsen Love: She's Got That Light -by- Orange Blue
+2017-02-10T14:18:03+01:00 INFO: Antenne Niedersachsen Love: SONG FOR WHOEVER (EDIT) -by- The Beautiful South
+2017-02-10T14:22:03+01:00 INFO: Antenne Niedersachsen Love: Your Body Is a Wonderland -by- John Mayer
+2017-02-10T14:26:04+01:00 INFO: Antenne Niedersachsen Love: Stuck With You -by- Huey Lewis & The News
+2017-02-10T14:29:05+01:00 INFO: Antenne Niedersachsen Love: You're Still the One -by- Shania Twain
+2017-02-10T14:32:06+01:00 INFO: Antenne Niedersachsen Love: You -by- Ten Sharp
+2017-02-10T14:37:06+01:00 INFO: Antenne Niedersachsen Love: Caravan of Love -by- The Housemartins
+2017-02-10T14:40:07+01:00 INFO: Antenne Niedersachsen Love: Champagne Supernova -by- Oasis
+2017-02-10T14:47:09+01:00 INFO: Antenne Niedersachsen Love: Get Here -by- Oleta Adams
+2017-02-10T14:52:09+01:00 INFO: Antenne Niedersachsen Love: My Heart Will Go On (Love Theme from \"Titanic\") -by- Céline Dion
+2017-02-10T14:55:10+01:00 INFO: Antenne Niedersachsen Love: If You Believe -by- Sasha
+2017-02-10T14:59:10+01:00 INFO: Antenne Niedersachsen Love: I Swear -by- All-4-One
+2017-02-10T15:03:10+01:00 INFO: Antenne Niedersachsen Love: California King Bed -by- Rihanna
+2017-02-10T15:07:12+01:00 INFO: Antenne Niedersachsen Love: Nothing's Gonna Change My Love for You -by- Glenn Medeiros
+2017-02-10T15:11:12+01:00 INFO: Antenne Niedersachsen Love: Lieblingsmensch -by- Namika
+2017-02-10T15:14:13+01:00 INFO: Antenne Niedersachsen Love: Secret -by- Madonna
+2017-02-10T15:19:13+01:00 INFO: Antenne Niedersachsen Love: When You Say Nothing At All -by- Ronan Keating
+2017-02-10T15:22:13+01:00 INFO: Antenne Niedersachsen Love: SENZA UNA DONNA (WITHOUT A WOMAN) -by- ZUCCHERO & PAUL YOUNG
+2017-02-10T15:27:14+01:00 INFO: Antenne Niedersachsen Love: A-N-N-A -by- Freundeskreis
+2017-02-10T15:32:15+01:00 INFO: Antenne Niedersachsen Love: Somebody To Love -by- Queen
+2017-02-10T15:37:16+01:00 INFO: Antenne Niedersachsen Love: Kiss Me -by- Sixpence None the Richer
+2017-02-10T15:40:16+01:00 INFO: Antenne Niedersachsen Love: That's the Way Love Goes -by- Janet Jackson
+2017-02-10T15:45:17+01:00 INFO: Antenne Niedersachsen Love: The Sweetest Taboo -by- Sade
+2017-02-10T15:49:17+01:00 INFO: Antenne Niedersachsen Love: Life -by- Des'ree
+2017-02-10T15:52:17+01:00 INFO: Antenne Niedersachsen Love: Every Breath You Take -by- The Police
+2017-02-10T15:56:18+01:00 INFO: Antenne Niedersachsen Love: CAN'T WAIT UNTILL TONIGHT -by- MAX
+2017-02-10T15:59:18+01:00 INFO: Antenne Niedersachsen Love: Und wenn ein Lied -by- Söhne Mannheims
+2017-02-10T16:03:20+01:00 INFO: Antenne Niedersachsen Love: Truly Madly Deeply -by- Savage Garden
+2017-02-10T16:08:21+01:00 INFO: Antenne Niedersachsen Love: Lean On Me -by- Bill Withers
+2017-02-10T16:12:21+01:00 INFO: Antenne Niedersachsen Love: Underneath Your Clothes -by- Shakira
+2017-02-10T16:16:22+01:00 INFO: Antenne Niedersachsen Love: Your Song -by- Elton John
+2017-02-10T16:20:22+01:00 INFO: Antenne Niedersachsen Love: (I Wish I Knew How It Would Feel to Be) Free / One -by- Lighthouse Family
+2017-02-10T16:24:23+01:00 INFO: Antenne Niedersachsen Love: Take a Bow -by- Madonna
+2017-02-10T16:28:23+01:00 INFO: Antenne Niedersachsen Love: How Deep Is Your Love -by- Take That
+2017-02-10T16:32:24+01:00 INFO: Antenne Niedersachsen Love: You Are the Sunshine of My Life -by- Stevie Wonder
+2017-02-10T16:35:25+01:00 INFO: Antenne Niedersachsen Love: I'm Yours -by- Jason Mraz
+2017-02-10T16:39:25+01:00 INFO: Antenne Niedersachsen Love: Für immer und dich -by- Rio Reiser
+2017-02-10T16:44:26+01:00 INFO: Antenne Niedersachsen Love: YOU'RE ALL I NEED TO GET BY -by- Marvin Gaye
+2017-02-10T16:47:26+01:00 INFO: Antenne Niedersachsen Love: We've Got Tonight -by- Ronan Keating & Jeanette
+2017-02-10T16:51:27+01:00 INFO: Antenne Niedersachsen Love: Is It a Crime -by- Sade
+2017-02-10T16:57:28+01:00 INFO: Antenne Niedersachsen Love: I Don't Want To Miss a Thing -by- Aerosmith
+2017-02-10T17:02:29+01:00 INFO: Antenne Niedersachsen Love: Love's Divine -by- Seal
+2017-02-10T17:06:29+01:00 INFO: Antenne Niedersachsen Love: Say You, Say Me -by- Lionel Richie
+2017-02-10T17:10:31+01:00 INFO: Antenne Niedersachsen Love: Soulmate -by- Natasha Bedingfield
+2017-02-10T17:13:32+01:00 INFO: Antenne Niedersachsen Love: Eternal Flame -by- The Bangles
+2017-02-10T17:17:32+01:00 INFO: Antenne Niedersachsen Love: You're Not Alone -by- Mads Langer
+2017-02-10T17:20:33+01:00 INFO: Antenne Niedersachsen Love: SHE'S LIKE THE WIND -by- PATRICK SWAYZEfeat.WENDY FRASER
+2017-02-10T17:24:33+01:00 INFO: Antenne Niedersachsen Love: Read All About It, Pt. 3 -by- Emeli Sandé
+2017-02-10T17:28:35+01:00 INFO: Antenne Niedersachsen Love: True Colors -by- Cyndi Lauper
+2017-02-10T17:32:35+01:00 INFO: Antenne Niedersachsen Love: As Long As You Love Me -by- Backstreet Boys
+2017-02-10T17:36:36+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Frankie Goes to Hollywood
+2017-02-10T17:42:36+01:00 INFO: Antenne Niedersachsen Love: Up Where We Belong -by- Joe Cocker & Jennifer Warnes
+2017-02-10T17:45:37+01:00 INFO: Antenne Niedersachsen Love: A Thousand Miles -by- Vanessa Carlton
+2017-02-10T17:49:38+01:00 INFO: Antenne Niedersachsen Love: MERCY MERCY ME -by- Marvin Gaye
+2017-02-10T17:52:39+01:00 INFO: Antenne Niedersachsen Love: Bilder von dir -by- Laith Al-Deen
+2017-02-10T17:55:40+01:00 INFO: Antenne Niedersachsen Love: If a Song Could Get Me You -by- Marit Larsen
+2017-02-10T17:58:42+01:00 INFO: Antenne Niedersachsen Love: Woman -by- John Lennon
+2017-02-10T18:00:42+01:00 INFO: Antenne Niedersachsen Love: You're Beautiful -by- James Blunt
+2017-02-10T18:03:42+01:00 INFO: Antenne Niedersachsen Love: To Be With You -by- Mr. Big
+2017-02-10T18:06:43+01:00 INFO: Antenne Niedersachsen Love: Das Beste -by- Silbermond
+2017-02-10T18:11:43+01:00 INFO: Antenne Niedersachsen Love: Hello -by- Lionel Richie
+2017-02-10T18:15:44+01:00 INFO: Antenne Niedersachsen Love: All Out of Love -by- Andru Donalds
+2017-02-10T18:19:45+01:00 INFO: Antenne Niedersachsen Love: More Than Words -by- Extreme
+2017-02-10T18:23:46+01:00 INFO: Antenne Niedersachsen Love: She's Got That Light -by- Orange Blue
+2017-02-10T18:27:47+01:00 INFO: Antenne Niedersachsen Love: Bed of Roses -by- Bon Jovi
+2017-02-10T18:31:47+01:00 INFO: Antenne Niedersachsen Love: What Can I Do? -by- The Corrs
+2017-02-10T18:34:48+01:00 INFO: Antenne Niedersachsen Love: Love Is All Around -by- Wet Wet Wet
+2017-02-10T18:37:48+01:00 INFO: Antenne Niedersachsen Love: I Will Always Love You -by- Whitney Houston
+2017-02-10T18:40:49+01:00 INFO: Antenne Niedersachsen Love: Your Body Is a Wonderland -by- John Mayer
+2017-02-10T18:44:50+01:00 INFO: Antenne Niedersachsen Love: ALL FOR LOVE -by- BRYAN ADAMS & R. STEWART & STING
+2017-02-10T18:49:50+01:00 INFO: Antenne Niedersachsen Love: You're Still the One -by- Shania Twain
+2017-02-10T18:52:51+01:00 INFO: Antenne Niedersachsen Love: How Long Will I Love You -by- Ellie Goulding
+2017-02-10T18:55:51+01:00 INFO: Antenne Niedersachsen Love: Your Song -by- Elton John
+2017-02-10T18:59:52+01:00 INFO: Antenne Niedersachsen Love: The Power of Love -by- Céline Dion
+2017-02-10T19:03:53+01:00 INFO: Antenne Niedersachsen Love: True Colors ed) -by- Phil Collins
+2017-02-10T19:07:53+01:00 INFO: Antenne Niedersachsen Love: Kiss from a Rose -by- Seal
+2017-02-10T19:11:54+01:00 INFO: Antenne Niedersachsen Love: Wasn't Expecting That -by- Jamie Lawson
+2017-02-10T19:14:54+01:00 INFO: Antenne Niedersachsen Love: You Gotta Be -by- Des'ree
+2017-02-10T19:18:55+01:00 INFO: Antenne Niedersachsen Love: Wenn Worte meine Sprache wären -by- Tim Bendzko
+2017-02-10T19:21:55+01:00 INFO: Antenne Niedersachsen Love: Stuck On You -by- Lionel Richie
+2017-02-10T19:24:55+01:00 INFO: Antenne Niedersachsen Love: You and Me (In My Pocket) -by- Milow
+2017-02-10T19:28:56+01:00 INFO: Antenne Niedersachsen Love: Hungry Eyes -by- Eric Carmen
+2017-02-10T19:32:56+01:00 INFO: Antenne Niedersachsen Love: Come Away With Me -by- Norah Jones
+2017-02-10T19:35:57+01:00 INFO: Antenne Niedersachsen Love: Jessie -by- Joshua Kadison
+2017-02-10T19:39:58+01:00 INFO: Antenne Niedersachsen Love: Kayleigh -by- Marillion
+2017-02-10T19:43:59+01:00 INFO: Antenne Niedersachsen Love: Never Ever -by- All Saints
+2017-02-10T19:47:59+01:00 INFO: Antenne Niedersachsen Love: Purple Rain -by- Prince & The Revolution
+2017-02-10T19:52:00+01:00 INFO: Antenne Niedersachsen Love: Thank You -by- Dido
+2017-02-10T19:55:01+01:00 INFO: Antenne Niedersachsen Love: Champagne Supernova -by- Oasis
+2017-02-10T20:03:02+01:00 INFO: Antenne Niedersachsen Love: Make You Feel My Love -by- Adele
+2017-02-10T20:06:02+01:00 INFO: Antenne Niedersachsen Love: Caravan of Love -by- The Housemartins
+2017-02-10T20:10:03+01:00 INFO: Antenne Niedersachsen Love: Call You Home -by- Kelvin Jones
+2017-02-10T20:13:03+01:00 INFO: Antenne Niedersachsen Love: Get Here -by- Oleta Adams
+2017-02-10T20:18:04+01:00 INFO: Antenne Niedersachsen Love: Lieblingsmensch -by- Namika
+2017-02-10T20:21:05+01:00 INFO: Antenne Niedersachsen Love: I Swear -by- All-4-One
+2017-02-10T20:25:06+01:00 INFO: Antenne Niedersachsen Love: When You Say Nothing At All -by- Ronan Keating
+2017-02-10T20:29:08+01:00 INFO: Antenne Niedersachsen Love: I'll Make Love to You -by- Boyz II Men
+2017-02-10T20:33:08+01:00 INFO: Antenne Niedersachsen Love: Und wenn ein Lied -by- Söhne Mannheims
+2017-02-10T20:37:09+01:00 INFO: Antenne Niedersachsen Love: My Baby Just Cares for Me -by- Nina Simone
+2017-02-10T20:40:09+01:00 INFO: Antenne Niedersachsen Love: Nothing's Gonna Change My Love for You -by- Glenn Medeiros
+2017-02-10T20:44:09+01:00 INFO: Antenne Niedersachsen Love: Somewhere Only We Know -by- Keane
+2017-02-10T20:48:10+01:00 INFO: Antenne Niedersachsen Love: Secret -by- Madonna
+2017-02-10T20:52:11+01:00 INFO: Antenne Niedersachsen Love: You're Beautiful -by- James Blunt
+2017-02-10T20:55:11+01:00 INFO: Antenne Niedersachsen Love: Das Beste -by- Silbermond
+2017-02-10T21:00:11+01:00 INFO: Antenne Niedersachsen Love: SENZA UNA DONNA (WITHOUT A WOMAN) -by- ZUCCHERO & PAUL YOUNG
+2017-02-10T21:04:12+01:00 INFO: Antenne Niedersachsen Love: All of Me -by- John Legend
+2017-02-10T21:07:12+01:00 INFO: Antenne Niedersachsen Love: The Sweetest Taboo -by- Sade
+2017-02-10T21:12:13+01:00 INFO: Antenne Niedersachsen Love: California King Bed -by- Rihanna
+2017-02-10T21:16:13+01:00 INFO: Antenne Niedersachsen Love: You Are So Beautiful -by- Joe Cocker
+2017-02-10T21:19:13+01:00 INFO: Antenne Niedersachsen Love: A-N-N-A -by- Freundeskreis
+2017-02-10T21:24:14+01:00 INFO: Antenne Niedersachsen Love: Every Breath You Take -by- The Police
+2017-02-10T21:28:15+01:00 INFO: Antenne Niedersachsen Love: KILLING ME SOFTY -by- Fugees
+2017-02-10T21:33:16+01:00 INFO: Antenne Niedersachsen Love: Heaven -by- Bryan Adams
+2017-02-10T21:37:16+01:00 INFO: Antenne Niedersachsen Love: Kiss Me -by- Sixpence None the Richer
+2017-02-10T21:40:16+01:00 INFO: Antenne Niedersachsen Love: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-10T21:43:17+01:00 INFO: Antenne Niedersachsen Love: Lean On Me -by- Bill Withers
+2017-02-10T21:47:18+01:00 INFO: Antenne Niedersachsen Love: Life -by- Des'ree
+2017-02-10T21:51:19+01:00 INFO: Antenne Niedersachsen Love: You Are the Sunshine of My Life -by- Stevie Wonder
+2017-02-10T21:54:19+01:00 INFO: Antenne Niedersachsen Love: Underneath Your Clothes -by- Shakira
+2017-02-10T21:58:20+01:00 INFO: Antenne Niedersachsen Love: CAN'T WAIT UNTILL TONIGHT -by- MAX
+2017-02-10T22:01:20+01:00 INFO: Antenne Niedersachsen Love: There You'll Be -by- Faith Hill
+2017-02-10T22:04:21+01:00 INFO: Antenne Niedersachsen Love: Greatest Love of All -by- Whitney Houston
+2017-02-10T22:09:22+01:00 INFO: Antenne Niedersachsen Love: Ultraleicht -by- Andreas Bourani
+2017-02-10T22:13:23+01:00 INFO: Antenne Niedersachsen Love: Is It a Crime -by- Sade
+2017-02-10T22:19:23+01:00 INFO: Antenne Niedersachsen Love: Wie schön du bist -by- Sarah Connor
+2017-02-10T22:23:24+01:00 INFO: Antenne Niedersachsen Love: Right Here Waiting -by- Richard Marx
+2017-02-10T22:27:25+01:00 INFO: Antenne Niedersachsen Love: My Heart Will Go On (Love Theme from \"Titanic\") -by- Céline Dion
+2017-02-10T22:30:25+01:00 INFO: Antenne Niedersachsen Love: It Must Have Been Love -by- Roxette
+2017-02-10T22:35:26+01:00 INFO: Antenne Niedersachsen Love: Truly Madly Deeply -by- Savage Garden
+2017-02-10T22:39:26+01:00 INFO: Antenne Niedersachsen Love: Say You, Say Me -by- Lionel Richie
+2017-02-10T22:43:27+01:00 INFO: Antenne Niedersachsen Love: Eternal Flame -by- The Bangles
+2017-02-10T22:47:28+01:00 INFO: Antenne Niedersachsen Love: If You Believe -by- Sasha
+2017-02-10T22:51:28+01:00 INFO: Antenne Niedersachsen Love: SHE'S LIKE THE WIND -by- PATRICK SWAYZEfeat.WENDY FRASER
+2017-02-10T22:54:29+01:00 INFO: Antenne Niedersachsen Love: (I Wish I Knew How It Would Feel to Be) Free / One -by- Lighthouse Family
+2017-02-10T22:59:29+01:00 INFO: Antenne Niedersachsen Love: ICH KENNE NICHTS (DAS SO SCHÖN IST WIE DU) -by- RZA & XAVIER NAIDOO
+2017-02-10T23:04:30+01:00 INFO: Antenne Niedersachsen Love: As Long As You Love Me -by- Backstreet Boys
+2017-02-10T23:07:30+01:00 INFO: Antenne Niedersachsen Love: Can You Feel the Love Tonight -by- Elton John
+2017-02-10T23:12:32+01:00 INFO: Antenne Niedersachsen Love: All Out of Love -by- Andru Donalds
+2017-02-10T23:15:32+01:00 INFO: Antenne Niedersachsen Love: Up Where We Belong -by- Joe Cocker & Jennifer Warnes
+2017-02-10T23:19:33+01:00 INFO: Antenne Niedersachsen Love: Wasn't Expecting That -by- Jamie Lawson
+2017-02-10T23:22:34+01:00 INFO: Antenne Niedersachsen Love: Woman -by- John Lennon
+2017-02-10T23:26:34+01:00 INFO: Antenne Niedersachsen Love: Wonderwall -by- Oasis
+2017-02-10T23:30:35+01:00 INFO: Antenne Niedersachsen Love: I Just Called to Say I Love You -by- Stevie Wonder
+2017-02-10T23:35:36+01:00 INFO: Antenne Niedersachsen Love: You and Me (In My Pocket) -by- Milow
+2017-02-10T23:38:37+01:00 INFO: Antenne Niedersachsen Love: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T23:41:40+01:00 INFO: Antenne Niedersachsen Love: To Be With You -by- Mr. Big
+2017-02-10T23:44:41+01:00 INFO: Antenne Niedersachsen Love: Come Away With Me -by- Norah Jones
+2017-02-10T23:48:43+01:00 INFO: Antenne Niedersachsen Love: Hello -by- Lionel Richie
+2017-02-10T23:52:44+01:00 INFO: Antenne Niedersachsen Love: Never Ever -by- All Saints
+2017-02-10T23:56:45+01:00 INFO: Antenne Niedersachsen Love: She's Got That Light -by- Orange Blue
+2017-02-10T23:59:46+01:00 INFO: Antenne Niedersachsen Love: More Than Words -by- Extreme

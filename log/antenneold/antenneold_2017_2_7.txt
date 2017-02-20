@@ -1,0 +1,56 @@
+2017-02-07T20:43:38+01:00 INFO: Antenne Oldies: With a Girl Like You -by- The Troggs
+2017-02-07T20:46:39+01:00 INFO: Antenne Oldies: Le Freak -by- Chic
+2017-02-07T20:49:39+01:00 INFO: Antenne Oldies: Bad Moon Rising -by- Creedence Clearwater Revival
+2017-02-07T20:51:40+01:00 INFO: Antenne Oldies: London Calling -by- The Clash
+2017-02-07T20:54:41+01:00 INFO: Antenne Oldies: Penny Lane -by- The Beatles
+2017-02-07T20:58:41+01:00 INFO: Antenne Oldies: Hot Love -by- T. Rex
+2017-02-07T21:02:42+01:00 INFO: Antenne Oldies: POP MUZIK -by- M.
+2017-02-07T21:06:42+01:00 INFO: Antenne Oldies: Walk On the Wild Side -by- Lou Reed
+2017-02-07T21:10:43+01:00 INFO: Antenne Oldies: LOOKIN' OUT MY BACKDOOR -by- Creedence Clearwater Revival
+2017-02-07T21:12:44+01:00 INFO: Antenne Oldies: Some Girls -by- Racey
+2017-02-07T21:16:45+01:00 INFO: Antenne Oldies: Ring My Bell -by- Anita Ward
+2017-02-07T21:20:45+01:00 INFO: Antenne Oldies: Paint It Black -by- The Rolling Stones
+2017-02-07T21:23:46+01:00 INFO: Antenne Oldies: Knockin' On Heaven's Door -by- Bob Dylan
+2017-02-07T21:26:46+01:00 INFO: Antenne Oldies: Nights In White Satin (The Night) -by- The Moody Blues
+2017-02-07T21:30:47+01:00 INFO: Antenne Oldies: Rock Your Baby -by- George McCrae
+2017-02-07T21:34:47+01:00 INFO: Antenne Oldies: IN THE YEAR 2525 -by- ZAGER & EVANS
+2017-02-07T21:41:48+01:00 INFO: Antenne Oldies: Daddy Cool -by- Boney M.
+2017-02-07T21:44:48+01:00 INFO: Antenne Oldies: Mrs. Robinson -by- Simon & Garfunkel
+2017-02-07T21:48:49+01:00 INFO: Antenne Oldies: Never Can Say Goodbye -by- Gloria Gaynor
+2017-02-07T21:51:49+01:00 INFO: Antenne Oldies: I'm a Believer -by- The Monkees
+2017-02-07T21:53:50+01:00 INFO: Antenne Oldies: S.O.S. -by- ABBA
+2017-02-07T21:57:50+01:00 INFO: Antenne Oldies: Down On the Corner -by- Creedence Clearwater Revival
+2017-02-07T21:59:50+01:00 INFO: Antenne Oldies: American Pie -by- Don McLean
+2017-02-07T22:04:51+01:00 INFO: Antenne Oldies: Jeans On -by- David Dundas
+2017-02-07T22:07:51+01:00 INFO: Antenne Oldies: Whole Lotta Love -by- Led Zeppelin
+2017-02-07T22:12:52+01:00 INFO: Antenne Oldies: Save Me -by- Clout
+2017-02-07T22:16:52+01:00 INFO: Antenne Oldies: SEASONS IN THE SUN -by- TERRY JACKS
+2017-02-07T22:20:53+01:00 INFO: Antenne Oldies: In the Summertime -by- Mungo Jerry
+2017-02-07T22:24:53+01:00 INFO: Antenne Oldies: Please Mr. Postman -by- Carpenters
+2017-02-07T22:26:53+01:00 INFO: Antenne Oldies: Light My Fire -by- The Doors
+2017-02-07T22:29:54+01:00 INFO: Antenne Oldies: Y.M.C.A. -by- Village People
+2017-02-07T22:33:54+01:00 INFO: Antenne Oldies: What a Wonderful World -by- Louis Armstrong
+2017-02-07T22:35:54+01:00 INFO: Antenne Oldies: Sugar Baby Love -by- The Rubettes
+2017-02-07T22:39:55+01:00 INFO: Antenne Oldies: We Don't Talk Anymore -by- Cliff Richard
+2017-02-07T22:43:55+01:00 INFO: Antenne Oldies: Mr. Tambourine Man -by- The Byrds
+2017-02-07T22:45:55+01:00 INFO: Antenne Oldies: Girls, Girls, Girls -by- Sailor
+2017-02-07T22:48:56+01:00 INFO: Antenne Oldies: Raindrops Keep Fallin' On My Head -by- B.J. Thomas
+2017-02-07T22:51:56+01:00 INFO: Antenne Oldies: I Will Survive -by- Gloria Gaynor
+2017-02-07T22:54:56+01:00 INFO: Antenne Oldies: Oh, Pretty Woman -by- Roy Orbison
+2017-02-07T22:57:57+01:00 INFO: Antenne Oldies: Stayin' A -by- Bee Gees
+2017-02-07T23:02:58+01:00 INFO: Antenne Oldies: Whiskey in the Jar -by- Thin Lizzy
+2017-02-07T23:07:58+01:00 INFO: Antenne Oldies: Hiroshima -by- Wishful Thinking
+2017-02-07T23:11:59+01:00 INFO: Antenne Oldies: Monday, Monday -by- The Mamas & The Papas
+2017-02-07T23:15:59+01:00 INFO: Antenne Oldies: School's Out -by- Alice Cooper
+2017-02-07T23:19:00+01:00 INFO: Antenne Oldies: Da Ya Think I'm Sexy? -by- Rod Stewart
+2017-02-07T23:24:00+01:00 INFO: Antenne Oldies: Barbara Ann -by- The Beach Boys
+2017-02-07T23:26:00+01:00 INFO: Antenne Oldies: September -by- Earth, Wind & Fire
+2017-02-07T23:29:01+01:00 INFO: Antenne Oldies: Do Wah Diddy Diddy -by- Manfred Mann
+2017-02-07T23:31:02+01:00 INFO: Antenne Oldies: I Shot the Sheriff -by- Eric Clapton
+2017-02-07T23:36:02+01:00 INFO: Antenne Oldies: Dizzy -by- Tommy Roe
+2017-02-07T23:39:03+01:00 INFO: Antenne Oldies: More Than a Feeling -by- Boston
+2017-02-07T23:43:03+01:00 INFO: Antenne Oldies: My Sweet Lord -by- George Harrison
+2017-02-07T23:48:04+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-07T23:51:04+01:00 INFO: Antenne Oldies: IF YOU THINK YOU KNOW ... -by- Smokie
+2017-02-07T23:54:05+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-07T23:57:05+01:00 INFO: Antenne Oldies: The Free Electric Band -by- Albert Hammond

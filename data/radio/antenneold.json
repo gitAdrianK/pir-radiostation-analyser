@@ -1,0 +1,757 @@
+[
+  {
+    "artist": "Neil Diamond",
+    "title": "I Am... I Said",
+    "count": 8
+  },
+  {
+    "artist": "TERRY JACKS",
+    "title": "SEASONS IN THE SUN",
+    "count": 13
+  },
+  {
+    "artist": "Eruption",
+    "title": "I Can't Stand the Rain",
+    "count": 7
+  },
+  {
+    "artist": "Norman Greenbaum",
+    "title": "Spirit In the Sky",
+    "count": 12
+  },
+  {
+    "artist": "Albert West",
+    "title": "Ginny Come Lately",
+    "count": 13
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "El Condor Pasa",
+    "count": 6
+  },
+  {
+    "artist": "Chic",
+    "title": "Le Freak",
+    "count": 14
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Whole Lotta Love",
+    "count": 13
+  },
+  {
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "count": 11
+  },
+  {
+    "artist": "The Beatles",
+    "title": "HEY JUDE (Edit)",
+    "count": 12
+  },
+  {
+    "artist": "Space",
+    "title": "Magic Fly",
+    "count": 13
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "count": 7
+  },
+  {
+    "artist": "The Kinks",
+    "title": "Lola",
+    "count": 10
+  },
+  {
+    "artist": "PAUL MCCARTNEY & THE WINGS",
+    "title": "MULL OF KINTYRE",
+    "count": 3
+  },
+  {
+    "artist": "Smokie",
+    "title": "Oh Carol",
+    "count": 6
+  },
+  {
+    "artist": "George McCrae",
+    "title": "Rock Your Baby",
+    "count": 13
+  },
+  {
+    "artist": "ART GARTFUNKEL",
+    "title": "BRIGHT EYES",
+    "count": 5
+  },
+  {
+    "artist": "Tina Charles",
+    "title": "I Love To Love",
+    "count": 13
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "count": 12
+  },
+  {
+    "artist": "BARRY WHITE",
+    "title": "YOU'RE THE FIRST  THE LAST  MY EVERYTHI",
+    "count": 11
+  },
+  {
+    "artist": "The Sweet",
+    "title": "Fox on the Run",
+    "count": 5
+  },
+  {
+    "artist": "Bellamy Brothers",
+    "title": "Let Your Love Flow",
+    "count": 11
+  },
+  {
+    "artist": "JOHN PAUL YOUNG",
+    "title": "LOVE IS IN THE AIR",
+    "count": 13
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Lost in France",
+    "count": 6
+  },
+  {
+    "artist": "David Dundas",
+    "title": "Jeans On",
+    "count": 13
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Stayin' A",
+    "count": 7
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "In the Ghetto",
+    "count": 12
+  },
+  {
+    "artist": "The Equals",
+    "title": "Baby Come Back",
+    "count": 12
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "So You Win Again",
+    "count": 7
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "September",
+    "count": 13
+  },
+  {
+    "artist": "Iggy Pop",
+    "title": "The Passenger",
+    "count": 10
+  },
+  {
+    "artist": "Manfred Mann",
+    "title": "Do Wah Diddy Diddy",
+    "count": 12
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "The Sound of Silence",
+    "count": 17
+  },
+  {
+    "artist": "ABBA",
+    "title": "Waterloo",
+    "count": 3
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "Never Can Say Goodbye",
+    "count": 10
+  },
+  {
+    "artist": "Petula Clark",
+    "title": "Downtown",
+    "count": 12
+  },
+  {
+    "artist": "George Harrison",
+    "title": "My Sweet Lord",
+    "count": 11
+  },
+  {
+    "artist": "Neil Young",
+    "title": "Heart of Gold",
+    "count": 13
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction",
+    "count": 12
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "title": "Monday, Monday",
+    "count": 15
+  },
+  {
+    "artist": "M.",
+    "title": "POP MUZIK",
+    "count": 11
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Paint It Black",
+    "count": 14
+  },
+  {
+    "artist": "Golden Earring",
+    "title": "Radar Love",
+    "count": 10
+  },
+  {
+    "artist": "ABBA",
+    "title": "Fernando",
+    "count": 4
+  },
+  {
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "count": 13
+  },
+  {
+    "artist": "Wishful Thinking",
+    "title": "Hiroshima",
+    "count": 13
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "You Sexy Thing",
+    "count": 6
+  },
+  {
+    "artist": "Janis Joplin",
+    "title": "Me and Bobby McGee",
+    "count": 13
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Song Sung Blue",
+    "count": 8
+  },
+  {
+    "artist": "ABBA",
+    "title": "Mamma Mia",
+    "count": 4
+  },
+  {
+    "artist": "OLIVIA NEWTON-JOHN & JOHN TRAVO",
+    "title": "YOU'RE THE ONE THAT I WANT",
+    "count": 13
+  },
+  {
+    "artist": "Uriah Heep",
+    "title": "Lady In Black",
+    "count": 11
+  },
+  {
+    "artist": "Eruption",
+    "title": "One Way Ticket",
+    "count": 5
+  },
+  {
+    "artist": "The Spencer Davis Group",
+    "title": "Keep On Running",
+    "count": 11
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "title": "California Dreaming",
+    "count": 10
+  },
+  {
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "count": 13
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "It Never Rains In Southern California",
+    "count": 3
+  },
+  {
+    "artist": "Elton John & Kiki Dee",
+    "title": "Don't Go Breaking My Heart",
+    "count": 8
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Night Fever",
+    "count": 6
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Daddy Cool",
+    "count": 12
+  },
+  {
+    "artist": "SCOTT MC KENZIE",
+    "title": "SAN FRANCISCO (BE SURE TO WEAR FLOWERS)",
+    "count": 12
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Knockin' On Heaven's Door",
+    "count": 13
+  },
+  {
+    "artist": "TOMMY JAMES AND THE SHONDELLE",
+    "title": "CRIMSON AND CLOVER",
+    "count": 11
+  },
+  {
+    "artist": "Patrick Hernandez",
+    "title": "Born to Be A",
+    "count": 13
+  },
+  {
+    "artist": "Smokie",
+    "title": "Lay Back In the Arms of Someone",
+    "count": 6
+  },
+  {
+    "artist": "T. Rex",
+    "title": "Bang a Gong (Get It On)",
+    "count": 6
+  },
+  {
+    "artist": "T-REX",
+    "title": "METAL GURU",
+    "count": 5
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Da Ya Think I'm Sexy?",
+    "count": 13
+  },
+  {
+    "artist": "Racey",
+    "title": "Some Girls",
+    "count": 13
+  },
+  {
+    "artist": "ABBA",
+    "title": "Knowing Me, Knowing You",
+    "count": 5
+  },
+  {
+    "artist": "The Byrds",
+    "title": "Mr. Tambourine Man",
+    "count": 12
+  },
+  {
+    "artist": "Elton John",
+    "title": "Crocodile Rock",
+    "count": 9
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Oh, Pretty Woman",
+    "count": 13
+  },
+  {
+    "artist": "BOBBY GOLSBORO",
+    "title": "HONEY",
+    "count": 12
+  },
+  {
+    "artist": "The Animals",
+    "title": "The House of the Rising Sun",
+    "count": 12
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Down On the Corner",
+    "count": 12
+  },
+  {
+    "artist": "The Rubettes",
+    "title": "Sugar Baby Love",
+    "count": 13
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "title": "Listen to the Music",
+    "count": 10
+  },
+  {
+    "artist": "Los Bravos",
+    "title": "Black Is Black",
+    "count": 10
+  },
+  {
+    "artist": "Thin Lizzy",
+    "title": "Whiskey in the Jar",
+    "count": 11
+  },
+  {
+    "artist": "Smokie",
+    "title": "Living Next Door to Alice",
+    "count": 6
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Bad Moon Rising",
+    "count": 10
+  },
+  {
+    "artist": "The Monkees",
+    "title": "Daydream Believer",
+    "count": 8
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "LOOKIN' OUT MY BACKDOOR",
+    "count": 13
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "count": 13
+  },
+  {
+    "artist": "Harpo",
+    "title": "Horoscope",
+    "count": 7
+  },
+  {
+    "artist": "Cliff Richard",
+    "title": "We Don't Talk Anymore",
+    "count": 11
+  },
+  {
+    "artist": "Clout",
+    "title": "Save Me",
+    "count": 13
+  },
+  {
+    "artist": "Jane Birkin & Serge Gainsbourg",
+    "title": "Je t'aime moi non plus",
+    "count": 11
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive",
+    "count": 8
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "It's a Heartache",
+    "count": 6
+  },
+  {
+    "artist": "FIFTH DIMENSION",
+    "title": "AQUARIUS / LET THE SUNSHINE IN",
+    "count": 11
+  },
+  {
+    "artist": "Tommy Roe",
+    "title": "Dizzy",
+    "count": 14
+  },
+  {
+    "artist": "Louis Armstrong",
+    "title": "What a Wonderful World",
+    "count": 12
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Proud Mary",
+    "count": 13
+  },
+  {
+    "artist": "Alice Cooper",
+    "title": "School's Out",
+    "count": 13
+  },
+  {
+    "artist": "Herman's Hermits",
+    "title": "No Milk Today",
+    "count": 12
+  },
+  {
+    "artist": "The Troggs",
+    "title": "Wild Thing",
+    "count": 10
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "Bridge Over Troubled Water",
+    "count": 12
+  },
+  {
+    "artist": "ABBA",
+    "title": "Money, Money, Money",
+    "count": 5
+  },
+  {
+    "artist": "Gilbert O'Sullivan",
+    "title": "Get Down",
+    "count": 10
+  },
+  {
+    "artist": "Sailor",
+    "title": "Girls, Girls, Girls",
+    "count": 7
+  },
+  {
+    "artist": "The Sweet",
+    "title": "Funny Funny",
+    "count": 5
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With a Little Help From My Friends",
+    "count": 15
+  },
+  {
+    "artist": "Carpenters",
+    "title": "Please Mr. Postman",
+    "count": 13
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Hey Tonight",
+    "count": 5
+  },
+  {
+    "artist": "Manfred Mann",
+    "title": "The Mighty Quinn",
+    "count": 13
+  },
+  {
+    "artist": "The Clash",
+    "title": "London Calling",
+    "count": 14
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "Cecilia",
+    "count": 7
+  },
+  {
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "count": 11
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "I Shot the Sheriff",
+    "count": 13
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "Hot Stuff",
+    "count": 10
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine",
+    "count": 13
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "The Free Electric Band",
+    "count": 8
+  },
+  {
+    "artist": "B.J. Thomas",
+    "title": "Raindrops Keep Fallin' On My Head",
+    "count": 13
+  },
+  {
+    "artist": "MIGUEL RIOS",
+    "title": "A SONG OF JOY",
+    "count": 12
+  },
+  {
+    "artist": "Patti Smith Group",
+    "title": "Because the Night",
+    "count": 10
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "I.O.I.O.",
+    "count": 5
+  },
+  {
+    "artist": "ABBA",
+    "title": "S.O.S.",
+    "count": 7
+  },
+  {
+    "artist": "The Beatles",
+    "title": "All You Need Is Love",
+    "count": 12
+  },
+  {
+    "artist": "Village People",
+    "title": "Y.M.C.A.",
+    "count": 13
+  },
+  {
+    "artist": "Anita Ward",
+    "title": "Ring My Bell",
+    "count": 14
+  },
+  {
+    "artist": "DR. HOOK",
+    "title": "WHEN YOU'RE IN LOVE WITH A BEAUTIFUL WO",
+    "count": 10
+  },
+  {
+    "artist": "Boston",
+    "title": "More Than a Feeling",
+    "count": 12
+  },
+  {
+    "artist": "Harpo",
+    "title": "Moviestar",
+    "count": 6
+  },
+  {
+    "artist": "Suzi Quatro",
+    "title": "If You Can't Give Me Love",
+    "count": 13
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Penny Lane",
+    "count": 11
+  },
+  {
+    "artist": "The Monkees",
+    "title": "I'm a Believer",
+    "count": 10
+  },
+  {
+    "artist": "JOHN KINCADE",
+    "title": "DREAMS ARE TEN A PENNY",
+    "count": 13
+  },
+  {
+    "artist": "Smokie",
+    "title": "IF YOU THINK YOU KNOW ...",
+    "count": 6
+  },
+  {
+    "artist": "Showaddywaddy",
+    "title": "Under the Moon of Love",
+    "count": 13
+  },
+  {
+    "artist": "ABBA",
+    "title": "Take a Chance On Me",
+    "count": 5
+  },
+  {
+    "artist": "The Cats",
+    "title": "One Way Wind",
+    "count": 13
+  },
+  {
+    "artist": "ABBA",
+    "title": "Chiquitita",
+    "count": 7
+  },
+  {
+    "artist": "Carl Douglas",
+    "title": "Kung Fu Fighting",
+    "count": 10
+  },
+  {
+    "artist": "The Doors",
+    "title": "Light My Fire",
+    "count": 13
+  },
+  {
+    "artist": "JOHN MILES",
+    "title": "MUSIC (WAS MY FIRST LOVE)",
+    "count": 13
+  },
+  {
+    "artist": "Dusty Springfield",
+    "title": "Son of a Preacher Man",
+    "count": 11
+  },
+  {
+    "artist": "Shocking Blue",
+    "title": "Venus",
+    "count": 12
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Barbara Ann",
+    "count": 15
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Michelle",
+    "count": 13
+  },
+  {
+    "artist": "ZAGER & EVANS",
+    "title": "IN THE YEAR 2525",
+    "count": 13
+  },
+  {
+    "artist": "ABBA",
+    "title": "Dancing Queen",
+    "count": 5
+  },
+  {
+    "artist": "Johnny Wakelin",
+    "title": "In Zaire",
+    "count": 10
+  },
+  {
+    "artist": "Free",
+    "title": "All Right Now",
+    "count": 14
+  },
+  {
+    "artist": "The Moody Blues",
+    "title": "Nights In White Satin (The Night)",
+    "count": 12
+  },
+  {
+    "artist": "The Troggs",
+    "title": "With a Girl Like You",
+    "count": 11
+  },
+  {
+    "artist": "The Mamas & The Papas",
+    "title": "Dream a Little Dream of Me",
+    "count": 17
+  },
+  {
+    "artist": "Sailor",
+    "title": "A Glass of Champagne",
+    "count": 8
+  },
+  {
+    "artist": "T. Rex",
+    "title": "Hot Love",
+    "count": 6
+  },
+  {
+    "artist": "Lou Reed",
+    "title": "Walk On the Wild Side",
+    "count": 11
+  }
+]

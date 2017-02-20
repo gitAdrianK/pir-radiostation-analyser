@@ -1,0 +1,175 @@
+2017-02-10T05:07:14+01:00 INFO: WDR2: "This girl" -by- Kungs/Cookin' On 3 Burners
+2017-02-10T05:11:15+01:00 INFO: WDR2: "Love is all around" -by- Wet Wet Wet
+2017-02-10T05:14:15+01:00 INFO: WDR2: "Wenn sie tanzt" -by- Max Giesinger
+2017-02-10T05:19:15+01:00 INFO: WDR2: "Blow me (one last kiss)" -by- Pink
+2017-02-10T05:25:16+01:00 INFO: WDR2: "Howling at the moon" -by- Milow
+2017-02-10T05:29:16+01:00 INFO: WDR2: "Geboren um zu Leben" -by- Unheilig
+2017-02-10T05:37:16+01:00 INFO: WDR2: "Twist in my sobriety" -by- Tanita Tikaram
+2017-02-10T05:43:17+01:00 INFO: WDR2: "If I were sorry" -by- Frans
+2017-02-10T05:47:17+01:00 INFO: WDR2: "Sick and tired" -by- Anastacia
+2017-02-10T05:51:17+01:00 INFO: WDR2: "Somebody that I used to know" -by- Gotye/Kimbra
+2017-02-10T05:57:17+01:00 INFO: WDR2: "Keep the faith" -by- Bon Jovi
+2017-02-10T06:07:18+01:00 INFO: WDR2: "Human" -by- Rag'n'Bone Man
+2017-02-10T06:12:18+01:00 INFO: WDR2: "1973" -by- James Blunt
+2017-02-10T06:16:18+01:00 INFO: WDR2: "Lovers on the sun" -by- David Guetta /Sam Martin
+2017-02-10T06:22:19+01:00 INFO: WDR2: "Talkin' 'bout a revolution" -by- Tracy Chapman
+2017-02-10T06:26:19+01:00 INFO: WDR2: "One fine day" -by- Sting
+2017-02-10T06:36:20+01:00 INFO: WDR2: "Reality" -by- Lost Frequencies/Janieck Devy
+2017-02-10T06:39:20+01:00 INFO: WDR2: "How you remind me" -by- Nickelback
+2017-02-10T06:44:20+01:00 INFO: WDR2: "Water under the bridge" -by- Adele
+2017-02-10T06:50:20+01:00 INFO: WDR2: "Wieder hier" -by- Westernhagen
+2017-02-10T06:54:21+01:00 INFO: WDR2: "Marry you" -by- Bruno Mars
+2017-02-10T07:11:22+01:00 INFO: WDR2: "Nur in meinem Kopf" -by- Andreas Bourani
+2017-02-10T07:12:22+01:00 INFO: WDR2: "Love my life" -by- Robbie Williams
+2017-02-10T07:16:22+01:00 INFO: WDR2: "Hungry eyes" -by- Eric Carmen
+2017-02-10T07:21:22+01:00 INFO: WDR2: "Ex's & Oh's" -by- Elle King
+2017-02-10T07:24:22+01:00 INFO: WDR2: "Stay" -by- Hurts
+2017-02-10T07:37:23+01:00 INFO: WDR2: "Grow up" -by- Olly Murs
+2017-02-10T07:41:23+01:00 INFO: WDR2: "Can't get you out of my head" -by- Kylie Minogue
+2017-02-10T07:54:24+01:00 INFO: WDR2: "Altes Fieber" -by- Die Toten Hosen
+2017-02-10T07:56:24+01:00 INFO: WDR2: "Life" -by- Des'ree
+2017-02-10T08:08:25+01:00 INFO: WDR2: "Be the one" -by- Dua Lipa
+2017-02-10T08:11:25+01:00 INFO: WDR2: "No, no, never" -by- Texas Lightning
+2017-02-10T08:17:25+01:00 INFO: WDR2: "Bad Ideas" -by- Alle Farben
+2017-02-10T08:22:26+01:00 INFO: WDR2: "Under the bridge" -by- Red Hot Chili Peppers
+2017-02-10T08:26:26+01:00 INFO: WDR2: "Safe and sound" -by- Capital Cities
+2017-02-10T08:37:27+01:00 INFO: WDR2: "One call away" -by- Charlie Puth
+2017-02-10T08:52:28+01:00 INFO: WDR2: "All good things (come to an end)" -by- Nelly Furtado /Rea Garvey
+2017-02-10T08:54:28+01:00 INFO: WDR2: "Shape of you" -by- Ed Sheeran
+2017-02-10T09:09:28+01:00 INFO: WDR2: "Sweet about me" -by- Gabriella Cilmi
+2017-02-10T09:11:29+01:00 INFO: WDR2: "Musik sein" -by- Wincent Weiss
+2017-02-10T09:20:29+01:00 INFO: WDR2: "People are people" -by- Depeche Mode
+2017-02-10T09:26:29+01:00 INFO: WDR2: "Dream on" -by- Amy Macdonald
+2017-02-10T09:49:51+01:00 INFO: WDR2: "Lost on you" -by- LP
+2017-02-10T09:50:51+01:00 INFO: WDR2: "Poker face" -by- Lady Gaga
+2017-02-10T10:06:52+01:00 INFO: WDR2: "When I wake up" -by- Lions Head
+2017-02-10T10:10:52+01:00 INFO: WDR2: "Because of you" -by- Kelly Clarkson
+2017-02-10T10:25:53+01:00 INFO: WDR2: "Streets of Philadelphia" -by- Bruce Springsteen
+2017-02-10T10:39:56+01:00 INFO: WDR2: "Fairytale gone bad" -by- Sunrise Avenue
+2017-02-10T10:42:56+01:00 INFO: WDR2: "Silver lining (clap your hands)" -by- Imany
+2017-02-10T10:46:56+01:00 INFO: WDR2: "Red red wine" -by- UB 40
+2017-02-10T10:52:56+01:00 INFO: WDR2: "80 Millionen" -by- Max Giesinger
+2017-02-10T11:07:57+01:00 INFO: WDR2: "Firestone" -by- Kygo/Conrad
+2017-02-10T11:09:57+01:00 INFO: WDR2: "Imitation of life" -by- R.E.M.
+2017-02-10T11:16:58+01:00 INFO: WDR2: "Human" -by- Rag'n'Bone Man
+2017-02-10T11:20:58+01:00 INFO: WDR2: "I love you always forever" -by- Donna Lewis
+2017-02-10T11:25:58+01:00 INFO: WDR2: "One fine day" -by- Sting
+2017-02-10T11:38:59+01:00 INFO: WDR2: "Lose control" -by- Matt Simons
+2017-02-10T11:45:59+01:00 INFO: WDR2: "What a feeling" -by- Irene Cara
+2017-02-10T11:49:59+01:00 INFO: WDR2: "Wherever I go" -by- OneRepublic
+2017-02-10T11:53:59+01:00 INFO: WDR2: "Way down we go" -by- Kaleo
+2017-02-10T11:58:00+01:00 INFO: WDR2: "Call you home" -by- Kelvin Jones
+2017-02-10T12:08:00+01:00 INFO: WDR2: "Love my life" -by- Robbie Williams
+2017-02-10T12:10:00+01:00 INFO: WDR2: "Prayer in C" -by- Lilly Wood & The Prick/Robin Schulz
+2017-02-10T12:17:01+01:00 INFO: WDR2: "You'll be in my heart" -by- Phil Collins
+2017-02-10T12:25:01+01:00 INFO: WDR2: "Cheap thrills" -by- Sia
+2017-02-10T12:27:01+01:00 INFO: WDR2: "Drops of Jupiter (Tell me)" -by- Train
+2017-02-10T12:39:03+01:00 INFO: WDR2: "Calm after the storm" -by- The Common Linnets
+2017-02-10T12:46:03+01:00 INFO: WDR2: "Perfect Life" -by- Levina
+2017-02-10T12:56:04+01:00 INFO: WDR2: "Cocoon" -by- Milky Chance
+2017-02-10T13:07:06+01:00 INFO: WDR2: "My way" -by- Calvin Harris
+2017-02-10T13:11:06+01:00 INFO: WDR2: "I'm like a bird" -by- Nelly Furtado
+2017-02-10T13:21:07+01:00 INFO: WDR2: "Love on the brain" -by- Rihanna
+2017-02-10T13:23:07+01:00 INFO: WDR2: "What are you waiting for" -by- Nickelback
+2017-02-10T13:37:08+01:00 INFO: WDR2: "Don't worry" -by- MadCon/Ray Dalton
+2017-02-10T13:43:09+01:00 INFO: WDR2: "Wouldn't it be good" -by- Nik Kershaw
+2017-02-10T13:51:10+01:00 INFO: WDR2: "Halfway gone" -by- Lifehouse
+2017-02-10T13:54:10+01:00 INFO: WDR2: "When the beat drops out" -by- Marlon Roudette
+2017-02-10T13:56:10+01:00 INFO: WDR2: "Paris" -by- The Chainsmokers
+2017-02-10T14:07:13+01:00 INFO: WDR2: "Book of love" -by- Felix Jaehn /Polina
+2017-02-10T14:09:13+01:00 INFO: WDR2: "Book of love" -by- 
+2017-02-10T14:12:13+01:00 INFO: WDR2: "Ayo technology" -by- Milow
+2017-02-10T14:18:14+01:00 INFO: WDR2: "Musik sein" -by- Wincent Weiss
+2017-02-10T14:21:14+01:00 INFO: WDR2: "Spending my time" -by- Roxette
+2017-02-10T14:26:14+01:00 INFO: WDR2: "See you" -by- Lions Head
+2017-02-10T14:38:15+01:00 INFO: WDR2: "Move in the right direction" -by- Gossip
+2017-02-10T14:44:15+01:00 INFO: WDR2: "Here comes the rain again" -by- Eurythmics
+2017-02-10T14:53:16+01:00 INFO: WDR2: "Shape of you" -by- Ed Sheeran
+2017-02-10T14:56:16+01:00 INFO: WDR2: "B 96" -by- Silbermond
+2017-02-10T15:07:17+01:00 INFO: WDR2: "Hollywood hills" -by- Sunrise Avenue
+2017-02-10T15:12:17+01:00 INFO: WDR2: "Wenn sie tanzt" -by- Max Giesinger
+2017-02-10T15:17:17+01:00 INFO: WDR2: "What's up" -by- 4 Non Blondes
+2017-02-10T15:21:18+01:00 INFO: WDR2: "Catch & release" -by- Matt Simons
+2017-02-10T15:27:18+01:00 INFO: WDR2: "Wisemen" -by- James Blunt
+2017-02-10T15:37:19+01:00 INFO: WDR2: "Water under the bridge" -by- Adele
+2017-02-10T15:43:19+01:00 INFO: WDR2: "Auf uns" -by- Andreas Bourani
+2017-02-10T15:46:19+01:00 INFO: WDR2: "Shed a light" -by- Robin Schulz /David Guetta /Cheat Codes
+2017-02-10T15:51:20+01:00 INFO: WDR2: "We don't need another hero" -by- Tina Turner
+2017-02-10T15:56:21+01:00 INFO: WDR2: "Stitches" -by- Shawn Mendes
+2017-02-10T16:11:22+01:00 INFO: WDR2: "Bilder -by- Dir"Laith Al-Deen
+2017-02-10T16:15:22+01:00 INFO: WDR2: "Jubel" -by- Klingande
+2017-02-10T16:22:23+01:00 INFO: WDR2: "Dream on" -by- Amy Macdonald
+2017-02-10T16:25:23+01:00 INFO: WDR2: "I wish it would rain down" -by- Phil Collins
+2017-02-10T16:38:24+01:00 INFO: WDR2: "Human" -by- Rag'n'Bone Man
+2017-02-10T16:42:25+01:00 INFO: WDR2: "Breakaway" -by- Kelly Clarkson
+2017-02-10T16:47:25+01:00 INFO: WDR2: "Never give up" -by- Sia
+2017-02-10T16:51:26+01:00 INFO: WDR2: "I still haven't found what I'm looking for" -by- U2
+2017-02-10T17:07:27+01:00 INFO: WDR2: "Waiting for love" -by- Avicii
+2017-02-10T17:11:27+01:00 INFO: WDR2: "Silver Lining (Clap your hands)" -by- Imany
+2017-02-10T17:21:28+01:00 INFO: WDR2: "Love my life" -by- Robbie Williams
+2017-02-10T17:37:29+01:00 INFO: WDR2: "Bad Ideas" -by- Alle Farben
+2017-02-10T17:39:29+01:00 INFO: WDR2: "Try" -by- Pink
+2017-02-10T17:46:29+01:00 INFO: WDR2: "Lot to learn" -by- Luke Christopher
+2017-02-10T17:48:29+01:00 INFO: WDR2: "The shoop shoop song" -by- Cher
+2017-02-10T17:55:30+01:00 INFO: WDR2: "Love me better" -by- James Blunt
+2017-02-10T18:11:34+01:00 INFO: WDR2: "Lost on you" -by- LP
+2017-02-10T18:17:35+01:00 INFO: WDR2: "Ain't nobody (Loves me better)" -by- Felix Jaehn /Jasmine Thompson
+2017-02-10T18:21:36+01:00 INFO: WDR2: "Crazy" -by- Seal
+2017-02-10T18:27:37+01:00 INFO: WDR2: "Way down we go" -by- Kaleo
+2017-02-10T18:30:37+01:00 INFO: WDR2: "First day of my life" -by- Melanie C
+2017-02-10T18:34:37+01:00 INFO: WDR2: "7 years" -by- Lukas Graham
+2017-02-10T18:48:38+01:00 INFO: WDR2: "Don't you know" -by- Kungs/Jamie N. Commons
+2017-02-10T18:51:39+01:00 INFO: WDR2: "Through the barricades" -by- Spandau Ballet
+2017-02-10T18:54:39+01:00 INFO: WDR2: "Thinking 'bout you" -by- Dua Lipa
+2017-02-10T18:58:39+01:00 INFO: WDR2: "Hey" -by- Andreas Bourani
+2017-02-10T19:07:40+01:00 INFO: WDR2: "Are you with me" -by- Lost Frequencies
+2017-02-10T19:08:40+01:00 INFO: WDR2: "A kind of magic" -by- Queen
+2017-02-10T19:16:41+01:00 INFO: WDR2: "Cocoon" -by- Milky Chance
+2017-02-10T19:20:42+01:00 INFO: WDR2: "Stronger (What doesn't kill you)" -by- Kelly Clarkson
+2017-02-10T19:26:43+01:00 INFO: WDR2: "FourFiveSeconds" -by- Rihanna/Kanye West /Paul McCartney
+2017-02-10T19:28:45+01:00 INFO: WDR2: "Musik sein" -by- Wincent Weiss
+2017-02-10T19:30:45+01:00 INFO: WDR2: "Musik sein" -by- Wincent Weiss                                  
+2017-02-10T19:32:45+01:00 INFO: WDR2: "The ocean" -by- Mike Perry /Shy Martin
+2017-02-10T19:35:45+01:00 INFO: WDR2: "Again" -by- Lenny Kravitz
+2017-02-10T19:38:46+01:00 INFO: WDR2: "Again" -by- Lenny K
+2017-02-10T19:45:47+01:00 INFO: WDR2: "I feel it coming" -by- The Weeknd /Daft Punk
+2017-02-10T19:50:47+01:00 INFO: WDR2: "Nothing compares 2 U" -by- Sinead O'Connor
+2017-02-10T19:58:48+01:00 INFO: WDR2: "Dear darlin'" -by- Olly Murs
+2017-02-10T20:06:49+01:00 INFO: WDR2: "Lose control" -by- Matt Simons
+2017-02-10T20:12:49+01:00 INFO: WDR2: "Wild love" -by- Rea Garvey
+2017-02-10T20:15:50+01:00 INFO: WDR2: "Neuanfang" -by- Clueso
+2017-02-10T20:20:54+01:00 INFO: WDR2: "Mr Rock & Roll" -by- Amy Macdonald
+2017-02-10T20:31:54+01:00 INFO: WDR2: "Human" -by- Rag'n'Bone Man
+2017-02-10T20:34:55+01:00 INFO: WDR2: "When we were young" -by- Adele
+2017-02-10T20:40:55+01:00 INFO: WDR2: "Wasn't expecting that" -by- Jamie Lawson
+2017-02-10T20:46:55+01:00 INFO: WDR2: "The riddle" -by- Nik Kershaw   
+2017-02-10T20:50:55+01:00 INFO: WDR2: "Paris" -by- The Chainsmokers
+2017-02-10T20:59:56+01:00 INFO: WDR2: "She moves (far away)" -by- Alle Farben/Graham Candy
+2017-02-10T21:08:56+01:00 INFO: WDR2: "Anywhere" -by- Passenger
+2017-02-10T21:10:56+01:00 INFO: WDR2: "Circle of life" -by- Elton John
+2017-02-10T21:20:57+01:00 INFO: WDR2: "Don't you know" -by- Kungs/Jamie N. Commons
+2017-02-10T21:22:57+01:00 INFO: WDR2: "Take me to church" -by- Hozier
+2017-02-10T21:27:57+01:00 INFO: WDR2: "Milk and toast and honey" -by- 
+2017-02-10T21:30:57+01:00 INFO: WDR2: "Milk and toast and honey" -by- Roxette
+2017-02-10T21:32:57+01:00 INFO: WDR2: "Jolene" -by- The BossHoss /The Common Linnets
+2017-02-10T21:34:58+01:00 INFO: WDR2: "Jolene" -by- The Bo
+2017-02-10T21:37:58+01:00 INFO: WDR2: "Lost on you" -by- LP
+2017-02-10T21:43:58+01:00 INFO: WDR2: "See you" -by- Lions Head
+2017-02-10T21:48:59+01:00 INFO: WDR2: "Love runs out" -by- OneRepublic
+2017-02-10T21:55:00+01:00 INFO: WDR2: "Love is a battlefield" -by- Pat Benatar
+2017-02-10T22:01:00+01:00 INFO: WDR2: "If I were sorry" -by- Frans
+2017-02-10T22:08:03+01:00 INFO: WDR2: "Love yourself" -by- Justin Bieber
+2017-02-10T22:12:04+01:00 INFO: WDR2: "Bodies" -by- Robbie Williams
+2017-02-10T22:18:05+01:00 INFO: WDR2: "Grow up" -by- Olly Murs
+2017-02-10T22:29:08+01:00 INFO: WDR2: "Eternal flame" -by- The Bangles
+2017-02-10T22:39:08+01:00 INFO: WDR2: "Something got me started" -by- Simply Red
+2017-02-10T22:41:09+01:00 INFO: WDR2: "Something got me started" -by- 
+2017-02-10T22:45:09+01:00 INFO: WDR2: "Little talks" -by- Of Monsters And Men
+2017-02-10T22:52:09+01:00 INFO: WDR2: "80 Millionen" -by- Max Giesinger
+2017-02-10T22:54:09+01:00 INFO: WDR2: "80 Millionen" -by- 
+2017-02-10T22:58:10+01:00 INFO: WDR2: "I?m all about you" -by- Rea Garvey
+2017-02-10T23:05:12+01:00 INFO: WDR2: "Smalltown boy" -by- Bronski Bea
+2017-02-10T23:07:12+01:00 INFO: WDR2: "Smalltown boy" -by- Bronski Beat
+2017-02-10T23:20:13+01:00 INFO: WDR2: "Never give up" -by- Sia
+2017-02-10T23:27:14+01:00 INFO: WDR2: "Hall of Fame" -by- The Script
+2017-02-10T23:28:15+01:00 INFO: WDR2: "Rolling in the deep" -by- Adele

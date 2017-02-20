@@ -1,0 +1,398 @@
+2017-02-09T00:00:47+01:00 INFO: Antenne Niedersachsen Deutsch: Von Allein -by- Culcha Candela
+2017-02-09T00:03:47+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T00:07:48+01:00 INFO: Antenne Niedersachsen Deutsch: Junge -by- Die Ärzte
+2017-02-09T00:10:49+01:00 INFO: Antenne Niedersachsen Deutsch: Chöre -by- Mark Forster
+2017-02-09T00:14:49+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T00:19:50+01:00 INFO: Antenne Niedersachsen Deutsch: LEICHTES GEPÄCK -by- SILBERMOMD
+2017-02-09T00:23:50+01:00 INFO: Antenne Niedersachsen Deutsch: Ich bin ich (Wir sind wir) -by- Rosenstolz
+2017-02-09T00:26:53+01:00 INFO: Antenne Niedersachsen Deutsch: Am seidenen Faden -by- Tim Bendzko
+2017-02-09T00:30:54+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T00:33:54+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T00:37:55+01:00 INFO: Antenne Niedersachsen Deutsch: Ich lass für dich das Licht an -by- Revolverheld
+2017-02-09T00:41:55+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T00:45:56+01:00 INFO: Antenne Niedersachsen Deutsch: Als wär's das erste Mal -by- Unheilig
+2017-02-09T00:48:57+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T00:51:58+01:00 INFO: Antenne Niedersachsen Deutsch: Freidrehen -by- Clueso
+2017-02-09T00:54:58+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T00:58:59+01:00 INFO: Antenne Niedersachsen Deutsch: Von hier an blind -by- Wir sind Helden
+2017-02-09T01:02:59+01:00 INFO: Antenne Niedersachsen Deutsch: Kartenhaus -by- Adel Tawil
+2017-02-09T01:06:00+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T01:10:00+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T01:14:01+01:00 INFO: Antenne Niedersachsen Deutsch: Ja -by- Silbermond
+2017-02-09T01:18:01+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T01:22:02+01:00 INFO: Antenne Niedersachsen Deutsch: Programmiert -by- Tim Bendzko
+2017-02-09T01:25:02+01:00 INFO: Antenne Niedersachsen Deutsch: Zerrissen -by- Juli
+2017-02-09T01:29:03+01:00 INFO: Antenne Niedersachsen Deutsch: Deine Nähe tut mir weh -by- Revolverheld
+2017-02-09T01:32:03+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T01:36:04+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T01:39:05+01:00 INFO: Antenne Niedersachsen Deutsch: Ultraleicht -by- Andreas Bourani
+2017-02-09T01:43:05+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T01:47:06+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn du lebst -by- Johannes Oerding
+2017-02-09T01:51:07+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T01:55:08+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn Du liebst -by- Adel Tawil
+2017-02-09T01:59:09+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T02:02:09+01:00 INFO: Antenne Niedersachsen Deutsch: Himmel auf -by- Silbermond
+2017-02-09T02:05:09+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T02:09:10+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T02:12:10+01:00 INFO: Antenne Niedersachsen Deutsch: UNTER DIE HAUT -by- TIM BENDZKO FT. CASSANDRA STEEN
+2017-02-09T02:16:11+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T02:20:11+01:00 INFO: Antenne Niedersachsen Deutsch: Traum -by- Cro
+2017-02-09T02:23:12+01:00 INFO: Antenne Niedersachsen Deutsch: Dieses Leben -by- Juli
+2017-02-09T02:27:12+01:00 INFO: Antenne Niedersachsen Deutsch: Au revoir -by- Mark Forster
+2017-02-09T02:31:13+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T02:33:13+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T02:38:15+01:00 INFO: Antenne Niedersachsen Deutsch: Sommer in Schweden (feat. Johannes Oerding) -by- Revolverheld
+2017-02-09T02:41:16+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T02:45:17+01:00 INFO: Antenne Niedersachsen Deutsch: Lieblingsmensch -by- Namika
+2017-02-09T02:48:17+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T02:51:17+01:00 INFO: Antenne Niedersachsen Deutsch: Geboren um zu leben -by- Unheilig
+2017-02-09T02:55:18+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T02:58:18+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn jetzt Sommer wär -by- Pohlmann
+2017-02-09T03:02:18+01:00 INFO: Antenne Niedersachsen Deutsch: Nur noch kurz die Welt retten -by- Tim Bendzko
+2017-02-09T03:05:19+01:00 INFO: Antenne Niedersachsen Deutsch: Mensch -by- Herbert Grönemeyer
+2017-02-09T03:09:19+01:00 INFO: Antenne Niedersachsen Deutsch: Lasse redn -by- Die Ärzte
+2017-02-09T03:12:20+01:00 INFO: Antenne Niedersachsen Deutsch: Bye Bye -by- Cro
+2017-02-09T03:15:20+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T03:19:20+01:00 INFO: Antenne Niedersachsen Deutsch: Nur in meinem Kopf -by- Andreas Bourani
+2017-02-09T03:24:21+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T03:27:21+01:00 INFO: Antenne Niedersachsen Deutsch: Wovon Sollen Wir Träumen -by- Frida Gold
+2017-02-09T03:30:22+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T03:34:22+01:00 INFO: Antenne Niedersachsen Deutsch: Tanz der Moleküle -by- MIA.
+2017-02-09T03:38:23+01:00 INFO: Antenne Niedersachsen Deutsch: Alles brennt -by- Johannes Oerding
+2017-02-09T03:42:23+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T03:46:24+01:00 INFO: Antenne Niedersachsen Deutsch: Unter deiner Flagge -by- Unheilig
+2017-02-09T03:50:24+01:00 INFO: Antenne Niedersachsen Deutsch: Mit Dir Chilln -by- Revolverheld
+2017-02-09T03:54:24+01:00 INFO: Antenne Niedersachsen Deutsch: STADT -by- CASSANDRA STEEN & ADEL TAWIL
+2017-02-09T03:57:25+01:00 INFO: Antenne Niedersachsen Deutsch: Geile Zeit -by- Juli
+2017-02-09T04:00:25+01:00 INFO: Antenne Niedersachsen Deutsch: Echt -by- Glasperlenspiel
+2017-02-09T04:03:25+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T04:07:26+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T04:10:26+01:00 INFO: Antenne Niedersachsen Deutsch: Was wenn alles gut geht -by- Laith Al-Deen
+2017-02-09T04:14:27+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T04:17:27+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn Worte meine Sprache wären -by- Tim Bendzko
+2017-02-09T04:20:27+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T04:23:28+01:00 INFO: Antenne Niedersachsen Deutsch: Cello (feat. Clueso) -by- Udo Lindenberg
+2017-02-09T04:27:28+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T04:30:29+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T04:34:29+01:00 INFO: Antenne Niedersachsen Deutsch: Krieger des Lichts -by- Silbermond
+2017-02-09T04:37:30+01:00 INFO: Antenne Niedersachsen Deutsch: Tag am Meer -by- Die Fantastischen Vier
+2017-02-09T04:41:31+01:00 INFO: Antenne Niedersachsen Deutsch: Pflaster -by- Ich + Ich
+2017-02-09T04:44:31+01:00 INFO: Antenne Niedersachsen Deutsch: 1.2.3.... -by- Bela B .feat. Charlotte Roche
+2017-02-09T04:47:32+01:00 INFO: Antenne Niedersachsen Deutsch: Spinner -by- Revolverheld
+2017-02-09T04:51:32+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T04:56:33+01:00 INFO: Antenne Niedersachsen Deutsch: Ich geh in Flammen auf -by- Rosenstolz
+2017-02-09T04:59:33+01:00 INFO: Antenne Niedersachsen Deutsch: Wir leben den Moment -by- Christina Stürmer
+2017-02-09T05:03:33+01:00 INFO: Antenne Niedersachsen Deutsch: Oft gefragt -by- AnnenMayKantereit
+2017-02-09T05:05:34+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T05:08:34+01:00 INFO: Antenne Niedersachsen Deutsch: Von hier an blind -by- Wir sind Helden
+2017-02-09T05:12:34+01:00 INFO: Antenne Niedersachsen Deutsch: Steine -by- Bosse
+2017-02-09T05:16:35+01:00 INFO: Antenne Niedersachsen Deutsch: Mensch -by- Herbert Grönemeyer
+2017-02-09T05:19:36+01:00 INFO: Antenne Niedersachsen Deutsch: DU WEIßT NICHT WAS DU WILLST -by- REVOVERHELD
+2017-02-09T05:23:36+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T05:27:37+01:00 INFO: Antenne Niedersachsen Deutsch: Hey -by- Andreas Bourani
+2017-02-09T05:31:37+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T05:34:38+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T05:38:38+01:00 INFO: Antenne Niedersachsen Deutsch: Halt dich an mir fest (feat. Marta Jandová) -by- Revolverheld
+2017-02-09T05:41:39+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T05:45:39+01:00 INFO: Antenne Niedersachsen Deutsch: Ich will nur dass du weißt (feat. Adel Tawil) -by- SDP
+2017-02-09T05:48:40+01:00 INFO: Antenne Niedersachsen Deutsch: Gib mir Sonne -by- Rosenstolz
+2017-02-09T05:52:40+01:00 INFO: Antenne Niedersachsen Deutsch: Bis ans Ende der Welt -by- Joris
+2017-02-09T05:55:40+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T05:59:41+01:00 INFO: Antenne Niedersachsen Deutsch: Regen und Meer -by- Juli
+2017-02-09T06:00:41+01:00 INFO: Antenne Niedersachsen Deutsch: Tage wie diese -by- Die Toten Hosen
+2017-02-09T06:04:41+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T06:08:42+01:00 INFO: Antenne Niedersachsen Deutsch: Nur ein Wort -by- Wir sind Helden
+2017-02-09T06:12:42+01:00 INFO: Antenne Niedersachsen Deutsch: Einmal um die Welt -by- Cro
+2017-02-09T06:14:42+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T06:18:45+01:00 INFO: Antenne Niedersachsen Deutsch: Schönste Zeit -by- Bosse
+2017-02-09T06:22:45+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T06:26:45+01:00 INFO: Antenne Niedersachsen Deutsch: Applaus, Applaus -by- Sportfreunde Stiller
+2017-02-09T06:29:46+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T06:33:46+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T06:37:46+01:00 INFO: Antenne Niedersachsen Deutsch: Diese Tage (feat. Dante Thomas) -by- Kris
+2017-02-09T06:40:47+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T06:44:47+01:00 INFO: Antenne Niedersachsen Deutsch: Millionen Lichter -by- Christina Stürmer
+2017-02-09T06:48:48+01:00 INFO: Antenne Niedersachsen Deutsch: Irgendwas bleibt -by- Silbermond
+2017-02-09T06:51:48+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe ist meine Rebellion -by- Frida Gold
+2017-02-09T06:55:48+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T06:59:49+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn jetzt Sommer wär -by- Pohlmann
+2017-02-09T07:02:49+01:00 INFO: Antenne Niedersachsen Deutsch: Nie vergessen -by- Glasperlenspiel
+2017-02-09T07:06:49+01:00 INFO: Antenne Niedersachsen Deutsch: Geile Zeit -by- Juli
+2017-02-09T07:10:50+01:00 INFO: Antenne Niedersachsen Deutsch: Allein allein -by- Polarkreis 18
+2017-02-09T07:14:50+01:00 INFO: Antenne Niedersachsen Deutsch: So oder so -by- Bosse
+2017-02-09T07:17:51+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T07:20:51+01:00 INFO: Antenne Niedersachsen Deutsch: Lieder -by- Adel Tawil
+2017-02-09T07:25:51+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T07:28:52+01:00 INFO: Antenne Niedersachsen Deutsch: Das kann uns keiner nehmen -by- Revolverheld
+2017-02-09T07:31:52+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T07:34:52+01:00 INFO: Antenne Niedersachsen Deutsch: Ich Lebe -by- Christina Stürmer
+2017-02-09T07:37:53+01:00 INFO: Antenne Niedersachsen Deutsch: Whatever -by- Cro
+2017-02-09T07:40:53+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T07:46:55+01:00 INFO: Antenne Niedersachsen Deutsch: New York, Rio, Rosenheim -by- Sportfreunde Stiller
+2017-02-09T07:49:56+01:00 INFO: Antenne Niedersachsen Deutsch: Ich bereue nichts -by- Silbermond
+2017-02-09T07:52:56+01:00 INFO: Antenne Niedersachsen Deutsch: Auf uns -by- Andreas Bourani
+2017-02-09T07:56:56+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T08:00:57+01:00 INFO: Antenne Niedersachsen Deutsch: M & F -by- Die Ärzte
+2017-02-09T08:04:57+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T08:07:57+01:00 INFO: Antenne Niedersachsen Deutsch: Ich bin ich (Wir sind wir) -by- Rosenstolz
+2017-02-09T08:10:57+01:00 INFO: Antenne Niedersachsen Deutsch: Zuhause -by- Adel Tawil
+2017-02-09T08:14:58+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T08:18:58+01:00 INFO: Antenne Niedersachsen Deutsch: Lass uns gehen -by- Revolverheld
+2017-02-09T08:22:59+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T08:25:59+01:00 INFO: Antenne Niedersachsen Deutsch: Herz über Kopf -by- Joris
+2017-02-09T08:29:59+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T08:33:00+01:00 INFO: Antenne Niedersachsen Deutsch: Das Beste -by- Silbermond
+2017-02-09T08:37:01+01:00 INFO: Antenne Niedersachsen Deutsch: Kommst Du mit ihr -by- Sarah Connor
+2017-02-09T08:41:01+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T08:44:02+01:00 INFO: Antenne Niedersachsen Deutsch: Auf anderen Wegen -by- Andreas Bourani
+2017-02-09T08:48:02+01:00 INFO: Antenne Niedersachsen Deutsch: Ein Kompliment -by- Sportfreunde Stiller
+2017-02-09T08:52:03+01:00 INFO: Antenne Niedersachsen Deutsch: Stimme -by- EFF
+2017-02-09T08:55:03+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T09:02:04+01:00 INFO: Antenne Niedersachsen Deutsch: Was wirklich bleibt -by- Christina Stürmer
+2017-02-09T09:05:05+01:00 INFO: Antenne Niedersachsen Deutsch: Tag am Meer -by- Die Fantastischen Vier
+2017-02-09T09:09:05+01:00 INFO: Antenne Niedersachsen Deutsch: Freunde Bleiben -by- Revolverheld
+2017-02-09T09:13:05+01:00 INFO: Antenne Niedersachsen Deutsch: Unsere Lieder -by- Adel Tawil
+2017-02-09T09:17:06+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T09:20:06+01:00 INFO: Antenne Niedersachsen Deutsch: Geiles Leben -by- Glasperlenspiel
+2017-02-09T09:24:06+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T09:27:07+01:00 INFO: Antenne Niedersachsen Deutsch: Wie schön du bist -by- Sarah Connor
+2017-02-09T09:31:07+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T09:35:07+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T09:39:08+01:00 INFO: Antenne Niedersachsen Deutsch: LEICHTES GEPÄCK -by- SILBERMOMD
+2017-02-09T09:42:08+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T09:46:08+01:00 INFO: Antenne Niedersachsen Deutsch: Bauch und Kopf -by- Mark Forster
+2017-02-09T09:49:09+01:00 INFO: Antenne Niedersachsen Deutsch: Von hier an blind -by- Wir sind Helden
+2017-02-09T09:53:09+01:00 INFO: Antenne Niedersachsen Deutsch: Das ist dein Leben -by- Philipp Dittberner
+2017-02-09T09:57:10+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T10:00:10+01:00 INFO: Antenne Niedersachsen Deutsch: Seite an Seite -by- Christina Stürmer
+2017-02-09T10:04:13+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T10:07:14+01:00 INFO: Antenne Niedersachsen Deutsch: Regen und Meer -by- Juli
+2017-02-09T10:11:15+01:00 INFO: Antenne Niedersachsen Deutsch: Musik sein -by- Wincent Weiss
+2017-02-09T10:14:15+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T10:18:16+01:00 INFO: Antenne Niedersachsen Deutsch: Keine Maschine -by- Tim Bendzko
+2017-02-09T10:22:16+01:00 INFO: Antenne Niedersachsen Deutsch: So soll es bleiben -by- Ich + Ich
+2017-02-09T10:25:16+01:00 INFO: Antenne Niedersachsen Deutsch: Das Leichteste der Welt -by- Silbermond
+2017-02-09T10:29:19+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T10:33:21+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T10:37:22+01:00 INFO: Antenne Niedersachsen Deutsch: Wir sind groß -by- Mark Forster
+2017-02-09T10:40:22+01:00 INFO: Antenne Niedersachsen Deutsch: Mensch -by- Herbert Grönemeyer
+2017-02-09T10:44:23+01:00 INFO: Antenne Niedersachsen Deutsch: Neuanfang -by- Clueso
+2017-02-09T10:47:24+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T10:51:24+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn sie tanzt -by- Max Giesinger
+2017-02-09T10:54:25+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T10:58:25+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T11:02:26+01:00 INFO: Antenne Niedersachsen Deutsch: Das Geschenk -by- Sportfreunde Stiller
+2017-02-09T11:05:26+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T11:09:26+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T11:12:27+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Hurra -by- Bosse
+2017-02-09T11:19:28+01:00 INFO: Antenne Niedersachsen Deutsch: Grosse Freiheit -by- Unheilig
+2017-02-09T11:24:29+01:00 INFO: Antenne Niedersachsen Deutsch: Vom selben Stern -by- Ich + Ich
+2017-02-09T11:27:29+01:00 INFO: Antenne Niedersachsen Deutsch: Chöre -by- Mark Forster
+2017-02-09T11:31:30+01:00 INFO: Antenne Niedersachsen Deutsch: Geile Zeit -by- Juli
+2017-02-09T11:34:30+01:00 INFO: Antenne Niedersachsen Deutsch: Junge -by- Die Ärzte
+2017-02-09T11:37:31+01:00 INFO: Antenne Niedersachsen Deutsch: Astronaut (feat. Andreas Bourani) -by- Sido
+2017-02-09T11:41:31+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T11:44:32+01:00 INFO: Antenne Niedersachsen Deutsch: Von Allein -by- Culcha Candela
+2017-02-09T11:48:32+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T11:52:33+01:00 INFO: Antenne Niedersachsen Deutsch: Am seidenen Faden -by- Tim Bendzko
+2017-02-09T11:56:33+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T12:00:34+01:00 INFO: Antenne Niedersachsen Deutsch: Freidrehen -by- Clueso
+2017-02-09T12:03:35+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T12:06:35+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T12:10:35+01:00 INFO: Antenne Niedersachsen Deutsch: Ja -by- Silbermond
+2017-02-09T12:14:36+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T12:17:38+01:00 INFO: Antenne Niedersachsen Deutsch: Als wär's das erste Mal -by- Unheilig
+2017-02-09T12:21:38+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T12:24:39+01:00 INFO: Antenne Niedersachsen Deutsch: Was wenn alles gut geht -by- Laith Al-Deen
+2017-02-09T12:28:39+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T12:31:39+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T12:34:40+01:00 INFO: Antenne Niedersachsen Deutsch: Ich glaub an Dich -by- Gregor Meyle
+2017-02-09T12:38:40+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T12:42:40+01:00 INFO: Antenne Niedersachsen Deutsch: Programmiert -by- Tim Bendzko
+2017-02-09T12:45:41+01:00 INFO: Antenne Niedersachsen Deutsch: Von hier an blind -by- Wir sind Helden
+2017-02-09T12:48:41+01:00 INFO: Antenne Niedersachsen Deutsch: Kartenhaus -by- Adel Tawil
+2017-02-09T12:52:41+01:00 INFO: Antenne Niedersachsen Deutsch: Tag am Meer -by- Die Fantastischen Vier
+2017-02-09T12:56:42+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T12:59:42+01:00 INFO: Antenne Niedersachsen Deutsch: Deine Nähe tut mir weh -by- Revolverheld
+2017-02-09T13:03:43+01:00 INFO: Antenne Niedersachsen Deutsch: Ultraleicht -by- Andreas Bourani
+2017-02-09T13:07:43+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T13:10:44+01:00 INFO: Antenne Niedersachsen Deutsch: Tanz der Moleküle -by- MIA.
+2017-02-09T13:14:45+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn du lebst -by- Johannes Oerding
+2017-02-09T13:18:45+01:00 INFO: Antenne Niedersachsen Deutsch: Mensch -by- Herbert Grönemeyer
+2017-02-09T13:22:46+01:00 INFO: Antenne Niedersachsen Deutsch: Traum -by- Cro
+2017-02-09T13:25:46+01:00 INFO: Antenne Niedersachsen Deutsch: ZIEH DIE SCHUH AUS -by- CICERO ROGER
+2017-02-09T13:29:47+01:00 INFO: Antenne Niedersachsen Deutsch: Au revoir -by- Mark Forster
+2017-02-09T13:32:47+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T13:36:48+01:00 INFO: Antenne Niedersachsen Deutsch: 1.2.3.... -by- Bela B .feat. Charlotte Roche
+2017-02-09T13:39:48+01:00 INFO: Antenne Niedersachsen Deutsch: UNTER DIE HAUT -by- TIM BENDZKO FT. CASSANDRA STEEN
+2017-02-09T13:43:48+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T13:47:49+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn Du liebst -by- Adel Tawil
+2017-02-09T13:51:50+01:00 INFO: Antenne Niedersachsen Deutsch: Gib mir Sonne -by- Rosenstolz
+2017-02-09T13:54:50+01:00 INFO: Antenne Niedersachsen Deutsch: Lieblingsmensch -by- Namika
+2017-02-09T13:57:50+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T14:01:51+01:00 INFO: Antenne Niedersachsen Deutsch: Geboren um zu leben -by- Unheilig
+2017-02-09T14:05:52+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T14:09:52+01:00 INFO: Antenne Niedersachsen Deutsch: Allein allein -by- Polarkreis 18
+2017-02-09T14:13:52+01:00 INFO: Antenne Niedersachsen Deutsch: Bye Bye -by- Cro
+2017-02-09T14:16:53+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T14:20:53+01:00 INFO: Antenne Niedersachsen Deutsch: Nur in meinem Kopf -by- Andreas Bourani
+2017-02-09T14:24:54+01:00 INFO: Antenne Niedersachsen Deutsch: Ein Kompliment -by- Sportfreunde Stiller
+2017-02-09T14:28:54+01:00 INFO: Antenne Niedersachsen Deutsch: Wovon Sollen Wir Träumen -by- Frida Gold
+2017-02-09T14:32:55+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T14:36:57+01:00 INFO: Antenne Niedersachsen Deutsch: Ich Lebe -by- Christina Stürmer
+2017-02-09T14:39:57+01:00 INFO: Antenne Niedersachsen Deutsch: Nur noch kurz die Welt retten -by- Tim Bendzko
+2017-02-09T14:42:57+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T14:46:58+01:00 INFO: Antenne Niedersachsen Deutsch: Himmel auf -by- Silbermond
+2017-02-09T14:50:59+01:00 INFO: Antenne Niedersachsen Deutsch: Ich geh in Flammen auf -by- Rosenstolz
+2017-02-09T14:53:59+01:00 INFO: Antenne Niedersachsen Deutsch: Universum -by- Ich + Ich
+2017-02-09T14:57:59+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T15:02:00+01:00 INFO: Antenne Niedersachsen Deutsch: Alles brennt -by- Johannes Oerding
+2017-02-09T15:05:00+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T15:09:01+01:00 INFO: Antenne Niedersachsen Deutsch: Nur ein Wort -by- Wir sind Helden
+2017-02-09T15:13:01+01:00 INFO: Antenne Niedersachsen Deutsch: Echt -by- Glasperlenspiel
+2017-02-09T15:17:02+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T15:20:02+01:00 INFO: Antenne Niedersachsen Deutsch: Cello (feat. Clueso) -by- Udo Lindenberg
+2017-02-09T15:24:02+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T15:27:03+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn Worte meine Sprache wären -by- Tim Bendzko
+2017-02-09T15:30:04+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T15:34:05+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T15:37:05+01:00 INFO: Antenne Niedersachsen Deutsch: Krieger des Lichts -by- Silbermond
+2017-02-09T15:40:06+01:00 INFO: Antenne Niedersachsen Deutsch: Tag am Meer -by- Die Fantastischen Vier
+2017-02-09T15:44:06+01:00 INFO: Antenne Niedersachsen Deutsch: STADT -by- CASSANDRA STEEN & ADEL TAWIL
+2017-02-09T15:47:07+01:00 INFO: Antenne Niedersachsen Deutsch: Gib mir Sonne -by- Rosenstolz
+2017-02-09T15:51:07+01:00 INFO: Antenne Niedersachsen Deutsch: Spinner -by- Revolverheld
+2017-02-09T15:54:09+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T16:00:10+01:00 INFO: Antenne Niedersachsen Deutsch: Oft gefragt -by- AnnenMayKantereit
+2017-02-09T16:03:10+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T16:07:11+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T16:10:11+01:00 INFO: Antenne Niedersachsen Deutsch: Steine -by- Bosse
+2017-02-09T16:13:12+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T16:17:12+01:00 INFO: Antenne Niedersachsen Deutsch: DU WEIßT NICHT WAS DU WILLST -by- REVOVERHELD
+2017-02-09T16:22:13+01:00 INFO: Antenne Niedersachsen Deutsch: Irgendwas bleibt -by- Silbermond
+2017-02-09T16:25:13+01:00 INFO: Antenne Niedersachsen Deutsch: Hey -by- Andreas Bourani
+2017-02-09T16:29:13+01:00 INFO: Antenne Niedersachsen Deutsch: Geile Zeit -by- Juli
+2017-02-09T16:32:14+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T16:36:14+01:00 INFO: Antenne Niedersachsen Deutsch: Pflaster -by- Ich + Ich
+2017-02-09T16:39:15+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T16:43:15+01:00 INFO: Antenne Niedersachsen Deutsch: Halt dich an mir fest (feat. Marta Jandová) -by- Revolverheld
+2017-02-09T16:46:15+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T16:49:16+01:00 INFO: Antenne Niedersachsen Deutsch: Bis ans Ende der Welt -by- Joris
+2017-02-09T16:52:16+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T16:55:16+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T16:59:16+01:00 INFO: Antenne Niedersachsen Deutsch: Still -by- Jupiter Jones
+2017-02-09T17:03:17+01:00 INFO: Antenne Niedersachsen Deutsch: Tage wie diese -by- Die Toten Hosen
+2017-02-09T17:08:17+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T17:11:18+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn jetzt Sommer wär -by- Pohlmann
+2017-02-09T17:15:18+01:00 INFO: Antenne Niedersachsen Deutsch: M & F -by- Die Ärzte
+2017-02-09T17:18:19+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T17:23:19+01:00 INFO: Antenne Niedersachsen Deutsch: Einmal um die Welt -by- Cro
+2017-02-09T17:25:19+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T17:29:20+01:00 INFO: Antenne Niedersachsen Deutsch: Ich will nur dass du weißt (feat. Adel Tawil) -by- SDP
+2017-02-09T17:32:20+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T17:36:20+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T17:39:21+01:00 INFO: Antenne Niedersachsen Deutsch: Diese Tage (feat. Dante Thomas) -by- Kris
+2017-02-09T17:43:21+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T17:46:22+01:00 INFO: Antenne Niedersachsen Deutsch: Schönste Zeit -by- Bosse
+2017-02-09T17:50:24+01:00 INFO: Antenne Niedersachsen Deutsch: Von hier an blind -by- Wir sind Helden
+2017-02-09T17:53:24+01:00 INFO: Antenne Niedersachsen Deutsch: Applaus, Applaus -by- Sportfreunde Stiller
+2017-02-09T17:56:25+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T18:00:25+01:00 INFO: Antenne Niedersachsen Deutsch: Millionen Lichter -by- Christina Stürmer
+2017-02-09T18:03:26+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T18:07:27+01:00 INFO: Antenne Niedersachsen Deutsch: Ich bin ich (Wir sind wir) -by- Rosenstolz
+2017-02-09T18:11:28+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe ist meine Rebellion -by- Frida Gold
+2017-02-09T18:14:29+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T18:18:30+01:00 INFO: Antenne Niedersachsen Deutsch: Nie vergessen -by- Glasperlenspiel
+2017-02-09T18:22:32+01:00 INFO: Antenne Niedersachsen Deutsch: Die Eine 2005 -by- Die Firma
+2017-02-09T18:26:33+01:00 INFO: Antenne Niedersachsen Deutsch: Das kann uns keiner nehmen -by- Revolverheld
+2017-02-09T18:29:33+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T18:33:34+01:00 INFO: Antenne Niedersachsen Deutsch: Dieses Leben -by- Juli
+2017-02-09T18:37:35+01:00 INFO: Antenne Niedersachsen Deutsch: So oder so -by- Bosse
+2017-02-09T18:40:36+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T18:43:36+01:00 INFO: Antenne Niedersachsen Deutsch: Lieder -by- Adel Tawil
+2017-02-09T18:47:37+01:00 INFO: Antenne Niedersachsen Deutsch: Soll das alles sein? -by- Fettes Brot
+2017-02-09T18:52:38+01:00 INFO: Antenne Niedersachsen Deutsch: Whatever -by- Cro
+2017-02-09T18:54:38+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T18:58:38+01:00 INFO: Antenne Niedersachsen Deutsch: Wenn jetzt Sommer wär -by- Pohlmann
+2017-02-09T19:02:39+01:00 INFO: Antenne Niedersachsen Deutsch: Auf uns -by- Andreas Bourani
+2017-02-09T19:06:39+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T19:10:40+01:00 INFO: Antenne Niedersachsen Deutsch: ZIEH DIE SCHUH AUS -by- CICERO ROGER
+2017-02-09T19:13:40+01:00 INFO: Antenne Niedersachsen Deutsch: Flash mich -by- Mark Forster
+2017-02-09T19:16:40+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T19:20:41+01:00 INFO: Antenne Niedersachsen Deutsch: Lass uns gehen -by- Revolverheld
+2017-02-09T19:24:41+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T19:27:41+01:00 INFO: Antenne Niedersachsen Deutsch: Herz über Kopf -by- Joris
+2017-02-09T19:31:42+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T19:34:42+01:00 INFO: Antenne Niedersachsen Deutsch: Nur ein Wort -by- Wir sind Helden
+2017-02-09T19:38:43+01:00 INFO: Antenne Niedersachsen Deutsch: Zuhause -by- Adel Tawil
+2017-02-09T19:42:43+01:00 INFO: Antenne Niedersachsen Deutsch: Mensch -by- Herbert Grönemeyer
+2017-02-09T19:46:44+01:00 INFO: Antenne Niedersachsen Deutsch: Kommst Du mit ihr -by- Sarah Connor
+2017-02-09T19:49:44+01:00 INFO: Antenne Niedersachsen Deutsch: Lasse redn -by- Die Ärzte
+2017-02-09T19:52:45+01:00 INFO: Antenne Niedersachsen Deutsch: Wolke 4 -by- Philipp Dittberner & Marv
+2017-02-09T19:55:45+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T19:59:45+01:00 INFO: Antenne Niedersachsen Deutsch: Ein Kompliment -by- Sportfreunde Stiller
+2017-02-09T20:03:46+01:00 INFO: Antenne Niedersachsen Deutsch: Stimme -by- EFF
+2017-02-09T20:06:46+01:00 INFO: Antenne Niedersachsen Deutsch: Geile Zeit -by- Juli
+2017-02-09T20:10:47+01:00 INFO: Antenne Niedersachsen Deutsch: Mit Dir Chilln -by- Revolverheld
+2017-02-09T20:14:47+01:00 INFO: Antenne Niedersachsen Deutsch: Was wirklich bleibt -by- Christina Stürmer
+2017-02-09T20:17:47+01:00 INFO: Antenne Niedersachsen Deutsch: Liebe Ist Alles -by- Rosenstolz
+2017-02-09T20:21:48+01:00 INFO: Antenne Niedersachsen Deutsch: Geiles Leben -by- Glasperlenspiel
+2017-02-09T20:24:48+01:00 INFO: Antenne Niedersachsen Deutsch: Allein allein -by- Polarkreis 18
+2017-02-09T20:28:49+01:00 INFO: Antenne Niedersachsen Deutsch: Unsere Lieder -by- Adel Tawil
+2017-02-09T20:33:49+01:00 INFO: Antenne Niedersachsen Deutsch: Denkmal -by- Wir sind Helden
+2017-02-09T20:36:50+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T20:39:50+01:00 INFO: Antenne Niedersachsen Deutsch: Wie schön du bist -by- Sarah Connor
+2017-02-09T20:43:51+01:00 INFO: Antenne Niedersachsen Deutsch: HIER KOMMT DIE MAUS -by- STEFAN RAAB
+2017-02-09T20:46:53+01:00 INFO: Antenne Niedersachsen Deutsch: Das ist dein Leben -by- Philipp Dittberner
+2017-02-09T20:49:53+01:00 INFO: Antenne Niedersachsen Deutsch: 1.2.3.... -by- Bela B .feat. Charlotte Roche
+2017-02-09T20:52:57+01:00 INFO: Antenne Niedersachsen Deutsch: Bauch und Kopf -by- Mark Forster
+2017-02-09T20:56:57+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T21:00:58+01:00 INFO: Antenne Niedersachsen Deutsch: 80 Millionen -by- Max Giesinger
+2017-02-09T21:03:58+01:00 INFO: Antenne Niedersachsen Deutsch: Liebes Lied -by- Absolute Beginner
+2017-02-09T21:07:59+01:00 INFO: Antenne Niedersachsen Deutsch: Ich geh in Flammen auf -by- Rosenstolz
+2017-02-09T21:10:59+01:00 INFO: Antenne Niedersachsen Deutsch: Seite an Seite -by- Christina Stürmer
+2017-02-09T21:15:00+01:00 INFO: Antenne Niedersachsen Deutsch: Tag am Meer -by- Die Fantastischen Vier
+2017-02-09T21:18:01+01:00 INFO: Antenne Niedersachsen Deutsch: Musik sein -by- Wincent Weiss
+2017-02-09T21:22:02+01:00 INFO: Antenne Niedersachsen Deutsch: Stark -by- Ich + Ich
+2017-02-09T21:26:02+01:00 INFO: Antenne Niedersachsen Deutsch: Keine Maschine -by- Tim Bendzko
+2017-02-09T21:29:03+01:00 INFO: Antenne Niedersachsen Deutsch: A-N-N-A -by- Freundeskreis
+2017-02-09T21:35:07+01:00 INFO: Antenne Niedersachsen Deutsch: Nur ein Wort -by- Wir sind Helden
+2017-02-09T21:38:09+01:00 INFO: Antenne Niedersachsen Deutsch: Neuanfang -by- Clueso
+2017-02-09T21:41:09+01:00 INFO: Antenne Niedersachsen Deutsch: Perfekte Welle -by- Juli
+2017-02-09T21:45:09+01:00 INFO: Antenne Niedersachsen Deutsch: Wir sind groß -by- Mark Forster
+2017-02-09T21:48:10+01:00 INFO: Antenne Niedersachsen Deutsch: Haus am See -by- Peter Fox
+2017-02-09T21:52:11+01:00 INFO: Antenne Niedersachsen Deutsch: Das Leichteste der Welt -by- Silbermond
+2017-02-09T21:55:11+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T21:59:12+01:00 INFO: Antenne Niedersachsen Deutsch: Ding -by- Seeed
+2017-02-09T22:03:13+01:00 INFO: Antenne Niedersachsen Deutsch: ICH & DU -by- GESTÖRT ABER GEIL
+2017-02-09T22:06:14+01:00 INFO: Antenne Niedersachsen Deutsch: Der Weg -by- Herbert Grönemeyer
+2017-02-09T22:10:14+01:00 INFO: Antenne Niedersachsen Deutsch: Freunde Bleiben -by- Revolverheld
+2017-02-09T22:14:15+01:00 INFO: Antenne Niedersachsen Deutsch: Das Geschenk -by- Sportfreunde Stiller
+2017-02-09T22:18:17+01:00 INFO: Antenne Niedersachsen Deutsch: Kein Zurück -by- Wolfsheim
+2017-02-09T22:21:17+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Hurra -by- Bosse
+2017-02-09T22:25:18+01:00 INFO: Antenne Niedersachsen Deutsch: So soll es bleiben -by- Ich + Ich
+2017-02-09T22:29:19+01:00 INFO: Antenne Niedersachsen Deutsch: Grosse Freiheit -by- Unheilig
+2017-02-09T22:33:20+01:00 INFO: Antenne Niedersachsen Deutsch: Sie ist weg -by- Die Fantastischen Vier
+2017-02-09T22:36:20+01:00 INFO: Antenne Niedersachsen Deutsch: Zerrissen -by- Juli
+2017-02-09T22:40:21+01:00 INFO: Antenne Niedersachsen Deutsch: Chöre -by- Mark Forster
+2017-02-09T22:43:21+01:00 INFO: Antenne Niedersachsen Deutsch: Bilder von dir -by- Laith Al-Deen
+2017-02-09T22:47:22+01:00 INFO: Antenne Niedersachsen Deutsch: Astronaut (feat. Andreas Bourani) -by- Sido
+2017-02-09T22:50:25+01:00 INFO: Antenne Niedersachsen Deutsch: Ich bereue nichts -by- Silbermond
+2017-02-09T22:53:26+01:00 INFO: Antenne Niedersachsen Deutsch: Von Allein -by- Culcha Candela
+2017-02-09T22:57:26+01:00 INFO: Antenne Niedersachsen Deutsch: Du trägst keine Liebe in dir -by- Echt
+2017-02-09T23:01:27+01:00 INFO: Antenne Niedersachsen Deutsch: Ich lass für dich das Licht an -by- Revolverheld
+2017-02-09T23:04:28+01:00 INFO: Antenne Niedersachsen Deutsch: MÄNNER SIND SCHWEINE -by- ÄRZTE
+2017-02-09T23:09:28+01:00 INFO: Antenne Niedersachsen Deutsch: Ein Kompliment -by- Sportfreunde Stiller
+2017-02-09T23:13:29+01:00 INFO: Antenne Niedersachsen Deutsch: Freidrehen -by- Clueso
+2017-02-09T23:16:30+01:00 INFO: Antenne Niedersachsen Deutsch: DEMO(LETZTER TAG) -by- Herbert Grönemeyer
+2017-02-09T23:19:30+01:00 INFO: Antenne Niedersachsen Deutsch: Als wär's das erste Mal -by- Unheilig
+2017-02-09T23:23:30+01:00 INFO: Antenne Niedersachsen Deutsch: Ich Lebe -by- Christina Stürmer
+2017-02-09T23:26:46+01:00 INFO: Antenne Niedersachsen Deutsch: Ich glaub an Dich -by- Gregor Meyle
+2017-02-09T23:29:46+01:00 INFO: Antenne Niedersachsen Deutsch: ANYPLACE, ANYWHERE, ANYTIME -by- NENA & KIM WILD
+2017-02-09T23:33:47+01:00 INFO: Antenne Niedersachsen Deutsch: Du erinnerst mich an Liebe -by- Ich + Ich
+2017-02-09T23:37:48+01:00 INFO: Antenne Niedersachsen Deutsch: Kartenhaus -by- Adel Tawil
+2017-02-09T23:41:50+01:00 INFO: Antenne Niedersachsen Deutsch: Symphonie -by- Silbermond
+2017-02-09T23:44:50+01:00 INFO: Antenne Niedersachsen Deutsch: Ultraleicht -by- Andreas Bourani
+2017-02-09T23:48:51+01:00 INFO: Antenne Niedersachsen Deutsch: Niemand vermisst uns -by- Bosse
+2017-02-09T23:52:51+01:00 INFO: Antenne Niedersachsen Deutsch: Programmiert -by- Tim Bendzko
+2017-02-09T23:55:52+01:00 INFO: Antenne Niedersachsen Deutsch: Dein Lied -by- Laith Al-Deen
+2017-02-09T23:59:53+01:00 INFO: Antenne Niedersachsen Deutsch: Junge -by- Die Ärzte

@@ -1,0 +1,12 @@
+2017-02-11T08:37:57+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Rock
+2017-02-11T08:54:02+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Oldies
+2017-02-11T09:51:05+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Feel Good
+2017-02-11T11:50:34+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Schlager
+2017-02-11T11:50:35+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen X-Mas
+2017-02-11T12:30:38+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Relax
+2017-02-11T12:30:39+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Love
+2017-02-11T13:00:48+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen Deutsch
+2017-02-11T13:35:56+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Niedersachsen On Air
+2017-02-11T14:37:51+01:00 INFO: Stop Analyzing Radio stations
+2017-02-11T14:38:35+01:00 INFO: Start Analyzing Radio stations
+2017-02-11T15:45:59+01:00 INFO: Error 503 Service Unavailable, FAILED scraping from Antenne Oldies

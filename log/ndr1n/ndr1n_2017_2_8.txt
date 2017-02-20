@@ -1,0 +1,290 @@
+2017-02-08T00:07:02+01:00 INFO: NDR 1 Niedersachsen: You win again -by- Bee Gees
+2017-02-08T00:09:02+01:00 INFO: NDR 1 Niedersachsen: I feel lonely -by- Sasha
+2017-02-08T00:14:03+01:00 INFO: NDR 1 Niedersachsen: If paradise is half as nice -by- Amen Corner
+2017-02-08T00:17:03+01:00 INFO: NDR 1 Niedersachsen: Auf uns -by- Andreas Bourani
+2017-02-08T00:20:03+01:00 INFO: NDR 1 Niedersachsen: Take a chance on me -by- Abba
+2017-02-08T00:24:03+01:00 INFO: NDR 1 Niedersachsen: Listen to the music -by- The Doobie Brothers
+2017-02-08T00:28:04+01:00 INFO: NDR 1 Niedersachsen: The harder I try -by- Brother Beyond
+2017-02-08T00:33:04+01:00 INFO: NDR 1 Niedersachsen: Reality -by- Lost Frequencies feat. Janieck Devy
+2017-02-08T00:35:04+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t play your Rock&#39;n&#39;Roll to me -by- Smokie
+2017-02-08T00:38:05+01:00 INFO: NDR 1 Niedersachsen: Everlasting love -by- The Love Affair
+2017-02-08T00:42:05+01:00 INFO: NDR 1 Niedersachsen: Wenn sie tanzt -by- Max Giesinger
+2017-02-08T00:45:05+01:00 INFO: NDR 1 Niedersachsen: Cambodia -by- Kim Wilde
+2017-02-08T00:49:06+01:00 INFO: NDR 1 Niedersachsen: I hear you knocking -by- Dave Edmunds
+2017-02-08T00:52:06+01:00 INFO: NDR 1 Niedersachsen: I want to break free -by- Queen
+2017-02-08T00:56:06+01:00 INFO: NDR 1 Niedersachsen: Postcards from heaven -by- Lighthouse Family
+2017-02-08T01:07:07+01:00 INFO: NDR 1 Niedersachsen: Gonna get along without you now -by- Viola Wills
+2017-02-08T01:10:07+01:00 INFO: NDR 1 Niedersachsen: Feel -by- Robbie Williams
+2017-02-08T01:14:08+01:00 INFO: NDR 1 Niedersachsen: New YorkRioTokyo -by- Trio Rio
+2017-02-08T01:17:08+01:00 INFO: NDR 1 Niedersachsen: Gib mir Sonne -by- Rosenstolz
+2017-02-08T01:21:08+01:00 INFO: NDR 1 Niedersachsen: A whiter shade of pale -by- Procol Harum
+2017-02-08T01:24:08+01:00 INFO: NDR 1 Niedersachsen: Dancing in the city -by- Marshall-Hain
+2017-02-08T01:29:09+01:00 INFO: NDR 1 Niedersachsen: Maniac -by- Michael Sembello
+2017-02-08T01:32:09+01:00 INFO: NDR 1 Niedersachsen: More than a woman -by- Tavares
+2017-02-08T01:35:09+01:00 INFO: NDR 1 Niedersachsen: I want it that way -by- Backstreet Boys
+2017-02-08T01:38:09+01:00 INFO: NDR 1 Niedersachsen: The longest time -by- Billy Joel
+2017-02-08T01:41:10+01:00 INFO: NDR 1 Niedersachsen: Stimmen im Wind -by- Juliane Werding
+2017-02-08T01:44:10+01:00 INFO: NDR 1 Niedersachsen: (What a) Wonderful world -by- Sam Cooke
+2017-02-08T01:47:10+01:00 INFO: NDR 1 Niedersachsen: That don&#39;t impress me much -by- Shania Twain
+2017-02-08T01:51:10+01:00 INFO: NDR 1 Niedersachsen: One of these nights -by- Eagles
+2017-02-08T01:57:11+01:00 INFO: NDR 1 Niedersachsen: Down under -by- Men At Work
+2017-02-08T02:06:11+01:00 INFO: NDR 1 Niedersachsen: Oh Julie -by- Shakin&#39; Stevens
+2017-02-08T02:09:11+01:00 INFO: NDR 1 Niedersachsen: This old heart of mine -by- Rod Stewart
+2017-02-08T02:13:12+01:00 INFO: NDR 1 Niedersachsen: I&#39;m a believer -by- Monkees
+2017-02-08T02:16:12+01:00 INFO: NDR 1 Niedersachsen: Irgendwie, irgendwo, irgendwann -by- Nena
+2017-02-08T02:20:12+01:00 INFO: NDR 1 Niedersachsen: Jolene -by- The BossHoss feat. The Common Linnets
+2017-02-08T02:24:13+01:00 INFO: NDR 1 Niedersachsen: Song on the radio -by- Al Stewart
+2017-02-08T02:29:13+01:00 INFO: NDR 1 Niedersachsen: Wouldn&#39;t it be good -by- Nik Kershaw
+2017-02-08T02:34:13+01:00 INFO: NDR 1 Niedersachsen: I promised myself -by- Nick Kamen
+2017-02-08T02:38:14+01:00 INFO: NDR 1 Niedersachsen: Give A Little Love -by- Bay City Rollers
+2017-02-08T02:41:14+01:00 INFO: NDR 1 Niedersachsen: Ha! Ha! Said the clown -by- Manfred Mann
+2017-02-08T02:44:14+01:00 INFO: NDR 1 Niedersachsen: Streicheleinheiten -by- Peter Cornelius
+2017-02-08T02:48:14+01:00 INFO: NDR 1 Niedersachsen: Ladies night -by- Kool &amp; The Gang
+2017-02-08T02:51:14+01:00 INFO: NDR 1 Niedersachsen: You&#39;re so vain -by- Carly Simon
+2017-02-08T02:55:15+01:00 INFO: NDR 1 Niedersachsen: I&#39;ll be your baby tonight -by- Robert Palmer
+2017-02-08T02:58:15+01:00 INFO: NDR 1 Niedersachsen: El mismo sol -by- Alvaro Soler
+2017-02-08T03:07:15+01:00 INFO: NDR 1 Niedersachsen: Driver&#39;s seat -by- Sniff&#39;n&#39;The Tears
+2017-02-08T03:11:16+01:00 INFO: NDR 1 Niedersachsen: Fool (If you think it&#39;s over) -by- Chris Rea
+2017-02-08T03:15:16+01:00 INFO: NDR 1 Niedersachsen: A night like this -by- Caro Emerald
+2017-02-08T03:21:16+01:00 INFO: NDR 1 Niedersachsen: Dein Lied -by- Laith Al-Deen
+2017-02-08T03:24:17+01:00 INFO: NDR 1 Niedersachsen: To love somebody -by- Jackie DeShannon
+2017-02-08T03:27:17+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t give up -by- Peter Gabriel
+2017-02-08T03:33:17+01:00 INFO: NDR 1 Niedersachsen: Have you ever seen the rain? -by- Creedence Clearwater Revival
+2017-02-08T03:34:17+01:00 INFO: NDR 1 Niedersachsen: Fool (If you think it&#39;s over) -by- Chris Rea
+2017-02-08T03:35:17+01:00 INFO: NDR 1 Niedersachsen: Driver&#39;s seat -by- Sniff&#39;n&#39;The Tears
+2017-02-08T03:37:18+01:00 INFO: NDR 1 Niedersachsen: If not for you -by- Olivia Newton-John
+2017-02-08T03:39:18+01:00 INFO: NDR 1 Niedersachsen: I can&#39;t dance -by- Genesis
+2017-02-08T03:44:18+01:00 INFO: NDR 1 Niedersachsen: Kein Schwein ruft mich an -by- Max Raabe und das Palast Orchester
+2017-02-08T03:47:18+01:00 INFO: NDR 1 Niedersachsen: Blue velvet -by- Bobby Vinton
+2017-02-08T03:50:18+01:00 INFO: NDR 1 Niedersachsen: Fool (If you think it&#39;s over) -by- Chris Rea
+2017-02-08T03:51:18+01:00 INFO: NDR 1 Niedersachsen: Driver&#39;s seat -by- Sniff&#39;n&#39;The Tears
+2017-02-08T03:52:18+01:00 INFO: NDR 1 Niedersachsen: Un&#39;emozione per sempre -by- Eros Ramazzotti
+2017-02-08T03:53:19+01:00 INFO: NDR 1 Niedersachsen: I like Chopin -by- Gazebo
+2017-02-08T03:57:19+01:00 INFO: NDR 1 Niedersachsen: Emma -by- Hot Chocolate
+2017-02-08T04:06:19+01:00 INFO: NDR 1 Niedersachsen: We are family -by- Sister Sledge
+2017-02-08T04:10:20+01:00 INFO: NDR 1 Niedersachsen: Kiss you all over -by- Exile
+2017-02-08T04:14:20+01:00 INFO: NDR 1 Niedersachsen: Eight days a week -by- Beatles
+2017-02-08T04:16:20+01:00 INFO: NDR 1 Niedersachsen: Ich hab&#39; getr&auml;umt von dir -by- Matthias Reim
+2017-02-08T04:20:20+01:00 INFO: NDR 1 Niedersachsen: Can&#39;t fight the moonlight (Theme) -by- LeAnn Rimes
+2017-02-08T04:24:21+01:00 INFO: NDR 1 Niedersachsen: Walk of life -by- Dire Straits
+2017-02-08T04:29:21+01:00 INFO: NDR 1 Niedersachsen: Kissin&#39; in the back row of the movies -by- Drifters
+2017-02-08T04:32:21+01:00 INFO: NDR 1 Niedersachsen: Never let her slip away -by- Undercover
+2017-02-08T04:36:21+01:00 INFO: NDR 1 Niedersachsen: Rhinestone cowboy -by- Glen Campbell
+2017-02-08T04:39:21+01:00 INFO: NDR 1 Niedersachsen: Where did our love go -by- Diana Ross &amp; The Supremes
+2017-02-08T04:42:22+01:00 INFO: NDR 1 Niedersachsen: What&#39;s love got to do with it -by- Tina Turner
+2017-02-08T04:46:22+01:00 INFO: NDR 1 Niedersachsen: Echt -by- Glasperlenspiel
+2017-02-08T04:49:22+01:00 INFO: NDR 1 Niedersachsen: Song sung blue -by- Neil Diamond
+2017-02-08T04:52:22+01:00 INFO: NDR 1 Niedersachsen: Billie Jean -by- Michael Jackson
+2017-02-08T04:58:23+01:00 INFO: NDR 1 Niedersachsen: Bad day -by- Daniel Powter
+2017-02-08T05:04:23+01:00 INFO: NDR 1 Niedersachsen: EL TEMPERAMENTO -by- MARQUESS
+2017-02-08T05:05:23+01:00 INFO: NDR 1 Niedersachsen: Good thing -by- Fine Young Cannibals
+2017-02-08T05:09:23+01:00 INFO: NDR 1 Niedersachsen: Quit playing games (with my heart) -by- Backstreet Boys
+2017-02-08T05:13:24+01:00 INFO: NDR 1 Niedersachsen: You&#39;re the first, the last, my everything -by- Barry White
+2017-02-08T05:16:24+01:00 INFO: NDR 1 Niedersachsen: Herz &uuml;ber Kopf -by- Joris
+2017-02-08T05:22:24+01:00 INFO: NDR 1 Niedersachsen: Far far away -by- Slade
+2017-02-08T05:26:24+01:00 INFO: NDR 1 Niedersachsen: All I wanna do -by- Sheryl Crow
+2017-02-08T05:34:25+01:00 INFO: NDR 1 Niedersachsen: Never can say goodbye -by- Gloria Gaynor
+2017-02-08T05:37:25+01:00 INFO: NDR 1 Niedersachsen: Breakfast in America -by- Supertramp
+2017-02-08T05:42:25+01:00 INFO: NDR 1 Niedersachsen: Howling at the moon -by- Milow
+2017-02-08T05:45:26+01:00 INFO: NDR 1 Niedersachsen: Bruttosozialprodukt -by- Geier Sturzflug
+2017-02-08T05:48:26+01:00 INFO: NDR 1 Niedersachsen: It&#39;s alright (Baby&#39;s coming back) -by- Eurythmics
+2017-02-08T05:53:26+01:00 INFO: NDR 1 Niedersachsen: You win again -by- Bee Gees
+2017-02-08T05:55:26+01:00 INFO: NDR 1 Niedersachsen: Yellow boomerang -by- Middle Of The Road
+2017-02-08T05:57:26+01:00 INFO: NDR 1 Niedersachsen: You drive me crazy -by- Shakin&#39; Stevens
+2017-02-08T06:07:27+01:00 INFO: NDR 1 Niedersachsen: Needles and pins -by- Smokie
+2017-02-08T06:09:27+01:00 INFO: NDR 1 Niedersachsen: Stark -by- Ich + Ich
+2017-02-08T06:16:27+01:00 INFO: NDR 1 Niedersachsen: New YorkRioTokyo -by- Trio Rio
+2017-02-08T06:19:28+01:00 INFO: NDR 1 Niedersachsen: Sometimes -by- Erasure
+2017-02-08T06:24:28+01:00 INFO: NDR 1 Niedersachsen: Marvin Gaye -by- Charlie Puth feat. Meghan Trainor
+2017-02-08T06:27:28+01:00 INFO: NDR 1 Niedersachsen: Drivin&#39; my life away -by- Eddie Rabbitt
+2017-02-08T06:35:29+01:00 INFO: NDR 1 Niedersachsen: Angeleyes -by- Abba
+2017-02-08T06:39:29+01:00 INFO: NDR 1 Niedersachsen: 99 Luftballons (Neunundneunzig Luftballons) -by- Nena
+2017-02-08T06:45:29+01:00 INFO: NDR 1 Niedersachsen: Co-Co (Coco) -by- The Sweet
+2017-02-08T06:47:29+01:00 INFO: NDR 1 Niedersachsen: She&#39;s a lady -by- Tom Jones
+2017-02-08T06:50:30+01:00 INFO: NDR 1 Niedersachsen: Der Kaffee ist fertig... -by- Peter Cornelius
+2017-02-08T06:56:30+01:00 INFO: NDR 1 Niedersachsen: Stir it up -by- The Black Sorrows
+2017-02-08T07:07:31+01:00 INFO: NDR 1 Niedersachsen: Sir Duke -by- Stevie Wonder
+2017-02-08T07:10:31+01:00 INFO: NDR 1 Niedersachsen: Mann im Mond -by- Die Prinzen
+2017-02-08T07:16:32+01:00 INFO: NDR 1 Niedersachsen: Motorcycle mama -by- Harpo
+2017-02-08T07:19:32+01:00 INFO: NDR 1 Niedersachsen: Una notte speciale -by- Alice
+2017-02-08T07:26:32+01:00 INFO: NDR 1 Niedersachsen: Remember (sha la la la) -by- Bay City Rollers
+2017-02-08T07:28:32+01:00 INFO: NDR 1 Niedersachsen: Lucille -by- Kenny Rogers
+2017-02-08T07:35:33+01:00 INFO: NDR 1 Niedersachsen: Ma Baker -by- Boney M.
+2017-02-08T07:39:33+01:00 INFO: NDR 1 Niedersachsen: Bedingungslos -by- Sarah Connor
+2017-02-08T07:46:33+01:00 INFO: NDR 1 Niedersachsen: Kokomo -by- The Beach Boys
+2017-02-08T07:49:34+01:00 INFO: NDR 1 Niedersachsen: Every Time You Go Away -by- Paul Young
+2017-02-08T07:56:34+01:00 INFO: NDR 1 Niedersachsen: I should be so lucky -by- Kylie Minogue
+2017-02-08T08:13:35+01:00 INFO: NDR 1 Niedersachsen: Crocodile Rock -by- Elton John
+2017-02-08T08:16:35+01:00 INFO: NDR 1 Niedersachsen: Wenn nicht jetzt, wann dann? -by- De H&ouml;hner
+2017-02-08T08:21:35+01:00 INFO: NDR 1 Niedersachsen: Diana -by- Paul Anka
+2017-02-08T08:24:36+01:00 INFO: NDR 1 Niedersachsen: Only you -by- Yazoo
+2017-02-08T08:28:36+01:00 INFO: NDR 1 Niedersachsen: Tired of toein&#39; the line -by- Rocky Burnette
+2017-02-08T08:36:36+01:00 INFO: NDR 1 Niedersachsen: Got my mind set on you -by- George Harrison
+2017-02-08T08:40:37+01:00 INFO: NDR 1 Niedersachsen: Nessaja -by- Peter Maffay
+2017-02-08T08:46:37+01:00 INFO: NDR 1 Niedersachsen: Southern nights -by- Glen Campbell
+2017-02-08T08:48:37+01:00 INFO: NDR 1 Niedersachsen: Twist in my sobriety -by- Tanita Tikaram
+2017-02-08T08:54:37+01:00 INFO: NDR 1 Niedersachsen: Alles was sie will -by- Heinz Rudolf Kunze
+2017-02-08T08:57:37+01:00 INFO: NDR 1 Niedersachsen: Maid of Orleans (Joan of Arc) -by- OMD
+2017-02-08T09:06:38+01:00 INFO: NDR 1 Niedersachsen: Everybody -by- DJ Bobo
+2017-02-08T09:10:38+01:00 INFO: NDR 1 Niedersachsen: Love yourself -by- Justin Bieber
+2017-02-08T09:16:39+01:00 INFO: NDR 1 Niedersachsen: H&ouml;r gut zu -by- Pur
+2017-02-08T09:19:39+01:00 INFO: NDR 1 Niedersachsen: Chirpy chirpy cheep cheep -by- Middle Of The Road
+2017-02-08T09:24:39+01:00 INFO: NDR 1 Niedersachsen: Apache -by- Shadows
+2017-02-08T09:28:39+01:00 INFO: NDR 1 Niedersachsen: Pata pata -by- Miriam Makeba
+2017-02-08T09:34:40+01:00 INFO: NDR 1 Niedersachsen: Proud Mary -by- Creedence Clearwater Revival
+2017-02-08T09:37:40+01:00 INFO: NDR 1 Niedersachsen: Flieg mit mir fort -by- Andrea Berg
+2017-02-08T09:41:40+01:00 INFO: NDR 1 Niedersachsen: Sexy eyes -by- Dr. Hook
+2017-02-08T09:44:40+01:00 INFO: NDR 1 Niedersachsen: Hey (Akustik Version) -by- Andreas Bourani
+2017-02-08T09:53:41+01:00 INFO: NDR 1 Niedersachsen: Radio Ga Ga -by- Queen
+2017-02-08T10:06:42+01:00 INFO: NDR 1 Niedersachsen: Runaway train -by- Soul Asylum
+2017-02-08T10:10:42+01:00 INFO: NDR 1 Niedersachsen: Let me take you in my arms again -by- Neil Diamond
+2017-02-08T10:15:42+01:00 INFO: NDR 1 Niedersachsen: Herz aus Glas -by- M&uuml;nchener Freiheit
+2017-02-08T10:18:42+01:00 INFO: NDR 1 Niedersachsen: Ha! Ha! Said the clown -by- Manfred Mann
+2017-02-08T10:24:43+01:00 INFO: NDR 1 Niedersachsen: Mamma Maria -by- Ricchi e Poveri
+2017-02-08T10:27:43+01:00 INFO: NDR 1 Niedersachsen: One more night -by- Phil Collins
+2017-02-08T10:35:43+01:00 INFO: NDR 1 Niedersachsen: The great commandment -by- Camouflage
+2017-02-08T10:38:44+01:00 INFO: NDR 1 Niedersachsen: Only the lonely -by- Roy Orbison
+2017-02-08T10:43:44+01:00 INFO: NDR 1 Niedersachsen: Moonshadow -by- Cat Stevens
+2017-02-08T10:45:44+01:00 INFO: NDR 1 Niedersachsen: Alles dreht sich -by- Laith Al-Deen
+2017-02-08T10:54:45+01:00 INFO: NDR 1 Niedersachsen: Livin&#39; thing -by- Electric Light Orchestra
+2017-02-08T10:57:45+01:00 INFO: NDR 1 Niedersachsen: Lemon tree -by- Fool&#39;s Garden
+2017-02-08T11:06:46+01:00 INFO: NDR 1 Niedersachsen: I&#39;ve been thinking about you -by- Londonbeat
+2017-02-08T11:09:46+01:00 INFO: NDR 1 Niedersachsen: Haus am See -by- Peter Fox
+2017-02-08T11:15:47+01:00 INFO: NDR 1 Niedersachsen: Lady writer -by- Dire Straits
+2017-02-08T11:19:47+01:00 INFO: NDR 1 Niedersachsen: Dream a little dream of me -by- Mamas and The Papas
+2017-02-08T11:24:48+01:00 INFO: NDR 1 Niedersachsen: On the wings of a nightingale -by- Everly Brothers
+2017-02-08T11:27:48+01:00 INFO: NDR 1 Niedersachsen: Daydream -by- Beagle Music Ltd.
+2017-02-08T11:32:48+01:00 INFO: NDR 1 Niedersachsen: Come back and stay -by- Bad Boys Blue
+2017-02-08T11:36:49+01:00 INFO: NDR 1 Niedersachsen: Schau dich nicht um -by- Mary Roos
+2017-02-08T11:42:49+01:00 INFO: NDR 1 Niedersachsen: Massachussetts -by- Bee Gees
+2017-02-08T11:44:50+01:00 INFO: NDR 1 Niedersachsen: Abracadabra -by- The Steve Miller Band
+2017-02-08T11:50:50+01:00 INFO: NDR 1 Niedersachsen: I feel lonely -by- Sasha
+2017-02-08T11:55:51+01:00 INFO: NDR 1 Niedersachsen: Die Nummer -by- Ina M&uuml;ller
+2017-02-08T11:58:51+01:00 INFO: NDR 1 Niedersachsen: Weekend -by- Earth &amp; Fire
+2017-02-08T12:12:52+01:00 INFO: NDR 1 Niedersachsen: Love is in the air -by- John Paul Young
+2017-02-08T12:16:52+01:00 INFO: NDR 1 Niedersachsen: Pi&ugrave; bella cosa -by- Eros Ramazzotti
+2017-02-08T12:24:53+01:00 INFO: NDR 1 Niedersachsen: Himbeereis zum Fr&uuml;hst&uuml;ck -by- Hoffmann &amp; Hoffmann
+2017-02-08T12:31:53+01:00 INFO: NDR 1 Niedersachsen: Stop in the name of love -by- Diana Ross &amp; The Supremes
+2017-02-08T12:35:54+01:00 INFO: NDR 1 Niedersachsen: The way to your heart -by- Soulsister
+2017-02-08T12:41:54+01:00 INFO: NDR 1 Niedersachsen: Everlasting love -by- The Love Affair
+2017-02-08T12:45:55+01:00 INFO: NDR 1 Niedersachsen: Je t&#39;aime mon amour -by- Claudia Jung &amp; Richard Clayderman
+2017-02-08T12:51:55+01:00 INFO: NDR 1 Niedersachsen: Felicit&agrave; -by- Al Bano &amp; Romina Power
+2017-02-08T12:56:56+01:00 INFO: NDR 1 Niedersachsen: When you say nothing at all -by- Ronan Keating
+2017-02-08T13:06:57+01:00 INFO: NDR 1 Niedersachsen: Bello e impossibil&egrave; -by- Gianna Nannini
+2017-02-08T13:11:57+01:00 INFO: NDR 1 Niedersachsen: Return to sender -by- Elvis Presley
+2017-02-08T13:13:57+01:00 INFO: NDR 1 Niedersachsen: Hello again -by- Howard Carpendale
+2017-02-08T13:16:57+01:00 INFO: NDR 1 Niedersachsen: Lambada -by- Kaoma
+2017-02-08T13:21:58+01:00 INFO: NDR 1 Niedersachsen: Bad moon rising -by- Creedence Clearwater Revival
+2017-02-08T13:23:58+01:00 INFO: NDR 1 Niedersachsen: Calm after the storm -by- The Common Linnets
+2017-02-08T13:26:58+01:00 INFO: NDR 1 Niedersachsen: Oh Julie -by- Shakin&#39; Stevens
+2017-02-08T13:33:59+01:00 INFO: NDR 1 Niedersachsen: Sweat (&agrave; la la la la long) -by- Inner Circle
+2017-02-08T13:36:59+01:00 INFO: NDR 1 Niedersachsen: Mit 66 Jahren (Mit sechsundsechzig Jahren) -by- Udo J&uuml;rgens
+2017-02-08T13:41:59+01:00 INFO: NDR 1 Niedersachsen: Sailing away -by- Chris DeBurgh
+2017-02-08T13:46:00+01:00 INFO: NDR 1 Niedersachsen: Anywhere -by- Passenger
+2017-02-08T13:51:00+01:00 INFO: NDR 1 Niedersachsen: Taxi nach Paris -by- Felix De Luxe
+2017-02-08T13:54:00+01:00 INFO: NDR 1 Niedersachsen: The sun ain&#39;t gonna shine anymore -by- Walker Brothers
+2017-02-08T13:58:00+01:00 INFO: NDR 1 Niedersachsen: New soul -by- Yael Naim &amp; David Donatien
+2017-02-08T14:06:01+01:00 INFO: NDR 1 Niedersachsen: In private -by- Dusty Springfield
+2017-02-08T14:11:01+01:00 INFO: NDR 1 Niedersachsen: Bochum -by- Herbert Gr&ouml;nemeyer
+2017-02-08T14:15:02+01:00 INFO: NDR 1 Niedersachsen: Boat on the river -by- Styx
+2017-02-08T14:18:02+01:00 INFO: NDR 1 Niedersachsen: Living doll -by- Cliff Richard
+2017-02-08T14:24:02+01:00 INFO: NDR 1 Niedersachsen: Adiemus -by- Adiemus
+2017-02-08T14:26:02+01:00 INFO: NDR 1 Niedersachsen: Killer queen -by- Queen
+2017-02-08T14:30:03+01:00 INFO: NDR 1 Niedersachsen: Fool (If you think it&#39;s over) -by- Chris Rea
+2017-02-08T14:37:03+01:00 INFO: NDR 1 Niedersachsen: Yellow river -by- Christie
+2017-02-08T14:40:04+01:00 INFO: NDR 1 Niedersachsen: Atemlos durch die Nacht -by- Helene Fischer
+2017-02-08T14:44:05+01:00 INFO: NDR 1 Niedersachsen: What a wonderful world -by- Louis &quot;Satchmo&quot; Armstrong
+2017-02-08T14:47:06+01:00 INFO: NDR 1 Niedersachsen: Everything I own -by- Boy George
+2017-02-08T14:53:08+01:00 INFO: NDR 1 Niedersachsen: The winner takes it all -by- Abba
+2017-02-08T14:58:09+01:00 INFO: NDR 1 Niedersachsen: China in your hand -by- T&#39;Pau
+2017-02-08T15:06:10+01:00 INFO: NDR 1 Niedersachsen: Hold on tight -by- Electric Light Orchestra
+2017-02-08T15:09:10+01:00 INFO: NDR 1 Niedersachsen: Ship of fools -by- Erasure
+2017-02-08T15:13:10+01:00 INFO: NDR 1 Niedersachsen: Marleen -by- Marianne Rosenberg
+2017-02-08T15:18:11+01:00 INFO: NDR 1 Niedersachsen: Hello -by- Lionel Richie
+2017-02-08T15:25:11+01:00 INFO: NDR 1 Niedersachsen: Voyage, voyage -by- Desireless
+2017-02-08T15:28:12+01:00 INFO: NDR 1 Niedersachsen: Arms of Mary -by- Sutherland Brothers  &amp; Quiver)
+2017-02-08T15:34:13+01:00 INFO: NDR 1 Niedersachsen: Heart of glass -by- Blondie
+2017-02-08T15:40:14+01:00 INFO: NDR 1 Niedersachsen: Kleine Seen -by- Purple Schulz
+2017-02-08T15:44:15+01:00 INFO: NDR 1 Niedersachsen: Reggae night -by- Jimmy Cliff
+2017-02-08T15:47:15+01:00 INFO: NDR 1 Niedersachsen: You&#39;re sixteen (you&#39;re beautiful and you&#39;re mine) -by- Ringo Starr
+2017-02-08T15:53:16+01:00 INFO: NDR 1 Niedersachsen: Wo bist du? -by- Spider Murphy Gang
+2017-02-08T15:57:17+01:00 INFO: NDR 1 Niedersachsen: What&#39;s love got to do with it -by- Tina Turner
+2017-02-08T16:12:20+01:00 INFO: NDR 1 Niedersachsen: Born to be alive -by- Patrick Hern&aacute;ndez
+2017-02-08T16:16:21+01:00 INFO: NDR 1 Niedersachsen: Sie wei&szlig; was sie will -by- Juliane Werding
+2017-02-08T16:20:21+01:00 INFO: NDR 1 Niedersachsen: Glory of love (Theme) -by- Peter Cetera
+2017-02-08T16:24:22+01:00 INFO: NDR 1 Niedersachsen: Funny funny -by- The Sweet
+2017-02-08T16:27:23+01:00 INFO: NDR 1 Niedersachsen: One way ticket -by- Eruption
+2017-02-08T16:34:24+01:00 INFO: NDR 1 Niedersachsen: The power of love -by- Huey Lewis &amp; The News
+2017-02-08T16:38:24+01:00 INFO: NDR 1 Niedersachsen: Sad sweet dreamer -by- Sweet Sensation
+2017-02-08T16:42:25+01:00 INFO: NDR 1 Niedersachsen: I love you always forever -by- Donna Lewis
+2017-02-08T16:53:27+01:00 INFO: NDR 1 Niedersachsen: One moment in time -by- Whitney Houston
+2017-02-08T16:56:27+01:00 INFO: NDR 1 Niedersachsen: The things we do for love -by- 10cc
+2017-02-08T17:13:29+01:00 INFO: NDR 1 Niedersachsen: What is love -by- Haddaway
+2017-02-08T17:17:30+01:00 INFO: NDR 1 Niedersachsen: Walking on broken glass -by- Annie Lennox
+2017-02-08T17:24:30+01:00 INFO: NDR 1 Niedersachsen: Reeperbahn -by- Udo Lindenberg
+2017-02-08T17:27:31+01:00 INFO: NDR 1 Niedersachsen: Just the way you are -by- Billy Joel
+2017-02-08T17:33:31+01:00 INFO: NDR 1 Niedersachsen: Centerfold -by- The J. Geils Band
+2017-02-08T17:36:32+01:00 INFO: NDR 1 Niedersachsen: Under the moon of love -by- Showaddywaddy
+2017-02-08T17:41:35+01:00 INFO: NDR 1 Niedersachsen: Carbonara -by- Spliff
+2017-02-08T17:46:35+01:00 INFO: NDR 1 Niedersachsen: Sloop John B. (The wreck of the John B.) -by- Beach Boys
+2017-02-08T17:48:35+01:00 INFO: NDR 1 Niedersachsen: Catch &amp; release -by- Matt Simons
+2017-02-08T17:52:36+01:00 INFO: NDR 1 Niedersachsen: El mismo sol -by- Alvaro Soler
+2017-02-08T17:55:37+01:00 INFO: NDR 1 Niedersachsen: You&#39;re so vain -by- Carly Simon
+2017-02-08T18:06:38+01:00 INFO: NDR 1 Niedersachsen: Celebration -by- Kool &amp; The Gang
+2017-02-08T18:12:38+01:00 INFO: NDR 1 Niedersachsen: Eye in the sky -by- Alan Parsons Project
+2017-02-08T18:19:39+01:00 INFO: NDR 1 Niedersachsen: Only teardrops -by- Emmelie De Forest
+2017-02-08T18:23:39+01:00 INFO: NDR 1 Niedersachsen: Sunny afternoon -by- The Kinks
+2017-02-08T18:29:40+01:00 INFO: NDR 1 Niedersachsen: Milk and toast and honey -by- Roxette
+2017-02-08T18:32:41+01:00 INFO: NDR 1 Niedersachsen: Hope of deliverance -by- Paul McCartney
+2017-02-08T18:39:42+01:00 INFO: NDR 1 Niedersachsen: Wasted on the way -by- Stills Crosby &amp; Nash
+2017-02-08T18:45:42+01:00 INFO: NDR 1 Niedersachsen: Hungry heart -by- Bruce Springsteen
+2017-02-08T18:58:45+01:00 INFO: NDR 1 Niedersachsen: Viva la vida -by- Coldplay
+2017-02-08T19:18:48+01:00 INFO: NDR 1 Niedersachsen: Touch&eacute; d&#39;amour -by- Chris Rea
+2017-02-08T19:47:52+01:00 INFO: NDR 1 Niedersachsen: Magic fly -by- Space
+2017-02-08T19:55:53+01:00 INFO: NDR 1 Niedersachsen: Love&#39;s Theme -by- Barry White
+2017-02-08T19:58:53+01:00 INFO: NDR 1 Niedersachsen: Green onions -by- Booker T. &amp; The M.G.&#39;s
+2017-02-08T20:06:54+01:00 INFO: NDR 1 Niedersachsen: Hunting high and low -by- a-ha
+2017-02-08T20:09:54+01:00 INFO: NDR 1 Niedersachsen: Take a bow -by- Madonna
+2017-02-08T20:12:58+01:00 INFO: NDR 1 Niedersachsen: Johnny W. (Johnny Walker) -by- Westernhagen
+2017-02-08T20:15:58+01:00 INFO: NDR 1 Niedersachsen: You&#39;re still the one -by- Shania Twain
+2017-02-08T20:19:58+01:00 INFO: NDR 1 Niedersachsen: You&#39;re in my heart (The final acclaim) -by- Rod Stewart
+2017-02-08T20:23:59+01:00 INFO: NDR 1 Niedersachsen: What&#39;s up -by- 4 Non Blondes
+2017-02-08T20:30:00+01:00 INFO: NDR 1 Niedersachsen: To be with you -by- Mr. Big
+2017-02-08T20:33:00+01:00 INFO: NDR 1 Niedersachsen: Easy -by- Commodores
+2017-02-08T20:37:01+01:00 INFO: NDR 1 Niedersachsen: First day of my life -by- Melanie C
+2017-02-08T20:41:01+01:00 INFO: NDR 1 Niedersachsen: Hero -by- Family Of The Year
+2017-02-08T20:44:02+01:00 INFO: NDR 1 Niedersachsen: Deine St&auml;rken -by- Silly
+2017-02-08T20:48:02+01:00 INFO: NDR 1 Niedersachsen: Grow up -by- Olly Murs
+2017-02-08T20:52:03+01:00 INFO: NDR 1 Niedersachsen: Because you loved me -by- C&eacute;line Dion
+2017-02-08T20:55:03+01:00 INFO: NDR 1 Niedersachsen: Wish you were here -by- Pink Floyd
+2017-02-08T21:08:06+01:00 INFO: NDR 1 Niedersachsen: Human nature -by- Michael Jackson
+2017-02-08T21:12:06+01:00 INFO: NDR 1 Niedersachsen: A heart in New York -by- Art Garfunkel
+2017-02-08T21:17:07+01:00 INFO: NDR 1 Niedersachsen: Manchmal kommt die Liebe einfach so -by- Helene Fischer
+2017-02-08T21:20:07+01:00 INFO: NDR 1 Niedersachsen: You&#39;re beautiful -by- James Blunt
+2017-02-08T21:25:08+01:00 INFO: NDR 1 Niedersachsen: Heaven for everyone -by- Queen
+2017-02-08T21:32:11+01:00 INFO: NDR 1 Niedersachsen: Hallelujah -by- Jeff Buckley
+2017-02-08T21:36:12+01:00 INFO: NDR 1 Niedersachsen: Sometimes love just ain&#39;t enough -by- Patty Smyth
+2017-02-08T21:40:12+01:00 INFO: NDR 1 Niedersachsen: Words -by- Bee Gees
+2017-02-08T21:43:12+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t wanna lose you -by- Gloria Estefan
+2017-02-08T21:48:13+01:00 INFO: NDR 1 Niedersachsen: Love of the common people -by- Paul Young
+2017-02-08T21:53:14+01:00 INFO: NDR 1 Niedersachsen: Schwanenk&ouml;nig -by- Karat
+2017-02-08T21:58:15+01:00 INFO: NDR 1 Niedersachsen: Love me like you do -by- Ellie Goulding
+2017-02-08T22:11:17+01:00 INFO: NDR 1 Niedersachsen: Baker Street -by- Gerry Rafferty
+2017-02-08T22:14:17+01:00 INFO: NDR 1 Niedersachsen: When the beat drops out -by- Marlon Roudette
+2017-02-08T22:18:17+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t pay the ferryman -by- Chris DeBurgh
+2017-02-08T22:22:20+01:00 INFO: NDR 1 Niedersachsen: Vom selben Stern -by- Ich + Ich
+2017-02-08T22:26:20+01:00 INFO: NDR 1 Niedersachsen: Monday, Monday -by- Mamas and The Papas
+2017-02-08T22:29:20+01:00 INFO: NDR 1 Niedersachsen: Eye of the tiger (Theme) -by- Survivor
+2017-02-08T22:39:21+01:00 INFO: NDR 1 Niedersachsen: Free (I wish I knew how it would feel to be) -by- Lighthouse Family
+2017-02-08T22:43:21+01:00 INFO: NDR 1 Niedersachsen: Ruby Tuesday -by- Rolling Stones
+2017-02-08T22:46:22+01:00 INFO: NDR 1 Niedersachsen: Eine Nummer zu gro&szlig; -by- Roger Cicero
+2017-02-08T22:50:22+01:00 INFO: NDR 1 Niedersachsen: It&#39;s raining again -by- Supertramp
+2017-02-08T22:54:22+01:00 INFO: NDR 1 Niedersachsen: One call away -by- Charlie Puth
+2017-02-08T22:57:23+01:00 INFO: NDR 1 Niedersachsen: Here comes the rain again -by- Eurythmics
+2017-02-08T23:06:24+01:00 INFO: NDR 1 Niedersachsen: If you can&#39;t give me love -by- Suzi Quatro
+2017-02-08T23:10:25+01:00 INFO: NDR 1 Niedersachsen: Ride like the wind -by- Christopher Cross
+2017-02-08T23:15:29+01:00 INFO: NDR 1 Niedersachsen: You&#39;re the devil in disguise -by- Elvis Presley
+2017-02-08T23:16:29+01:00 INFO: NDR 1 Niedersachsen: Gute Nacht, Freunde -by- Reinhard Mey
+2017-02-08T23:20:29+01:00 INFO: NDR 1 Niedersachsen: Luka -by- Suzanne Vega
+2017-02-08T23:24:30+01:00 INFO: NDR 1 Niedersachsen: Johnny loves Jenny -by- Chilly
+2017-02-08T23:28:30+01:00 INFO: NDR 1 Niedersachsen: Walk on the wild side -by- Lou Reed

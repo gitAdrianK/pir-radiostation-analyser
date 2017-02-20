@@ -1,0 +1,292 @@
+2017-02-11T01:06:28+01:00 INFO: 1LIVE: This Girl -by- Kungs & Cookin' On 3 Burners
+2017-02-11T01:10:29+01:00 INFO: 1LIVE: No Problem -by- Chance The Rapper
+2017-02-11T01:14:29+01:00 INFO: 1LIVE: It's Time -by- Imagine Dragons
+2017-02-11T01:18:30+01:00 INFO: 1LIVE: Es ist wieder Februar -by- OK KID
+2017-02-11T01:23:30+01:00 INFO: 1LIVE: Why'd You Only Call Me When You're High -by- Arctic Monkeys
+2017-02-11T01:25:30+01:00 INFO: 1LIVE: Pizza -by- Antilopen Gang
+2017-02-11T01:28:30+01:00 INFO: 1LIVE: Roses -by- The Chainsmokers feat. Rozes
+2017-02-11T01:32:31+01:00 INFO: 1LIVE: Rumour Has It -by- Adele
+2017-02-11T01:35:31+01:00 INFO: 1LIVE: Never Be Like You -by- Flume
+2017-02-11T01:39:31+01:00 INFO: 1LIVE: Rusted From The Rain -by- Billy Talent
+2017-02-11T01:45:32+01:00 INFO: 1LIVE: Angst -by- Haiyti & Die Achse
+2017-02-11T01:49:33+01:00 INFO: 1LIVE: Hotter Than Hell -by- Dua Lipa
+2017-02-11T01:52:34+01:00 INFO: 1LIVE: Moving On -by- Roosevelt
+2017-02-11T01:56:34+01:00 INFO: 1LIVE: Pyramids -by- Frank Ocean
+2017-02-11T02:00:35+01:00 INFO: 1LIVE: New Estate -by- Giant Rooks
+2017-02-11T02:06:35+01:00 INFO: 1LIVE: Castle On The Hill -by- Ed Sheeran
+2017-02-11T02:10:36+01:00 INFO: 1LIVE: Bungalow -by- Bilderbuch
+2017-02-11T02:14:36+01:00 INFO: 1LIVE: Peanut Butter Jelly -by- Galantis
+2017-02-11T02:17:36+01:00 INFO: 1LIVE: Oslo -by- Anna Of The North
+2017-02-11T02:23:36+01:00 INFO: 1LIVE: We The People.... -by- A Tribe Called Quest
+2017-02-11T02:25:37+01:00 INFO: 1LIVE: On Hold -by- The XX
+2017-02-11T02:29:37+01:00 INFO: 1LIVE: Running -by- Moderat
+2017-02-11T02:33:37+01:00 INFO: 1LIVE: I Miss You -by- Blink 182
+2017-02-11T02:37:37+01:00 INFO: 1LIVE: So Good -by- Zara Larsson feat. Ty Dolla Sign
+2017-02-11T02:40:37+01:00 INFO: 1LIVE: No Reason -by- Bonobo feat. Nick Murphy
+2017-02-11T02:47:38+01:00 INFO: 1LIVE: New Song -by- Warpaint
+2017-02-11T02:51:38+01:00 INFO: 1LIVE: Mercy -by- Shawn Mendes
+2017-02-11T02:54:38+01:00 INFO: 1LIVE: Love$ick -by- Mura Masa feat. A$AP Rocky
+2017-02-11T02:58:38+01:00 INFO: 1LIVE: This Is Not About Us -by- BANKS
+2017-02-11T03:00:39+01:00 INFO: 1LIVE: L.E.S. Artistes -by- Santigold
+2017-02-11T03:07:39+01:00 INFO: 1LIVE: Cocoon -by- Milky Chance
+2017-02-11T03:10:39+01:00 INFO: 1LIVE: (No One Knows Me) Like The Piano -by- Sampha
+2017-02-11T03:13:39+01:00 INFO: 1LIVE: Franzis -by- Fil Bo Riva
+2017-02-11T03:16:40+01:00 INFO: 1LIVE: Somebody Told Me -by- The Killers
+2017-02-11T03:21:40+01:00 INFO: 1LIVE: Dye My Hair -by- Alma
+2017-02-11T03:25:40+01:00 INFO: 1LIVE: Bist du down? -by- Ace Tee feat. Kwam.e
+2017-02-11T03:28:40+01:00 INFO: 1LIVE: Skin -by- Rag'N'Bone Man
+2017-02-11T03:32:40+01:00 INFO: 1LIVE: Under The Sun -by- DIIV
+2017-02-11T03:35:41+01:00 INFO: 1LIVE: Big Picture -by- London Grammar
+2017-02-11T03:40:41+01:00 INFO: 1LIVE: Your Soul (Holding On) -by- Rhodes Vs. Felix Jaehn
+2017-02-11T03:44:41+01:00 INFO: 1LIVE: Hard Liquor -by- Sohn
+2017-02-11T03:48:41+01:00 INFO: 1LIVE: Cause I'm A Man -by- Tame Impala
+2017-02-11T03:52:42+01:00 INFO: 1LIVE: See you -by- Lions Head
+2017-02-11T03:56:42+01:00 INFO: 1LIVE: XOXO -by- Casper feat. Thees Uhlmann
+2017-02-11T04:00:42+01:00 INFO: 1LIVE: Five Minutes -by- Her
+2017-02-11T04:06:42+01:00 INFO: 1LIVE: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T04:09:43+01:00 INFO: 1LIVE: Lane boy -by- Twenty One Pilots
+2017-02-11T04:14:43+01:00 INFO: 1LIVE: Damselfly -by- Loyle Carner
+2017-02-11T04:16:43+01:00 INFO: 1LIVE: New Age -by- Marlon Roudette
+2017-02-11T04:20:43+01:00 INFO: 1LIVE: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T04:24:43+01:00 INFO: 1LIVE: Bad Decisions -by- Two Door Cinema Club
+2017-02-11T04:28:44+01:00 INFO: 1LIVE: Love On The Brain -by- Rihanna
+2017-02-11T04:32:44+01:00 INFO: 1LIVE: Man Of The Year -by- Karma Kid feat. Charlotte OC
+2017-02-11T04:34:44+01:00 INFO: 1LIVE: Baby Blue -by- Action Bronson feat. Chance The Rapper
+2017-02-11T04:38:44+01:00 INFO: 1LIVE: Paris -by- The Chainsmokers
+2017-02-11T04:44:45+01:00 INFO: 1LIVE: New Estate -by- Giant Rooks
+2017-02-11T04:50:45+01:00 INFO: 1LIVE: Pizza -by- Antilopen Gang
+2017-02-11T04:54:45+01:00 INFO: 1LIVE: Reunion -by- M83
+2017-02-11T04:57:45+01:00 INFO: 1LIVE: Hot Thoughts -by- Spoon
+2017-02-11T05:04:46+01:00 INFO: 1LIVE: Shut Up And Dance -by- Walk The Moon
+2017-02-11T05:06:46+01:00 INFO: 1LIVE: Run Up -by- Major Lazer feat. Nicki Minaj & PARTYNEXTDOOR
+2017-02-11T05:12:46+01:00 INFO: 1LIVE: Royals -by- Lorde
+2017-02-11T05:15:46+01:00 INFO: 1LIVE: Adventure of A Lifetime -by- Coldplay
+2017-02-11T05:19:47+01:00 INFO: 1LIVE: Party Rock Anthem -by- LMFAO
+2017-02-11T05:24:47+01:00 INFO: 1LIVE: What Is Love 2016 -by- Lost Frequencies
+2017-02-11T05:28:47+01:00 INFO: 1LIVE: Afraid of Heights -by- Billy Talent
+2017-02-11T05:31:47+01:00 INFO: 1LIVE: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T05:35:48+01:00 INFO: 1LIVE: Sonnentanz -by- Klangkarussell
+2017-02-11T05:42:48+01:00 INFO: 1LIVE: Wild and free -by- Lena
+2017-02-11T05:45:48+01:00 INFO: 1LIVE: Holiday -by- Green Day
+2017-02-11T05:50:48+01:00 INFO: 1LIVE: I Don't Wanna Live Forever -by- Zayn & Taylor Swift
+2017-02-11T05:54:49+01:00 INFO: 1LIVE: Sunlight -by- The Magician feat. Years & Years
+2017-02-11T05:58:49+01:00 INFO: 1LIVE: One Dance -by- Drake feat. Wizkid & Kyla
+2017-02-11T06:04:49+01:00 INFO: 1LIVE: Bad Ideas -by- Alle Farben
+2017-02-11T06:07:49+01:00 INFO: 1LIVE: Augenbling -by- Seeed
+2017-02-11T06:11:50+01:00 INFO: 1LIVE: Sitting, Waiting, Wishing -by- Jack Johnson
+2017-02-11T06:14:50+01:00 INFO: 1LIVE: Bills -by- LunchMoney Lewis
+2017-02-11T06:19:50+01:00 INFO: 1LIVE: 24K Magic -by- Bruno Mars
+2017-02-11T06:23:50+01:00 INFO: 1LIVE: Flaws -by- Bastille
+2017-02-11T06:24:50+01:00 INFO: 1LIVE: Waiting For Love -by- Avicii
+2017-02-11T06:28:51+01:00 INFO: 1LIVE: Intoxication -by- Gentleman
+2017-02-11T06:34:51+01:00 INFO: 1LIVE: Never give up -by- Sia
+2017-02-11T06:38:51+01:00 INFO: 1LIVE: Avenir -by- Louane
+2017-02-11T06:41:51+01:00 INFO: 1LIVE: Way Down We Go -by- Kaleo
+2017-02-11T06:44:52+01:00 INFO: 1LIVE: Real Love -by- Clean Bandit & Jess Glynne
+2017-02-11T06:49:52+01:00 INFO: 1LIVE: Umbrella -by- Rihanna
+2017-02-11T06:52:52+01:00 INFO: 1LIVE: Flash mich -by- Mark Forster
+2017-02-11T06:58:52+01:00 INFO: 1LIVE: Shed A Light -by- Robin Schulz & David Guetta feat. Cheat Codes
+2017-02-11T07:04:53+01:00 INFO: 1LIVE: Shape Of You -by- Ed Sheeran
+2017-02-11T07:08:53+01:00 INFO: 1LIVE: Stay -by- Kygo feat. Maty Noyes; Kygo
+2017-02-11T07:14:53+01:00 INFO: 1LIVE: In My Head -by- Jason Derulo
+2017-02-11T07:16:53+01:00 INFO: 1LIVE: Castle of Glass -by- Linkin Park
+2017-02-11T07:19:54+01:00 INFO: 1LIVE: Places -by- Martin Solveig feat. Ina Wroldsen
+2017-02-11T07:23:54+01:00 INFO: 1LIVE: Arrows -by- Fences feat. Macklemore & Ryan Lewis
+2017-02-11T07:27:54+01:00 INFO: 1LIVE: Just Like Fire -by- P!nk
+2017-02-11T07:33:54+01:00 INFO: 1LIVE: Easy Love -by- Sigala
+2017-02-11T07:36:55+01:00 INFO: 1LIVE: Say You Won't Let Go -by- James Arthur
+2017-02-11T07:41:55+01:00 INFO: 1LIVE: Kangaroo Court -by- Capital Cities
+2017-02-11T07:44:55+01:00 INFO: 1LIVE: Sex On Fire -by- Kings of Leon
+2017-02-11T07:48:55+01:00 INFO: 1LIVE: So Good -by- Zara Larsson feat. Ty Dolla $ign
+2017-02-11T07:50:55+01:00 INFO: 1LIVE: Walk -by- Kwabs
+2017-02-11T07:57:56+01:00 INFO: 1LIVE: Cocoon -by- Milky Chance
+2017-02-11T08:05:56+01:00 INFO: 1LIVE: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T08:08:56+01:00 INFO: 1LIVE: My Way -by- Calvin Harris
+2017-02-11T08:12:57+01:00 INFO: 1LIVE: Empire State Of Mind -by- Jay-Z feat. Alicia Keys
+2017-02-11T08:16:57+01:00 INFO: 1LIVE: On Top Of The World -by- Imagine Dragons
+2017-02-11T08:21:57+01:00 INFO: 1LIVE: I Feel It Coming -by- The Weeknd feat. Daft Punk
+2017-02-11T08:25:57+01:00 INFO: 1LIVE: Goodbye -by- Feder feat. Lyse
+2017-02-11T08:27:58+01:00 INFO: 1LIVE: Spirits -by- The Strumbellas
+2017-02-11T08:34:58+01:00 INFO: 1LIVE: Me, Myself And I -by- G-Eazy feat. Bebe Rexha
+2017-02-11T08:38:58+01:00 INFO: 1LIVE: What Is Love 2016 -by- Lost Frequencies
+2017-02-11T08:43:58+01:00 INFO: 1LIVE: Tennis Court -by- Lorde
+2017-02-11T08:46:59+01:00 INFO: 1LIVE: Kings And Queens -by- Thirty Seconds To Mars
+2017-02-11T08:51:59+01:00 INFO: 1LIVE: Skin -by- Rag'N'Bone Man
+2017-02-11T08:57:59+01:00 INFO: 1LIVE: Would I Lie To You -by- David Guetta & Cedric Gervais & Chris Willis
+2017-02-11T09:06:00+01:00 INFO: 1LIVE: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T09:09:00+01:00 INFO: 1LIVE: Summertime Sadness -by- Lana Del Rey
+2017-02-11T09:15:00+01:00 INFO: 1LIVE: The Ocean -by- Mike Perry feat. Shy Martin
+2017-02-11T09:22:01+01:00 INFO: 1LIVE: Lot To Learn -by- Luke Christopher
+2017-02-11T09:25:01+01:00 INFO: 1LIVE: Changing -by- Sigma feat. Paloma Faith
+2017-02-11T09:28:01+01:00 INFO: 1LIVE: Renegades -by- X Ambassadors
+2017-02-11T09:33:01+01:00 INFO: 1LIVE: Closer -by- The Chainsmokers feat. Halsey
+2017-02-11T09:38:02+01:00 INFO: 1LIVE: Bad Ideas -by- Alle Farben
+2017-02-11T09:41:02+01:00 INFO: 1LIVE: Aufstehn -by- Seeed
+2017-02-11T09:46:02+01:00 INFO: 1LIVE: Little Talks -by- Of Monsters And Men
+2017-02-11T09:51:02+01:00 INFO: 1LIVE: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T09:58:03+01:00 INFO: 1LIVE: Rockabye -by- Clean Bandit feat. Sean Paul & Anne-Marie
+2017-02-11T10:05:04+01:00 INFO: 1LIVE: Never give up -by- Sia
+2017-02-11T10:09:04+01:00 INFO: 1LIVE: Hey Now -by- Martin Solveig & The Cataracs feat. Kyle
+2017-02-11T10:18:05+01:00 INFO: 1LIVE: In The End -by- Linkin Park
+2017-02-11T10:23:06+01:00 INFO: 1LIVE: Run Up -by- Major Lazer feat. Nicki Minaj & PARTYNEXTDOOR
+2017-02-11T10:26:06+01:00 INFO: 1LIVE: Hey Brother -by- Avicii
+2017-02-11T10:31:07+01:00 INFO: 1LIVE: Side To Side -by- Ariana Grande feat. Nicki Minaj
+2017-02-11T10:38:07+01:00 INFO: 1LIVE: Sweet Nothing -by- Calvin Harris feat. Florence and the Machine
+2017-02-11T10:41:07+01:00 INFO: 1LIVE: Good Grief -by- Bastille
+2017-02-11T10:47:08+01:00 INFO: 1LIVE: Who Knew -by- Pink
+2017-02-11T10:50:08+01:00 INFO: 1LIVE: Black Beatles -by- Rae Sremmurd feat. Gucci Mane
+2017-02-11T11:05:10+01:00 INFO: 1LIVE: Let's Get It Started -by- Black Eyed Peas
+2017-02-11T11:09:10+01:00 INFO: 1LIVE: I Feel So Bad -by- Kungs feat. Ephemerals
+2017-02-11T11:15:11+01:00 INFO: 1LIVE: Bis ans Ende der Welt -by- Joris
+2017-02-11T11:18:11+01:00 INFO: 1LIVE: I Love It -by- Icona Pop
+2017-02-11T11:23:12+01:00 INFO: 1LIVE: Paparazzi -by- Lady GaGa
+2017-02-11T11:27:12+01:00 INFO: 1LIVE: Way Down We Go -by- Kaleo
+2017-02-11T11:31:12+01:00 INFO: 1LIVE: Starboy -by- The Weeknd feat. Daft Punk
+2017-02-11T11:41:14+01:00 INFO: 1LIVE: Dance With Somebody -by- Mando Diao
+2017-02-11T11:47:14+01:00 INFO: 1LIVE: Spectrum -by- Zedd feat. Matthew Koma
+2017-02-11T11:50:15+01:00 INFO: 1LIVE: Castle On The Hill -by- Ed Sheeran
+2017-02-11T11:58:15+01:00 INFO: 1LIVE: Jubel -by- Klingande
+2017-02-11T12:05:15+01:00 INFO: 1LIVE: Mercy -by- Shawn Mendes
+2017-02-11T12:08:16+01:00 INFO: 1LIVE: One Day (Reckoning Song) Wankelmut Remix -by- Asaf Avidan
+2017-02-11T12:13:16+01:00 INFO: 1LIVE: So wie du bist -by- MoTrip feat. Lary
+2017-02-11T12:17:16+01:00 INFO: 1LIVE: Mr. Brightside -by- The Killers
+2017-02-11T12:26:17+01:00 INFO: 1LIVE: So Good -by- Zara Larsson feat. Ty Dolla $ign
+2017-02-11T12:29:17+01:00 INFO: 1LIVE: Do It Right -by- Martin Solveig feat. Tkay Maidza
+2017-02-11T12:33:17+01:00 INFO: 1LIVE: Cocoon -by- Milky Chance
+2017-02-11T12:39:19+01:00 INFO: 1LIVE: Bilder im Kopf -by- Sido
+2017-02-11T12:42:19+01:00 INFO: 1LIVE: On My Mind -by- Ellie Goulding
+2017-02-11T12:48:19+01:00 INFO: 1LIVE: American Idiot -by- Green Day
+2017-02-11T12:52:20+01:00 INFO: 1LIVE: Hey Baby -by- Dimitri Vegas & Like Mike vs. Diplo
+2017-02-11T12:57:20+01:00 INFO: 1LIVE: I Hate U, I Love U -by- Gnash feat. Olivia O'Brien
+2017-02-11T13:05:20+01:00 INFO: 1LIVE: No Money -by- Galantis
+2017-02-11T13:08:20+01:00 INFO: 1LIVE: Skin -by- Rag'N'Bone Man
+2017-02-11T13:15:21+01:00 INFO: 1LIVE: Enjoy The Silence 04 (Linkin Park Rmx) -by- Depeche Mode
+2017-02-11T13:18:22+01:00 INFO: 1LIVE: Golden -by- Brandon Beal feat. Lukas Graham
+2017-02-11T13:23:23+01:00 INFO: 1LIVE: Chained To The Rhythm -by- Katy Perry feat. Skip Marley
+2017-02-11T13:27:23+01:00 INFO: 1LIVE: Pizza -by- Antilopen Gang
+2017-02-11T13:32:24+01:00 INFO: 1LIVE: Show Me Love -by- Robin Schulz & J.u.d.g.e.
+2017-02-11T13:37:24+01:00 INFO: 1LIVE: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T13:41:25+01:00 INFO: 1LIVE: Treading Water -by- Alex Clare
+2017-02-11T13:47:25+01:00 INFO: 1LIVE: Now And Later -by- Sage the Gemini
+2017-02-11T13:50:25+01:00 INFO: 1LIVE: Dani California -by- Red Hot Chili Peppers
+2017-02-11T13:58:27+01:00 INFO: 1LIVE: See you -by- Lions Head
+2017-02-11T14:05:27+01:00 INFO: 1LIVE: What Is Love 2016 -by- Lost Frequencies
+2017-02-11T14:08:28+01:00 INFO: 1LIVE: The Greatest -by- Sia feat. Kendrick Lamar
+2017-02-11T14:11:28+01:00 INFO: 1LIVE: Pompeii -by- Bastille
+2017-02-11T14:15:29+01:00 INFO: 1LIVE: Ahnma -by- Beginner feat. Gzuz & Gentleman
+2017-02-11T14:20:29+01:00 INFO: 1LIVE: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T14:24:29+01:00 INFO: 1LIVE: The A Team -by- Ed Sheeran
+2017-02-11T14:28:29+01:00 INFO: 1LIVE: Blurred Lines -by- Robin Thicke feat. T.I. & Pharrell
+2017-02-11T14:33:31+01:00 INFO: 1LIVE: See You Again -by- Wiz Khalifa feat. Charlie Puth
+2017-02-11T14:39:35+01:00 INFO: 1LIVE: Alone -by- Alan Walker
+2017-02-11T14:42:35+01:00 INFO: 1LIVE: Satellite -by- Rise Against
+2017-02-11T14:47:36+01:00 INFO: 1LIVE: Tuesday -by- Burak Yeter feat. Danelle Sandoval
+2017-02-11T14:51:36+01:00 INFO: 1LIVE: Feel Good Inc. -by- Gorillaz
+2017-02-11T14:57:36+01:00 INFO: 1LIVE: Love On The Brain -by- Rihanna
+2017-02-11T15:05:37+01:00 INFO: 1LIVE: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T15:08:37+01:00 INFO: 1LIVE: How Deep Is Your Love -by- Calvin Harris feat. Disciples & Ina Wroldsen
+2017-02-11T15:12:38+01:00 INFO: 1LIVE: Chained To The Rhythm -by- Katy Perry feat. Skip Marley
+2017-02-11T15:15:38+01:00 INFO: 1LIVE: Valerie -by- Mark Ronson feat. Amy Winehouse
+2017-02-11T15:22:41+01:00 INFO: 1LIVE: Bungalow -by- Bilderbuch
+2017-02-11T15:26:41+01:00 INFO: 1LIVE: Talk Dirty -by- Jason Derulo feat. 2 Chainz
+2017-02-11T15:29:42+01:00 INFO: 1LIVE: By Your Side -by- Jonas Blue feat. RAYE
+2017-02-11T15:33:43+01:00 INFO: 1LIVE: I Don't Wanna Live Forever -by- Zayn & Taylor Swift
+2017-02-11T15:38:44+01:00 INFO: 1LIVE: Play Hard -by- David Guetta feat. Ne-Yo & Akon
+2017-02-11T15:41:45+01:00 INFO: 1LIVE: Run Up -by- Major Lazer feat. Nicki Minaj & PARTYNEXTDOOR
+2017-02-11T15:48:45+01:00 INFO: 1LIVE: Fairytale Gone Bad -by- Sunrise Avenue
+2017-02-11T15:51:45+01:00 INFO: 1LIVE: On Hold -by- The XX
+2017-02-11T15:57:46+01:00 INFO: 1LIVE: Astronaut -by- Sido feat. Andreas Bourani
+2017-02-11T16:04:46+01:00 INFO: 1LIVE: Bad Ideas -by- Alle Farben
+2017-02-11T16:07:47+01:00 INFO: 1LIVE: Follow You -by- Bring Me The Horizon
+2017-02-11T16:14:48+01:00 INFO: 1LIVE: Timber -by- Pitbull feat. Kesha
+2017-02-11T16:17:48+01:00 INFO: 1LIVE: The Hills -by- The Weeknd
+2017-02-11T16:20:48+01:00 INFO: 1LIVE: Dye My Hair -by- Alma
+2017-02-11T16:25:49+01:00 INFO: 1LIVE: Paradise -by- Coldplay
+2017-02-11T16:29:49+01:00 INFO: 1LIVE: Dedication To My Ex (Miss That) -by- Lloyd feat. Andre 3000
+2017-02-11T16:33:50+01:00 INFO: 1LIVE: +1 -by- Martin Solveig feat. Sam White
+2017-02-11T16:38:51+01:00 INFO: 1LIVE: Way Down We Go -by- Kaleo
+2017-02-11T16:42:51+01:00 INFO: 1LIVE: Get Lucky -by- Daft Punk feat. Pharrell
+2017-02-11T16:45:52+01:00 INFO: 1LIVE: Scared To Be Lonely -by- Martin Garrix & Dua Lipa
+2017-02-11T16:51:52+01:00 INFO: 1LIVE: If I Lose Myself -by- OneRepublic
+2017-02-11T16:57:55+01:00 INFO: 1LIVE: 24K Magic -by- Bruno Mars
+2017-02-11T17:04:56+01:00 INFO: 1LIVE: Burn It Down -by- Linkin Park
+2017-02-11T17:07:56+01:00 INFO: 1LIVE: Paris -by- The Chainsmokers
+2017-02-11T17:13:57+01:00 INFO: 1LIVE: Meine Posse -by- Beginner feat. Samy Deluxe
+2017-02-11T17:16:57+01:00 INFO: 1LIVE: Fade Out Lines -by- The Avener
+2017-02-11T17:19:57+01:00 INFO: 1LIVE: So Good -by- Zara Larsson feat. Ty Dolla $ign
+2017-02-11T17:29:57+01:00 INFO: 1LIVE: White Tiger -by- Izzy Bizu
+2017-02-11T17:33:58+01:00 INFO: 1LIVE: Never give up -by- Sia
+2017-02-11T17:38:01+01:00 INFO: 1LIVE: Skin -by- Rag'N'Bone Man
+2017-02-11T17:41:02+01:00 INFO: 1LIVE: Reality -by- Lost Frequencies feat. Janieck Devy
+2017-02-11T17:44:02+01:00 INFO: 1LIVE: I Don't Like It, I Love It -by- Flo Rida feat. Robin Thicke and Verdine White
+2017-02-11T17:51:06+01:00 INFO: 1LIVE: California -by- Phantom Planet
+2017-02-11T17:53:06+01:00 INFO: 1LIVE: Midnight City -by- M83
+2017-02-11T17:59:06+01:00 INFO: 1LIVE: Shed A Light -by- Robin Schulz & David Guetta feat. Cheat Codes
+2017-02-11T18:05:07+01:00 INFO: 1LIVE: Light It Up -by- Major Lazer
+2017-02-11T18:14:07+01:00 INFO: 1LIVE: Scream & Shout -by- Will.I.Am feat. Britney Spears
+2017-02-11T18:18:08+01:00 INFO: 1LIVE: Keeping Your Head Up -by- Birdy
+2017-02-11T18:22:10+01:00 INFO: 1LIVE: Your Soul (Holding On) -by- Rhodes Vs. Felix Jaehn
+2017-02-11T18:26:11+01:00 INFO: 1LIVE: We Be Burnin' -by- Sean Paul
+2017-02-11T18:29:11+01:00 INFO: 1LIVE: In Common -by- Alicia Keys
+2017-02-11T18:32:11+01:00 INFO: 1LIVE: Castle On The Hill -by- Ed Sheeran
+2017-02-11T18:37:12+01:00 INFO: 1LIVE: Rather Be -by- Clean Bandit feat. Jess Glynne
+2017-02-11T18:42:12+01:00 INFO: 1LIVE: Fast Car -by- Jonas Blue feat. Dakota
+2017-02-11T18:46:13+01:00 INFO: 1LIVE: Black Beatles -by- Rae Sremmurd feat. Gucci Mane
+2017-02-11T18:51:13+01:00 INFO: 1LIVE: Chained To The Rhythm -by- Katy Perry feat. Skip Marley
+2017-02-11T18:56:13+01:00 INFO: 1LIVE: This Is What You Came For -by- Calvin Harris feat. Rihanna
+2017-02-11T19:00:14+01:00 INFO: 1LIVE: The Rockafeller Skank -by- Fatboy Slim
+2017-02-11T19:05:14+01:00 INFO: 1LIVE: Can't Stop The Feeling! -by- Justin Timberlake
+2017-02-11T19:09:14+01:00 INFO: 1LIVE: Places -by- Martin Solveig feat. Ina Wroldsen
+2017-02-11T19:13:14+01:00 INFO: 1LIVE: Smells Like Teen Spirit -by- Nirvana
+2017-02-11T19:18:14+01:00 INFO: 1LIVE: Stole The Show -by- Kygo feat. Parson James
+2017-02-11T19:23:15+01:00 INFO: 1LIVE: Thrift Shop -by- Macklemore & Ryan Lewis
+2017-02-11T19:28:15+01:00 INFO: 1LIVE: Closer -by- Ne-Yo
+2017-02-11T19:32:15+01:00 INFO: 1LIVE: Love Yourself -by- Justin Bieber
+2017-02-11T19:35:15+01:00 INFO: 1LIVE: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T19:42:15+01:00 INFO: 1LIVE: I Knew You Were Trouble -by- Taylor Swift
+2017-02-11T19:45:16+01:00 INFO: 1LIVE: Don't you know -by- Kungs
+2017-02-11T19:49:16+01:00 INFO: 1LIVE: Heavydirtysoul -by- Twenty One Pilots
+2017-02-11T19:53:16+01:00 INFO: 1LIVE: D.A.N.C.E. -by- Justice
+2017-02-11T19:57:16+01:00 INFO: 1LIVE: Cocoon -by- Milky Chance
+2017-02-11T20:07:17+01:00 INFO: 1LIVE: No Money -by- Galantis
+2017-02-11T20:10:17+01:00 INFO: 1LIVE: Rockabye -by- Clean Bandit feat. Sean Paul & Anne-Marie
+2017-02-11T20:15:18+01:00 INFO: 1LIVE: Paris -by- The Chainsmokers
+2017-02-11T20:19:19+01:00 INFO: 1LIVE: All the Way Up -by- Fat Joe (feat. French Montana)
+2017-02-11T20:21:19+01:00 INFO: 1LIVE: I Love It -by- Icona Pop
+2017-02-11T20:24:19+01:00 INFO: 1LIVE: Bad Ideas -by- Alle Farben
+2017-02-11T20:27:19+01:00 INFO: 1LIVE: Don't Tell 'Em -by- Jeremih feat. YG
+2017-02-11T20:51:24+01:00 INFO: 1LIVE: Limit -by- Deichkind
+2017-02-11T20:55:25+01:00 INFO: 1LIVE: Bonfire -by- Felix Jaehn feat. Alma
+2017-02-11T20:57:25+01:00 INFO: 1LIVE: I Don't Wanna Go Home -by- Oliver Heldens
+2017-02-11T21:04:25+01:00 INFO: 1LIVE: Places -by- Martin Solveig feat. Ina Wroldsen
+2017-02-11T21:08:26+01:00 INFO: 1LIVE: Work -by- Rihanna feat. Drake
+2017-02-11T21:11:26+01:00 INFO: 1LIVE: Wake Me Up -by- Avicii feat. Aloe Blacc
+2017-02-11T21:17:26+01:00 INFO: 1LIVE: Me, Myself And I -by- G-Eazy with Bebe Rexha
+2017-02-11T21:23:26+01:00 INFO: 1LIVE: Baby -by- Bakermat
+2017-02-11T21:27:26+01:00 INFO: 1LIVE: Rack City (Clean) -by- Tyga
+2017-02-11T21:28:27+01:00 INFO: 1LIVE: Show Me Love (EDX's Indian Summer Remix) -by- Sam Feldt feat. Kimberly Anne
+2017-02-11T21:50:27+01:00 INFO: 1LIVE: Sweet Lovin' -by- Sigala
+2017-02-11T21:54:28+01:00 INFO: 1LIVE: It's Like That -by- Run D.M.C.
+2017-02-11T21:57:28+01:00 INFO: 1LIVE: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T22:04:28+01:00 INFO: 1LIVE: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T22:08:28+01:00 INFO: 1LIVE: Palmen aus Plastik -by- Bonez Mc & Raf Camora
+2017-02-11T22:11:29+01:00 INFO: 1LIVE: Numb/Encore -by- Jay-z / Linkin Park
+2017-02-11T22:18:29+01:00 INFO: 1LIVE: Just Hold On -by- Steve Aoki & Louis Tomlinson
+2017-02-11T22:21:29+01:00 INFO: 1LIVE: Breathe -by- SeeB feat. Neev
+2017-02-11T22:28:30+01:00 INFO: 1LIVE: Don't Let Me Down -by- The Chainsmokers feat. Daya
+2017-02-11T22:31:30+01:00 INFO: 1LIVE: I Feel So Bad -by- Kungs feat. Ephemerals
+2017-02-11T22:34:30+01:00 INFO: 1LIVE: One Dance -by- Drake feat. Wizkid & Kyla
+2017-02-11T22:37:30+01:00 INFO: 1LIVE: Animals -by- Martin Garrix
+2017-02-11T22:43:31+01:00 INFO: 1LIVE: Show Me Love -by- Steve Angello & Laidback Luke feat. Robin S.
+2017-02-11T22:46:31+01:00 INFO: 1LIVE: Bounce Back -by- Big Sean
+2017-02-11T22:49:31+01:00 INFO: 1LIVE: Schwung in die Kiste -by- Die Orsons
+2017-02-11T22:53:31+01:00 INFO: 1LIVE: Pushing On -by- Oliver $ feat. Jimi Jules
+2017-02-11T22:56:31+01:00 INFO: 1LIVE: In2 -by- WSTRN
+2017-02-11T23:25:33+01:00 INFO: 1LIVE: Would I Lie To You -by- David Guetta & Cedric Gervais & Chris Willis
+2017-02-11T23:28:33+01:00 INFO: 1LIVE: You Know You Like It -by- DJ Snake & AlunaGeorge
+2017-02-11T23:36:34+01:00 INFO: 1LIVE: Tuesday -by- Burak Yeter feat. Danelle Sandoval
+2017-02-11T23:39:34+01:00 INFO: 1LIVE: You Don't Know Me -by- Jax Jones feat. Raye
+2017-02-11T23:46:34+01:00 INFO: 1LIVE: Gold Digger -by- Kanye West ft. Jamie Foxx
+2017-02-11T23:48:34+01:00 INFO: 1LIVE: Meine Posse -by- Beginner feat. Samy Deluxe
+2017-02-11T23:53:35+01:00 INFO: 1LIVE: Light It Up -by- Major Lazer
+2017-02-11T23:56:35+01:00 INFO: 1LIVE: Still Dre -by- Dr. Dre

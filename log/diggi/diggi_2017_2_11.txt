@@ -1,0 +1,162 @@
+2017-02-11T00:03:24+01:00 INFO: 1LIVE diGGi: Shape Of You -by- Ed Sheeran
+2017-02-11T00:07:25+01:00 INFO: 1LIVE diGGi: Book of Love -by- Felix Jaehn feat. Polina
+2017-02-11T00:11:25+01:00 INFO: 1LIVE diGGi: Juju On That Beat -by- Zay Hilfigerrr & Zayion McCall
+2017-02-11T00:29:26+01:00 INFO: 1LIVE diGGi: An ihnen vorbei -by- Bonez MC & Raf Camora
+2017-02-11T00:32:26+01:00 INFO: 1LIVE diGGi: I Want You To Know -by- Zedd feat. Selena Gomez
+2017-02-11T00:36:26+01:00 INFO: 1LIVE diGGi: So Good -by- Zara Larsson feat. Ty Dolla Sign
+2017-02-11T00:39:27+01:00 INFO: 1LIVE diGGi: Bailar -by- Deorro feat. Elvis Crespo
+2017-02-11T00:42:27+01:00 INFO: 1LIVE diGGi: Bad And Boujee -by- Migos feat. Lil Uzi Vert
+2017-02-11T00:48:27+01:00 INFO: 1LIVE diGGi: Levels -by- Avicii
+2017-02-11T00:51:27+01:00 INFO: 1LIVE diGGi: Feel -by- Mahmut Orhan feat. Sena Sener
+2017-02-11T00:53:28+01:00 INFO: 1LIVE diGGi: I Hate U, I Love U -by- Gnash feat. Olivia O'Brien
+2017-02-11T00:58:28+01:00 INFO: 1LIVE diGGi: Money And The Power -by- Kid Ink
+2017-02-11T01:06:28+01:00 INFO: 1LIVE diGGi: Rockabye -by- Clean Bandit feat. Sean Paul & Anne-Marie
+2017-02-11T01:45:32+01:00 INFO: 1LIVE diGGi: Solo Dance -by- Martin Jensen
+2017-02-11T01:48:33+01:00 INFO: 1LIVE diGGi: Hair -by- Little Mix
+2017-02-11T01:51:33+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T02:05:35+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T02:09:35+01:00 INFO: 1LIVE diGGi: Kids (2 Finger an den Kopf) -by- Marteria
+2017-02-11T02:17:36+01:00 INFO: 1LIVE diGGi: I Don't Wanna Live Forever -by- ZAYN & Taylor Swift
+2017-02-11T02:22:36+01:00 INFO: 1LIVE diGGi: Heathens -by- Twenty One Pilots
+2017-02-11T02:25:37+01:00 INFO: 1LIVE diGGi: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T02:28:37+01:00 INFO: 1LIVE diGGi: Love The Way You Lie -by- Eminem feat. Rihanna
+2017-02-11T02:34:37+01:00 INFO: 1LIVE diGGi: Now And Later -by- Sage the Gemini
+2017-02-11T02:37:37+01:00 INFO: 1LIVE diGGi: Never Forget You -by- Zara Larsson & MNEK
+2017-02-11T02:40:37+01:00 INFO: 1LIVE diGGi: Tuesday -by- Burak Yeter feat. Danelle Sandoval
+2017-02-11T02:44:38+01:00 INFO: 1LIVE diGGi: Don't Mind -by- Kent Jones
+2017-02-11T03:17:40+01:00 INFO: 1LIVE diGGi: Fake Love -by- Drake
+2017-02-11T03:20:40+01:00 INFO: 1LIVE diGGi: Hide Away -by- Daya
+2017-02-11T03:26:40+01:00 INFO: 1LIVE diGGi: Ayo Technology -by- 50 Cent feat. Justin Timberlake
+2017-02-11T04:16:43+01:00 INFO: 1LIVE diGGi: Bad Things -by- Machine Gun Kelly & Camila Cabello
+2017-02-11T04:20:43+01:00 INFO: 1LIVE diGGi: In The Night -by- The Weeknd
+2017-02-11T04:48:45+01:00 INFO: 1LIVE diGGi: Sweet Dreams -by- Beyonce
+2017-02-11T04:51:45+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T04:55:45+01:00 INFO: 1LIVE diGGi: Breathe -by- SeeB feat. Neev
+2017-02-11T04:59:46+01:00 INFO: 1LIVE diGGi: Hinterland -by- Casper
+2017-02-11T05:05:46+01:00 INFO: 1LIVE diGGi: Love On The Brain -by- Rihanna
+2017-02-11T05:09:46+01:00 INFO: 1LIVE diGGi: OMG! -by- Marteria
+2017-02-11T05:13:46+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T05:17:47+01:00 INFO: 1LIVE diGGi: Run up -by- Major Lazer feat.Nicki Minaj & Partynextdoor
+2017-02-11T05:21:47+01:00 INFO: 1LIVE diGGi: Alarm -by- Anne-Marie
+2017-02-11T05:27:47+01:00 INFO: 1LIVE diGGi: She Wolf (Falling To Pieces) -by- David Guetta feat. Sia
+2017-02-11T07:14:53+01:00 INFO: 1LIVE diGGi: Work From Home -by- Fifth Harmony feat. Ty Dolla Sign
+2017-02-11T07:17:53+01:00 INFO: 1LIVE diGGi: I Love It -by- Icona Pop
+2017-02-11T07:20:54+01:00 INFO: 1LIVE diGGi: Ohne mein Team -by- Bonez MC & Raf Camora
+2017-02-11T07:24:54+01:00 INFO: 1LIVE diGGi: Sax -by- Fleur East
+2017-02-11T07:28:54+01:00 INFO: 1LIVE diGGi: Shed a light -by- Robin Schulz & David Guetta feat. Cheat Codes
+2017-02-11T07:31:54+01:00 INFO: 1LIVE diGGi: The Ocean -by- Mike Perry feat. Shy Martin
+2017-02-11T07:34:55+01:00 INFO: 1LIVE diGGi: Gecko (Overdrive) -by- Oliver Heldens feat. Becky Hill
+2017-02-11T07:36:55+01:00 INFO: 1LIVE diGGi: Love $ick -by- Mura Masa feat. A$AP Rocky
+2017-02-11T07:40:55+01:00 INFO: 1LIVE diGGi: Just hold on -by- Steve Aoki & Louis Tomlinson
+2017-02-11T07:44:55+01:00 INFO: 1LIVE diGGi: Love Yourself -by- Justin Bieber
+2017-02-11T07:48:55+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T07:51:55+01:00 INFO: 1LIVE diGGi: Side To Side -by- Ariana Grande feat. Nicki Minaj
+2017-02-11T08:03:56+01:00 INFO: 1LIVE diGGi: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T08:07:56+01:00 INFO: 1LIVE diGGi: FourFiveSeconds -by- Kanye West Rihanna & Paul Mc Cartney
+2017-02-11T08:10:57+01:00 INFO: 1LIVE diGGi: Don't Let Me Down -by- The Chainsmokers feat. Daya
+2017-02-11T08:21:57+01:00 INFO: 1LIVE diGGi: Now And Later -by- Sage the Gemini
+2017-02-11T08:24:57+01:00 INFO: 1LIVE diGGi: Do It Right -by- Martin Solveig feat. Tkay Maidza
+2017-02-11T09:05:00+01:00 INFO: 1LIVE diGGi: Run up -by- Major Lazer feat.Nicki Minaj & Partynextdoor
+2017-02-11T09:08:00+01:00 INFO: 1LIVE diGGi: Runaway (U&I) -by- Galantis
+2017-02-11T09:12:00+01:00 INFO: 1LIVE diGGi: Shape Of You -by- Ed Sheeran
+2017-02-11T09:16:00+01:00 INFO: 1LIVE diGGi: My Way -by- Calvin Harris
+2017-02-11T09:20:01+01:00 INFO: 1LIVE diGGi: And We Danced -by- Macklemore feat. Ziggy Stardust
+2017-02-11T09:23:01+01:00 INFO: 1LIVE diGGi: Dye My Hair -by- Alma
+2017-02-11T09:27:01+01:00 INFO: 1LIVE diGGi: Me, Myself and I -by- G-Eazy with Bebe Rexha
+2017-02-11T09:32:01+01:00 INFO: 1LIVE diGGi: Feel -by- Mahmut Orhan feat. Sena Sener
+2017-02-11T09:46:02+01:00 INFO: 1LIVE diGGi: Lot To Learn -by- Luke Christopher
+2017-02-11T09:49:02+01:00 INFO: 1LIVE diGGi: Trumpets -by- Salvi Sak Noel feat. Sean Paul
+2017-02-11T09:52:02+01:00 INFO: 1LIVE diGGi: Paris (feat. Louane) -by- The Chainsmokers
+2017-02-11T09:56:03+01:00 INFO: 1LIVE diGGi: Too Good -by- Drake feat. Rihanna
+2017-02-11T09:59:03+01:00 INFO: 1LIVE diGGi: Waiting For Love -by- Avicii
+2017-02-11T10:03:04+01:00 INFO: 1LIVE diGGi: '03 Bonnie & Clyde -by- Jay-z feat. Beyonce
+2017-02-11T10:12:05+01:00 INFO: 1LIVE diGGi: Turn Down For What -by- DJ Snake feat. Lil' Jon
+2017-02-11T10:14:05+01:00 INFO: 1LIVE diGGi: Ain't My Fault -by- Zara Larsson
+2017-02-11T11:03:10+01:00 INFO: 1LIVE diGGi: Baby, du riechst -by- 257ers
+2017-02-11T11:06:10+01:00 INFO: 1LIVE diGGi: Sweet Lovin' -by- Sigala
+2017-02-11T11:23:12+01:00 INFO: 1LIVE diGGi: Ride -by- Twenty One Pilots
+2017-02-11T11:27:12+01:00 INFO: 1LIVE diGGi: Still Dre -by- Dr. Dre
+2017-02-11T11:31:12+01:00 INFO: 1LIVE diGGi: Hey Baby -by- Dimitri Vegas & Like Mike feat. Diplo
+2017-02-11T11:34:12+01:00 INFO: 1LIVE diGGi: Fast Car -by- Jonas Blue feat. Dakota
+2017-02-11T11:38:13+01:00 INFO: 1LIVE diGGi: Black Beatles -by- Rae Sremmurd feat. Gucci Mane
+2017-02-11T11:43:14+01:00 INFO: 1LIVE diGGi: Don't Be So Shy -by- Imany feat. Filatov & Karas
+2017-02-11T11:46:14+01:00 INFO: 1LIVE diGGi: Peanut Butter Jelly -by- Galantis
+2017-02-11T11:49:15+01:00 INFO: 1LIVE diGGi: Love On The Brain -by- Rihanna
+2017-02-11T12:55:20+01:00 INFO: 1LIVE diGGi: Bad Things -by- Machine Gun Kelly & Camila Cabello
+2017-02-11T12:59:20+01:00 INFO: 1LIVE diGGi: Diamonds -by- Rihanna
+2017-02-11T13:03:20+01:00 INFO: 1LIVE diGGi: Paris (feat. Louane) -by- The Chainsmokers
+2017-02-11T13:06:20+01:00 INFO: 1LIVE diGGi: Living -by- Bakermat feat. Alex Clare
+2017-02-11T13:09:21+01:00 INFO: 1LIVE diGGi: Be Right There -by- Diplo
+2017-02-11T13:13:21+01:00 INFO: 1LIVE diGGi: Crazy In Love -by- Beyonce feat. Jay-Z
+2017-02-11T13:19:22+01:00 INFO: 1LIVE diGGi: Run up -by- Major Lazer feat.Nicki Minaj & Partynextdoor
+2017-02-11T13:23:23+01:00 INFO: 1LIVE diGGi: Shake It Off -by- Taylor Swift
+2017-02-11T13:27:23+01:00 INFO: 1LIVE diGGi: Alone -by- Alan Walker
+2017-02-11T13:29:23+01:00 INFO: 1LIVE diGGi: This Girl -by- Kungs & Cookin' On 3 Burners
+2017-02-11T13:33:24+01:00 INFO: 1LIVE diGGi: Grenade -by- Bruno Mars
+2017-02-11T13:37:24+01:00 INFO: 1LIVE diGGi: An ihnen vorbei -by- Bonez MC & Raf Camora
+2017-02-11T13:44:25+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T13:48:25+01:00 INFO: 1LIVE diGGi: One Dance -by- Drake feat. Wizkid & Kyla
+2017-02-11T13:50:25+01:00 INFO: 1LIVE diGGi: King -by- Years & Years
+2017-02-11T13:54:26+01:00 INFO: 1LIVE diGGi: Juju On That Beat -by- Zay Hilfigerrr & Zayion McCall
+2017-02-11T14:00:27+01:00 INFO: 1LIVE diGGi: Into You -by- Ariana Grande
+2017-02-11T14:04:27+01:00 INFO: 1LIVE diGGi: Shed a light -by- Robin Schulz & David Guetta feat. Cheat Codes
+2017-02-11T14:08:28+01:00 INFO: 1LIVE diGGi: Closer -by- The Chainsmokers ft. Halsey
+2017-02-11T14:11:28+01:00 INFO: 1LIVE diGGi: +1 -by- The Chainsmokers ft. Halsey
+2017-02-11T14:12:28+01:00 INFO: 1LIVE diGGi: +1 -by- Martin Solveig feat. Sam White
+2017-02-11T14:14:29+01:00 INFO: 1LIVE diGGi: Next Episode -by- Dr. Dre
+2017-02-11T14:42:35+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T14:46:36+01:00 INFO: 1LIVE diGGi: Pizza -by- Antilopen Gang
+2017-02-11T14:49:36+01:00 INFO: 1LIVE diGGi: Spectrum -by- ZEDD feat. Matthew Koma
+2017-02-11T14:52:36+01:00 INFO: 1LIVE diGGi: Capsize -by- Frenship & Emily Warren
+2017-02-11T14:56:36+01:00 INFO: 1LIVE diGGi: Rockabye -by- Clean Bandit feat. Sean Paul & Anne-Marie
+2017-02-11T15:15:38+01:00 INFO: 1LIVE diGGi: Can't Stop The Feeling -by- Justin Timberlake
+2017-02-11T15:18:38+01:00 INFO: 1LIVE diGGi: Get Ur Freak On -by- Missy Elliott
+2017-02-11T15:35:44+01:00 INFO: 1LIVE diGGi: This Is What You Came For -by- Calvin Harris feat. Rihanna
+2017-02-11T15:39:45+01:00 INFO: 1LIVE diGGi: Now And Later -by- Sage the Gemini
+2017-02-11T15:41:45+01:00 INFO: 1LIVE diGGi: Club Can't Handle Me -by- Flo Rida feat. David Guetta
+2017-02-11T15:45:45+01:00 INFO: 1LIVE diGGi: In The Name Of Love -by- Martin Garrix & Bebe Rexha
+2017-02-11T15:49:45+01:00 INFO: 1LIVE diGGi: Bad And Boujee -by- Migos feat. Lil Uzi Vert
+2017-02-11T15:55:45+01:00 INFO: 1LIVE diGGi: Feel -by- Mahmut Orhan feat. Sena Sener
+2017-02-11T16:03:46+01:00 INFO: 1LIVE diGGi: Alone -by- Alan Walker
+2017-02-11T16:06:47+01:00 INFO: 1LIVE diGGi: All My Friends -by- Snakehips feat. Tinashe & Chance The Rapper
+2017-02-11T16:20:48+01:00 INFO: 1LIVE diGGi: Scars To Your Beautiful -by- Alessia Cara
+2017-02-11T16:24:49+01:00 INFO: 1LIVE diGGi: Panda -by- Desiigner
+2017-02-11T16:26:49+01:00 INFO: 1LIVE diGGi: One Day (Vandaag) -by- Bakermat
+2017-02-11T16:38:51+01:00 INFO: 1LIVE diGGi: Solo Dance -by- Martin Jensen
+2017-02-11T16:41:51+01:00 INFO: 1LIVE diGGi: Let Me Love You -by- DJ Snake feat. Justin Bieber
+2017-02-11T16:44:51+01:00 INFO: 1LIVE diGGi: Shed a light -by- Robin Schulz & David Guetta feat. Cheat Codes
+2017-02-11T17:10:56+01:00 INFO: 1LIVE diGGi: Touch -by- Little Mix
+2017-02-11T17:14:57+01:00 INFO: 1LIVE diGGi: Work From Home -by- Fifth Harmony feat. Ty Dolla Sign
+2017-02-11T17:18:57+01:00 INFO: 1LIVE diGGi: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T17:22:57+01:00 INFO: 1LIVE diGGi: The Mack -by- Nevada feat. Mark Morrison & Fetty Wap
+2017-02-11T17:25:57+01:00 INFO: 1LIVE diGGi: Rude Boy -by- Rihanna
+2017-02-11T17:28:57+01:00 INFO: 1LIVE diGGi: Gold -by- Kiiara
+2017-02-11T17:32:58+01:00 INFO: 1LIVE diGGi: Black Beatles -by- Rae Sremmurd feat. Gucci Mane
+2017-02-11T17:37:01+01:00 INFO: 1LIVE diGGi: Perfect Strangers -by- Jonas Blue feat. JP Cooper
+2017-02-11T17:40:01+01:00 INFO: 1LIVE diGGi: Lot To Learn -by- Luke Christopher
+2017-02-11T17:43:02+01:00 INFO: 1LIVE diGGi: The Hills -by- The Weeknd
+2017-02-11T17:47:02+01:00 INFO: 1LIVE diGGi: Hey Baby -by- Dimitri Vegas & Like Mike feat. Diplo
+2017-02-11T17:51:03+01:00 INFO: 1LIVE diGGi: Sucker For Pain -by- Wiz Khalifa Lil Wayne & Imagine Dragons feat.Logic Ty Dolla $ign & X Ambassadors
+2017-02-11T17:55:03+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T17:58:03+01:00 INFO: 1LIVE diGGi: Stay -by- Kygo feat. Maty Noyes
+2017-02-11T18:50:11+01:00 INFO: 1LIVE diGGi: Fake Love -by- Drake
+2017-02-11T18:53:11+01:00 INFO: 1LIVE diGGi: Cheap Thrills -by- Sia feat. Sean Paul
+2017-02-11T18:57:11+01:00 INFO: 1LIVE diGGi: Verstrahlt -by- Marteria feat. Yasha
+2017-02-11T19:42:15+01:00 INFO: 1LIVE diGGi: Growing Up (Sloane's Song) -by- Macklemore & Ryan Lewis feat. Ed Sheeran
+2017-02-11T19:47:15+01:00 INFO: 1LIVE diGGi: Juju On That Beat -by- Zay Hilfigerrr & Zayion McCall
+2017-02-11T20:46:23+01:00 INFO: 1LIVE diGGi: So Good -by- Zara Larsson feat. Ty Dolla Sign
+2017-02-11T20:49:23+01:00 INFO: 1LIVE diGGi: Warum? -by- 257ers
+2017-02-11T20:53:23+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T20:56:24+01:00 INFO: 1LIVE diGGi: Dangerous Woman -by- Ariana Grande
+2017-02-11T20:59:24+01:00 INFO: 1LIVE diGGi: My House -by- Flo Rida
+2017-02-11T22:03:28+01:00 INFO: 1LIVE diGGi: Starboy -by- The Weeknd feat. Daft Punk
+2017-02-11T22:08:28+01:00 INFO: 1LIVE diGGi: Astronaut -by- Sido feat. Andreas Bourani
+2017-02-11T22:11:29+01:00 INFO: 1LIVE diGGi: Bad And Boujee -by- Migos feat. Lil Uzi Vert
+2017-02-11T22:23:30+01:00 INFO: 1LIVE diGGi: Don't leave -by- Snakehips feat. M
+2017-02-11T22:27:30+01:00 INFO: 1LIVE diGGi: The Other Side -by- Jason Derulo
+2017-02-11T23:03:32+01:00 INFO: 1LIVE diGGi: Call On Me (Ryan Riback Remix) -by- Starley
+2017-02-11T23:07:32+01:00 INFO: 1LIVE diGGi: Traum -by- Cro
+2017-02-11T23:10:32+01:00 INFO: 1LIVE diGGi: Me, Myself and I -by- G-Eazy with Bebe Rexha
+2017-02-11T23:21:33+01:00 INFO: 1LIVE diGGi: I Feel So Bad -by- Kungs feat. Ephemerals
+2017-02-11T23:25:33+01:00 INFO: 1LIVE diGGi: Hangover -by- Taio Cruz
+2017-02-11T23:29:33+01:00 INFO: 1LIVE diGGi: No Lie -by- Sean Paul feat. Dua Lipa

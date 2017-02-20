@@ -1,0 +1,414 @@
+2017-02-09T00:00:47+01:00 INFO: Antenne Oldies: American Pie -by- Don McLean
+2017-02-09T00:04:47+01:00 INFO: Antenne Oldies: I Love To Love -by- Tina Charles
+2017-02-09T00:07:48+01:00 INFO: Antenne Oldies: Baby Come Back -by- The Equals
+2017-02-09T00:09:48+01:00 INFO: Antenne Oldies: One Way Wind -by- The Cats
+2017-02-09T00:13:49+01:00 INFO: Antenne Oldies: DREAMS ARE TEN A PENNY -by- JOHN KINCADE
+2017-02-09T00:16:49+01:00 INFO: Antenne Oldies: Monday, Monday -by- The Mamas & The Papas
+2017-02-09T00:19:50+01:00 INFO: Antenne Oldies: Ain't No Sunshine -by- Bill Withers
+2017-02-09T00:21:50+01:00 INFO: Antenne Oldies: Barbara Ann -by- The Beach Boys
+2017-02-09T00:23:50+01:00 INFO: Antenne Oldies: Le Freak -by- Chic
+2017-02-09T00:27:53+01:00 INFO: Antenne Oldies: Down On the Corner -by- Creedence Clearwater Revival
+2017-02-09T00:29:54+01:00 INFO: Antenne Oldies: London Calling -by- The Clash
+2017-02-09T00:33:54+01:00 INFO: Antenne Oldies: Living Next Door to Alice -by- Smokie
+2017-02-09T00:36:55+01:00 INFO: Antenne Oldies: Dizzy -by- Tommy Roe
+2017-02-09T00:39:55+01:00 INFO: Antenne Oldies: It Never Rains In Southern California -by- Albert Hammond
+2017-02-09T00:42:55+01:00 INFO: Antenne Oldies: Son of a Preacher Man -by- Dusty Springfield
+2017-02-09T00:45:56+01:00 INFO: Antenne Oldies: I Will Survive -by- Gloria Gaynor
+2017-02-09T00:48:57+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-09T00:51:58+01:00 INFO: Antenne Oldies: Bang a Gong (Get It On) -by- T. Rex
+2017-02-09T00:56:59+01:00 INFO: Antenne Oldies: All Right Now -by- Free
+2017-02-09T01:00:59+01:00 INFO: Antenne Oldies: Whiskey in the Jar -by- Thin Lizzy
+2017-02-09T01:06:00+01:00 INFO: Antenne Oldies: Some Girls -by- Racey
+2017-02-09T01:09:00+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-09T01:13:01+01:00 INFO: Antenne Oldies: Ring My Bell -by- Anita Ward
+2017-02-09T01:17:01+01:00 INFO: Antenne Oldies: Knockin' On Heaven's Door -by- Bob Dylan
+2017-02-09T01:20:01+01:00 INFO: Antenne Oldies: Wild Thing -by- The Troggs
+2017-02-09T01:22:02+01:00 INFO: Antenne Oldies: Rock Your Baby -by- George McCrae
+2017-02-09T01:25:02+01:00 INFO: Antenne Oldies: HONEY -by- BOBBY GOLSBORO
+2017-02-09T01:33:04+01:00 INFO: Antenne Oldies: Downtown -by- Petula Clark
+2017-02-09T01:36:04+01:00 INFO: Antenne Oldies: Daddy Cool -by- Boney M.
+2017-02-09T01:40:05+01:00 INFO: Antenne Oldies: Horoscope -by- Harpo
+2017-02-09T01:43:05+01:00 INFO: Antenne Oldies: No Milk Today -by- Herman's Hermits
+2017-02-09T01:46:06+01:00 INFO: Antenne Oldies: I Can't Stand the Rain -by- Eruption
+2017-02-09T01:48:06+01:00 INFO: Antenne Oldies: Do Wah Diddy Diddy -by- Manfred Mann
+2017-02-09T01:51:07+01:00 INFO: Antenne Oldies: El Condor Pasa -by- Simon & Garfunkel
+2017-02-09T01:54:08+01:00 INFO: Antenne Oldies: (I Can't Get No) Satisfaction -by- The Rolling Stones
+2017-02-09T01:58:08+01:00 INFO: Antenne Oldies: Knowing Me, Knowing You -by- ABBA
+2017-02-09T02:02:09+01:00 INFO: Antenne Oldies: Jolene -by- Dolly Parton
+2017-02-09T02:04:09+01:00 INFO: Antenne Oldies: Lady In Black -by- Uriah Heep
+2017-02-09T02:08:10+01:00 INFO: Antenne Oldies: With a Little Help From My Friends -by- Joe Cocker
+2017-02-09T02:13:10+01:00 INFO: Antenne Oldies: Get Down -by- Gilbert O'Sullivan
+2017-02-09T02:15:10+01:00 INFO: Antenne Oldies: Radar Love -by- Golden Earring
+2017-02-09T02:21:12+01:00 INFO: Antenne Oldies: A SONG OF JOY -by- MIGUEL RIOS
+2017-02-09T02:25:12+01:00 INFO: Antenne Oldies: Jeans On -by- David Dundas
+2017-02-09T02:29:13+01:00 INFO: Antenne Oldies: In the Ghetto -by- Elvis Presley
+2017-02-09T02:31:13+01:00 INFO: Antenne Oldies: Save Me -by- Clout
+2017-02-09T02:35:13+01:00 INFO: Antenne Oldies: Proud Mary -by- Creedence Clearwater Revival
+2017-02-09T02:39:16+01:00 INFO: Antenne Oldies: SEASONS IN THE SUN -by- TERRY JACKS
+2017-02-09T02:42:16+01:00 INFO: Antenne Oldies: Please Mr. Postman -by- Carpenters
+2017-02-09T02:45:17+01:00 INFO: Antenne Oldies: Je t'aime moi non plus -by- Jane Birkin & Serge Gainsbourg
+2017-02-09T02:49:17+01:00 INFO: Antenne Oldies: Y.M.C.A. -by- Village People
+2017-02-09T02:53:18+01:00 INFO: Antenne Oldies: CRIMSON AND CLOVER -by- TOMMY JAMES AND THE SHONDELLE
+2017-02-09T02:56:18+01:00 INFO: Antenne Oldies: Sugar Baby Love -by- The Rubettes
+2017-02-09T02:59:18+01:00 INFO: Antenne Oldies: SAN FRANCISCO (BE SURE TO WEAR FLOWERS) -by- SCOTT MC KENZIE
+2017-02-09T03:02:18+01:00 INFO: Antenne Oldies: Kung Fu Fighting -by- Carl Douglas
+2017-02-09T03:05:19+01:00 INFO: Antenne Oldies: In Zaire -by- Johnny Wakelin
+2017-02-09T03:08:19+01:00 INFO: Antenne Oldies: Keep On Running -by- The Spencer Davis Group
+2017-02-09T03:11:20+01:00 INFO: Antenne Oldies: Hiroshima -by- Wishful Thinking
+2017-02-09T03:15:20+01:00 INFO: Antenne Oldies: School's Out -by- Alice Cooper
+2017-02-09T03:20:20+01:00 INFO: Antenne Oldies: AQUARIUS / LET THE SUNSHINE IN -by- FIFTH DIMENSION
+2017-02-09T03:24:21+01:00 INFO: Antenne Oldies: So You Win Again -by- Hot Chocolate
+2017-02-09T03:28:21+01:00 INFO: Antenne Oldies: The House of the Rising Sun -by- The Animals
+2017-02-09T03:33:22+01:00 INFO: Antenne Oldies: Da Ya Think I'm Sexy? -by- Rod Stewart
+2017-02-09T03:37:23+01:00 INFO: Antenne Oldies: Michelle -by- The Beatles
+2017-02-09T03:40:23+01:00 INFO: Antenne Oldies: September -by- Earth, Wind & Fire
+2017-02-09T03:43:23+01:00 INFO: Antenne Oldies: I Shot the Sheriff -by- Eric Clapton
+2017-02-09T03:47:24+01:00 INFO: Antenne Oldies: Black Is Black -by- Los Bravos
+2017-02-09T03:50:24+01:00 INFO: Antenne Oldies: More Than a Feeling -by- Boston
+2017-02-09T03:55:25+01:00 INFO: Antenne Oldies: HEY JUDE (Edit) -by- The Beatles
+2017-02-09T03:59:25+01:00 INFO: Antenne Oldies: My Sweet Lord -by- George Harrison
+2017-02-09T04:03:25+01:00 INFO: Antenne Oldies: YOU'RE THE FIRST  THE LAST  MY EVERYTHI -by- BARRY WHITE
+2017-02-09T04:07:26+01:00 INFO: Antenne Oldies: Let Your Love Flow -by- Bellamy Brothers
+2017-02-09T04:10:26+01:00 INFO: Antenne Oldies: All You Need Is Love -by- The Beatles
+2017-02-09T04:14:27+01:00 INFO: Antenne Oldies: Hot Stuff -by- Donna Summer
+2017-02-09T04:17:27+01:00 INFO: Antenne Oldies: Me and Bobby McGee -by- Janis Joplin
+2017-02-09T04:22:28+01:00 INFO: Antenne Oldies: Bridge Over Troubled Water -by- Simon & Garfunkel
+2017-02-09T04:27:28+01:00 INFO: Antenne Oldies: Lost in France -by- Bonnie Tyler
+2017-02-09T04:31:29+01:00 INFO: Antenne Oldies: With a Girl Like You -by- The Troggs
+2017-02-09T04:33:29+01:00 INFO: Antenne Oldies: MUSIC (WAS MY FIRST LOVE) -by- JOHN MILES
+2017-02-09T04:39:31+01:00 INFO: Antenne Oldies: Bad Moon Rising -by- Creedence Clearwater Revival
+2017-02-09T04:41:31+01:00 INFO: Antenne Oldies: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-09T04:45:31+01:00 INFO: Antenne Oldies: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-09T04:47:32+01:00 INFO: Antenne Oldies: Penny Lane -by- The Beatles
+2017-02-09T04:50:32+01:00 INFO: Antenne Oldies: Imagine -by- John Lennon
+2017-02-09T04:53:32+01:00 INFO: Antenne Oldies: Nights In White Satin (The Night) -by- The Moody Blues
+2017-02-09T04:58:33+01:00 INFO: Antenne Oldies: Hot Love -by- T. Rex
+2017-02-09T05:02:33+01:00 INFO: Antenne Oldies: The Passenger -by- Iggy Pop
+2017-02-09T05:07:34+01:00 INFO: Antenne Oldies: Ginny Come Lately -by- Albert West
+2017-02-09T05:10:34+01:00 INFO: Antenne Oldies: LOOKIN' OUT MY BACKDOOR -by- Creedence Clearwater Revival
+2017-02-09T05:12:34+01:00 INFO: Antenne Oldies: A Glass of Champagne -by- Sailor
+2017-02-09T05:15:35+01:00 INFO: Antenne Oldies: Born to Be A -by- Patrick Hernandez
+2017-02-09T05:19:36+01:00 INFO: Antenne Oldies: Paint It Black -by- The Rolling Stones
+2017-02-09T05:22:36+01:00 INFO: Antenne Oldies: Don't Go Breaking My Heart -by- Elton John & Kiki Dee
+2017-02-09T05:27:37+01:00 INFO: Antenne Oldies: Mrs. Robinson -by- Simon & Garfunkel
+2017-02-09T05:30:37+01:00 INFO: Antenne Oldies: Bohemian Rhapsody -by- Queen
+2017-02-09T05:36:38+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-09T05:39:38+01:00 INFO: Antenne Oldies: Heart of Gold -by- Neil Young
+2017-02-09T05:42:39+01:00 INFO: Antenne Oldies: Girls, Girls, Girls -by- Sailor
+2017-02-09T05:45:39+01:00 INFO: Antenne Oldies: Whole Lotta Love -by- Led Zeppelin
+2017-02-09T05:51:40+01:00 INFO: Antenne Oldies: Fernando -by- ABBA
+2017-02-09T05:55:40+01:00 INFO: Antenne Oldies: In the Summertime -by- Mungo Jerry
+2017-02-09T05:58:40+01:00 INFO: Antenne Oldies: BRIGHT EYES -by- ART GARTFUNKEL
+2017-02-09T06:00:41+01:00 INFO: Antenne Oldies: WHEN YOU'RE IN LOVE WITH A BEAUTIFUL WO -by- DR. HOOK
+2017-02-09T06:03:41+01:00 INFO: Antenne Oldies: Under the Moon of Love -by- Showaddywaddy
+2017-02-09T06:05:41+01:00 INFO: Antenne Oldies: Mr. Tambourine Man -by- The Byrds
+2017-02-09T06:08:42+01:00 INFO: Antenne Oldies: Magic Fly -by- Space
+2017-02-09T06:11:42+01:00 INFO: Antenne Oldies: If You Can't Give Me Love -by- Suzi Quatro
+2017-02-09T06:15:42+01:00 INFO: Antenne Oldies: Raindrops Keep Fallin' On My Head -by- B.J. Thomas
+2017-02-09T06:18:43+01:00 INFO: Antenne Oldies: Crocodile Rock -by- Elton John
+2017-02-09T06:22:43+01:00 INFO: Antenne Oldies: Oh, Pretty Woman -by- Roy Orbison
+2017-02-09T06:25:43+01:00 INFO: Antenne Oldies: The Free Electric Band -by- Albert Hammond
+2017-02-09T06:28:44+01:00 INFO: Antenne Oldies: Baby Come Back -by- The Equals
+2017-02-09T06:31:44+01:00 INFO: Antenne Oldies: Mamma Mia -by- ABBA
+2017-02-09T06:35:44+01:00 INFO: Antenne Oldies: Fox on the Run -by- The Sweet
+2017-02-09T06:38:45+01:00 INFO: Antenne Oldies: Monday, Monday -by- The Mamas & The Papas
+2017-02-09T06:41:45+01:00 INFO: Antenne Oldies: One Way Ticket -by- Eruption
+2017-02-09T06:44:45+01:00 INFO: Antenne Oldies: Barbara Ann -by- The Beach Boys
+2017-02-09T06:46:46+01:00 INFO: Antenne Oldies: Oh Carol -by- Smokie
+2017-02-09T06:50:46+01:00 INFO: Antenne Oldies: Dizzy -by- Tommy Roe
+2017-02-09T06:53:46+01:00 INFO: Antenne Oldies: Dancing Queen -by- ABBA
+2017-02-09T06:57:47+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-09T07:00:47+01:00 INFO: Antenne Oldies: I Love To Love -by- Tina Charles
+2017-02-09T07:03:48+01:00 INFO: Antenne Oldies: One Way Wind -by- The Cats
+2017-02-09T07:06:48+01:00 INFO: Antenne Oldies: With a Little Help From My Friends -by- Joe Cocker
+2017-02-09T07:11:49+01:00 INFO: Antenne Oldies: Never Can Say Goodbye -by- Gloria Gaynor
+2017-02-09T07:14:49+01:00 INFO: Antenne Oldies: DREAMS ARE TEN A PENNY -by- JOHN KINCADE
+2017-02-09T07:17:50+01:00 INFO: Antenne Oldies: I'm a Believer -by- The Monkees
+2017-02-09T07:20:50+01:00 INFO: Antenne Oldies: Ain't No Sunshine -by- Bill Withers
+2017-02-09T07:22:50+01:00 INFO: Antenne Oldies: All Right Now -by- Free
+2017-02-09T07:26:51+01:00 INFO: Antenne Oldies: Le Freak -by- Chic
+2017-02-09T07:29:51+01:00 INFO: Antenne Oldies: Son of a Preacher Man -by- Dusty Springfield
+2017-02-09T07:32:52+01:00 INFO: Antenne Oldies: London Calling -by- The Clash
+2017-02-09T07:35:52+01:00 INFO: Antenne Oldies: You Sexy Thing -by- Hot Chocolate
+2017-02-09T07:39:52+01:00 INFO: Antenne Oldies: HONEY -by- BOBBY GOLSBORO
+2017-02-09T07:43:54+01:00 INFO: Antenne Oldies: METAL GURU -by- T-REX
+2017-02-09T07:45:54+01:00 INFO: Antenne Oldies: Downtown -by- Petula Clark
+2017-02-09T07:48:54+01:00 INFO: Antenne Oldies: It's a Heartache -by- Bonnie Tyler
+2017-02-09T07:51:58+01:00 INFO: Antenne Oldies: Down On the Corner -by- Creedence Clearwater Revival
+2017-02-09T07:54:58+01:00 INFO: Antenne Oldies: Chiquitita -by- ABBA
+2017-02-09T07:59:59+01:00 INFO: Antenne Oldies: Listen to the Music -by- The Doobie Brothers
+2017-02-09T08:03:59+01:00 INFO: Antenne Oldies: Lola -by- The Kinks
+2017-02-09T08:07:59+01:00 INFO: Antenne Oldies: Wild Thing -by- The Troggs
+2017-02-09T08:11:00+01:00 INFO: Antenne Oldies: Because the Night -by- Patti Smith Group
+2017-02-09T08:14:00+01:00 INFO: Antenne Oldies: POP MUZIK -by- M.
+2017-02-09T08:18:00+01:00 INFO: Antenne Oldies: Spirit In the Sky -by- Norman Greenbaum
+2017-02-09T08:21:01+01:00 INFO: Antenne Oldies: Walk On the Wild Side -by- Lou Reed
+2017-02-09T08:26:01+01:00 INFO: Antenne Oldies: Do Wah Diddy Diddy -by- Manfred Mann
+2017-02-09T08:28:02+01:00 INFO: Antenne Oldies: Some Girls -by- Racey
+2017-02-09T08:31:02+01:00 INFO: Antenne Oldies: A SONG OF JOY -by- MIGUEL RIOS
+2017-02-09T08:36:03+01:00 INFO: Antenne Oldies: Ring My Bell -by- Anita Ward
+2017-02-09T08:40:03+01:00 INFO: Antenne Oldies: Knockin' On Heaven's Door -by- Bob Dylan
+2017-02-09T08:42:03+01:00 INFO: Antenne Oldies: In the Ghetto -by- Elvis Presley
+2017-02-09T08:45:04+01:00 INFO: Antenne Oldies: Rock Your Baby -by- George McCrae
+2017-02-09T08:48:04+01:00 INFO: Antenne Oldies: (I Can't Get No) Satisfaction -by- The Rolling Stones
+2017-02-09T08:56:05+01:00 INFO: Antenne Oldies: Je t'aime moi non plus -by- Jane Birkin & Serge Gainsbourg
+2017-02-09T09:00:05+01:00 INFO: Antenne Oldies: Jeans On -by- David Dundas
+2017-02-09T09:04:05+01:00 INFO: Antenne Oldies: Save Me -by- Clout
+2017-02-09T09:08:06+01:00 INFO: Antenne Oldies: Proud Mary -by- Creedence Clearwater Revival
+2017-02-09T09:11:06+01:00 INFO: Antenne Oldies: SEASONS IN THE SUN -by- TERRY JACKS
+2017-02-09T09:14:06+01:00 INFO: Antenne Oldies: Please Mr. Postman -by- Carpenters
+2017-02-09T09:17:07+01:00 INFO: Antenne Oldies: SAN FRANCISCO (BE SURE TO WEAR FLOWERS) -by- SCOTT MC KENZIE
+2017-02-09T09:20:07+01:00 INFO: Antenne Oldies: Y.M.C.A. -by- Village People
+2017-02-09T09:24:07+01:00 INFO: Antenne Oldies: Venus -by- Shocking Blue
+2017-02-09T09:27:08+01:00 INFO: Antenne Oldies: Sugar Baby Love -by- The Rubettes
+2017-02-09T09:30:08+01:00 INFO: Antenne Oldies: Keep On Running -by- The Spencer Davis Group
+2017-02-09T09:33:08+01:00 INFO: Antenne Oldies: We Don't Talk Anymore -by- Cliff Richard
+2017-02-09T09:37:09+01:00 INFO: Antenne Oldies: Take a Chance On Me -by- ABBA
+2017-02-09T09:41:09+01:00 INFO: Antenne Oldies: AQUARIUS / LET THE SUNSHINE IN -by- FIFTH DIMENSION
+2017-02-09T09:45:09+01:00 INFO: Antenne Oldies: Song Sung Blue -by- Neil Diamond
+2017-02-09T09:49:10+01:00 INFO: Antenne Oldies: The House of the Rising Sun -by- The Animals
+2017-02-09T09:53:10+01:00 INFO: Antenne Oldies: Cecilia -by- Simon & Garfunkel
+2017-02-09T09:56:10+01:00 INFO: Antenne Oldies: Michelle -by- The Beatles
+2017-02-09T09:59:11+01:00 INFO: Antenne Oldies: Hey Tonight -by- Creedence Clearwater Revival
+2017-02-09T10:01:12+01:00 INFO: Antenne Oldies: American Pie -by- Don McLean
+2017-02-09T10:05:13+01:00 INFO: Antenne Oldies: Whiskey in the Jar -by- Thin Lizzy
+2017-02-09T10:11:14+01:00 INFO: Antenne Oldies: California Dreaming -by- The Mamas & The Papas
+2017-02-09T10:13:14+01:00 INFO: Antenne Oldies: Hiroshima -by- Wishful Thinking
+2017-02-09T10:17:15+01:00 INFO: Antenne Oldies: School's Out -by- Alice Cooper
+2017-02-09T10:21:15+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-09T10:24:16+01:00 INFO: Antenne Oldies: Da Ya Think I'm Sexy? -by- Rod Stewart
+2017-02-09T10:29:19+01:00 INFO: Antenne Oldies: HEY JUDE (Edit) -by- The Beatles
+2017-02-09T10:32:21+01:00 INFO: Antenne Oldies: September -by- Earth, Wind & Fire
+2017-02-09T10:36:22+01:00 INFO: Antenne Oldies: The Mighty Quinn -by- Manfred Mann
+2017-02-09T10:40:22+01:00 INFO: Antenne Oldies: I Shot the Sheriff -by- Eric Clapton
+2017-02-09T10:44:24+01:00 INFO: Antenne Oldies: More Than a Feeling -by- Boston
+2017-02-09T10:48:24+01:00 INFO: Antenne Oldies: All You Need Is Love -by- The Beatles
+2017-02-09T10:52:25+01:00 INFO: Antenne Oldies: My Sweet Lord -by- George Harrison
+2017-02-09T10:57:25+01:00 INFO: Antenne Oldies: Bridge Over Troubled Water -by- Simon & Garfunkel
+2017-02-09T11:02:26+01:00 INFO: Antenne Oldies: Jolene -by- Dolly Parton
+2017-02-09T11:04:26+01:00 INFO: Antenne Oldies: Lady In Black -by- Uriah Heep
+2017-02-09T11:07:27+01:00 INFO: Antenne Oldies: Bad Moon Rising -by- Creedence Clearwater Revival
+2017-02-09T11:10:27+01:00 INFO: Antenne Oldies: YOU'RE THE FIRST  THE LAST  MY EVERYTHI -by- BARRY WHITE
+2017-02-09T11:13:28+01:00 INFO: Antenne Oldies: Let Your Love Flow -by- Bellamy Brothers
+2017-02-09T11:17:28+01:00 INFO: Antenne Oldies: IN THE YEAR 2525 -by- ZAGER & EVANS
+2017-02-09T11:20:29+01:00 INFO: Antenne Oldies: Me and Bobby McGee -by- Janis Joplin
+2017-02-09T11:24:29+01:00 INFO: Antenne Oldies: Penny Lane -by- The Beatles
+2017-02-09T11:27:29+01:00 INFO: Antenne Oldies: MUSIC (WAS MY FIRST LOVE) -by- JOHN MILES
+2017-02-09T11:33:31+01:00 INFO: Antenne Oldies: Daydream Believer -by- The Monkees
+2017-02-09T11:36:31+01:00 INFO: Antenne Oldies: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-09T11:40:31+01:00 INFO: Antenne Oldies: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-09T11:42:32+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-09T11:45:32+01:00 INFO: Antenne Oldies: Imagine -by- John Lennon
+2017-02-09T11:48:33+01:00 INFO: Antenne Oldies: With a Little Help From My Friends -by- Joe Cocker
+2017-02-09T11:53:34+01:00 INFO: Antenne Oldies: I Will Survive -by- Gloria Gaynor
+2017-02-09T11:56:34+01:00 INFO: Antenne Oldies: LOOKIN' OUT MY BACKDOOR -by- Creedence Clearwater Revival
+2017-02-09T11:59:35+01:00 INFO: Antenne Oldies: Bang a Gong (Get It On) -by- T. Rex
+2017-02-09T12:00:35+01:00 INFO: Antenne Oldies: Get Down -by- Gilbert O'Sullivan
+2017-02-09T12:02:35+01:00 INFO: Antenne Oldies: Radar Love -by- Golden Earring
+2017-02-09T12:07:36+01:00 INFO: Antenne Oldies: In the Summertime -by- Mungo Jerry
+2017-02-09T12:11:36+01:00 INFO: Antenne Oldies: Kung Fu Fighting -by- Carl Douglas
+2017-02-09T12:14:37+01:00 INFO: Antenne Oldies: Ginny Come Lately -by- Albert West
+2017-02-09T12:17:38+01:00 INFO: Antenne Oldies: Light My Fire -by- The Doors
+2017-02-09T12:20:38+01:00 INFO: Antenne Oldies: A Glass of Champagne -by- Sailor
+2017-02-09T12:23:39+01:00 INFO: Antenne Oldies: What a Wonderful World -by- Louis Armstrong
+2017-02-09T12:25:39+01:00 INFO: Antenne Oldies: Born to Be A -by- Patrick Hernandez
+2017-02-09T12:28:39+01:00 INFO: Antenne Oldies: Mr. Tambourine Man -by- The Byrds
+2017-02-09T12:31:39+01:00 INFO: Antenne Oldies: Bohemian Rhapsody -by- Queen
+2017-02-09T12:37:41+01:00 INFO: Antenne Oldies: Heart of Gold -by- Neil Young
+2017-02-09T12:40:41+01:00 INFO: Antenne Oldies: Raindrops Keep Fallin' On My Head -by- B.J. Thomas
+2017-02-09T12:43:42+01:00 INFO: Antenne Oldies: I Can't Stand the Rain -by- Eruption
+2017-02-09T12:45:42+01:00 INFO: Antenne Oldies: Oh, Pretty Woman -by- Roy Orbison
+2017-02-09T12:48:42+01:00 INFO: Antenne Oldies: Crocodile Rock -by- Elton John
+2017-02-09T12:52:43+01:00 INFO: Antenne Oldies: Baby Come Back -by- The Equals
+2017-02-09T12:55:43+01:00 INFO: Antenne Oldies: El Condor Pasa -by- Simon & Garfunkel
+2017-02-09T12:58:43+01:00 INFO: Antenne Oldies: Monday, Monday -by- The Mamas & The Papas
+2017-02-09T13:01:44+01:00 INFO: Antenne Oldies: In Zaire -by- Johnny Wakelin
+2017-02-09T13:04:44+01:00 INFO: Antenne Oldies: Hot Stuff -by- Donna Summer
+2017-02-09T13:08:45+01:00 INFO: Antenne Oldies: Barbara Ann -by- The Beach Boys
+2017-02-09T13:10:45+01:00 INFO: Antenne Oldies: WHEN YOU'RE IN LOVE WITH A BEAUTIFUL WO -by- DR. HOOK
+2017-02-09T13:13:45+01:00 INFO: Antenne Oldies: Under the Moon of Love -by- Showaddywaddy
+2017-02-09T13:16:45+01:00 INFO: Antenne Oldies: Dizzy -by- Tommy Roe
+2017-02-09T13:19:46+01:00 INFO: Antenne Oldies: Magic Fly -by- Space
+2017-02-09T13:22:46+01:00 INFO: Antenne Oldies: Paint It Black -by- The Rolling Stones
+2017-02-09T13:26:47+01:00 INFO: Antenne Oldies: If You Can't Give Me Love -by- Suzi Quatro
+2017-02-09T13:30:47+01:00 INFO: Antenne Oldies: Mrs. Robinson -by- Simon & Garfunkel
+2017-02-09T13:33:47+01:00 INFO: Antenne Oldies: Horoscope -by- Harpo
+2017-02-09T13:36:48+01:00 INFO: Antenne Oldies: Let It Be -by- The Beatles
+2017-02-09T13:40:48+01:00 INFO: Antenne Oldies: All Right Now -by- Free
+2017-02-09T13:44:49+01:00 INFO: Antenne Oldies: Lay Back In the Arms of Someone -by- Smokie
+2017-02-09T13:48:51+01:00 INFO: Antenne Oldies: Son of a Preacher Man -by- Dusty Springfield
+2017-02-09T13:51:51+01:00 INFO: Antenne Oldies: Waterloo -by- ABBA
+2017-02-09T13:53:51+01:00 INFO: Antenne Oldies: I'm a Believer -by- The Monkees
+2017-02-09T13:56:51+01:00 INFO: Antenne Oldies: Lost in France -by- Bonnie Tyler
+2017-02-09T14:00:52+01:00 INFO: Antenne Oldies: The Passenger -by- Iggy Pop
+2017-02-09T14:04:52+01:00 INFO: Antenne Oldies: I Love To Love -by- Tina Charles
+2017-02-09T14:07:53+01:00 INFO: Antenne Oldies: Downtown -by- Petula Clark
+2017-02-09T14:11:53+01:00 INFO: Antenne Oldies: One Way Wind -by- The Cats
+2017-02-09T14:14:53+01:00 INFO: Antenne Oldies: DREAMS ARE TEN A PENNY -by- JOHN KINCADE
+2017-02-09T14:17:54+01:00 INFO: Antenne Oldies: No Milk Today -by- Herman's Hermits
+2017-02-09T14:20:55+01:00 INFO: Antenne Oldies: So You Win Again -by- Hot Chocolate
+2017-02-09T14:24:55+01:00 INFO: Antenne Oldies: Down On the Corner -by- Creedence Clearwater Revival
+2017-02-09T14:27:55+01:00 INFO: Antenne Oldies: Ain't No Sunshine -by- Bill Withers
+2017-02-09T14:29:56+01:00 INFO: Antenne Oldies: Spirit In the Sky -by- Norman Greenbaum
+2017-02-09T14:33:56+01:00 INFO: Antenne Oldies: Le Freak -by- Chic
+2017-02-09T14:36:59+01:00 INFO: Antenne Oldies: London Calling -by- The Clash
+2017-02-09T14:40:59+01:00 INFO: Antenne Oldies: Wild Thing -by- The Troggs
+2017-02-09T14:42:59+01:00 INFO: Antenne Oldies: I Am... I Said -by- Neil Diamond
+2017-02-09T14:47:00+01:00 INFO: Antenne Oldies: Do Wah Diddy Diddy -by- Manfred Mann
+2017-02-09T14:49:00+01:00 INFO: Antenne Oldies: S.O.S. -by- ABBA
+2017-02-09T14:52:00+01:00 INFO: Antenne Oldies: A SONG OF JOY -by- MIGUEL RIOS
+2017-02-09T14:57:01+01:00 INFO: Antenne Oldies: Don't Go Breaking My Heart -by- Elton John & Kiki Dee
+2017-02-09T15:01:01+01:00 INFO: Antenne Oldies: Listen to the Music -by- The Doobie Brothers
+2017-02-09T15:05:02+01:00 INFO: Antenne Oldies: Lola -by- The Kinks
+2017-02-09T15:09:02+01:00 INFO: Antenne Oldies: Je t'aime moi non plus -by- Jane Birkin & Serge Gainsbourg
+2017-02-09T15:13:03+01:00 INFO: Antenne Oldies: POP MUZIK -by- M.
+2017-02-09T15:17:03+01:00 INFO: Antenne Oldies: Walk On the Wild Side -by- Lou Reed
+2017-02-09T15:21:04+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-09T15:24:04+01:00 INFO: Antenne Oldies: Some Girls -by- Racey
+2017-02-09T15:27:05+01:00 INFO: Antenne Oldies: CRIMSON AND CLOVER -by- TOMMY JAMES AND THE SHONDELLE
+2017-02-09T15:31:05+01:00 INFO: Antenne Oldies: Ring My Bell -by- Anita Ward
+2017-02-09T15:35:06+01:00 INFO: Antenne Oldies: SAN FRANCISCO (BE SURE TO WEAR FLOWERS) -by- SCOTT MC KENZIE
+2017-02-09T15:38:06+01:00 INFO: Antenne Oldies: Knockin' On Heaven's Door -by- Bob Dylan
+2017-02-09T15:40:07+01:00 INFO: Antenne Oldies: Rock Your Baby -by- George McCrae
+2017-02-09T15:43:07+01:00 INFO: Antenne Oldies: Venus -by- Shocking Blue
+2017-02-09T15:50:08+01:00 INFO: Antenne Oldies: Keep On Running -by- The Spencer Davis Group
+2017-02-09T15:53:09+01:00 INFO: Antenne Oldies: Daddy Cool -by- Boney M.
+2017-02-09T15:56:09+01:00 INFO: Antenne Oldies: AQUARIUS / LET THE SUNSHINE IN -by- FIFTH DIMENSION
+2017-02-09T16:01:09+01:00 INFO: Antenne Oldies: Jeans On -by- David Dundas
+2017-02-09T16:05:10+01:00 INFO: Antenne Oldies: Save Me -by- Clout
+2017-02-09T16:09:11+01:00 INFO: Antenne Oldies: (I Can't Get No) Satisfaction -by- The Rolling Stones
+2017-02-09T16:12:11+01:00 INFO: Antenne Oldies: SEASONS IN THE SUN -by- TERRY JACKS
+2017-02-09T16:16:12+01:00 INFO: Antenne Oldies: Please Mr. Postman -by- Carpenters
+2017-02-09T16:19:12+01:00 INFO: Antenne Oldies: Black Is Black -by- Los Bravos
+2017-02-09T16:22:12+01:00 INFO: Antenne Oldies: Y.M.C.A. -by- Village People
+2017-02-09T16:26:13+01:00 INFO: Antenne Oldies: California Dreaming -by- The Mamas & The Papas
+2017-02-09T16:28:13+01:00 INFO: Antenne Oldies: Sugar Baby Love -by- The Rubettes
+2017-02-09T16:32:13+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-09T16:35:13+01:00 INFO: Antenne Oldies: We Don't Talk Anymore -by- Cliff Richard
+2017-02-09T16:38:14+01:00 INFO: Antenne Oldies: Stayin' A -by- Bee Gees
+2017-02-09T16:43:14+01:00 INFO: Antenne Oldies: With a Little Help From My Friends -by- Joe Cocker
+2017-02-09T16:48:15+01:00 INFO: Antenne Oldies: IF YOU THINK YOU KNOW ... -by- Smokie
+2017-02-09T16:51:15+01:00 INFO: Antenne Oldies: Proud Mary -by- Creedence Clearwater Revival
+2017-02-09T16:54:15+01:00 INFO: Antenne Oldies: The Free Electric Band -by- Albert Hammond
+2017-02-09T16:58:16+01:00 INFO: Antenne Oldies: Michelle -by- The Beatles
+2017-02-09T17:00:16+01:00 INFO: Antenne Oldies: Because the Night -by- Patti Smith Group
+2017-02-09T17:04:16+01:00 INFO: Antenne Oldies: American Pie -by- Don McLean
+2017-02-09T17:08:17+01:00 INFO: Antenne Oldies: The Mighty Quinn -by- Manfred Mann
+2017-02-09T17:12:17+01:00 INFO: Antenne Oldies: Hiroshima -by- Wishful Thinking
+2017-02-09T17:16:18+01:00 INFO: Antenne Oldies: School's Out -by- Alice Cooper
+2017-02-09T17:20:18+01:00 INFO: Antenne Oldies: All You Need Is Love -by- The Beatles
+2017-02-09T17:23:19+01:00 INFO: Antenne Oldies: Da Ya Think I'm Sexy? -by- Rod Stewart
+2017-02-09T17:27:19+01:00 INFO: Antenne Oldies: Nights In White Satin (The Night) -by- The Moody Blues
+2017-02-09T17:32:20+01:00 INFO: Antenne Oldies: September -by- Earth, Wind & Fire
+2017-02-09T17:35:20+01:00 INFO: Antenne Oldies: IN THE YEAR 2525 -by- ZAGER & EVANS
+2017-02-09T17:38:20+01:00 INFO: Antenne Oldies: I Shot the Sheriff -by- Eric Clapton
+2017-02-09T17:43:21+01:00 INFO: Antenne Oldies: More Than a Feeling -by- Boston
+2017-02-09T17:47:23+01:00 INFO: Antenne Oldies: Bridge Over Troubled Water -by- Simon & Garfunkel
+2017-02-09T17:52:24+01:00 INFO: Antenne Oldies: My Sweet Lord -by- George Harrison
+2017-02-09T17:57:25+01:00 INFO: Antenne Oldies: With a Girl Like You -by- The Troggs
+2017-02-09T17:59:26+01:00 INFO: Antenne Oldies: One Way Ticket -by- Eruption
+2017-02-09T18:00:26+01:00 INFO: Antenne Oldies: Jolene -by- Dolly Parton
+2017-02-09T18:03:27+01:00 INFO: Antenne Oldies: Lady In Black -by- Uriah Heep
+2017-02-09T18:06:27+01:00 INFO: Antenne Oldies: Daydream Believer -by- The Monkees
+2017-02-09T18:09:28+01:00 INFO: Antenne Oldies: Me and Bobby McGee -by- Janis Joplin
+2017-02-09T18:13:29+01:00 INFO: Antenne Oldies: Never Can Say Goodbye -by- Gloria Gaynor
+2017-02-09T18:17:30+01:00 INFO: Antenne Oldies: Whole Lotta Love -by- Led Zeppelin
+2017-02-09T18:22:32+01:00 INFO: Antenne Oldies: MUSIC (WAS MY FIRST LOVE) -by- JOHN MILES
+2017-02-09T18:28:33+01:00 INFO: Antenne Oldies: In the Summertime -by- Mungo Jerry
+2017-02-09T18:32:34+01:00 INFO: Antenne Oldies: LOVE IS IN THE AIR -by- JOHN PAUL YOUNG
+2017-02-09T18:35:35+01:00 INFO: Antenne Oldies: Light My Fire -by- The Doors
+2017-02-09T18:38:35+01:00 INFO: Antenne Oldies: YOU'RE THE ONE THAT I WANT -by- OLIVIA NEWTON-JOHN & JOHN TRAVO
+2017-02-09T18:41:36+01:00 INFO: Antenne Oldies: Imagine -by- John Lennon
+2017-02-09T18:44:36+01:00 INFO: Antenne Oldies: What a Wonderful World -by- Louis Armstrong
+2017-02-09T18:46:37+01:00 INFO: Antenne Oldies: I.O.I.O. -by- Bee Gees
+2017-02-09T18:49:38+01:00 INFO: Antenne Oldies: Mr. Tambourine Man -by- The Byrds
+2017-02-09T18:51:38+01:00 INFO: Antenne Oldies: You Sexy Thing -by- Hot Chocolate
+2017-02-09T18:54:39+01:00 INFO: Antenne Oldies: Raindrops Keep Fallin' On My Head -by- B.J. Thomas
+2017-02-09T18:57:39+01:00 INFO: Antenne Oldies: METAL GURU -by- T-REX
+2017-02-09T19:00:40+01:00 INFO: Antenne Oldies: Ginny Come Lately -by- Albert West
+2017-02-09T19:03:41+01:00 INFO: Antenne Oldies: Born to Be A -by- Patrick Hernandez
+2017-02-09T19:06:41+01:00 INFO: Antenne Oldies: Baby Come Back -by- The Equals
+2017-02-09T19:09:42+01:00 INFO: Antenne Oldies: Bohemian Rhapsody -by- Queen
+2017-02-09T19:15:43+01:00 INFO: Antenne Oldies: Heart of Gold -by- Neil Young
+2017-02-09T19:18:43+01:00 INFO: Antenne Oldies: Monday, Monday -by- The Mamas & The Papas
+2017-02-09T19:21:43+01:00 INFO: Antenne Oldies: Chiquitita -by- ABBA
+2017-02-09T19:27:44+01:00 INFO: Antenne Oldies: Barbara Ann -by- The Beach Boys
+2017-02-09T19:28:44+01:00 INFO: Antenne Oldies: MULL OF KINTYRE -by- PAUL MCCARTNEY & THE WINGS
+2017-02-09T19:33:45+01:00 INFO: Antenne Oldies: Dizzy -by- Tommy Roe
+2017-02-09T19:36:45+01:00 INFO: Antenne Oldies: Moviestar -by- Harpo
+2017-02-09T19:39:45+01:00 INFO: Antenne Oldies: Take a Chance On Me -by- ABBA
+2017-02-09T19:43:46+01:00 INFO: Antenne Oldies: LOOKIN' OUT MY BACKDOOR -by- Creedence Clearwater Revival
+2017-02-09T19:46:47+01:00 INFO: Antenne Oldies: Song Sung Blue -by- Neil Diamond
+2017-02-09T19:49:47+01:00 INFO: Antenne Oldies: Paint It Black -by- The Rolling Stones
+2017-02-09T19:52:48+01:00 INFO: Antenne Oldies: Cecilia -by- Simon & Garfunkel
+2017-02-09T19:55:48+01:00 INFO: Antenne Oldies: All Right Now -by- Free
+2017-02-09T19:59:49+01:00 INFO: Antenne Oldies: Hey Tonight -by- Creedence Clearwater Revival
+2017-02-09T20:02:49+01:00 INFO: Antenne Oldies: Whiskey in the Jar -by- Thin Lizzy
+2017-02-09T20:07:49+01:00 INFO: Antenne Oldies: Under the Moon of Love -by- Showaddywaddy
+2017-02-09T20:10:50+01:00 INFO: Antenne Oldies: The Sound of Silence -by- Simon & Garfunkel
+2017-02-09T20:13:50+01:00 INFO: Antenne Oldies: Magic Fly -by- Space
+2017-02-09T20:16:50+01:00 INFO: Antenne Oldies: If You Can't Give Me Love -by- Suzi Quatro
+2017-02-09T20:21:51+01:00 INFO: Antenne Oldies: HONEY -by- BOBBY GOLSBORO
+2017-02-09T20:25:51+01:00 INFO: Antenne Oldies: Night Fever -by- Bee Gees
+2017-02-09T20:28:51+01:00 INFO: Antenne Oldies: Downtown -by- Petula Clark
+2017-02-09T20:31:52+01:00 INFO: Antenne Oldies: Living Next Door to Alice -by- Smokie
+2017-02-09T20:35:52+01:00 INFO: Antenne Oldies: No Milk Today -by- Herman's Hermits
+2017-02-09T20:38:52+01:00 INFO: Antenne Oldies: It Never Rains In Southern California -by- Albert Hammond
+2017-02-09T20:41:53+01:00 INFO: Antenne Oldies: I Will Survive -by- Gloria Gaynor
+2017-02-09T20:44:54+01:00 INFO: Antenne Oldies: Mrs. Robinson -by- Simon & Garfunkel
+2017-02-09T20:48:55+01:00 INFO: Antenne Oldies: Bang a Gong (Get It On) -by- T. Rex
+2017-02-09T20:52:55+01:00 INFO: Antenne Oldies: Spirit In the Sky -by- Norman Greenbaum
+2017-02-09T20:56:56+01:00 INFO: Antenne Oldies: Funny Funny -by- The Sweet
+2017-02-09T20:59:56+01:00 INFO: Antenne Oldies: I'm a Believer -by- The Monkees
+2017-02-09T21:02:57+01:00 INFO: Antenne Oldies: YOU'RE THE FIRST  THE LAST  MY EVERYTHI -by- BARRY WHITE
+2017-02-09T21:05:58+01:00 INFO: Antenne Oldies: Let Your Love Flow -by- Bellamy Brothers
+2017-02-09T21:08:59+01:00 INFO: Antenne Oldies: A SONG OF JOY -by- MIGUEL RIOS
+2017-02-09T21:13:59+01:00 INFO: Antenne Oldies: Get Down -by- Gilbert O'Sullivan
+2017-02-09T21:16:00+01:00 INFO: Antenne Oldies: Radar Love -by- Golden Earring
+2017-02-09T21:22:01+01:00 INFO: Antenne Oldies: Dream a Little Dream of Me -by- The Mamas & The Papas
+2017-02-09T21:25:01+01:00 INFO: Antenne Oldies: Crocodile Rock -by- Elton John
+2017-02-09T21:29:03+01:00 INFO: Antenne Oldies: In the Ghetto -by- Elvis Presley
+2017-02-09T21:32:04+01:00 INFO: Antenne Oldies: I Love To Love -by- Tina Charles
+2017-02-09T21:35:04+01:00 INFO: Antenne Oldies: Je t'aime moi non plus -by- Jane Birkin & Serge Gainsbourg
+2017-02-09T21:39:09+01:00 INFO: Antenne Oldies: One Way Wind -by- The Cats
+2017-02-09T21:42:09+01:00 INFO: Antenne Oldies: DREAMS ARE TEN A PENNY -by- JOHN KINCADE
+2017-02-09T21:45:09+01:00 INFO: Antenne Oldies: CRIMSON AND CLOVER -by- TOMMY JAMES AND THE SHONDELLE
+2017-02-09T21:48:10+01:00 INFO: Antenne Oldies: Ain't No Sunshine -by- Bill Withers
+2017-02-09T21:50:10+01:00 INFO: Antenne Oldies: SAN FRANCISCO (BE SURE TO WEAR FLOWERS) -by- SCOTT MC KENZIE
+2017-02-09T21:53:11+01:00 INFO: Antenne Oldies: Le Freak -by- Chic
+2017-02-09T21:57:12+01:00 INFO: Antenne Oldies: Venus -by- Shocking Blue
+2017-02-09T22:00:12+01:00 INFO: Antenne Oldies: London Calling -by- The Clash
+2017-02-09T22:03:13+01:00 INFO: Antenne Oldies: Kung Fu Fighting -by- Carl Douglas
+2017-02-09T22:06:14+01:00 INFO: Antenne Oldies: In Zaire -by- Johnny Wakelin
+2017-02-09T22:09:14+01:00 INFO: Antenne Oldies: AQUARIUS / LET THE SUNSHINE IN -by- FIFTH DIMENSION
+2017-02-09T22:14:15+01:00 INFO: Antenne Oldies: Some Girls -by- Racey
+2017-02-09T22:17:16+01:00 INFO: Antenne Oldies: Ring My Bell -by- Anita Ward
+2017-02-09T22:22:17+01:00 INFO: Antenne Oldies: The House of the Rising Sun -by- The Animals
+2017-02-09T22:26:19+01:00 INFO: Antenne Oldies: Knockin' On Heaven's Door -by- Bob Dylan
+2017-02-09T22:29:19+01:00 INFO: Antenne Oldies: With a Little Help From My Friends -by- Joe Cocker
+2017-02-09T22:33:20+01:00 INFO: Antenne Oldies: Rock Your Baby -by- George McCrae
+2017-02-09T22:37:20+01:00 INFO: Antenne Oldies: Black Is Black -by- Los Bravos
+2017-02-09T22:44:21+01:00 INFO: Antenne Oldies: Daddy Cool -by- Boney M.
+2017-02-09T22:47:22+01:00 INFO: Antenne Oldies: California Dreaming -by- The Mamas & The Papas
+2017-02-09T22:50:22+01:00 INFO: Antenne Oldies: Knowing Me, Knowing You -by- ABBA
+2017-02-09T22:54:26+01:00 INFO: Antenne Oldies: Wild Thing -by- The Troggs
+2017-02-09T22:56:26+01:00 INFO: Antenne Oldies: Let It Be -by- The Beatles
+2017-02-09T23:00:26+01:00 INFO: Antenne Oldies: Hot Stuff -by- Donna Summer
+2017-02-09T23:04:28+01:00 INFO: Antenne Oldies: WHEN YOU'RE IN LOVE WITH A BEAUTIFUL WO -by- DR. HOOK
+2017-02-09T23:06:28+01:00 INFO: Antenne Oldies: Proud Mary -by- Creedence Clearwater Revival
+2017-02-09T23:10:29+01:00 INFO: Antenne Oldies: Jeans On -by- David Dundas
+2017-02-09T23:13:30+01:00 INFO: Antenne Oldies: Save Me -by- Clout
+2017-02-09T23:17:30+01:00 INFO: Antenne Oldies: Michelle -by- The Beatles
+2017-02-09T23:20:30+01:00 INFO: Antenne Oldies: SEASONS IN THE SUN -by- TERRY JACKS
+2017-02-09T23:23:31+01:00 INFO: Antenne Oldies: HEY JUDE (Edit) -by- The Beatles
+2017-02-09T23:25:46+01:00 INFO: Antenne Oldies: HEY JUDE (Edit) -by- The Beatles
+2017-02-09T23:27:46+01:00 INFO: Antenne Oldies: Please Mr. Postman -by- Carpenters
+2017-02-09T23:30:47+01:00 INFO: Antenne Oldies: The Mighty Quinn -by- Manfred Mann
+2017-02-09T23:34:48+01:00 INFO: Antenne Oldies: Y.M.C.A. -by- Village People
+2017-02-09T23:37:51+01:00 INFO: Antenne Oldies: Sugar Baby Love -by- The Rubettes
+2017-02-09T23:41:52+01:00 INFO: Antenne Oldies: Nights In White Satin (The Night) -by- The Moody Blues
+2017-02-09T23:45:52+01:00 INFO: Antenne Oldies: We Don't Talk Anymore -by- Cliff Richard
+2017-02-09T23:49:53+01:00 INFO: Antenne Oldies: IN THE YEAR 2525 -by- ZAGER & EVANS
+2017-02-09T23:52:54+01:00 INFO: Antenne Oldies: Horoscope -by- Harpo
+2017-02-09T23:55:54+01:00 INFO: Antenne Oldies: All You Need Is Love -by- The Beatles
+2017-02-09T23:59:56+01:00 INFO: Antenne Oldies: The Passenger -by- Iggy Pop

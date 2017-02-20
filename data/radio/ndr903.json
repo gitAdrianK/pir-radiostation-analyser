@@ -1,0 +1,3847 @@
+[
+  {
+    "artist": "Elton John",
+    "title": "Crocodile Rock",
+    "count": 1
+  },
+  {
+    "artist": "C&eacute;line Dion",
+    "title": "I&#39;m alive",
+    "count": 1
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "West end girls",
+    "count": 1
+  },
+  {
+    "artist": "Olsen Brothers",
+    "title": "Fly on the wings of love",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "She loves you",
+    "count": 1
+  },
+  {
+    "artist": "Udo Lindenberg",
+    "title": "Du und ichund dann ganz lange gar nichts",
+    "count": 1
+  },
+  {
+    "artist": "Desmond Dekker",
+    "title": "You can get it if you really want",
+    "count": 1
+  },
+  {
+    "artist": "Peter Allen",
+    "title": "I go to Rio",
+    "count": 2
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Only the lonely",
+    "count": 1
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "Here comes the rain again",
+    "count": 1
+  },
+  {
+    "artist": "Simple Minds",
+    "title": "Don&#39;t you (forget about me)",
+    "count": 1
+  },
+  {
+    "artist": "Eruption",
+    "title": "One way ticket",
+    "count": 3
+  },
+  {
+    "artist": "Tommy Roe",
+    "title": "Dizzy",
+    "count": 1
+  },
+  {
+    "artist": "Barry Ryan",
+    "title": "Eloise",
+    "count": 1
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Grenade",
+    "count": 1
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Words",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross &amp; The Supremes",
+    "title": "Stop! In the name of love",
+    "count": 1
+  },
+  {
+    "artist": "Wind Earth &amp; Fire",
+    "title": "September",
+    "count": 1
+  },
+  {
+    "artist": "Tight Fit",
+    "title": "Fantasy island",
+    "count": 1
+  },
+  {
+    "artist": "Trisha Yearwood",
+    "title": "I don&#39;t fall in love so easy",
+    "count": 2
+  },
+  {
+    "artist": "Valerie Dore",
+    "title": "The night",
+    "count": 1
+  },
+  {
+    "artist": "Peter Maffay",
+    "title": "Nur f&uuml;r einen Tag",
+    "count": 1
+  },
+  {
+    "artist": "Wind Earth &amp; Fire",
+    "title": "Fantasy",
+    "count": 1
+  },
+  {
+    "artist": "Jennifer Rush",
+    "title": "Ring of ice",
+    "count": 1
+  },
+  {
+    "artist": "Sandra",
+    "title": "(I&#39;ll never be) Maria Magdalena",
+    "count": 1
+  },
+  {
+    "artist": "Chris Rea",
+    "title": "Julia",
+    "count": 2
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "On the radio",
+    "count": 2
+  },
+  {
+    "artist": "Supertramp",
+    "title": "Breakfast in America",
+    "count": 1
+  },
+  {
+    "artist": "Four Tops",
+    "title": "Loco in Acapulco",
+    "count": 1
+  },
+  {
+    "artist": "Milow",
+    "title": "Ayo technology",
+    "count": 1
+  },
+  {
+    "artist": "Melanie Thornton",
+    "title": "Love how you love me",
+    "count": 1
+  },
+  {
+    "artist": "Nelly Furtado",
+    "title": "All good things (come to an end)",
+    "count": 1
+  },
+  {
+    "artist": "Exile",
+    "title": "You thrill me",
+    "count": 2
+  },
+  {
+    "artist": "George Harrison",
+    "title": "Got my mind set on you",
+    "count": 1
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "She works hard for the money",
+    "count": 1
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Another brick in the wall",
+    "count": 1
+  },
+  {
+    "artist": "Robert Palmer",
+    "title": "Best of both worlds",
+    "count": 1
+  },
+  {
+    "artist": "France Gall",
+    "title": "Ella, elle l&#39;a",
+    "count": 1
+  },
+  {
+    "artist": "Joan Baez",
+    "title": "The night they drove old Dixie down",
+    "count": 1
+  },
+  {
+    "artist": "Shakira",
+    "title": "Whenever, wherever",
+    "count": 1
+  },
+  {
+    "artist": "Men At Work",
+    "title": "Down under",
+    "count": 1
+  },
+  {
+    "artist": "Chris Norman &amp; Suzi Quatro",
+    "title": "Stumblin&#39; in",
+    "count": 1
+  },
+  {
+    "artist": "Smokie",
+    "title": "Living next door to Alice",
+    "count": 1
+  },
+  {
+    "artist": "Boyzone",
+    "title": "Words",
+    "count": 1
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "Everything I want to do",
+    "count": 2
+  },
+  {
+    "artist": "Bobby McFerrin",
+    "title": "Don&#39;t worry, be happy",
+    "count": 2
+  },
+  {
+    "artist": "Troggs",
+    "title": "With a girl like you",
+    "count": 1
+  },
+  {
+    "artist": "Ohio Express",
+    "title": "Yummy, yummy, yummy",
+    "count": 1
+  },
+  {
+    "artist": "Nolans",
+    "title": "I&#39;m in the mood for dancing",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "Fun, fun, fun",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Let me take you in my arms again",
+    "count": 1
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Ma Baker",
+    "count": 1
+  },
+  {
+    "artist": "Spandau Ballet",
+    "title": "Gold",
+    "count": 2
+  },
+  {
+    "artist": "Pat Benatar",
+    "title": "Love is a battlefield",
+    "count": 1
+  },
+  {
+    "artist": "Searchers",
+    "title": "Sweets for my sweet",
+    "count": 1
+  },
+  {
+    "artist": "F. R. David",
+    "title": "Words",
+    "count": 2
+  },
+  {
+    "artist": "Kinks",
+    "title": "Dandy",
+    "count": 1
+  },
+  {
+    "artist": "Paul McCartney &amp; Stevie Wonder",
+    "title": "Ebony and ivory",
+    "count": 2
+  },
+  {
+    "artist": "Status Quo",
+    "title": "You&#39;re in the army now",
+    "count": 1
+  },
+  {
+    "artist": "Dawn",
+    "title": "Tie a yellow ribbon round the old oak tree",
+    "count": 1
+  },
+  {
+    "artist": "A-ha",
+    "title": "Take on me",
+    "count": 1
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "Love is a stranger",
+    "count": 5
+  },
+  {
+    "artist": "Oliver Onions",
+    "title": "Flying through the air",
+    "count": 2
+  },
+  {
+    "artist": "Queen",
+    "title": "Killer queen",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Sweet Caroline (Good times never seemed so good)",
+    "count": 1
+  },
+  {
+    "artist": "Double",
+    "title": "The captain of her heart",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Young Turks",
+    "count": 1
+  },
+  {
+    "artist": "Wind Earth &amp; Fire",
+    "title": "Boogie wonderland",
+    "count": 1
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "The last time",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Forever in Blue Jeans",
+    "count": 1
+  },
+  {
+    "artist": "Train &amp; Ashley Monroe",
+    "title": "Bruises",
+    "count": 2
+  },
+  {
+    "artist": "Gordon Lightfoot",
+    "title": "If you could read my mind",
+    "count": 2
+  },
+  {
+    "artist": "Toto",
+    "title": "Africa",
+    "count": 1
+  },
+  {
+    "artist": "Gerry Rafferty",
+    "title": "Baker Street",
+    "count": 2
+  },
+  {
+    "artist": "Maria Mena",
+    "title": "All this time (Pick-me-up song)",
+    "count": 2
+  },
+  {
+    "artist": "Amanda Lear",
+    "title": "Fashion pack (Studio 54)",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "Sad songs (say so much)",
+    "count": 1
+  },
+  {
+    "artist": "Katie Melua",
+    "title": "Nine million bicycles",
+    "count": 1
+  },
+  {
+    "artist": "Carpenters",
+    "title": "There&#39;s a kind of hush (all over the world)",
+    "count": 1
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Paying the price of love",
+    "count": 1
+  },
+  {
+    "artist": "Les Humphries Singers",
+    "title": "Mexico (The battle of New Orleans)",
+    "count": 1
+  },
+  {
+    "artist": "U2",
+    "title": "I still haven&#39;t found what I&#39;m looking for",
+    "count": 1
+  },
+  {
+    "artist": "Sasha",
+    "title": "We can leave the world",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "You&#39;re the devil in disguise",
+    "count": 1
+  },
+  {
+    "artist": "Camouflage",
+    "title": "Love is a shield",
+    "count": 1
+  },
+  {
+    "artist": "Garland Jeffreys",
+    "title": "Matador",
+    "count": 2
+  },
+  {
+    "artist": "Thom Pace",
+    "title": "Maybe",
+    "count": 1
+  },
+  {
+    "artist": "Lionel Richie",
+    "title": "Say you, say me",
+    "count": 1
+  },
+  {
+    "artist": "Restless Heart",
+    "title": "I&#39;ll still be loving you",
+    "count": 1
+  },
+  {
+    "artist": "Eddy Grant",
+    "title": "I don&#39;t wanna dance",
+    "count": 1
+  },
+  {
+    "artist": "Kylie Minogue &amp; Rob Davis",
+    "title": "Can&#39;t get you out of my head",
+    "count": 1
+  },
+  {
+    "artist": "Simon &amp; Garfunkel",
+    "title": "Bridge over troubled water",
+    "count": 1
+  },
+  {
+    "artist": "Heinz Rudolf Kunze",
+    "title": "Finden Sie Mabel",
+    "count": 1
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Ring of fire",
+    "count": 1
+  },
+  {
+    "artist": "Status Quo",
+    "title": "Rockin&#39; all over the world",
+    "count": 2
+  },
+  {
+    "artist": "Chris DeBurgh",
+    "title": "The lady in red",
+    "count": 1
+  },
+  {
+    "artist": "Enya",
+    "title": "Long long journey",
+    "count": 1
+  },
+  {
+    "artist": "Cutting Crew",
+    "title": "I just died in your arms",
+    "count": 2
+  },
+  {
+    "artist": "Milow",
+    "title": "You and me (in my pocket)",
+    "count": 2
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "Heaven",
+    "count": 1
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "Angie",
+    "count": 2
+  },
+  {
+    "artist": "Matt Simons",
+    "title": "Catch &amp; release",
+    "count": 1
+  },
+  {
+    "artist": "Teach In",
+    "title": "Ding a dong",
+    "count": 1
+  },
+  {
+    "artist": "Joshua Kadison",
+    "title": "Picture postcards from L.A.",
+    "count": 1
+  },
+  {
+    "artist": "Herman&#39;s Hermits",
+    "title": "No milk today",
+    "count": 1
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Lady writer",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Beautiful noise",
+    "count": 1
+  },
+  {
+    "artist": "Miriam Makeba",
+    "title": "Pata pata",
+    "count": 1
+  },
+  {
+    "artist": "Take That",
+    "title": "Back for good",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Chiquitita",
+    "count": 1
+  },
+  {
+    "artist": "Billy Ray Cyrus",
+    "title": "Achy breaky heart",
+    "count": 1
+  },
+  {
+    "artist": "George McCrae",
+    "title": "Rock your baby",
+    "count": 1
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "The lazy song",
+    "count": 1
+  },
+  {
+    "artist": "10cc",
+    "title": "I&#39;m not in love",
+    "count": 1
+  },
+  {
+    "artist": "Hollies",
+    "title": "Sorry Suzanne",
+    "count": 1
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "So you win again",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Good luck charm",
+    "count": 1
+  },
+  {
+    "artist": "Spencer Davis Group",
+    "title": "Keep on running",
+    "count": 1
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Too much heaven",
+    "count": 1
+  },
+  {
+    "artist": "Kool &amp; The Gang",
+    "title": "Joanna",
+    "count": 1
+  },
+  {
+    "artist": "Cher",
+    "title": "The shoop shoop song (It&#39;s in his kiss)",
+    "count": 1
+  },
+  {
+    "artist": "Starship",
+    "title": "Nothing&#39;s gonna stop us now",
+    "count": 2
+  },
+  {
+    "artist": "Roxette",
+    "title": "Listen to your heart",
+    "count": 1
+  },
+  {
+    "artist": "Mary Hopkin",
+    "title": "Those were the days",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross &amp; The Supremes",
+    "title": "Baby love",
+    "count": 1
+  },
+  {
+    "artist": "Smokie",
+    "title": "I&#39;ll meet you at midnight",
+    "count": 1
+  },
+  {
+    "artist": "Maybebop",
+    "title": "Ich seh dich",
+    "count": 1
+  },
+  {
+    "artist": "Jimmy Somerville",
+    "title": "Back To Me",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "Here comes the sun",
+    "count": 1
+  },
+  {
+    "artist": "Kiss",
+    "title": "I was made for loving you",
+    "count": 2
+  },
+  {
+    "artist": "Cat Stevens",
+    "title": "Matthew and son",
+    "count": 1
+  },
+  {
+    "artist": "Adriano Celentano",
+    "title": "Soli",
+    "count": 1
+  },
+  {
+    "artist": "Lionel Richie",
+    "title": "All night long (all night)",
+    "count": 1
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Auf uns",
+    "count": 1
+  },
+  {
+    "artist": "Nick Straker Band",
+    "title": "A walk in the park",
+    "count": 1
+  },
+  {
+    "artist": "Peter Cetera",
+    "title": "Glory of love (Theme)",
+    "count": 1
+  },
+  {
+    "artist": "Arthur Baker",
+    "title": "The message is love",
+    "count": 1
+  },
+  {
+    "artist": "Soft Cell",
+    "title": "Tainted love",
+    "count": 1
+  },
+  {
+    "artist": "Barry White",
+    "title": "You&#39;re the first, the last, my everything",
+    "count": 2
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "The miracle of love",
+    "count": 1
+  },
+  {
+    "artist": "UB 40 &amp; Chrissie Hynde",
+    "title": "I got you babe",
+    "count": 1
+  },
+  {
+    "artist": "Dozy, Beaky, Mick Dave Dee &amp; Tich",
+    "title": "The legend of Xanadu",
+    "count": 1
+  },
+  {
+    "artist": "Chris Andrews",
+    "title": "Yesterday man",
+    "count": 1
+  },
+  {
+    "artist": "Foreigner",
+    "title": "Waiting for a girl like you",
+    "count": 1
+  },
+  {
+    "artist": "Laura Branigan",
+    "title": "Self control",
+    "count": 1
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "I will survive",
+    "count": 2
+  },
+  {
+    "artist": "Colbie Caillat",
+    "title": "Brighter than the sun",
+    "count": 1
+  },
+  {
+    "artist": "Fool&#39;s Garden",
+    "title": "Lemon tree",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "I can hear music",
+    "count": 1
+  },
+  {
+    "artist": "Mory Kant&eacute;",
+    "title": "Y&eacute; k&eacute; y&eacute; k&eacute; (Yeke yeke)",
+    "count": 1
+  },
+  {
+    "artist": "Laid Back",
+    "title": "Bakerman",
+    "count": 2
+  },
+  {
+    "artist": "Byrds",
+    "title": "Mr. Tambourine Man",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "S.O.S.",
+    "count": 1
+  },
+  {
+    "artist": "Climie Fisher",
+    "title": "Love changes (everything)",
+    "count": 1
+  },
+  {
+    "artist": "Chris DeBurgh",
+    "title": "High on emotion",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "I&#39;m a believer",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross",
+    "title": "Upside down",
+    "count": 1
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "Hot stuff",
+    "count": 1
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Ordinary lives",
+    "count": 1
+  },
+  {
+    "artist": "Chic",
+    "title": "My forbidden lover",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Rock me",
+    "count": 1
+  },
+  {
+    "artist": "Lost Frequencies &amp; Janieck Devy",
+    "title": "Reality",
+    "count": 1
+  },
+  {
+    "artist": "Tremeloes",
+    "title": "Silence is golden",
+    "count": 1
+  },
+  {
+    "artist": "Robbie Williams &amp; Pet Shop Boys",
+    "title": "She&#39;s Madonna",
+    "count": 1
+  },
+  {
+    "artist": "Housemartins",
+    "title": "Caravan of love",
+    "count": 1
+  },
+  {
+    "artist": "James Blunt",
+    "title": "Stay the night",
+    "count": 1
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "Private dancer",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "The first cut is the deepest",
+    "count": 1
+  },
+  {
+    "artist": "Alvaro Soler",
+    "title": "Sofia",
+    "count": 1
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "Under my thumb",
+    "count": 1
+  },
+  {
+    "artist": "Alan Parsons Project",
+    "title": "Eye in the sky",
+    "count": 1
+  },
+  {
+    "artist": "Al Jarreau",
+    "title": "L is for lover",
+    "count": 2
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "I am... I said",
+    "count": 1
+  },
+  {
+    "artist": "Middle Of The Road",
+    "title": "Chirpy chirpy cheep cheep",
+    "count": 1
+  },
+  {
+    "artist": "Dionne Warwick",
+    "title": "Heartbreaker",
+    "count": 1
+  },
+  {
+    "artist": "Boris Gardiner",
+    "title": "I want to wake up with you",
+    "count": 1
+  },
+  {
+    "artist": "Lynn Anderson",
+    "title": "Rose garden",
+    "count": 1
+  },
+  {
+    "artist": "Chic",
+    "title": "Good times",
+    "count": 1
+  },
+  {
+    "artist": "Harpo",
+    "title": "Moviestar",
+    "count": 1
+  },
+  {
+    "artist": "Chris DeBurgh",
+    "title": "Ship to shore",
+    "count": 1
+  },
+  {
+    "artist": "Huey Lewis &amp; The News",
+    "title": "Stuck with you",
+    "count": 1
+  },
+  {
+    "artist": "Ryan Paris",
+    "title": "Dolce vita",
+    "count": 2
+  },
+  {
+    "artist": "Belinda Carlisle",
+    "title": "Circle in the sand",
+    "count": 2
+  },
+  {
+    "artist": "KC &amp; The Sunshine Band",
+    "title": "Shake, shake, shakeshake your booty",
+    "count": 1
+  },
+  {
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "count": 2
+  },
+  {
+    "artist": "Kaoma",
+    "title": "Lambada",
+    "count": 1
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "title": "Confusion",
+    "count": 2
+  },
+  {
+    "artist": "Abba",
+    "title": "Super trouper",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "One of us",
+    "count": 1
+  },
+  {
+    "artist": "Udo Lindenberg",
+    "title": "Ein Herz kann man nicht reparieren",
+    "count": 2
+  },
+  {
+    "artist": "Paul Simon",
+    "title": "You can call me Al",
+    "count": 1
+  },
+  {
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "count": 1
+  },
+  {
+    "artist": "Crowded House",
+    "title": "Weather with you",
+    "count": 1
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Love Never Felt So Good",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross &amp; The Supremes",
+    "title": "Where did our love go",
+    "count": 1
+  },
+  {
+    "artist": "Max Werner",
+    "title": "Rain in May",
+    "count": 1
+  },
+  {
+    "artist": "Smokie",
+    "title": "Lay back in the arms of someone",
+    "count": 2
+  },
+  {
+    "artist": "Kim Carnes",
+    "title": "Bette Davis eyes",
+    "count": 1
+  },
+  {
+    "artist": "Cher",
+    "title": "Strong enough",
+    "count": 1
+  },
+  {
+    "artist": "Charles &amp; Eddie",
+    "title": "Would I lie to you?",
+    "count": 2
+  },
+  {
+    "artist": "Steely Dan",
+    "title": "Rikki don&#39;t lose that number",
+    "count": 1
+  },
+  {
+    "artist": "Shocking Blue",
+    "title": "Venus",
+    "count": 1
+  },
+  {
+    "artist": "Robert Palmer",
+    "title": "Johnny and Mary",
+    "count": 1
+  },
+  {
+    "artist": "Dr. Hook",
+    "title": "Sylvia&#39;s mother",
+    "count": 1
+  },
+  {
+    "artist": "Elton John &amp; Kiki Dee",
+    "title": "Don&#39;t go breaking my heart",
+    "count": 1
+  },
+  {
+    "artist": "Mud",
+    "title": "Oh boy",
+    "count": 1
+  },
+  {
+    "artist": "Cock Robin",
+    "title": "Just around the corner",
+    "count": 1
+  },
+  {
+    "artist": "Pasadenas",
+    "title": "I&#39;m doing fine now",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "California girls",
+    "count": 1
+  },
+  {
+    "artist": "Suzanne Vega",
+    "title": "Luka",
+    "count": 2
+  },
+  {
+    "artist": "Leo Sayer",
+    "title": "You make me feel like dancing",
+    "count": 2
+  },
+  {
+    "artist": "Michael Sembello",
+    "title": "Maniac",
+    "count": 1
+  },
+  {
+    "artist": "Jeff Buckley",
+    "title": "Hallelujah",
+    "count": 1
+  },
+  {
+    "artist": "Kinks",
+    "title": "Lola",
+    "count": 1
+  },
+  {
+    "artist": "Fine Young Cannibals",
+    "title": "She drives me crazy",
+    "count": 1
+  },
+  {
+    "artist": "Midge Ure",
+    "title": "Breathe",
+    "count": 1
+  },
+  {
+    "artist": "USA For Africa",
+    "title": "We are the world",
+    "count": 1
+  },
+  {
+    "artist": "Nena",
+    "title": "Irgendwie, irgendwo, irgendwann",
+    "count": 1
+  },
+  {
+    "artist": "Ocean",
+    "title": "Put your hand in the hand",
+    "count": 1
+  },
+  {
+    "artist": "Mamas and The Papas",
+    "title": "California dreamin&#39;",
+    "count": 1
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "You are the sunshine of my life",
+    "count": 2
+  },
+  {
+    "artist": "Racey",
+    "title": "Some girls",
+    "count": 2
+  },
+  {
+    "artist": "Drifters",
+    "title": "Under the boardwalk",
+    "count": 1
+  },
+  {
+    "artist": "Middle Of The Road",
+    "title": "Bottoms up",
+    "count": 2
+  },
+  {
+    "artist": "Amy MacDonald",
+    "title": "Mr. Rock &amp; Roll",
+    "count": 1
+  },
+  {
+    "artist": "Londonbeat",
+    "title": "You bring on the sun",
+    "count": 1
+  },
+  {
+    "artist": "Nik Kershaw",
+    "title": "The riddle",
+    "count": 1
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "It&#39;s alright (baby&#39;s coming back)",
+    "count": 1
+  },
+  {
+    "artist": "Mr. Mister",
+    "title": "Kyrie",
+    "count": 1
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "Reach out (I&#39;ll be there)",
+    "count": 1
+  },
+  {
+    "artist": "Herbert Gr&ouml;nemeyer",
+    "title": "M&auml;nner",
+    "count": 1
+  },
+  {
+    "artist": "Barry Blue",
+    "title": "Dancing on a Saturday night",
+    "count": 1
+  },
+  {
+    "artist": "Sweet",
+    "title": "Poppa Joe",
+    "count": 1
+  },
+  {
+    "artist": "Grace Jones",
+    "title": "La vie en rose",
+    "count": 2
+  },
+  {
+    "artist": "Bay City Rollers",
+    "title": "Bye bye baby",
+    "count": 1
+  },
+  {
+    "artist": "Plan B",
+    "title": "She said",
+    "count": 1
+  },
+  {
+    "artist": "Carole King",
+    "title": "Hard Rock Cafe",
+    "count": 3
+  },
+  {
+    "artist": "John Parr",
+    "title": "St. Elmo&#39;s Fire (Man in motion)",
+    "count": 1
+  },
+  {
+    "artist": "Christopher Cross",
+    "title": "Ride like the wind",
+    "count": 1
+  },
+  {
+    "artist": "Jackson Browne",
+    "title": "Stay",
+    "count": 1
+  },
+  {
+    "artist": "Yiruma",
+    "title": "River flows in you",
+    "count": 1
+  },
+  {
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "title": "Maid of Orleans (Joan of Arc)",
+    "count": 1
+  },
+  {
+    "artist": "Aura Dione",
+    "title": "Friends",
+    "count": 1
+  },
+  {
+    "artist": "Mike &amp; The Mechanics",
+    "title": "Everybody gets a second chance",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "Everyday",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Suspicious minds",
+    "count": 1
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Time after time",
+    "count": 1
+  },
+  {
+    "artist": "R. Kelly",
+    "title": "I believe I can fly",
+    "count": 1
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Auf anderen Wegen",
+    "count": 1
+  },
+  {
+    "artist": "Hall &amp; Oates",
+    "title": "Maneater",
+    "count": 1
+  },
+  {
+    "artist": "Bucks Fizz",
+    "title": "Making your mind up",
+    "count": 2
+  },
+  {
+    "artist": "No Mercy",
+    "title": "Where do you go",
+    "count": 1
+  },
+  {
+    "artist": "Coldplay",
+    "title": "Viva la vida",
+    "count": 1
+  },
+  {
+    "artist": "Santana",
+    "title": "Black magic woman",
+    "count": 1
+  },
+  {
+    "artist": "Kim Wilde &amp; Nena",
+    "title": "Anyplace, anywhere, anytime",
+    "count": 1
+  },
+  {
+    "artist": "Laid Back",
+    "title": "Sunshine Reggae",
+    "count": 1
+  },
+  {
+    "artist": "Europe",
+    "title": "The final countdown",
+    "count": 2
+  },
+  {
+    "artist": "Amy MacDonald",
+    "title": "Slow It Down",
+    "count": 1
+  },
+  {
+    "artist": "Zager &amp; Evans",
+    "title": "In the year 2525 (Exordium and terminus)",
+    "count": 1
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Lost in France",
+    "count": 2
+  },
+  {
+    "artist": "Simon &amp; Garfunkel",
+    "title": "I am a rock",
+    "count": 1
+  },
+  {
+    "artist": "Plain White T&#39;s",
+    "title": "Hey there Delilah",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Da ya think I&#39;m sexy",
+    "count": 1
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet home Alabama",
+    "count": 1
+  },
+  {
+    "artist": "Joachim Witt",
+    "title": "Goldener Reiter",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Voulez-vous",
+    "count": 1
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "How will I know",
+    "count": 1
+  },
+  {
+    "artist": "Showaddywaddy",
+    "title": "When",
+    "count": 1
+  },
+  {
+    "artist": "Donna Summer",
+    "title": "Love&#39;s unkind",
+    "count": 1
+  },
+  {
+    "artist": "Roberta Flack",
+    "title": "Killing me softly with his song",
+    "count": 1
+  },
+  {
+    "artist": "Otis Redding",
+    "title": "(Sittin&#39; on) the dock of the bay",
+    "count": 1
+  },
+  {
+    "artist": "Bill Medley &amp; Jennifer Warnes",
+    "title": "I&#39;ve had the time of my life (Love theme)",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross",
+    "title": "Chain reaction",
+    "count": 2
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "She&#39;s the one",
+    "count": 1
+  },
+  {
+    "artist": "Robin Gibb",
+    "title": "Juliet",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "Candle in the wind",
+    "count": 1
+  },
+  {
+    "artist": "Marlon Roudette",
+    "title": "When the beat drops out",
+    "count": 1
+  },
+  {
+    "artist": "Kool &amp; The Gang",
+    "title": "Cherish",
+    "count": 1
+  },
+  {
+    "artist": "Matt Bianco",
+    "title": "Half a minute",
+    "count": 2
+  },
+  {
+    "artist": "Londonbeat",
+    "title": "A better love",
+    "count": 1
+  },
+  {
+    "artist": "Mike &amp; The Mechanics",
+    "title": "All I need is a miracle",
+    "count": 1
+  },
+  {
+    "artist": "Terry Jacks",
+    "title": "Seasons in the sun",
+    "count": 1
+  },
+  {
+    "artist": "George Benson",
+    "title": "Nothing&#39;s gonna change my love for you",
+    "count": 1
+  },
+  {
+    "artist": "A-ha",
+    "title": "Touchy!",
+    "count": 1
+  },
+  {
+    "artist": "Suzi Quatro",
+    "title": "If you can&#39;t give me love",
+    "count": 1
+  },
+  {
+    "artist": "Laura Branigan",
+    "title": "Gloria",
+    "count": 1
+  },
+  {
+    "artist": "Holly Johnson",
+    "title": "Americanos",
+    "count": 1
+  },
+  {
+    "artist": "Westlife",
+    "title": "World of our own",
+    "count": 1
+  },
+  {
+    "artist": "Supertramp",
+    "title": "It&#39;s raining again",
+    "count": 1
+  },
+  {
+    "artist": "James Blunt",
+    "title": "Heart to heart",
+    "count": 1
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Stayin&#39; alive",
+    "count": 1
+  },
+  {
+    "artist": "C&eacute;line Dion",
+    "title": "A new day has come",
+    "count": 1
+  },
+  {
+    "artist": "John Kincade",
+    "title": "Dreams are ten a penny",
+    "count": 2
+  },
+  {
+    "artist": "Herbert Gr&ouml;nemeyer",
+    "title": "Mambo",
+    "count": 1
+  },
+  {
+    "artist": "Sasha",
+    "title": "Lucky day",
+    "count": 1
+  },
+  {
+    "artist": "Gilla",
+    "title": "We gotta get out of this place",
+    "count": 1
+  },
+  {
+    "artist": "Love Affair",
+    "title": "Everlasting love",
+    "count": 1
+  },
+  {
+    "artist": "Cher",
+    "title": "Believe",
+    "count": 1
+  },
+  {
+    "artist": "Dido",
+    "title": "White flag",
+    "count": 1
+  },
+  {
+    "artist": "Fiction Factory",
+    "title": "Feels like heaven",
+    "count": 1
+  },
+  {
+    "artist": "George Michael",
+    "title": "Careless whisper",
+    "count": 1
+  },
+  {
+    "artist": "Billy Swan",
+    "title": "I can help",
+    "count": 1
+  },
+  {
+    "artist": "Pepsi and Shirlie",
+    "title": "Heartache",
+    "count": 1
+  },
+  {
+    "artist": "Gary Moore",
+    "title": "Still got the Blues (for you)",
+    "count": 1
+  },
+  {
+    "artist": "Hollies",
+    "title": "He ain&#39;t heavy, he&#39;s my brother",
+    "count": 1
+  },
+  {
+    "artist": "Icehouse",
+    "title": "Hey little girl",
+    "count": 2
+  },
+  {
+    "artist": "David Christie",
+    "title": "Saddle up",
+    "count": 1
+  },
+  {
+    "artist": "Joris",
+    "title": "Herz &uuml;ber Kopf",
+    "count": 1
+  },
+  {
+    "artist": "Hooters",
+    "title": "Satellite",
+    "count": 1
+  },
+  {
+    "artist": "Real Life",
+    "title": "Send me an angel",
+    "count": 1
+  },
+  {
+    "artist": "LaBionda",
+    "title": "One for you, one for me",
+    "count": 2
+  },
+  {
+    "artist": "Barclay James Harvest",
+    "title": "Life is for living",
+    "count": 1
+  },
+  {
+    "artist": "Max Mutzke",
+    "title": "Can&#39;t wait until tonight",
+    "count": 1
+  },
+  {
+    "artist": "Philipp Dittberner &amp; Marv",
+    "title": "Wolke 4",
+    "count": 1
+  },
+  {
+    "artist": "Mike Oldfield &amp; Maggie Reilly",
+    "title": "To France",
+    "count": 1
+  },
+  {
+    "artist": "Sailor",
+    "title": "A glass of champagne",
+    "count": 1
+  },
+  {
+    "artist": "Natalie Imbruglia",
+    "title": "Torn",
+    "count": 1
+  },
+  {
+    "artist": "Jermaine Jackson &amp; Pia Zadora",
+    "title": "When the rain begins to fall",
+    "count": 1
+  },
+  {
+    "artist": "Supertramp",
+    "title": "Give a little bit",
+    "count": 1
+  },
+  {
+    "artist": "Carpenters",
+    "title": "Yesterday once more",
+    "count": 1
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "Goldeneye",
+    "count": 1
+  },
+  {
+    "artist": "Carpenters",
+    "title": "Top of the world",
+    "count": 1
+  },
+  {
+    "artist": "Levina",
+    "title": "Perfect life",
+    "count": 4
+  },
+  {
+    "artist": "Ricchi e Poveri",
+    "title": "Mamma Maria",
+    "count": 1
+  },
+  {
+    "artist": "Madonna",
+    "title": "American pie",
+    "count": 1
+  },
+  {
+    "artist": "Stars On 45",
+    "title": "Stars on 45 (Medley 1)",
+    "count": 1
+  },
+  {
+    "artist": "Mamas and The Papas",
+    "title": "Monday, Monday",
+    "count": 1
+  },
+  {
+    "artist": "Al Stewart",
+    "title": "On the border",
+    "count": 1
+  },
+  {
+    "artist": "Eagles",
+    "title": "No more cloudy days",
+    "count": 1
+  },
+  {
+    "artist": "Texas Lightning",
+    "title": "No no never",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "Sloop John B. (The wreck of the John B.)",
+    "count": 1
+  },
+  {
+    "artist": "Hues Corporation",
+    "title": "Rockin&#39; soul",
+    "count": 1
+  },
+  {
+    "artist": "Pink &amp; Nate Ruess",
+    "title": "Just give me a reason",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "You can&#39;t hurry love",
+    "count": 2
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "Massachusetts",
+    "count": 1
+  },
+  {
+    "artist": "Louis Armstrong",
+    "title": "What a wonderful world",
+    "count": 1
+  },
+  {
+    "artist": "Simon &amp; Garfunkel",
+    "title": "The sounds of silence",
+    "count": 1
+  },
+  {
+    "artist": "Sister Sledge",
+    "title": "Lost in music",
+    "count": 1
+  },
+  {
+    "artist": "Trio Rio",
+    "title": "New YorkRioTokyo",
+    "count": 1
+  },
+  {
+    "artist": "Sheila B. Devotion",
+    "title": "Spacer",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "The piper",
+    "count": 1
+  },
+  {
+    "artist": "Nik Kershaw",
+    "title": "I won&#39;t let the sun go down on me",
+    "count": 1
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "You are so beautiful",
+    "count": 2
+  },
+  {
+    "artist": "Mike &amp; The Mechanics",
+    "title": "Silent running (on dangerous ground)",
+    "count": 1
+  },
+  {
+    "artist": "Chicago",
+    "title": "Baby what a big surprise",
+    "count": 1
+  },
+  {
+    "artist": "Manfred Mann",
+    "title": "Mighty Quinn",
+    "count": 1
+  },
+  {
+    "artist": "CeCe Peniston",
+    "title": "Finally",
+    "count": 1
+  },
+  {
+    "artist": "Barbra Streisand",
+    "title": "Woman in love",
+    "count": 1
+  },
+  {
+    "artist": "Harpo",
+    "title": "Horoscope",
+    "count": 2
+  },
+  {
+    "artist": "Aneka",
+    "title": "Ooh shooby doo doo lang",
+    "count": 1
+  },
+  {
+    "artist": "Juice Newton",
+    "title": "Queen of hearts",
+    "count": 2
+  },
+  {
+    "artist": "Frankie Valli &amp; The Four Seasons",
+    "title": "December 1963 (Oh, what a night)",
+    "count": 2
+  },
+  {
+    "artist": "Carpenters",
+    "title": "Please Mr. Postman",
+    "count": 1
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "It never rains in Southern California",
+    "count": 1
+  },
+  {
+    "artist": "Huey Lewis",
+    "title": "The power of love",
+    "count": 1
+  },
+  {
+    "artist": "Erasure",
+    "title": "Oh l&#39;amour",
+    "count": 2
+  },
+  {
+    "artist": "Barry White",
+    "title": "Can&#39;t get enough of your love, babe",
+    "count": 1
+  },
+  {
+    "artist": "Leo Sayer",
+    "title": "When I need you",
+    "count": 1
+  },
+  {
+    "artist": "Van McCoy",
+    "title": "The hustle",
+    "count": 1
+  },
+  {
+    "artist": "Patrick Juvet",
+    "title": "I love America",
+    "count": 1
+  },
+  {
+    "artist": "Passenger",
+    "title": "Holes",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "Good vibrations",
+    "count": 1
+  },
+  {
+    "artist": "Santana",
+    "title": "Oye como va",
+    "count": 1
+  },
+  {
+    "artist": "Flying Pickets",
+    "title": "Only you",
+    "count": 1
+  },
+  {
+    "artist": "Bachman-Turner Overdrive",
+    "title": "You ain&#39;t seen nothing yet",
+    "count": 1
+  },
+  {
+    "artist": "Uriah Heep",
+    "title": "Free me",
+    "count": 2
+  },
+  {
+    "artist": "Orange Blue",
+    "title": "She&#39;s got that light",
+    "count": 1
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "Please forgive me",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "Ob-la-di, ob-la-da",
+    "count": 1
+  },
+  {
+    "artist": "Peter Schilling",
+    "title": "Major Tom",
+    "count": 1
+  },
+  {
+    "artist": "Del Shannon",
+    "title": "Runaway",
+    "count": 1
+  },
+  {
+    "artist": "Udo Lindenberg",
+    "title": "Durch die schweren Zeiten",
+    "count": 2
+  },
+  {
+    "artist": "Nazareth",
+    "title": "Love hurts",
+    "count": 1
+  },
+  {
+    "artist": "Air Supply",
+    "title": "Making love out of nothing at all",
+    "count": 1
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Walk of life",
+    "count": 2
+  },
+  {
+    "artist": "Clouseau",
+    "title": "Close encounters",
+    "count": 2
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "I don&#39;t wanna lose you",
+    "count": 1
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Part-time lover",
+    "count": 1
+  },
+  {
+    "artist": "Daniel Boone",
+    "title": "Beautiful Sunday",
+    "count": 1
+  },
+  {
+    "artist": "Lou Reed",
+    "title": "Walk on the wild side",
+    "count": 1
+  },
+  {
+    "artist": "Men Without Hats",
+    "title": "The safety dance",
+    "count": 1
+  },
+  {
+    "artist": "Midge Ure",
+    "title": "If I was",
+    "count": 2
+  },
+  {
+    "artist": "Manfred Mann",
+    "title": "Do wah diddy diddy",
+    "count": 1
+  },
+  {
+    "artist": "Sting",
+    "title": "Fields of gold",
+    "count": 1
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Girls just want to have fun",
+    "count": 1
+  },
+  {
+    "artist": "Prinzen",
+    "title": "Alles nur geklaut",
+    "count": 1
+  },
+  {
+    "artist": "Crowded House",
+    "title": "Don&#39;t dream it&#39;s over",
+    "count": 1
+  },
+  {
+    "artist": "O&#39;Jays",
+    "title": "Back stabbers",
+    "count": 1
+  },
+  {
+    "artist": "Eurythmics",
+    "title": "Sweet dreams (are made of this)",
+    "count": 2
+  },
+  {
+    "artist": "Sunrise",
+    "title": "Call on me",
+    "count": 1
+  },
+  {
+    "artist": "Adele",
+    "title": "Hello",
+    "count": 2
+  },
+  {
+    "artist": "Kinks",
+    "title": "Waterloo sunset",
+    "count": 1
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "You can leave your hat on",
+    "count": 1
+  },
+  {
+    "artist": "Chaka Khan",
+    "title": "I&#39;m every woman",
+    "count": 2
+  },
+  {
+    "artist": "Eagles",
+    "title": "One of these nights",
+    "count": 2
+  },
+  {
+    "artist": "Matthew Wilder",
+    "title": "Break my stride",
+    "count": 2
+  },
+  {
+    "artist": "Duffy",
+    "title": "Warwick Avenue",
+    "count": 2
+  },
+  {
+    "artist": "America",
+    "title": "A horse with no name",
+    "count": 1
+  },
+  {
+    "artist": "Limahl",
+    "title": "Never ending story",
+    "count": 1
+  },
+  {
+    "artist": "Caro Emerald",
+    "title": "A night like this",
+    "count": 1
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "My life",
+    "count": 1
+  },
+  {
+    "artist": "Roberta Flack",
+    "title": "The first time ever I saw your face",
+    "count": 1
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Sir Duke",
+    "count": 1
+  },
+  {
+    "artist": "Foreigner",
+    "title": "Say you will",
+    "count": 2
+  },
+  {
+    "artist": "Elton John",
+    "title": "Your song",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Honey, honey",
+    "count": 1
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Vom selben Stern",
+    "count": 1
+  },
+  {
+    "artist": "George Ezra",
+    "title": "Blame it on me",
+    "count": 1
+  },
+  {
+    "artist": "Marit Larsen",
+    "title": "If a song could get me you",
+    "count": 1
+  },
+  {
+    "artist": "George Michael",
+    "title": "Faith",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Kiss me quick",
+    "count": 1
+  },
+  {
+    "artist": "Taylor Dayne",
+    "title": "Tell it to my heart",
+    "count": 1
+  },
+  {
+    "artist": "Boss hoss &amp; Common Linnets",
+    "title": "Jolene",
+    "count": 2
+  },
+  {
+    "artist": "Bellamy Brothers",
+    "title": "I need more of you",
+    "count": 1
+  },
+  {
+    "artist": "Enya",
+    "title": "Orinoco flow (Sail away)",
+    "count": 1
+  },
+  {
+    "artist": "Adele",
+    "title": "Set fire to the rain",
+    "count": 1
+  },
+  {
+    "artist": "Paul McCartney &amp; Michael Jackson",
+    "title": "Say say say",
+    "count": 1
+  },
+  {
+    "artist": "Genesis",
+    "title": "Invisible touch",
+    "count": 1
+  },
+  {
+    "artist": "Sniff&#39;n&#39;The Tears",
+    "title": "Driver&#39;s seat",
+    "count": 1
+  },
+  {
+    "artist": "Gilbert O&#39;Sullivan",
+    "title": "Matrimony",
+    "count": 1
+  },
+  {
+    "artist": "Kenny Rogers &amp; Dolly Parton",
+    "title": "Islands in the stream",
+    "count": 2
+  },
+  {
+    "artist": "Manfred Mann",
+    "title": "Ha! Ha! Said the clown",
+    "count": 1
+  },
+  {
+    "artist": "Shalamar",
+    "title": "A night to remember",
+    "count": 1
+  },
+  {
+    "artist": "Maxi Priest",
+    "title": "Wild world",
+    "count": 2
+  },
+  {
+    "artist": "Tremeloes",
+    "title": "Here comes my baby",
+    "count": 1
+  },
+  {
+    "artist": "Billy Ocean",
+    "title": "Caribbean Queen (No more love on the run)",
+    "count": 1
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Dancing in the dark",
+    "count": 2
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "You should be dancing",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "You&#39;ll be in my heart",
+    "count": 1
+  },
+  {
+    "artist": "Johnny Wakelin",
+    "title": "In Zaire",
+    "count": 1
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "I wanna dance with somebody (who loves me)",
+    "count": 2
+  },
+  {
+    "artist": "Family Of The Year",
+    "title": "Hero",
+    "count": 1
+  },
+  {
+    "artist": "Liza Minnelli",
+    "title": "Love pains",
+    "count": 1
+  },
+  {
+    "artist": "McCoys",
+    "title": "Hang on Sloopy",
+    "count": 1
+  },
+  {
+    "artist": "Bangles",
+    "title": "Manic monday",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Gimme! Gimme! Gimme! (A man after midnight)",
+    "count": 1
+  },
+  {
+    "artist": "Village People",
+    "title": "Y.M.C.A.",
+    "count": 2
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "You win again",
+    "count": 1
+  },
+  {
+    "artist": "Irene Cara",
+    "title": "Flashdance (What a feeling)",
+    "count": 2
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Feel",
+    "count": 1
+  },
+  {
+    "artist": "Alan Parsons Project",
+    "title": "Don&#39;t answer me",
+    "count": 1
+  },
+  {
+    "artist": "Michael Andrews",
+    "title": "Mad world",
+    "count": 1
+  },
+  {
+    "artist": "Lovin&#39; Spoonful",
+    "title": "Daydream",
+    "count": 1
+  },
+  {
+    "artist": "Middle Of The Road",
+    "title": "Samson and Delilah",
+    "count": 2
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "All shook up",
+    "count": 1
+  },
+  {
+    "artist": "Nick Kamen",
+    "title": "I promised myself",
+    "count": 2
+  },
+  {
+    "artist": "New Seekers",
+    "title": "Never ending song of love",
+    "count": 1
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "count": 1
+  },
+  {
+    "artist": "Boy George",
+    "title": "Everything I own",
+    "count": 1
+  },
+  {
+    "artist": "Milow",
+    "title": "Howling at the moon",
+    "count": 1
+  },
+  {
+    "artist": "Steve Miller Band",
+    "title": "Abracadabra",
+    "count": 1
+  },
+  {
+    "artist": "Cliff Richard",
+    "title": "I could easily fall (in love with you)",
+    "count": 1
+  },
+  {
+    "artist": "Rocky Sharpe &amp; The Replays",
+    "title": "Rama lama ding dong",
+    "count": 1
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "Every 1&#39;s a winner (Everyone&#39;s a winner)",
+    "count": 1
+  },
+  {
+    "artist": "Madonna",
+    "title": "Papa don&#39;t preach",
+    "count": 1
+  },
+  {
+    "artist": "American Breed",
+    "title": "Bend me, shape me",
+    "count": 1
+  },
+  {
+    "artist": "Sister Sledge",
+    "title": "We are family",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "I don&#39;t wanna go on with you like that",
+    "count": 1
+  },
+  {
+    "artist": "Police",
+    "title": "Message in a bottle",
+    "count": 1
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "All at once",
+    "count": 1
+  },
+  {
+    "artist": "UB 40",
+    "title": "Red red wine",
+    "count": 2
+  },
+  {
+    "artist": "Dick Brave &amp; The Backbeats",
+    "title": "Take good care of my baby",
+    "count": 1
+  },
+  {
+    "artist": "David Dundas",
+    "title": "Jeans on",
+    "count": 2
+  },
+  {
+    "artist": "Trio Rio",
+    "title": "I&#39;m still in love with you",
+    "count": 1
+  },
+  {
+    "artist": "Jennifer Rush",
+    "title": "Destiny",
+    "count": 1
+  },
+  {
+    "artist": "Dr. Hook",
+    "title": "When you&#39;re in love with a beautiful woman",
+    "count": 1
+  },
+  {
+    "artist": "Linda Ronstadt",
+    "title": "It&#39;s so easy",
+    "count": 1
+  },
+  {
+    "artist": "Common Linnets",
+    "title": "Calm after the storm",
+    "count": 1
+  },
+  {
+    "artist": "Patrick Swayze &amp; Wendy Fraser",
+    "title": "She&#39;s like the wind",
+    "count": 2
+  },
+  {
+    "artist": "Maxine Nightingale",
+    "title": "Right back where we started from",
+    "count": 1
+  },
+  {
+    "artist": "Sam Brown",
+    "title": "Stop",
+    "count": 1
+  },
+  {
+    "artist": "Madness",
+    "title": "Our house",
+    "count": 1
+  },
+  {
+    "artist": "Chris Rea",
+    "title": "On the beach",
+    "count": 1
+  },
+  {
+    "artist": "Bellamy Brothers",
+    "title": "If I said you had a beautiful body would you hold it against me",
+    "count": 2
+  },
+  {
+    "artist": "Herbert Gr&ouml;nemeyer",
+    "title": "Flugzeuge im Bauch",
+    "count": 1
+  },
+  {
+    "artist": "Tremeloes",
+    "title": "My little lady",
+    "count": 2
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Sultans of swing",
+    "count": 1
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "One moment in time",
+    "count": 1
+  },
+  {
+    "artist": "Opus",
+    "title": "Live is life",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Lay all your love on me",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Baby Jane",
+    "count": 2
+  },
+  {
+    "artist": "Bryan Ferry",
+    "title": "Don&#39;t stop the dance",
+    "count": 1
+  },
+  {
+    "artist": "Curiosity Killed The Cat",
+    "title": "Name and number",
+    "count": 1
+  },
+  {
+    "artist": "Herman&#39;s Hermits",
+    "title": "There&#39;s a kind of hush (all over the world)",
+    "count": 1
+  },
+  {
+    "artist": "Richard Marx",
+    "title": "Right here waiting",
+    "count": 1
+  },
+  {
+    "artist": "Scott McKenzie",
+    "title": "San Francisco (be sure to wear some flowers in your hair)",
+    "count": 1
+  },
+  {
+    "artist": "Colbie Caillat",
+    "title": "Bubbly",
+    "count": 2
+  },
+  {
+    "artist": "Don McLean",
+    "title": "American pie",
+    "count": 1
+  },
+  {
+    "artist": "Queen",
+    "title": "I want to break free",
+    "count": 2
+  },
+  {
+    "artist": "Culture Club",
+    "title": "Do you really want to hurt me",
+    "count": 3
+  },
+  {
+    "artist": "Spinners",
+    "title": "Working my way back to you",
+    "count": 3
+  },
+  {
+    "artist": "Marshall-Hain",
+    "title": "Dancing in the city",
+    "count": 1
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Road to nowhere",
+    "count": 1
+  },
+  {
+    "artist": "Everly Brothers",
+    "title": "Wake up, little Susie",
+    "count": 1
+  },
+  {
+    "artist": "Bangles",
+    "title": "Eternal flame",
+    "count": 2
+  },
+  {
+    "artist": "John Waite",
+    "title": "Missing you",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "Can&#39;t stop loving you",
+    "count": 1
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "Everything I do, I do it for you",
+    "count": 1
+  },
+  {
+    "artist": "Roxette",
+    "title": "It must have been love",
+    "count": 1
+  },
+  {
+    "artist": "Eruption",
+    "title": "I can&#39;t stand the rain",
+    "count": 1
+  },
+  {
+    "artist": "Archies",
+    "title": "Sugar, sugar",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "I guess that&#39;s why they call it the Blues",
+    "count": 2
+  },
+  {
+    "artist": "Beatles",
+    "title": "I feel fine",
+    "count": 1
+  },
+  {
+    "artist": "Soulsister",
+    "title": "The way to your heart",
+    "count": 1
+  },
+  {
+    "artist": "Fabrizio de Andr&eacute;",
+    "title": "Andrea",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "This old heart of mine",
+    "count": 1
+  },
+  {
+    "artist": "Candi Staton",
+    "title": "Young hearts run free",
+    "count": 1
+  },
+  {
+    "artist": "C&eacute;line Dion",
+    "title": "That&#39;s the way it is",
+    "count": 1
+  },
+  {
+    "artist": "Equals",
+    "title": "Baby come back",
+    "count": 1
+  },
+  {
+    "artist": "Starship",
+    "title": "We built this city",
+    "count": 1
+  },
+  {
+    "artist": "Gilbert O&#39;Sullivan",
+    "title": "Get down",
+    "count": 3
+  },
+  {
+    "artist": "Sportfreunde Stiller",
+    "title": "Applaus, Applaus",
+    "count": 1
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "title": "Hold on tight",
+    "count": 1
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Lay down Sally",
+    "count": 2
+  },
+  {
+    "artist": "Simply Red",
+    "title": "Something got me started",
+    "count": 1
+  },
+  {
+    "artist": "Linda Ronstadt",
+    "title": "That&#39;ll be the day",
+    "count": 1
+  },
+  {
+    "artist": "Hello",
+    "title": "New York Groove",
+    "count": 2
+  },
+  {
+    "artist": "Matchbox",
+    "title": "Midnite dynamos",
+    "count": 2
+  },
+  {
+    "artist": "Achim Reichel",
+    "title": "Aloha heja he",
+    "count": 1
+  },
+  {
+    "artist": "Shakira &amp; Freshlyground",
+    "title": "Waka waka (This time for Africa) (The official 2010 FIFA world cup (TM) song)",
+    "count": 1
+  },
+  {
+    "artist": "Kool &amp; The Gang",
+    "title": "Ladies night",
+    "count": 1
+  },
+  {
+    "artist": "Chris Rea",
+    "title": "Josephine",
+    "count": 1
+  },
+  {
+    "artist": "Simply Red",
+    "title": "Fairground",
+    "count": 1
+  },
+  {
+    "artist": "Desmond Dekker",
+    "title": "The Israelites",
+    "count": 1
+  },
+  {
+    "artist": "Maria McKee",
+    "title": "Show me heaven",
+    "count": 1
+  },
+  {
+    "artist": "John Farnham",
+    "title": "You&#39;re the voice",
+    "count": 2
+  },
+  {
+    "artist": "Alicia Bridges",
+    "title": "I love the nightlife (Disco &#39;round)",
+    "count": 1
+  },
+  {
+    "artist": "Neil Diamond",
+    "title": "Song sung blue",
+    "count": 1
+  },
+  {
+    "artist": "Roy Orbison",
+    "title": "Oh, pretty woman",
+    "count": 1
+  },
+  {
+    "artist": "Sweet",
+    "title": "Funny funny",
+    "count": 1
+  },
+  {
+    "artist": "Paul Simon",
+    "title": "50 ways to leave your lover",
+    "count": 1
+  },
+  {
+    "artist": "Maywood",
+    "title": "Late at night",
+    "count": 1
+  },
+  {
+    "artist": "Barry Manilow",
+    "title": "Copacabana (at the Copa)",
+    "count": 1
+  },
+  {
+    "artist": "Sting",
+    "title": "Englishman in New York",
+    "count": 1
+  },
+  {
+    "artist": "Gianna Nannini",
+    "title": "Bello e impossibile",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Waterloo",
+    "count": 1
+  },
+  {
+    "artist": "UB 40",
+    "title": "Can&#39;t help falling in love",
+    "count": 1
+  },
+  {
+    "artist": "Odyssey",
+    "title": "Native New Yorker",
+    "count": 1
+  },
+  {
+    "artist": "Brooke Fraser",
+    "title": "Something in the water",
+    "count": 1
+  },
+  {
+    "artist": "Glen Campbell",
+    "title": "Sunflower",
+    "count": 1
+  },
+  {
+    "artist": "Boston",
+    "title": "More than a feeling",
+    "count": 2
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "Lady Jane",
+    "count": 1
+  },
+  {
+    "artist": "Steely Dan",
+    "title": "Do it again",
+    "count": 1
+  },
+  {
+    "artist": "Ottawan",
+    "title": "D.I.S.C.O. (Disco)",
+    "count": 2
+  },
+  {
+    "artist": "Womack &amp; Womack",
+    "title": "Teardrops",
+    "count": 1
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Isn&#39;t she lovely",
+    "count": 1
+  },
+  {
+    "artist": "Mental As Anything",
+    "title": "Live it up",
+    "count": 1
+  },
+  {
+    "artist": "T. Rex",
+    "title": "Hot love",
+    "count": 3
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "Another day in paradise",
+    "count": 1
+  },
+  {
+    "artist": "Los Bravos",
+    "title": "Black is black",
+    "count": 2
+  },
+  {
+    "artist": "Kool &amp; The Gang",
+    "title": "Fresh",
+    "count": 1
+  },
+  {
+    "artist": "Toploader",
+    "title": "Dancing in the moonlight",
+    "count": 1
+  },
+  {
+    "artist": "Bette Midler",
+    "title": "The rose",
+    "count": 1
+  },
+  {
+    "artist": "Marlon Roudette",
+    "title": "New age",
+    "count": 1
+  },
+  {
+    "artist": "Billy Idol",
+    "title": "Catch my fall",
+    "count": 1
+  },
+  {
+    "artist": "Scorpions",
+    "title": "Wind of change",
+    "count": 1
+  },
+  {
+    "artist": "Simon &amp; Garfunkel",
+    "title": "Mrs. Robinson",
+    "count": 1
+  },
+  {
+    "artist": "Clout",
+    "title": "Substitute",
+    "count": 1
+  },
+  {
+    "artist": "Cat Stevens",
+    "title": "Wild world",
+    "count": 1
+  },
+  {
+    "artist": "Uriah Heep",
+    "title": "Lady in black",
+    "count": 1
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Gypsy",
+    "count": 1
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I can see clearly now",
+    "count": 1
+  },
+  {
+    "artist": "Christopher Cross",
+    "title": "Arthur&#39;s theme (Best that you can do)",
+    "count": 1
+  },
+  {
+    "artist": "Gipsy Kings",
+    "title": "Soy",
+    "count": 1
+  },
+  {
+    "artist": "Herbert Gr&ouml;nemeyer",
+    "title": "Kinder an die Macht",
+    "count": 1
+  },
+  {
+    "artist": "Pointer Sisters",
+    "title": "Jump (for my love)",
+    "count": 2
+  },
+  {
+    "artist": "Brotherhood of Man",
+    "title": "Save your kisses for me",
+    "count": 2
+  },
+  {
+    "artist": "Israel &quot;Iz&quot; Kamakawiwo&#39;ole",
+    "title": "Over the rainbow",
+    "count": 1
+  },
+  {
+    "artist": "Al Stewart",
+    "title": "Almost Lucy",
+    "count": 1
+  },
+  {
+    "artist": "Desireless",
+    "title": "Voyage, voyage",
+    "count": 2
+  },
+  {
+    "artist": "Boomtown Rats",
+    "title": "I don&#39;t like Mondays",
+    "count": 1
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Down on the corner",
+    "count": 1
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "I am what I am",
+    "count": 1
+  },
+  {
+    "artist": "Frans",
+    "title": "If I were sorry",
+    "count": 1
+  },
+  {
+    "artist": "Bruce Hornsby &amp; The Range",
+    "title": "Mandolin rain",
+    "count": 1
+  },
+  {
+    "artist": "Eagles",
+    "title": "New kid in town",
+    "count": 1
+  },
+  {
+    "artist": "Jennifer Paige",
+    "title": "Crush",
+    "count": 1
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Go your own way",
+    "count": 2
+  },
+  {
+    "artist": "Boyzone",
+    "title": "No matter what",
+    "count": 1
+  },
+  {
+    "artist": "Anastacia",
+    "title": "I&#39;m outta love",
+    "count": 1
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "What&#39;s love got to do with it",
+    "count": 1
+  },
+  {
+    "artist": "Cat Stevens",
+    "title": "Peace train",
+    "count": 1
+  },
+  {
+    "artist": "Police",
+    "title": "Every breath you take",
+    "count": 1
+  },
+  {
+    "artist": "Hot Chocolate",
+    "title": "You sexy thing",
+    "count": 1
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Enjoy the silence",
+    "count": 1
+  },
+  {
+    "artist": "Black",
+    "title": "Wonderful life",
+    "count": 1
+  },
+  {
+    "artist": "Lobo",
+    "title": "I&#39;d love you to want me",
+    "count": 1
+  },
+  {
+    "artist": "Styx",
+    "title": "Boat on the river",
+    "count": 1
+  },
+  {
+    "artist": "Supertramp",
+    "title": "Dreamer",
+    "count": 1
+  },
+  {
+    "artist": "Jason Mraz",
+    "title": "I&#39;m yours",
+    "count": 1
+  },
+  {
+    "artist": "Inner Circle",
+    "title": "Sweat (&agrave; la la la la long)",
+    "count": 1
+  },
+  {
+    "artist": "Roxette",
+    "title": "Spending my time",
+    "count": 1
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "She&#39;s always a woman",
+    "count": 1
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Daddy Cool",
+    "count": 1
+  },
+  {
+    "artist": "Alle Farben &amp; Graham Candy",
+    "title": "She moves (far away)",
+    "count": 1
+  },
+  {
+    "artist": "Kinks",
+    "title": "Sunny afternoon",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "I&#39;m still standing",
+    "count": 1
+  },
+  {
+    "artist": "Neil Sedaka",
+    "title": "Laughter in the rain",
+    "count": 1
+  },
+  {
+    "artist": "Paul Young",
+    "title": "Come back and stay",
+    "count": 1
+  },
+  {
+    "artist": "Hall &amp; Oates",
+    "title": "Out of touch",
+    "count": 1
+  },
+  {
+    "artist": "Marianne Faithfull",
+    "title": "The ballad of Lucy Jordan",
+    "count": 1
+  },
+  {
+    "artist": "Love Unlimited Orchestra",
+    "title": "Love&#39;s Theme",
+    "count": 1
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "title": "Rock&#39;n&#39;Roll is king",
+    "count": 1
+  },
+  {
+    "artist": "David Bowie",
+    "title": "This is not America",
+    "count": 1
+  },
+  {
+    "artist": "Carole King",
+    "title": "You&#39;ve got a friend",
+    "count": 1
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Thriller",
+    "count": 1
+  },
+  {
+    "artist": "Beautiful South",
+    "title": "Song for whoever",
+    "count": 1
+  },
+  {
+    "artist": "John Denver",
+    "title": "Take me home country roads",
+    "count": 2
+  },
+  {
+    "artist": "Cliff Richard",
+    "title": "Dreamin&#39;",
+    "count": 1
+  },
+  {
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "title": "Sailing on the seven seas",
+    "count": 1
+  },
+  {
+    "artist": "Deniece Williams",
+    "title": "Let&#39;s hear it for the boy",
+    "count": 1
+  },
+  {
+    "artist": "Nena",
+    "title": "99 Luftballons (Neunundneunzig Luftballons)",
+    "count": 1
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Rivers of Babylon",
+    "count": 1
+  },
+  {
+    "artist": "Cat Stevens",
+    "title": "Lady d&#39;Arbanville",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "Such a night",
+    "count": 1
+  },
+  {
+    "artist": "Charlie Puth &amp; Meghan Trainor",
+    "title": "Marvin Gaye",
+    "count": 1
+  },
+  {
+    "artist": "Madonna",
+    "title": "La Isla Bonita",
+    "count": 1
+  },
+  {
+    "artist": "Galaxy",
+    "title": "Dancing tight",
+    "count": 1
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Proud Mary",
+    "count": 1
+  },
+  {
+    "artist": "Tina Charles",
+    "title": "I love to love (but my baby loves to dance)",
+    "count": 1
+  },
+  {
+    "artist": "David Essex",
+    "title": "Gonna make you a star",
+    "count": 1
+  },
+  {
+    "artist": "Monkees",
+    "title": "Last train to Clarksville",
+    "count": 1
+  },
+  {
+    "artist": "Dawn",
+    "title": "Knock three times",
+    "count": 2
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Let&#39;s dance",
+    "count": 1
+  },
+  {
+    "artist": "Sailor",
+    "title": "Girls, girls, girls",
+    "count": 1
+  },
+  {
+    "artist": "Hollies",
+    "title": "The air that I breathe",
+    "count": 1
+  },
+  {
+    "artist": "Shakin&#39; Stevens",
+    "title": "You drive me crazy",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Sailing",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "Good day sunshine",
+    "count": 1
+  },
+  {
+    "artist": "Lionel Richie",
+    "title": "Se La",
+    "count": 1
+  },
+  {
+    "artist": "Herbert Gr&ouml;nemeyer",
+    "title": "Musik nur, wenn sie laut ist",
+    "count": 2
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Don&#39;t stop",
+    "count": 1
+  },
+  {
+    "artist": "Moti Special",
+    "title": "Cold days, hot nights",
+    "count": 1
+  },
+  {
+    "artist": "Mike Oldfield &amp; Maggie Reilly",
+    "title": "Moonlight shadow",
+    "count": 2
+  },
+  {
+    "artist": "Bee Gees",
+    "title": "How deep is your love",
+    "count": 1
+  },
+  {
+    "artist": "Commodores",
+    "title": "Easy",
+    "count": 1
+  },
+  {
+    "artist": "Dave Davies",
+    "title": "Death of a clown",
+    "count": 1
+  },
+  {
+    "artist": "Beach Boys",
+    "title": "Surfin&#39; USA",
+    "count": 1
+  },
+  {
+    "artist": "Elton John",
+    "title": "Blue eyes",
+    "count": 1
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "Piano man",
+    "count": 1
+  },
+  {
+    "artist": "Drifters",
+    "title": "Kissin&#39; in the back row of the movies",
+    "count": 1
+  },
+  {
+    "artist": "Supertramp",
+    "title": "The logical song",
+    "count": 1
+  },
+  {
+    "artist": "Toto",
+    "title": "Hold the line",
+    "count": 1
+  },
+  {
+    "artist": "Andru Donalds &amp; Michael; Gad, Jens Cretu",
+    "title": "All out of love",
+    "count": 1
+  },
+  {
+    "artist": "Communards",
+    "title": "Never can say goodbye",
+    "count": 1
+  },
+  {
+    "artist": "Frankie Goes To Hollywood",
+    "title": "The power of love",
+    "count": 1
+  },
+  {
+    "artist": "Sophie Ellis-Bextor",
+    "title": "Murder on the dancefloor",
+    "count": 1
+  },
+  {
+    "artist": "Doobie Brothers",
+    "title": "Listen to the music",
+    "count": 1
+  },
+  {
+    "artist": "Billy Ocean",
+    "title": "Love really hurts without you",
+    "count": 1
+  },
+  {
+    "artist": "Barry Manilow",
+    "title": "Mandy",
+    "count": 1
+  },
+  {
+    "artist": "Howard Jones",
+    "title": "New song",
+    "count": 1
+  },
+  {
+    "artist": "Gibson Brothers",
+    "title": "Cuba",
+    "count": 1
+  },
+  {
+    "artist": "Rolling Stones",
+    "title": "Let&#39;s spend the night together",
+    "count": 1
+  },
+  {
+    "artist": "Cliff Richard",
+    "title": "Goodbye Sam, hello Samantha",
+    "count": 1
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Knockin&#39; on heaven&#39;s door",
+    "count": 1
+  },
+  {
+    "artist": "Shakin&#39; Stevens",
+    "title": "Marie, Marie",
+    "count": 1
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "Unchain my heart",
+    "count": 1
+  },
+  {
+    "artist": "Blondie",
+    "title": "Heart of glass",
+    "count": 2
+  },
+  {
+    "artist": "OMC",
+    "title": "How bizarre",
+    "count": 1
+  },
+  {
+    "artist": "Paul Young",
+    "title": "Love of the common people",
+    "count": 1
+  },
+  {
+    "artist": "Tracy Chapman",
+    "title": "Talkin&#39; bout a revolution",
+    "count": 2
+  },
+  {
+    "artist": "Tony Christie",
+    "title": "Avenues and alleyways",
+    "count": 2
+  },
+  {
+    "artist": "MARQUESS",
+    "title": "EL TEMPERAMENTO",
+    "count": 1
+  },
+  {
+    "artist": "Ben E. King",
+    "title": "Stand by me",
+    "count": 1
+  },
+  {
+    "artist": "Jason Donovan",
+    "title": "Nothing can divide us",
+    "count": 1
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Streets of Philadelphia",
+    "count": 1
+  },
+  {
+    "artist": "James Taylor",
+    "title": "You&#39;ve got a friend",
+    "count": 1
+  },
+  {
+    "artist": "Hollies",
+    "title": "Carrie Anne",
+    "count": 1
+  },
+  {
+    "artist": "Ph. D.",
+    "title": "I won&#39;t let you down",
+    "count": 1
+  },
+  {
+    "artist": "First Class",
+    "title": "Beach baby",
+    "count": 1
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Give me love",
+    "count": 1
+  },
+  {
+    "artist": "John Paul Young",
+    "title": "Love is in the air",
+    "count": 2
+  },
+  {
+    "artist": "UB 40",
+    "title": "Kingston Town",
+    "count": 1
+  },
+  {
+    "artist": "Barry White",
+    "title": "What am I gonna do with you",
+    "count": 1
+  },
+  {
+    "artist": "Bob Seger &amp; The Silver Bullet Band",
+    "title": "Still the same",
+    "count": 1
+  },
+  {
+    "artist": "Lisa Stansfield",
+    "title": "All around the world",
+    "count": 2
+  },
+  {
+    "artist": "Real Thing",
+    "title": "You to me are everything",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "A hard day&#39;s night",
+    "count": 1
+  },
+  {
+    "artist": "Smokie",
+    "title": "Don&#39;t play your Rock&#39;n&#39;Roll to me",
+    "count": 1
+  },
+  {
+    "artist": "Box Tops",
+    "title": "The letter",
+    "count": 2
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "Down by the river",
+    "count": 1
+  },
+  {
+    "artist": "Ultravox",
+    "title": "Dancing with tears in my eyes",
+    "count": 1
+  },
+  {
+    "artist": "Chicago",
+    "title": "Another rainy day in New York City",
+    "count": 1
+  },
+  {
+    "artist": "Simply Red",
+    "title": "If you don&#39;t know me by now",
+    "count": 1
+  },
+  {
+    "artist": "Barry White",
+    "title": "You see the trouble with me",
+    "count": 1
+  },
+  {
+    "artist": "Cock Robin",
+    "title": "The promise you made",
+    "count": 1
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Sunny",
+    "count": 1
+  },
+  {
+    "artist": "Bob Marley",
+    "title": "Could you be loved",
+    "count": 1
+  },
+  {
+    "artist": "Les Humphries Singers",
+    "title": "Mama Loo",
+    "count": 2
+  },
+  {
+    "artist": "Genesis",
+    "title": "Hold on my heart",
+    "count": 1
+  },
+  {
+    "artist": "Village People",
+    "title": "In the navy",
+    "count": 1
+  },
+  {
+    "artist": "Roman Lob",
+    "title": "Standing still",
+    "count": 1
+  },
+  {
+    "artist": "Max Giesinger",
+    "title": "80 Millionen",
+    "count": 1
+  },
+  {
+    "artist": "Billy Idol",
+    "title": "Sweet sixteen",
+    "count": 2
+  },
+  {
+    "artist": "Dixie Chicks",
+    "title": "Loving arms",
+    "count": 1
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "The Free Electric Band",
+    "count": 1
+  },
+  {
+    "artist": "Sheila B. Devotion",
+    "title": "Love me Baby",
+    "count": 1
+  },
+  {
+    "artist": "Nena",
+    "title": "Leuchtturm",
+    "count": 1
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Everybody wants to rule the world",
+    "count": 1
+  },
+  {
+    "artist": "Nancy Sinatra",
+    "title": "These boots are made for walkin&#39;",
+    "count": 1
+  },
+  {
+    "artist": "Levina",
+    "title": "Perfect Life",
+    "count": 2
+  },
+  {
+    "artist": "Showaddywaddy",
+    "title": "Under the moon of love",
+    "count": 1
+  },
+  {
+    "artist": "Albert Hammond",
+    "title": "I&#39;m a train",
+    "count": 2
+  },
+  {
+    "artist": "Rose Laurens",
+    "title": "Africa (Voodoo Master)",
+    "count": 1
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Lookin&#39; out my back door",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins &amp; Philip Bailey",
+    "title": "Easy lover",
+    "count": 1
+  },
+  {
+    "artist": "Randy Crawford &amp; Crusaders",
+    "title": "Street life",
+    "count": 1
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "title": "Never can say goodbye",
+    "count": 2
+  },
+  {
+    "artist": "Lionel Richie",
+    "title": "Stuck on you",
+    "count": 1
+  },
+  {
+    "artist": "Tom Petty &amp; The Heartbreakers",
+    "title": "I won&#39;t back down",
+    "count": 1
+  },
+  {
+    "artist": "Vaya Con Dios",
+    "title": "What&#39;s a woman?",
+    "count": 1
+  },
+  {
+    "artist": "Phil Collins",
+    "title": "True colors",
+    "count": 1
+  },
+  {
+    "artist": "Amy MacDonald &amp; Rea Garvey",
+    "title": "Oh my love",
+    "count": 2
+  },
+  {
+    "artist": "Kim Wilde",
+    "title": "You keep me hangin&#39; on",
+    "count": 1
+  },
+  {
+    "artist": "Barry White",
+    "title": "Let the music play",
+    "count": 1
+  },
+  {
+    "artist": "Madonna",
+    "title": "Like a virgin",
+    "count": 1
+  },
+  {
+    "artist": "Amy MacDonald",
+    "title": "This is the life",
+    "count": 2
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "Didn&#39;t we almost have it all",
+    "count": 1
+  },
+  {
+    "artist": "Murray Head",
+    "title": "One night in Bangkok",
+    "count": 1
+  },
+  {
+    "artist": "Carpenters",
+    "title": "Sweet, sweet smile",
+    "count": 1
+  },
+  {
+    "artist": "A La Carte",
+    "title": "Do wah diddy diddy",
+    "count": 1
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "We don&#39;t need another hero (Thunderdome)",
+    "count": 2
+  },
+  {
+    "artist": "Patrick Hern&aacute;ndez",
+    "title": "Born to be alive",
+    "count": 1
+  },
+  {
+    "artist": "Communards",
+    "title": "So cold the night",
+    "count": 1
+  },
+  {
+    "artist": "Pretenders",
+    "title": "Don&#39;t get me wrong",
+    "count": 2
+  },
+  {
+    "artist": "Johnny Hates Jazz",
+    "title": "Shattered dreams",
+    "count": 1
+  },
+  {
+    "artist": "Lighthouse Family",
+    "title": "Free",
+    "count": 1
+  },
+  {
+    "artist": "Baccara",
+    "title": "Yes Sir, I can boogie",
+    "count": 2
+  },
+  {
+    "artist": "Eric Carmen",
+    "title": "Hungry eyes",
+    "count": 2
+  },
+  {
+    "artist": "Gibson Brothers",
+    "title": "Que sera mi vida (If you should go)",
+    "count": 1
+  },
+  {
+    "artist": "Nik Kershaw",
+    "title": "Wouldn&#39;t it be good",
+    "count": 1
+  },
+  {
+    "artist": "Robbie Williams &amp; Nicole Kidman",
+    "title": "Something stupid",
+    "count": 1
+  },
+  {
+    "artist": "Jennifer Rush",
+    "title": "I come undone",
+    "count": 1
+  },
+  {
+    "artist": "Billy Ocean",
+    "title": "Get outta my dreams, get into my car",
+    "count": 1
+  },
+  {
+    "artist": "Olly Murs",
+    "title": "Dear darlin&#39;",
+    "count": 1
+  },
+  {
+    "artist": "Hubert Kah",
+    "title": "Sternenhimmel",
+    "count": 1
+  },
+  {
+    "artist": "Elvis Presley",
+    "title": "It&#39;s now or never",
+    "count": 1
+  },
+  {
+    "artist": "Gordon Lightfoot",
+    "title": "Sundown",
+    "count": 1
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "title": "Livin&#39; thing",
+    "count": 1
+  },
+  {
+    "artist": "Peter Kent",
+    "title": "It&#39;s a real good feeling",
+    "count": 1
+  },
+  {
+    "artist": "Al Stewart",
+    "title": "Year of the cat",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "If it wasn&#39;t for the nights",
+    "count": 1
+  },
+  {
+    "artist": "Foreigner",
+    "title": "I want to know what love is",
+    "count": 1
+  },
+  {
+    "artist": "Boyz II Men",
+    "title": "I&#39;ll make love to you",
+    "count": 1
+  },
+  {
+    "artist": "Christians",
+    "title": "Ferry &#39;cross the Mersey",
+    "count": 1
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "True colors",
+    "count": 1
+  },
+  {
+    "artist": "Suzi Quatro",
+    "title": "She&#39;s in love with you",
+    "count": 1
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Everywhere",
+    "count": 1
+  },
+  {
+    "artist": "Amen Corner",
+    "title": "If paradise is half as nice",
+    "count": 1
+  },
+  {
+    "artist": "Dusty Springfield",
+    "title": "In private",
+    "count": 2
+  },
+  {
+    "artist": "Santa Esmeralda &amp; Leroy Gomez",
+    "title": "Don&#39;t let me be misunderstoodEsmeralda Suite",
+    "count": 1
+  },
+  {
+    "artist": "Rod Stewart",
+    "title": "Every beat of my heart",
+    "count": 1
+  },
+  {
+    "artist": "Glenn Medeiros",
+    "title": "Nothing&#39;s gonna change my love for you",
+    "count": 1
+  },
+  {
+    "artist": "Esther Phillips",
+    "title": "What a difference a day makes",
+    "count": 1
+  },
+  {
+    "artist": "Tight Fit",
+    "title": "The lion sleeps tonight (Wimoweh)",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "Knowing me, knowing you",
+    "count": 1
+  },
+  {
+    "artist": "Abba",
+    "title": "I have a dream",
+    "count": 2
+  },
+  {
+    "artist": "Bananarama",
+    "title": "Robert de Niro&#39;s waiting",
+    "count": 1
+  },
+  {
+    "artist": "Queen",
+    "title": "Radio Ga Ga",
+    "count": 1
+  },
+  {
+    "artist": "Beatles",
+    "title": "Ticket to ride",
+    "count": 1
+  },
+  {
+    "artist": "Christie",
+    "title": "Yellow river",
+    "count": 1
+  },
+  {
+    "artist": "Tony Christie",
+    "title": "(Is this the way to) Amarillo",
+    "count": 1
+  },
+  {
+    "artist": "Manfred Mann&#39;s Earth Band",
+    "title": "Blinded by the light",
+    "count": 1
+  },
+  {
+    "artist": "Queen",
+    "title": "Crazy little thing called love",
+    "count": 1
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Hungry heart",
+    "count": 2
+  },
+  {
+    "artist": "Passenger",
+    "title": "Let her go",
+    "count": 1
+  },
+  {
+    "artist": "Diana Ross &amp; The Supremes",
+    "title": "You can&#39;t hurry love",
+    "count": 1
+  },
+  {
+    "artist": "Bangles",
+    "title": "If she knew what she wants",
+    "count": 1
+  },
+  {
+    "artist": "Carole King",
+    "title": "It&#39;s too late",
+    "count": 1
+  }
+]

@@ -1,0 +1,30 @@
+2017-02-07T20:43:38+01:00 INFO: Start Analyzing Radio stations
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antenneoa.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antenne90.json
+
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndrb.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndrp.json
+
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antenned.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antenne80.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\diggi.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndr903.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennexmas.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\wdr3.json
+
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennefg.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennec.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennelax.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndr1n.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antenneold.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennesch.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\wdr2.json
+
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\fhe.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\wdre.json
+
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndr1rmv.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\wdr5.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\wdr4.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennelove.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndrwn.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndrk.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\antennerock.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\1live.json
+2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\njoy.json2017-02-07T20:43:38+01:00 INFO: ERROR: Could not load data\radio\ndr2.json
+

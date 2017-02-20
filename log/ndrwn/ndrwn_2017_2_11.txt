@@ -1,0 +1,217 @@
+2017-02-11T06:05:09+01:00 INFO: NDR Welle Nord: I don&#39;t wanna dance -by- Eddy Grant
+2017-02-11T06:09:09+01:00 INFO: NDR Welle Nord: Starboy -by- Weeknd &amp; Daft Punk
+2017-02-11T06:15:09+01:00 INFO: NDR Welle Nord: The power of love -by- Jennifer Rush
+2017-02-11T06:19:10+01:00 INFO: NDR Welle Nord: Nights in white satin -by- Moody Blues
+2017-02-11T06:24:10+01:00 INFO: NDR Welle Nord: Ich bin ich (Wir sind wir) -by- Rosenstolz
+2017-02-11T06:28:12+01:00 INFO: NDR Welle Nord: I still haven&#39;t found what I&#39;m looking for -by- U2
+2017-02-11T06:33:13+01:00 INFO: NDR Welle Nord: Suburbia -by- Pet Shop Boys
+2017-02-11T06:37:13+01:00 INFO: NDR Welle Nord: It&#39;s so easy -by- Linda Ronstadt
+2017-02-11T06:42:13+01:00 INFO: NDR Welle Nord: Walking in Memphis -by- Marc Cohn
+2017-02-11T06:46:14+01:00 INFO: NDR Welle Nord: Codo (.. d&uuml;se im Sauseschritt) -by- D&Ouml;F
+2017-02-11T06:49:14+01:00 INFO: NDR Welle Nord: I will survive -by- Gloria Gaynor
+2017-02-11T06:53:14+01:00 INFO: NDR Welle Nord: It&#39;s a beautiful day -by- Michael Bubl&eacute;
+2017-02-11T06:57:14+01:00 INFO: NDR Welle Nord: Drive -by- Cars
+2017-02-11T07:05:15+01:00 INFO: NDR Welle Nord: Keine Maschine -by- Tim Bendzko
+2017-02-11T07:09:15+01:00 INFO: NDR Welle Nord: Stars -by- Simply Red
+2017-02-11T07:15:16+01:00 INFO: NDR Welle Nord: The last time -by- Rolling Stones
+2017-02-11T07:18:16+01:00 INFO: NDR Welle Nord: Total eclipse of the heart -by- Bonnie Tyler
+2017-02-11T07:23:16+01:00 INFO: NDR Welle Nord: Not fair -by- Lily Allen
+2017-02-11T07:27:16+01:00 INFO: NDR Welle Nord: I wish it would rain down -by- Phil Collins
+2017-02-11T07:33:17+01:00 INFO: NDR Welle Nord: Teardrops -by- Womack &amp; Womack
+2017-02-11T07:37:17+01:00 INFO: NDR Welle Nord: You don&#39;t know -by- Milow
+2017-02-11T07:43:17+01:00 INFO: NDR Welle Nord: Dream on -by- Nazareth
+2017-02-11T07:46:18+01:00 INFO: NDR Welle Nord: Will you be there -by- Michael Jackson
+2017-02-11T07:50:18+01:00 INFO: NDR Welle Nord: Nur eine Nacht -by- Ayman
+2017-02-11T07:54:18+01:00 INFO: NDR Welle Nord: Queen of hearts -by- Juice Newton
+2017-02-11T07:57:18+01:00 INFO: NDR Welle Nord: If you leave me now -by- Chicago
+2017-02-11T08:06:19+01:00 INFO: NDR Welle Nord: Summer of &#39;69 -by- Bryan Adams
+2017-02-11T08:10:19+01:00 INFO: NDR Welle Nord: Livin&#39; thing -by- Electric Light Orchestra
+2017-02-11T08:14:20+01:00 INFO: NDR Welle Nord: Bei meiner Seele -by- Xavier Naidoo
+2017-02-11T08:17:20+01:00 INFO: NDR Welle Nord: Sometimes -by- ERASURE
+2017-02-11T08:22:20+01:00 INFO: NDR Welle Nord: Mighty Quinn -by- Manfred Mann
+2017-02-11T08:24:20+01:00 INFO: NDR Welle Nord: Saving all my love for you -by- Whitney Houston
+2017-02-11T08:28:21+01:00 INFO: NDR Welle Nord: Mandy -by- Westlife
+2017-02-11T08:34:21+01:00 INFO: NDR Welle Nord: Wenn sie tanzt -by- Max Giesinger
+2017-02-11T08:38:21+01:00 INFO: NDR Welle Nord: Concrete &amp; clay -by- Hong Kong Syndikat
+2017-02-11T08:43:22+01:00 INFO: NDR Welle Nord: (Sittin&#39; on) the dock of the bay -by- Otis Redding
+2017-02-11T08:45:22+01:00 INFO: NDR Welle Nord: Ship to shore -by- Chris De Burgh
+2017-02-11T08:49:22+01:00 INFO: NDR Welle Nord: Love&#39;s divine -by- Seal
+2017-02-11T08:53:22+01:00 INFO: NDR Welle Nord: Just the way you are -by- Bruno Mars
+2017-02-11T08:57:23+01:00 INFO: NDR Welle Nord: Ballerina girl -by- Lionel Richie
+2017-02-11T09:05:23+01:00 INFO: NDR Welle Nord: Words -by- F. R. David
+2017-02-11T09:08:23+01:00 INFO: NDR Welle Nord: Treat you better -by- Shawn Mendes
+2017-02-11T09:14:24+01:00 INFO: NDR Welle Nord: The boxer -by- Simon &amp; Garfunkel
+2017-02-11T09:19:24+01:00 INFO: NDR Welle Nord: Africa -by- Toto
+2017-02-11T09:23:24+01:00 INFO: NDR Welle Nord: Westerland -by- &Auml;rzte
+2017-02-11T09:27:25+01:00 INFO: NDR Welle Nord: All by myself -by- Eric Carmen
+2017-02-11T09:34:25+01:00 INFO: NDR Welle Nord: Walk of life -by- Dire Straits
+2017-02-11T09:37:25+01:00 INFO: NDR Welle Nord: Reeperbahn -by- Udo Lindenberg &amp; Jan Delay
+2017-02-11T09:44:26+01:00 INFO: NDR Welle Nord: Blue eyes -by- Elton John
+2017-02-11T09:47:26+01:00 INFO: NDR Welle Nord: S.O.S. -by- Abba
+2017-02-11T09:50:26+01:00 INFO: NDR Welle Nord: The way to your heart -by- Soulsister
+2017-02-11T09:54:26+01:00 INFO: NDR Welle Nord: Rhythm of the rain -by- Jason Donovan
+2017-02-11T09:57:29+01:00 INFO: NDR Welle Nord: Reality -by- Lost Frequencies feat. Janieck Devy
+2017-02-11T10:05:30+01:00 INFO: NDR Welle Nord: Gold -by- Spandau Ballet
+2017-02-11T10:08:30+01:00 INFO: NDR Welle Nord: Leaving on a jet plane -by- John Denver
+2017-02-11T10:15:31+01:00 INFO: NDR Welle Nord: Nur ein Wort -by- Wir Sind Helden
+2017-02-11T10:19:31+01:00 INFO: NDR Welle Nord: Up where we belong -by- Joe Cocker &amp; Jennifer Warnes
+2017-02-11T10:23:32+01:00 INFO: NDR Welle Nord: Maggie May -by- Rod Stewart
+2017-02-11T10:29:33+01:00 INFO: NDR Welle Nord: Sweet about me -by- Gabriella Cilmi
+2017-02-11T10:33:33+01:00 INFO: NDR Welle Nord: Wouldn&#39;t it be good -by- Nik Kershaw
+2017-02-11T10:38:34+01:00 INFO: NDR Welle Nord: Knock on wood -by- Amii Stewart
+2017-02-11T10:44:34+01:00 INFO: NDR Welle Nord: Perfect Life -by- Levina
+2017-02-11T10:47:35+01:00 INFO: NDR Welle Nord: Sexual healing -by- Marvin Gaye
+2017-02-11T10:52:35+01:00 INFO: NDR Welle Nord: What is love -by- Haddaway
+2017-02-11T10:56:35+01:00 INFO: NDR Welle Nord: All at once -by- Whitney Houston
+2017-02-11T11:05:37+01:00 INFO: NDR Welle Nord: Lass uns gehen -by- Revolverheld
+2017-02-11T11:08:37+01:00 INFO: NDR Welle Nord: Nothing&#39;s gonna stop us now -by- Starship
+2017-02-11T11:14:38+01:00 INFO: NDR Welle Nord: Mexico (The Battle of New Orleans) -by- Les Humphries Singers
+2017-02-11T11:18:38+01:00 INFO: NDR Welle Nord: Circle of life -by- Elton John
+2017-02-11T11:25:39+01:00 INFO: NDR Welle Nord: Le freak -by- Chic
+2017-02-11T11:28:39+01:00 INFO: NDR Welle Nord: I just can&#39;t stop loving you -by- Michael Jackson
+2017-02-11T11:33:39+01:00 INFO: NDR Welle Nord: Deine St&auml;rken -by- Silly
+2017-02-11T11:37:40+01:00 INFO: NDR Welle Nord: Invisible touch -by- Genesis
+2017-02-11T11:43:40+01:00 INFO: NDR Welle Nord: I swear -by- All-4-One
+2017-02-11T11:46:40+01:00 INFO: NDR Welle Nord: Kids in America -by- Kim Wilde
+2017-02-11T11:50:41+01:00 INFO: NDR Welle Nord: Mr. Tambourine Man -by- Byrds
+2017-02-11T11:53:41+01:00 INFO: NDR Welle Nord: Lose control -by- Matt Simons
+2017-02-11T11:56:41+01:00 INFO: NDR Welle Nord: Tell her about it -by- Billy Joel
+2017-02-11T11:59:42+01:00 INFO: NDR Welle Nord: The great commandment -by- Camouflage
+2017-02-11T12:05:43+01:00 INFO: NDR Welle Nord: Bilder von dir -by- Laith Al-Deen
+2017-02-11T12:09:43+01:00 INFO: NDR Welle Nord: I don&#39;t wanna lose you -by- Tina Turner
+2017-02-11T12:14:43+01:00 INFO: NDR Welle Nord: A horse with no name -by- America
+2017-02-11T12:19:43+01:00 INFO: NDR Welle Nord: Fool  (If you think it&#39;s over) -by- Chris Rea
+2017-02-11T12:23:44+01:00 INFO: NDR Welle Nord: Ballroom blitz -by- Sweet
+2017-02-11T12:28:44+01:00 INFO: NDR Welle Nord: Hard to say I&#39;m sorry -by- Chicago
+2017-02-11T12:34:45+01:00 INFO: NDR Welle Nord: Nur getr&auml;umt -by- Nena
+2017-02-11T12:37:45+01:00 INFO: NDR Welle Nord: The Ocean -by- Mike Perry &amp; Shy Martin
+2017-02-11T12:42:45+01:00 INFO: NDR Welle Nord: Fallin&#39; -by- Alicia Keys
+2017-02-11T12:45:45+01:00 INFO: NDR Welle Nord: Ella, elle l&#39;a -by- France Gall
+2017-02-11T12:49:46+01:00 INFO: NDR Welle Nord: Upside down -by- Diana Ross
+2017-02-11T12:51:46+01:00 INFO: NDR Welle Nord: This is the life -by- Amy MacDonald
+2017-02-11T12:54:47+01:00 INFO: NDR Welle Nord: Crying in the rain -by- a-ha
+2017-02-11T12:58:47+01:00 INFO: NDR Welle Nord: Wonderful life -by- Black
+2017-02-11T13:06:48+01:00 INFO: NDR Welle Nord: Was soll das -by- Herbert Gr&ouml;nemeyer
+2017-02-11T13:10:48+01:00 INFO: NDR Welle Nord: I was made for loving you -by- Kiss
+2017-02-11T13:17:48+01:00 INFO: NDR Welle Nord: Eyes without a face -by- Billy Idol
+2017-02-11T13:22:49+01:00 INFO: NDR Welle Nord: Count on me -by- Bruno Mars
+2017-02-11T13:25:49+01:00 INFO: NDR Welle Nord: Human touch -by- Bruce Springsteen
+2017-02-11T13:29:50+01:00 INFO: NDR Welle Nord: Lay Love On You -by- Luisa Fernandez
+2017-02-11T13:35:51+01:00 INFO: NDR Welle Nord: My way -by- Calvin Harris
+2017-02-11T13:38:51+01:00 INFO: NDR Welle Nord: Tiefer -by- Peter Maffay
+2017-02-11T13:45:55+01:00 INFO: NDR Welle Nord: Nine million bicycles -by- Katie Melua
+2017-02-11T13:48:55+01:00 INFO: NDR Welle Nord: You win again -by- Bee Gees
+2017-02-11T13:52:55+01:00 INFO: NDR Welle Nord: Substitute -by- Clout
+2017-02-11T13:54:55+01:00 INFO: NDR Welle Nord: Jolene -by- BossHoss &amp; Common Linnets
+2017-02-11T13:57:56+01:00 INFO: NDR Welle Nord: If you don&#39;t know me by now -by- Simply Red
+2017-02-11T14:05:56+01:00 INFO: NDR Welle Nord: Rhythm of the night -by- DeBarge
+2017-02-11T14:09:57+01:00 INFO: NDR Welle Nord: Smile -by- Pussycat
+2017-02-11T14:15:57+01:00 INFO: NDR Welle Nord: Major Tom (V&ouml;llig losgel&ouml;st) -by- Peter Schilling
+2017-02-11T14:19:57+01:00 INFO: NDR Welle Nord: Someone like you -by- Adele
+2017-02-11T14:24:58+01:00 INFO: NDR Welle Nord: Shadow on the wall -by- Mike Oldfield &amp; Roger Chapman
+2017-02-11T14:27:59+01:00 INFO: NDR Welle Nord: Gloria -by- Umberto Tozzi
+2017-02-11T14:37:00+01:00 INFO: NDR Welle Nord: Would I lie to you -by- David Guetta &amp; Cendric; Willis, Chris Gervais
+2017-02-11T14:38:35+01:00 INFO: NDR Welle Nord: Would I lie to you -by- David Guetta &amp; Cendric; Willis, Chris Gervais
+2017-02-11T14:40:35+01:00 INFO: NDR Welle Nord: You can&#39;t hurry love -by- Phil Collins
+2017-02-11T14:45:36+01:00 INFO: NDR Welle Nord: The shoop shoop song (It&#39;s in his kiss) -by- Cher
+2017-02-11T14:47:36+01:00 INFO: NDR Welle Nord: Die T&auml;nzerin -by- Ulla Meinecke &amp; Edo Zanki
+2017-02-11T14:52:36+01:00 INFO: NDR Welle Nord: Ex&#39;s &amp; oh&#39;s -by- Elle King
+2017-02-11T14:55:36+01:00 INFO: NDR Welle Nord: Johnny loves Jenny -by- Chilly
+2017-02-11T14:58:37+01:00 INFO: NDR Welle Nord: Red red wine -by- UB 40
+2017-02-11T15:06:37+01:00 INFO: NDR Welle Nord: Thorn in my side -by- Eurythmics
+2017-02-11T15:09:37+01:00 INFO: NDR Welle Nord: Puttin&#39; on the Ritz -by- Taco
+2017-02-11T15:12:38+01:00 INFO: NDR Welle Nord: I can hear your heartbeat -by- Chris Rea
+2017-02-11T15:15:38+01:00 INFO: NDR Welle Nord: Blame it on me -by- George Ezra
+2017-02-11T15:19:39+01:00 INFO: NDR Welle Nord: Meine eigenen Wege -by- Heinz Rudolf Kunze
+2017-02-11T15:23:40+01:00 INFO: NDR Welle Nord: Arms of Mary -by- Sutherland Brothers
+2017-02-11T15:26:42+01:00 INFO: NDR Welle Nord: West end girls -by- Pet Shop Boys
+2017-02-11T15:35:45+01:00 INFO: NDR Welle Nord: Don&#39;t be so shy -by- Imany &amp; Karas
+2017-02-11T15:38:45+01:00 INFO: NDR Welle Nord: I&#39;ll stand by you -by- Pretenders
+2017-02-11T15:42:45+01:00 INFO: NDR Welle Nord: Mambo -by- Herbert Gr&ouml;nemeyer
+2017-02-11T15:45:46+01:00 INFO: NDR Welle Nord: Isn&#39;t she lovely -by- Stevie Wonder
+2017-02-11T15:48:46+01:00 INFO: NDR Welle Nord: Oh l&#39;amour -by- Erasure
+2017-02-11T15:51:46+01:00 INFO: NDR Welle Nord: A night like this -by- Caro Emerald
+2017-02-11T15:54:47+01:00 INFO: NDR Welle Nord: Girlie girlie -by- Sophia George
+2017-02-11T15:57:47+01:00 INFO: NDR Welle Nord: Dolce vita -by- Ryan Paris
+2017-02-11T16:06:48+01:00 INFO: NDR Welle Nord: Come back and stay -by- Paul Young
+2017-02-11T16:10:48+01:00 INFO: NDR Welle Nord: Es geht mir gut -by- Westernhagen
+2017-02-11T16:16:48+01:00 INFO: NDR Welle Nord: Nowhere Man -by- Beatles
+2017-02-11T16:18:49+01:00 INFO: NDR Welle Nord: Heaven is a place on earth -by- Belinda Carlisle
+2017-02-11T16:22:50+01:00 INFO: NDR Welle Nord: Me and you and a dog named Boo -by- Lobo
+2017-02-11T16:25:50+01:00 INFO: NDR Welle Nord: Fade out lines -by- The Avener
+2017-02-11T16:28:50+01:00 INFO: NDR Welle Nord: Cold days, hot nights -by- Moti Special
+2017-02-11T16:37:54+01:00 INFO: NDR Welle Nord: Wenn sie tanzt -by- Max Giesinger
+2017-02-11T16:40:54+01:00 INFO: NDR Welle Nord: Black or white -by- Michael Jackson
+2017-02-11T16:45:55+01:00 INFO: NDR Welle Nord: Don&#39;t worry -by- Madcon feat. Ray Dalton
+2017-02-11T16:47:55+01:00 INFO: NDR Welle Nord: Eternal flame -by- Bangles
+2017-02-11T16:52:56+01:00 INFO: NDR Welle Nord: Georgie -by- Pussycat
+2017-02-11T16:54:56+01:00 INFO: NDR Welle Nord: Our house -by- Madness
+2017-02-11T16:57:56+01:00 INFO: NDR Welle Nord: Bubbly -by- Colbie Caillat
+2017-02-11T17:05:57+01:00 INFO: NDR Welle Nord: Kyrie -by- Mr. Mister
+2017-02-11T17:10:58+01:00 INFO: NDR Welle Nord: Kung Fu fighting -by- Carl Douglas
+2017-02-11T17:13:58+01:00 INFO: NDR Welle Nord: What is love -by- Howard Jones
+2017-02-11T17:24:58+01:00 INFO: NDR Welle Nord: Wavin&#39; flag -by- K&#39;naan
+2017-02-11T17:28:59+01:00 INFO: NDR Welle Nord: Musik sein -by- Wincent Weiss
+2017-02-11T17:38:01+01:00 INFO: NDR Welle Nord: Take on me -by- a-ha
+2017-02-11T17:41:01+01:00 INFO: NDR Welle Nord: Marvin Gaye -by- Charlie Puth &amp; Meghan Trainor
+2017-02-11T17:46:02+01:00 INFO: NDR Welle Nord: Don&#39;t stop -by- Fleetwood Mac
+2017-02-11T17:48:03+01:00 INFO: NDR Welle Nord: Der blaue Planet -by- Karat
+2017-02-11T17:52:03+01:00 INFO: NDR Welle Nord: Carry You Home -by- James Blunt
+2017-02-11T17:56:03+01:00 INFO: NDR Welle Nord: We are goin&#39; down Jordan -by- Les Humphries Singers
+2017-02-11T17:58:03+01:00 INFO: NDR Welle Nord: One night in Bangkok -by- Murray Head
+2017-02-11T18:08:06+01:00 INFO: NDR Welle Nord: Vienna calling -by- Falco
+2017-02-11T18:12:06+01:00 INFO: NDR Welle Nord: Gl&uuml;ck -by- Alexa Feser
+2017-02-11T18:16:06+01:00 INFO: NDR Welle Nord: Wir wollen doch einfach nur zusammen sein -by- Udo Lindenberg
+2017-02-11T18:20:07+01:00 INFO: NDR Welle Nord: Gl&uuml;cklich gl&uuml;cklich -by- Michy Reincke
+2017-02-11T18:24:07+01:00 INFO: NDR Welle Nord: Kompliziert -by- Namika
+2017-02-11T18:27:07+01:00 INFO: NDR Welle Nord: M&uuml;sli M&auml;n -by- BAP
+2017-02-11T18:34:08+01:00 INFO: NDR Welle Nord: Eine Nummer zu gro&szlig; -by- Roger Cicero
+2017-02-11T18:37:09+01:00 INFO: NDR Welle Nord: Du hast &#39;ne Ladung Dynamit -by- Ina Deter
+2017-02-11T18:42:09+01:00 INFO: NDR Welle Nord: Herz &uuml;ber Kopf -by- Joris
+2017-02-11T18:44:10+01:00 INFO: NDR Welle Nord: Der Depp -by- Annett Louisan
+2017-02-11T18:47:10+01:00 INFO: NDR Welle Nord: Die Liebe bleibt -by- Klaus Lage Band
+2017-02-11T18:51:10+01:00 INFO: NDR Welle Nord: Ich &amp; Du -by- Philipp Poisel
+2017-02-11T18:54:10+01:00 INFO: NDR Welle Nord: Du hast mir gerade noch gefehlt -by- Purple Schulz
+2017-02-11T18:57:10+01:00 INFO: NDR Welle Nord: Alles gelogen -by- Heinz Rudolf Kunze
+2017-02-11T19:06:11+01:00 INFO: NDR Welle Nord: Liebenwer wei&szlig; schon wie das geht -by- Edo Zanki
+2017-02-11T19:10:11+01:00 INFO: NDR Welle Nord: H&auml;tt&#39; ich &#39;n Hund -by- Ina M&uuml;ller
+2017-02-11T19:14:12+01:00 INFO: NDR Welle Nord: Ch&ouml;re -by- Mark Forster
+2017-02-11T19:18:12+01:00 INFO: NDR Welle Nord: Halt dich an mir fest -by- Peter Maffay
+2017-02-11T19:22:15+01:00 INFO: NDR Welle Nord: Im Moment ist alles richtig -by- Maybebop
+2017-02-11T19:26:15+01:00 INFO: NDR Welle Nord: Luxus -by- Herbert Gr&ouml;nemeyer
+2017-02-11T19:30:15+01:00 INFO: NDR Welle Nord: Uschi -by- Stephan Sulke
+2017-02-11T19:35:16+01:00 INFO: NDR Welle Nord: 99 Luftballons (Neunundneunzig Luftballons) -by- Nena
+2017-02-11T19:39:16+01:00 INFO: NDR Welle Nord: Sinnloses Leiden -by- Ruben Cossani
+2017-02-11T19:41:19+01:00 INFO: NDR Welle Nord: Der Spieler -by- Achim Reichel
+2017-02-11T19:46:19+01:00 INFO: NDR Welle Nord: Das hat die Welt noch nicht gesehen -by- S&ouml;hne Mannheims
+2017-02-11T19:49:19+01:00 INFO: NDR Welle Nord: Ich lebe -by- Christina St&uuml;rmer
+2017-02-11T19:53:19+01:00 INFO: NDR Welle Nord: D&eacute;j&agrave; vu -by- Spliff
+2017-02-11T19:57:20+01:00 INFO: NDR Welle Nord: Tanz -by- Cassandra Steen
+2017-02-11T20:06:21+01:00 INFO: NDR Welle Nord: Wir haben doch jeden Berg geschafft -by- Stefan Gwildis
+2017-02-11T20:10:21+01:00 INFO: NDR Welle Nord: Ein Schritt vor und zwei zur&uuml;ck -by- Ulla Meinecke
+2017-02-11T20:14:22+01:00 INFO: NDR Welle Nord: Millionenmal -by- Cosa Rosa
+2017-02-11T20:19:25+01:00 INFO: NDR Welle Nord: Jemanden wie dich -by- Johannes Oerding
+2017-02-11T20:23:25+01:00 INFO: NDR Welle Nord: Funkelperlenaugen -by- Pur
+2017-02-11T20:27:26+01:00 INFO: NDR Welle Nord: Unsere Liebe ist aus Gold -by- Frida Gold
+2017-02-11T20:34:26+01:00 INFO: NDR Welle Nord: Wat ! -by- Willem
+2017-02-11T20:37:27+01:00 INFO: NDR Welle Nord: Kommst Du mit ihr -by- Sarah Connor
+2017-02-11T20:40:27+01:00 INFO: NDR Welle Nord: Als w&auml;r&#39;s das erste Mal -by- Unheilig
+2017-02-11T20:43:27+01:00 INFO: NDR Welle Nord: Das erste Mal tat&#39;s noch weh (Les histoires d&#39;amour) -by- Stefan Waggershausen &amp; Viktor Lazlo
+2017-02-11T20:48:28+01:00 INFO: NDR Welle Nord: Ich bin mein Haus -by- Rosenstolz
+2017-02-11T20:52:28+01:00 INFO: NDR Welle Nord: Hey -by- Andreas Bourani
+2017-02-11T20:56:29+01:00 INFO: NDR Welle Nord: Erdbeer&#39;n zum Kaffee -by- Valerie&#39;s Garten
+2017-02-11T20:58:29+01:00 INFO: NDR Welle Nord: Immer mehr -by- Reinhard Mey
+2017-02-11T21:07:30+01:00 INFO: NDR Welle Nord: Keinen Zentimeter -by- Clueso
+2017-02-11T21:11:30+01:00 INFO: NDR Welle Nord: Bataillon d&#39;amour -by- Silly
+2017-02-11T21:14:30+01:00 INFO: NDR Welle Nord: Leichtsinn -by- Tim Bendzko
+2017-02-11T21:18:31+01:00 INFO: NDR Welle Nord: Herz an Herz -by- Paso Doble
+2017-02-11T21:21:31+01:00 INFO: NDR Welle Nord: Sch&ouml;nste Zeit -by- Bosse
+2017-02-11T21:25:31+01:00 INFO: NDR Welle Nord: Wie der Wind so frei -by- Wolfsmond
+2017-02-11T21:28:31+01:00 INFO: NDR Welle Nord: Das Beste -by- Silbermond
+2017-02-11T21:34:32+01:00 INFO: NDR Welle Nord: Schatten an der Wand -by- Jule Neigel
+2017-02-11T21:38:32+01:00 INFO: NDR Welle Nord: Welt hinter Glas -by- Max Mutzke
+2017-02-11T21:42:32+01:00 INFO: NDR Welle Nord: In deiner kleinen Welt -by- Philipp Dittberner
+2017-02-11T21:46:33+01:00 INFO: NDR Welle Nord: Wei&szlig;e Pferde -by- Georg Danzer
+2017-02-11T21:50:33+01:00 INFO: NDR Welle Nord: Lieder -by- Adel Tawil
+2017-02-11T21:54:33+01:00 INFO: NDR Welle Nord: Pendel -by- Yvonne Catterfeld
+2017-02-11T21:57:33+01:00 INFO: NDR Welle Nord: Hab&#39; den Mond mit der Hand ber&uuml;hrt -by- Karat

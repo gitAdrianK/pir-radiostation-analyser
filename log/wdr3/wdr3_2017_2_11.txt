@@ -1,0 +1,14 @@
+2017-02-11T06:09:05+01:00 INFO: WDR3: Sinfonie Nr. 5 D-Dur, op. 2,5 -by- William Boyce
+2017-02-11T06:21:06+01:00 INFO: WDR3: Sinfonie Nr. 41 C-Dur, KV 551 -by- Wolfgang Amadeus Mozart
+2017-02-11T06:37:07+01:00 INFO: WDR3: Jota aragonesa, op. 27 -by- Pablo de Sarasate
+2017-02-11T06:41:07+01:00 INFO: WDR3: Euryanthe -by- Carl Maria von Weber
+2017-02-11T06:53:08+01:00 INFO: WDR3: Sonate F-Dur -by- Baldassare Federici
+2017-02-11T06:58:08+01:00 INFO: WDR3: Sinfonia B-Dur -by- Christian Cannabich
+2017-02-11T07:08:09+01:00 INFO: WDR3: Sonate E-Dur, BWV 1035 -by- Johann Sebastian Bach
+2017-02-11T07:11:09+01:00 INFO: WDR3: >La Cenerentola< -by- Gioacchino Rossini
+2017-02-11T07:19:09+01:00 INFO: WDR3: Sonate E-Dur, K 162 (L 21/P 162) -by- Domenico Scarlatti
+2017-02-11T07:28:10+01:00 INFO: WDR3: Sextett d-Moll -by- Alexander Borodin
+2017-02-11T07:43:11+01:00 INFO: WDR3: Sonate Nr. 6 c-Moll, ZWV 181,6 -by- Jan Dismas Zelenka
+2017-02-11T07:49:12+01:00 INFO: WDR3: 3 Intermezzi, op. 117 -by- Johannes Brahms
+2017-02-11T07:52:12+01:00 INFO: WDR3: Ein jegliches hat seine Zeit -by- Andreas Hammerschmidt
+2017-02-11T08:21:14+01:00 INFO: WDR3: Modern times -by- Charles Spencer "Charlie" Chaplin

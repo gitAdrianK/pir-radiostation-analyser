@@ -1,0 +1,20 @@
+2017-02-07T20:57:41+01:00 INFO: WDR2: "Weil ich dich liebe" -by- Westernhagen
+2017-02-07T21:15:44+01:00 INFO: WDR2: "Liquid spirit" -by- Gregory Porter
+2017-02-07T21:47:51+01:00 INFO: WDR2: "(No one knows me) Like the piano" -by- Sampha
+2017-02-07T22:11:53+01:00 INFO: WDR2: "Performance" -by- The XX
+2017-02-07T22:14:53+01:00 INFO: WDR2: "Tuesday" -by- Burak Yeter /Danelle Sandoval
+2017-02-07T22:16:53+01:00 INFO: WDR2: "Fortune" -by- William Fitzsimmons
+2017-02-07T22:18:53+01:00 INFO: WDR2: "Fortune" -by- Willi
+2017-02-07T22:29:54+01:00 INFO: WDR2: "Play dead" -by- Tom Walker
+2017-02-07T22:40:55+01:00 INFO: WDR2: "Georgia" -by- Tiggs Da Author
+2017-02-07T22:45:55+01:00 INFO: WDR2: "Demons" -by- Sameday Records
+2017-02-07T22:49:55+01:00 INFO: WDR2: "Baby" -by- Bakermat
+2017-02-07T22:52:55+01:00 INFO: WDR2: "Your name / my game" -by- Herman Dune
+2017-02-07T22:56:56+01:00 INFO: WDR2: "No reason" -by- Bonobo feat. Nick Murphy
+2017-02-07T23:04:56+01:00 INFO: WDR2: "Inside" -by- Fritz Kalkbrenner
+2017-02-07T23:07:56+01:00 INFO: WDR2: "Anymore" -by- Goldfrapp
+2017-02-07T23:11:57+01:00 INFO: WDR2: "So much confusion" -by- Galliano
+2017-02-07T23:15:57+01:00 INFO: WDR2: "Since" -by- Astrid North
+2017-02-07T23:20:57+01:00 INFO: WDR2: "Radio silence" -by- James Blake
+2017-02-07T23:24:57+01:00 INFO: WDR2: "Watch Me" -by- Anohni
+2017-02-07T23:27:57+01:00 INFO: WDR2: "Forever mine" -by- Andra Day

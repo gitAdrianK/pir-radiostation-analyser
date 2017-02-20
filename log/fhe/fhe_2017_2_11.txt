@@ -1,0 +1,221 @@
+2017-02-11T01:00:29+01:00 INFO: Funkhaus Europa: O D O O -by- Fela Kuti
+2017-02-11T01:07:30+01:00 INFO: Funkhaus Europa: Somos Dos (Motiff Remix); Somos Dos -by- Bomba Estereo
+2017-02-11T01:11:31+01:00 INFO: Funkhaus Europa: Sabateo -by- Mala feat. Colectivo Palenke
+2017-02-11T01:13:31+01:00 INFO: Funkhaus Europa: Let The Water Run Dry -by- Ken Boothe
+2017-02-11T01:16:31+01:00 INFO: Funkhaus Europa: Tawwalt El Gheba -by- Omar Souleyman
+2017-02-11T01:24:31+01:00 INFO: Funkhaus Europa: Red Rain -by- The Kuti Mangoes
+2017-02-11T01:28:31+01:00 INFO: Funkhaus Europa: Wap Do Wap (Nicolas Repac Remix) -by- Blick Bassy
+2017-02-11T01:33:32+01:00 INFO: Funkhaus Europa: Ghetto walkin' -by- Miles Davis & Robert Glasper feat. Bilal
+2017-02-11T01:36:32+01:00 INFO: Funkhaus Europa: Soul rebel -by- Bob Marley and The Wailers
+2017-02-11T01:41:32+01:00 INFO: Funkhaus Europa: Human -by- Robert Glasper Experiment
+2017-02-11T01:45:33+01:00 INFO: Funkhaus Europa: Theme for a Taiwanese Woman in Lime Green -by- Devendra Banhart
+2017-02-11T01:50:33+01:00 INFO: Funkhaus Europa: 2MINZOFH8 -by- OSHUN
+2017-02-11T01:54:34+01:00 INFO: Funkhaus Europa: Odo Adaada -by- Pat Thomas & Kwashibu Area Band
+2017-02-11T02:02:35+01:00 INFO: Funkhaus Europa: Majirani Yako Kelele -by- Renegades Of Jazz
+2017-02-11T02:07:35+01:00 INFO: Funkhaus Europa: Travellin' Man Pt. II (Distant Lovers Mix) -by- Yasiin Gaye
+2017-02-11T02:12:36+01:00 INFO: Funkhaus Europa: It's a vanity -by- Gabo Brown
+2017-02-11T02:16:36+01:00 INFO: Funkhaus Europa: Amicalement votre -by- Freebidou
+2017-02-11T02:23:36+01:00 INFO: Funkhaus Europa: Kucheza -by- Mafikizolo
+2017-02-11T02:27:37+01:00 INFO: Funkhaus Europa: Love found me -by- Asa
+2017-02-11T02:31:37+01:00 INFO: Funkhaus Europa: Mo Parrain -by- Christophe
+2017-02-11T02:34:37+01:00 INFO: Funkhaus Europa: Soul power '74 -by- Maceo And The Macks
+2017-02-11T02:38:37+01:00 INFO: Funkhaus Europa: Como Yo (Captain Planet Remix) -by- Novalima
+2017-02-11T02:42:38+01:00 INFO: Funkhaus Europa: Loose up yourself -by- Rob "Roy" Raindorf
+2017-02-11T02:45:38+01:00 INFO: Funkhaus Europa: Has Ke Bol -by- Ziggy feat. Rahat Fateh Ali Khan
+2017-02-11T02:49:38+01:00 INFO: Funkhaus Europa: I Chase The Devil -by- Max Romeo & Lee "Scratch" Perry
+2017-02-11T02:52:38+01:00 INFO: Funkhaus Europa: Egwo umu agbogho -by- Dan Satch
+2017-02-11T02:57:38+01:00 INFO: Funkhaus Europa: Alone -by- Selah Sue
+2017-02-11T03:01:39+01:00 INFO: Funkhaus Europa: No Kissing Baby -by- Patoranking feat. Sarkodie
+2017-02-11T03:04:39+01:00 INFO: Funkhaus Europa: Deine Zeit -by- Seeed
+2017-02-11T03:07:39+01:00 INFO: Funkhaus Europa: Kiko Medina -by- Le Tropical Jazz de Dakar
+2017-02-11T03:12:39+01:00 INFO: Funkhaus Europa: Down -by- Petite Noir
+2017-02-11T03:26:40+01:00 INFO: Funkhaus Europa: Moving On -by- Tony Allen
+2017-02-11T03:31:40+01:00 INFO: Funkhaus Europa: El carretero -by- Le Star Band de Dakar
+2017-02-11T03:36:41+01:00 INFO: Funkhaus Europa: Bank Head -by- Kelela
+2017-02-11T03:42:41+01:00 INFO: Funkhaus Europa: I wanna be free -by- Joe Tex
+2017-02-11T03:45:41+01:00 INFO: Funkhaus Europa: Negus negast -by- The Souljazz Orchestra
+2017-02-11T03:54:42+01:00 INFO: Funkhaus Europa: Viva Marvillas -by- King N'Gom et Les Perles Noires
+2017-02-11T03:58:42+01:00 INFO: Funkhaus Europa: Baba che -by- Il Civetto
+2017-02-11T04:03:42+01:00 INFO: Funkhaus Europa: Daddy Yo -by- Wizkid
+2017-02-11T04:05:42+01:00 INFO: Funkhaus Europa: 101 -by- Portico feat. Joe Newman
+2017-02-11T04:14:43+01:00 INFO: Funkhaus Europa: N o tenho medo n o -by- Lucas Santtana
+2017-02-11T04:17:43+01:00 INFO: Funkhaus Europa: Trudy The Monster -by- Onom Agemo And The Disco Jumpers
+2017-02-11T04:20:43+01:00 INFO: Funkhaus Europa: Our Way -by- Hety And Zambo feat Donna Lace
+2017-02-11T04:24:43+01:00 INFO: Funkhaus Europa: Le min ijina -by- Bargou 08
+2017-02-11T04:27:44+01:00 INFO: Funkhaus Europa: 2by2 -by- Rhythmic Elements
+2017-02-11T04:32:44+01:00 INFO: Funkhaus Europa: Some minds -by- Flume feat. Andrew Wyatt
+2017-02-11T04:36:44+01:00 INFO: Funkhaus Europa: You Know -by- 20SYL
+2017-02-11T04:40:45+01:00 INFO: Funkhaus Europa: Despacito -by- Luis Fonsi feat. Daddy Yankee
+2017-02-11T04:44:45+01:00 INFO: Funkhaus Europa: L'amour artificiel -by- Coulouce
+2017-02-11T04:47:45+01:00 INFO: Funkhaus Europa: Volksvolkswagen Blue -by- Os Brazoes
+2017-02-11T04:50:45+01:00 INFO: Funkhaus Europa: Fattie bum-bum -by- Carl Malcolm
+2017-02-11T04:53:45+01:00 INFO: Funkhaus Europa: Agboho -by- Opotopo
+2017-02-11T05:01:46+01:00 INFO: Funkhaus Europa: The new international sound -by- GENER8ION  feat M.I.A
+2017-02-11T05:05:46+01:00 INFO: Funkhaus Europa: Manifesto -by- Sezen Aksu
+2017-02-11T05:08:46+01:00 INFO: Funkhaus Europa: Thiely -by- Orchestre Baobab
+2017-02-11T05:13:46+01:00 INFO: Funkhaus Europa: Ain't No Sunshine -by- Positive Black Soul
+2017-02-11T05:19:47+01:00 INFO: Funkhaus Europa: Rebeldia -by- Projota
+2017-02-11T05:23:47+01:00 INFO: Funkhaus Europa: Ayo -by- Bibi Tanga & Le Professeur Inlassable
+2017-02-11T05:27:47+01:00 INFO: Funkhaus Europa: Si e spento il sole -by- Riva Starr feat. Vinicio Capossela
+2017-02-11T05:30:47+01:00 INFO: Funkhaus Europa: 'Tite Jeanne -by- The Bongo Hop feat. Nidia Gongora
+2017-02-11T05:35:48+01:00 INFO: Funkhaus Europa: Bonom chinois -by- Claudio Pakiree
+2017-02-11T05:38:48+01:00 INFO: Funkhaus Europa: Sadeo -by- iZem feat. Feather
+2017-02-11T05:42:48+01:00 INFO: Funkhaus Europa: Them Changes -by- Thundercat feat. Flying Lotus & Kamasi Washington
+2017-02-11T05:46:48+01:00 INFO: Funkhaus Europa: Cuba -by- K54
+2017-02-11T05:50:48+01:00 INFO: Funkhaus Europa: Chi Chi Cha Cha (Tahira Remix feat. Ully Costa) -by- Latinaotearoa
+2017-02-11T05:57:49+01:00 INFO: Funkhaus Europa: Akhadhuhu Mini Urah -by- Dudu Tassa & The Kuwaitis
+2017-02-11T06:03:49+01:00 INFO: Funkhaus Europa: One Dance -by- Drake feat. Wizkid & Kyla
+2017-02-11T06:06:49+01:00 INFO: Funkhaus Europa: Let go -by- Astrud Gilberto
+2017-02-11T06:10:50+01:00 INFO: Funkhaus Europa: Crazy -by- Gnarls Barkley
+2017-02-11T06:23:50+01:00 INFO: Funkhaus Europa: Pass the Dutchie -by- Musical Youth
+2017-02-11T06:30:51+01:00 INFO: Funkhaus Europa: Light It Up (Remix) -by- Major Lazer feat. Nyla & Fuse ODG
+2017-02-11T06:32:51+01:00 INFO: Funkhaus Europa: Faith -by- Stevie Wonder feat. Ariana Grande
+2017-02-11T06:35:51+01:00 INFO: Funkhaus Europa: Verliebt -by- Antilopen Gang
+2017-02-11T06:43:52+01:00 INFO: Funkhaus Europa: Bad And Boujee -by- Migos Feat. Lil Uzi Vert
+2017-02-11T06:50:52+01:00 INFO: Funkhaus Europa: Paso a Paso -by- Zyderal
+2017-02-11T06:53:52+01:00 INFO: Funkhaus Europa: Ain't no mountain high enough -by- Diana Ross
+2017-02-11T06:56:52+01:00 INFO: Funkhaus Europa: Sugar -by- M.anifest feat. Brymo
+2017-02-11T07:03:53+01:00 INFO: Funkhaus Europa: Alright -by- Jamiroquai
+2017-02-11T07:11:53+01:00 INFO: Funkhaus Europa: Kucheza -by- Mafikizolo
+2017-02-11T07:16:53+01:00 INFO: Funkhaus Europa: Motoboy -by- Seu Jorge
+2017-02-11T07:19:54+01:00 INFO: Funkhaus Europa: Dye my hair -by- Alma
+2017-02-11T07:25:54+01:00 INFO: Funkhaus Europa: Nadhiri -by- Chebli
+2017-02-11T07:29:54+01:00 INFO: Funkhaus Europa: Let The Water Run Dry -by- Ken Boothe
+2017-02-11T07:32:54+01:00 INFO: Funkhaus Europa: Como Yo (Captain Planet Remix) -by- Novalima
+2017-02-11T07:35:55+01:00 INFO: Funkhaus Europa: Love makes a woman -by- Barbara Acklin
+2017-02-11T07:40:55+01:00 INFO: Funkhaus Europa: Beija-Flor -by- Timbalada
+2017-02-11T07:43:55+01:00 INFO: Funkhaus Europa: Burning Bridges -by- Patrice
+2017-02-11T07:50:55+01:00 INFO: Funkhaus Europa: Paris Samba -by- MC Solaar
+2017-02-11T07:53:56+01:00 INFO: Funkhaus Europa: Radio -by- Sylvan Esso
+2017-02-11T07:58:56+01:00 INFO: Funkhaus Europa: Me llaman calle -by- Manu Chao
+2017-02-11T08:03:56+01:00 INFO: Funkhaus Europa: Wild Things -by- Alessia Cara
+2017-02-11T08:06:56+01:00 INFO: Funkhaus Europa: Louie Louie -by- Mongo Santamaria
+2017-02-11T08:08:56+01:00 INFO: Funkhaus Europa: Nos Secrets -by- Louane
+2017-02-11T08:19:57+01:00 INFO: Funkhaus Europa: Daddy Yo -by- Wizkid
+2017-02-11T08:21:57+01:00 INFO: Funkhaus Europa: Tag am Meer -by- Die Fantastischen Vier
+2017-02-11T08:24:57+01:00 INFO: Funkhaus Europa: O-Ton ID 26 vibrations -by- OT ID 2017
+2017-02-11T08:25:57+01:00 INFO: Funkhaus Europa: Cocoon -by- Milky Chance
+2017-02-11T08:29:58+01:00 INFO: Funkhaus Europa: Como Me Miras -by- Chico Mann & Captain Planet
+2017-02-11T08:34:58+01:00 INFO: Funkhaus Europa: It's a shame -by- The Spinners
+2017-02-11T08:37:58+01:00 INFO: Funkhaus Europa: Never give up -by- Sia
+2017-02-11T08:47:59+01:00 INFO: Funkhaus Europa: Flor De Plastico -by- Russo Passapusso
+2017-02-11T08:52:59+01:00 INFO: Funkhaus Europa: Black To I Roots -by- Kush McAnuff
+2017-02-11T08:57:59+01:00 INFO: Funkhaus Europa: Imuhar -by- Bombino
+2017-02-11T09:08:00+01:00 INFO: Funkhaus Europa: Nevermind -by- Dennis Lloyd
+2017-02-11T09:14:00+01:00 INFO: Funkhaus Europa: To My Love -by- Bomba Estereo
+2017-02-11T09:21:01+01:00 INFO: Funkhaus Europa: Kerala -by- Bonobo
+2017-02-11T09:24:01+01:00 INFO: Funkhaus Europa: C'est si bon -by- Eartha Kitt
+2017-02-11T09:27:01+01:00 INFO: Funkhaus Europa: Pree Me -by- Burna boy
+2017-02-11T09:30:01+01:00 INFO: Funkhaus Europa: Problema seu -by- Felipe Cordeiro
+2017-02-11T09:34:01+01:00 INFO: Funkhaus Europa: What's going on -by- Marvin Gaye
+2017-02-11T09:40:02+01:00 INFO: Funkhaus Europa: Despacito -by- Luis Fonsi feat. Daddy Yankee
+2017-02-11T09:43:02+01:00 INFO: Funkhaus Europa: Sagal ko -by- Youssou N'Dour
+2017-02-11T09:47:02+01:00 INFO: Funkhaus Europa: Work (Combate) -by- Lido Pimienta
+2017-02-11T09:51:02+01:00 INFO: Funkhaus Europa: I feel it coming -by- The Weeknd feat. Daft Punk
+2017-02-11T09:55:03+01:00 INFO: Funkhaus Europa: Pas besoin de permis -by- Vanessa Paradis & Benjamin Biolay
+2017-02-11T09:58:03+01:00 INFO: Funkhaus Europa: Way down we go -by- Kaleo
+2017-02-11T10:05:04+01:00 INFO: Funkhaus Europa: Feel Good Inc. -by- Gorillaz
+2017-02-11T10:09:04+01:00 INFO: Funkhaus Europa: Shak mikonam -by- Googoosh
+2017-02-11T10:12:05+01:00 INFO: Funkhaus Europa: Someone That Loves You -by- Honne feat. Izzy Bizu
+2017-02-11T10:16:05+01:00 INFO: Funkhaus Europa: Rebeldia -by- Projota
+2017-02-11T10:23:06+01:00 INFO: Funkhaus Europa: Kiss -by- Prince
+2017-02-11T10:31:07+01:00 INFO: Funkhaus Europa: A night like this -by- Caro Emerald
+2017-02-11T10:40:07+01:00 INFO: Funkhaus Europa: Chantaje -by- Shakira feat. Maluma
+2017-02-11T10:43:08+01:00 INFO: Funkhaus Europa: Shape of You -by- Ed Sheeran
+2017-02-11T10:55:09+01:00 INFO: Funkhaus Europa: Respect -by- Aretha Franklin
+2017-02-11T10:58:09+01:00 INFO: Funkhaus Europa: Fade out lines -by- The Avener
+2017-02-11T11:17:11+01:00 INFO: Funkhaus Europa: Busy earnin' -by- Jungle
+2017-02-11T11:26:12+01:00 INFO: Funkhaus Europa: Bonbon -by- Era Istrefi
+2017-02-11T11:29:12+01:00 INFO: Funkhaus Europa: Ready or not here I come (can't hide from love) -by- The Delfonics
+2017-02-11T11:32:12+01:00 INFO: Funkhaus Europa: Lila Wolken -by- Yasha Marteria & Miss Platnum
+2017-02-11T11:35:13+01:00 INFO: Funkhaus Europa: Homage -by- Mild High Club
+2017-02-11T11:38:13+01:00 INFO: Funkhaus Europa: Bo Mambo -by- Yma Sumac
+2017-02-11T11:46:14+01:00 INFO: Funkhaus Europa: Bad And Boujee -by- Migos Feat. Lil Uzi Vert
+2017-02-11T11:58:15+01:00 INFO: Funkhaus Europa: Oye como va -by- 3Canal feat. La Corte
+2017-02-11T12:05:15+01:00 INFO: Funkhaus Europa: Drum -by- M
+2017-02-11T12:12:16+01:00 INFO: Funkhaus Europa: Kucheza -by- Mafikizolo
+2017-02-11T12:16:16+01:00 INFO: Funkhaus Europa: Freidrehen -by- Clueso
+2017-02-11T12:22:16+01:00 INFO: Funkhaus Europa: Como Yo (Captain Planet Remix) -by- Novalima
+2017-02-11T12:26:17+01:00 INFO: Funkhaus Europa: Avenues (Electric Avenue) -by- Refugee Allstars
+2017-02-11T12:30:17+01:00 INFO: Funkhaus Europa: Pas Grand Monde -by- Barbagallo
+2017-02-11T12:35:18+01:00 INFO: Funkhaus Europa: Your Wish -by- Talisco
+2017-02-11T12:42:19+01:00 INFO: Funkhaus Europa: Radio -by- Sylvan Esso
+2017-02-11T12:46:19+01:00 INFO: Funkhaus Europa: Dakoro -by- Tiken Jah Fakoly
+2017-02-11T12:52:20+01:00 INFO: Funkhaus Europa: Soul power -by- James Brown
+2017-02-11T12:57:20+01:00 INFO: Funkhaus Europa: Never Be Like You -by- Flume
+2017-02-11T13:08:20+01:00 INFO: Funkhaus Europa: No lie -by- Sean Paul feat. Dua Lipa
+2017-02-11T13:16:21+01:00 INFO: Funkhaus Europa: Love on the brain -by- Rihanna
+2017-02-11T13:31:24+01:00 INFO: Funkhaus Europa: Lean on -by- Major Lazer feat. M  & DJ Snake
+2017-02-11T13:38:24+01:00 INFO: Funkhaus Europa: Timtar (Memories) -by- Bombino
+2017-02-11T13:48:25+01:00 INFO: Funkhaus Europa: Daddy Yo -by- Wizkid
+2017-02-11T13:51:25+01:00 INFO: Funkhaus Europa: O cara lindo -by- Smoke City
+2017-02-11T13:54:26+01:00 INFO: Funkhaus Europa: Never give up -by- Sia
+2017-02-11T13:58:27+01:00 INFO: Funkhaus Europa: L-O-V-E (Love) -by- Al Green
+2017-02-11T14:04:27+01:00 INFO: Funkhaus Europa: The Player -by- Kid Francescoli
+2017-02-11T14:09:28+01:00 INFO: Funkhaus Europa: Deixa A Tristeza -by- Neno Exporta Som
+2017-02-11T14:16:29+01:00 INFO: Funkhaus Europa: Jump Hi -by- LION BABE feat. Childish Gambino
+2017-02-11T14:22:29+01:00 INFO: Funkhaus Europa: Shala-lala-la -by- Waldeck
+2017-02-11T14:25:29+01:00 INFO: Funkhaus Europa: Still D.R.E. -by- Dr. Dre
+2017-02-11T14:31:30+01:00 INFO: Funkhaus Europa: Despacito -by- Luis Fonsi feat. Daddy Yankee
+2017-02-11T14:34:31+01:00 INFO: Funkhaus Europa: Green lights -by- Aloe Blacc
+2017-02-11T14:37:31+01:00 INFO: Funkhaus Europa: Manifesto -by- Sezen Aksu
+2017-02-11T14:38:35+01:00 INFO: Funkhaus Europa: Manifesto -by- Sezen Aksu
+2017-02-11T14:42:35+01:00 INFO: Funkhaus Europa: Uptown Funk -by- Mark Ronson feat. Bruno Mars
+2017-02-11T14:46:36+01:00 INFO: Funkhaus Europa: Passarinhos -by- Emicida feat. Vanessa da Mata
+2017-02-11T14:53:36+01:00 INFO: Funkhaus Europa: I feel it coming -by- The Weeknd feat. Daft Punk
+2017-02-11T14:54:36+01:00 INFO: Funkhaus Europa: One love -by- Blick Bassy
+2017-02-11T15:04:37+01:00 INFO: Funkhaus Europa: Nothing More To Say -by- The Frightnrs
+2017-02-11T15:12:38+01:00 INFO: Funkhaus Europa: Dionne -by- Osunlade
+2017-02-11T15:15:38+01:00 INFO: Funkhaus Europa: Rebeldia -by- Projota
+2017-02-11T15:22:41+01:00 INFO: Funkhaus Europa: Beautiful life -by- Lost Frequencies feat. Sandro Cavazza
+2017-02-11T15:28:42+01:00 INFO: Funkhaus Europa: Give Me Love -by- Maverick Sabre
+2017-02-11T15:34:44+01:00 INFO: Funkhaus Europa: Mr Bojangles -by- Nina Simone
+2017-02-11T15:45:45+01:00 INFO: Funkhaus Europa: Moving -by- Macaco
+2017-02-11T15:51:45+01:00 INFO: Funkhaus Europa: Le bel amant du Berry -by- Tante Hortense et Revista do Samba
+2017-02-11T15:57:46+01:00 INFO: Funkhaus Europa: In Common (Black Coffee Remix) -by- Alicia Keys
+2017-02-11T16:04:46+01:00 INFO: Funkhaus Europa: Standing In The Rain -by- Action Bronson
+2017-02-11T16:07:47+01:00 INFO: Funkhaus Europa: Soul Sock Sega -by- Ti L?Afrique
+2017-02-11T16:14:48+01:00 INFO: Funkhaus Europa: It?s Alright -by- Gentleman & I-Octane
+2017-02-11T16:24:49+01:00 INFO: Funkhaus Europa: Jungle Boogie -by- Kool & The Gang
+2017-02-11T16:28:49+01:00 INFO: Funkhaus Europa: La nostra pelle -by- Ex-otago
+2017-02-11T16:32:50+01:00 INFO: Funkhaus Europa: Money On My Mind -by- Sam Smith
+2017-02-11T16:35:51+01:00 INFO: Funkhaus Europa: 'Tite Jeanne -by- The Bongo Hop feat. Nidia Gongora
+2017-02-11T16:41:51+01:00 INFO: Funkhaus Europa: Bad And Boujee -by- Migos Feat. Lil Uzi Vert
+2017-02-11T16:46:52+01:00 INFO: Funkhaus Europa: En attendant la fin -by- Ridan
+2017-02-11T16:52:52+01:00 INFO: Funkhaus Europa: Reach out, I'll be there -by- The Four Tops
+2017-02-11T16:54:52+01:00 INFO: Funkhaus Europa: Intifada -by- Aziza Brahim
+2017-02-11T16:57:55+01:00 INFO: Funkhaus Europa: How I got over -by- The Roots
+2017-02-11T17:04:56+01:00 INFO: Funkhaus Europa: Kucheza -by- Mafikizolo
+2017-02-11T17:07:56+01:00 INFO: Funkhaus Europa: Bist Du Down -by- Ace Tee feat. Kwam.e
+2017-02-11T17:12:56+01:00 INFO: Funkhaus Europa: Deja vu -by- OMAR feat. Mayra Andrade
+2017-02-11T17:17:57+01:00 INFO: Funkhaus Europa: Tu Calor -by- Julieta Venegas
+2017-02-11T17:22:57+01:00 INFO: Funkhaus Europa: Love$ick -by- Mura Masa feat. A$AP Rocky
+2017-02-11T17:28:57+01:00 INFO: Funkhaus Europa: Ho hey -by- The Lumineers
+2017-02-11T17:31:58+01:00 INFO: Funkhaus Europa: Un Nouveau Monde -by- Octave Noire
+2017-02-11T17:37:01+01:00 INFO: Funkhaus Europa: Harlem shuffle -by- Bob & Earl
+2017-02-11T17:41:02+01:00 INFO: Funkhaus Europa: Como Yo (Captain Planet Remix) -by- Novalima
+2017-02-11T17:45:02+01:00 INFO: Funkhaus Europa: Waiting -by- Seeed
+2017-02-11T17:51:03+01:00 INFO: Funkhaus Europa: Radio -by- Sylvan Esso
+2017-02-11T17:54:03+01:00 INFO: Funkhaus Europa: The Coffee Cola song -by- Francis Bebey
+2017-02-11T18:04:07+01:00 INFO: Funkhaus Europa: Runnin' -by- Pharrell Williams
+2017-02-11T18:08:09+01:00 INFO: Funkhaus Europa: La Colegiala -by- Rodolfo y Su tipica R.A.7
+2017-02-11T18:12:09+01:00 INFO: Funkhaus Europa: Daddy Yo -by- Wizkid
+2017-02-11T18:21:09+01:00 INFO: Funkhaus Europa: Stay -by- Kygo feat. Maty Noyes
+2017-02-11T18:26:10+01:00 INFO: Funkhaus Europa: Morni -by- Panjabi MC
+2017-02-11T18:31:10+01:00 INFO: Funkhaus Europa: Unter Nelken -by- Goldroger
+2017-02-11T18:34:10+01:00 INFO: Funkhaus Europa: Blow your mind -by- Jamiroquai
+2017-02-11T18:38:10+01:00 INFO: Funkhaus Europa: No Kissing Baby -by- Patoranking feat. Sarkodie
+2017-02-11T18:43:11+01:00 INFO: Funkhaus Europa: La Ba'den -by- Yasmine Hamdan
+2017-02-11T18:46:11+01:00 INFO: Funkhaus Europa: Won't Follow -by- Sinkane
+2017-02-11T18:51:11+01:00 INFO: Funkhaus Europa: Could you be loved -by- Bob Marley & The Wailers
+2017-02-11T18:56:11+01:00 INFO: Funkhaus Europa: What's goin' on -by- Donny Hathaway
+2017-02-11T19:08:12+01:00 INFO: Funkhaus Europa: Rumbera -by- Systema Solar
+2017-02-11T19:13:13+01:00 INFO: Funkhaus Europa: Herside Story -by- Hare Squead
+2017-02-11T19:16:14+01:00 INFO: Funkhaus Europa: My Skin (ELO's Cumbia Mix) -by- ELO & FOKN Bois feat. Sena
+2017-02-11T19:24:14+01:00 INFO: Funkhaus Europa: Ahnma -by- Beginner feat. Gzuz & Gentleman
+2017-02-11T19:27:14+01:00 INFO: Funkhaus Europa: Everyday people -by- Sly & The Family Stone
+2017-02-11T19:31:14+01:00 INFO: Funkhaus Europa: Middle -by- DJ Snake feat. Bipolar Sunshine
+2017-02-11T19:37:15+01:00 INFO: Funkhaus Europa: Despacito -by- Luis Fonsi feat. Daddy Yankee
+2017-02-11T19:41:15+01:00 INFO: Funkhaus Europa: Free Up -by- Busy Signal
+2017-02-11T19:44:15+01:00 INFO: Funkhaus Europa: I feel it coming -by- The Weeknd feat. Daft Punk
+2017-02-11T19:58:16+01:00 INFO: Funkhaus Europa: If I ruled the world (Imagine that) -by- Nas

@@ -1,0 +1,221 @@
+2017-02-08T05:03:23+01:00 INFO: NDR 90,3: EL TEMPERAMENTO -by- MARQUESS
+2017-02-08T05:06:23+01:00 INFO: NDR 90,3: Ein Herz kann man nicht reparieren -by- Udo Lindenberg
+2017-02-08T05:09:23+01:00 INFO: NDR 90,3: Take me home country roads -by- John Denver
+2017-02-08T05:13:24+01:00 INFO: NDR 90,3: Americanos -by- Holly Johnson
+2017-02-08T05:20:24+01:00 INFO: NDR 90,3: Warwick Avenue -by- Duffy
+2017-02-08T05:24:24+01:00 INFO: NDR 90,3: Avenues and alleyways -by- Tony Christie
+2017-02-08T05:27:24+01:00 INFO: NDR 90,3: All I need is a miracle -by- Mike &amp; The Mechanics
+2017-02-08T05:32:25+01:00 INFO: NDR 90,3: Islands in the stream -by- Kenny Rogers &amp; Dolly Parton
+2017-02-08T05:37:25+01:00 INFO: NDR 90,3: Hot love -by- T. Rex
+2017-02-08T05:38:25+01:00 INFO: NDR 90,3: The way to your heart -by- Soulsister
+2017-02-08T05:42:25+01:00 INFO: NDR 90,3: Lady Jane -by- Rolling Stones
+2017-02-08T05:47:26+01:00 INFO: NDR 90,3: Friends -by- Aura Dione
+2017-02-08T05:51:26+01:00 INFO: NDR 90,3: Working my way back to you -by- Spinners
+2017-02-08T05:54:26+01:00 INFO: NDR 90,3: Matador -by- Garland Jeffreys
+2017-02-08T05:58:26+01:00 INFO: NDR 90,3: Yellow river -by- Christie
+2017-02-08T06:06:27+01:00 INFO: NDR 90,3: Don&#39;t get me wrong -by- Pretenders
+2017-02-08T06:10:27+01:00 INFO: NDR 90,3: How deep is your love -by- Bee Gees
+2017-02-08T06:15:27+01:00 INFO: NDR 90,3: When the beat drops out -by- Marlon Roudette
+2017-02-08T06:20:28+01:00 INFO: NDR 90,3: I am a rock -by- Simon &amp; Garfunkel
+2017-02-08T06:22:28+01:00 INFO: NDR 90,3: I guess that&#39;s why they call it the Blues -by- Elton John
+2017-02-08T06:27:28+01:00 INFO: NDR 90,3: One way ticket -by- Eruption
+2017-02-08T06:34:29+01:00 INFO: NDR 90,3: Tie a yellow ribbon round the old oak tree -by- Dawn
+2017-02-08T06:37:29+01:00 INFO: NDR 90,3: Luka -by- Suzanne Vega
+2017-02-08T06:42:29+01:00 INFO: NDR 90,3: Yes Sir, I can boogie -by- Baccara
+2017-02-08T06:46:29+01:00 INFO: NDR 90,3: Alles nur geklaut -by- Prinzen
+2017-02-08T06:51:30+01:00 INFO: NDR 90,3: Yummy, yummy, yummy -by- Ohio Express
+2017-02-08T06:52:30+01:00 INFO: NDR 90,3: Life is for living -by- Barclay James Harvest
+2017-02-08T06:56:30+01:00 INFO: NDR 90,3: I have a dream -by- Abba
+2017-02-08T07:06:31+01:00 INFO: NDR 90,3: Baby Jane -by- Rod Stewart
+2017-02-08T07:10:31+01:00 INFO: NDR 90,3: On the radio -by- Donna Summer
+2017-02-08T07:15:31+01:00 INFO: NDR 90,3: We can leave the world -by- Sasha
+2017-02-08T07:19:32+01:00 INFO: NDR 90,3: Black is black -by- Los Bravos
+2017-02-08T07:23:32+01:00 INFO: NDR 90,3: Say say say -by- Paul McCartney &amp; Michael Jackson
+2017-02-08T07:26:32+01:00 INFO: NDR 90,3: Hold on tight -by- Electric Light Orchestra
+2017-02-08T07:33:33+01:00 INFO: NDR 90,3: There&#39;s a kind of hush (all over the world) -by- Carpenters
+2017-02-08T07:37:33+01:00 INFO: NDR 90,3: Red red wine -by- UB 40
+2017-02-08T07:41:33+01:00 INFO: NDR 90,3: You can&#39;t hurry love -by- Diana Ross &amp; The Supremes
+2017-02-08T07:44:33+01:00 INFO: NDR 90,3: Don&#39;t dream it&#39;s over -by- Crowded House
+2017-02-08T07:49:34+01:00 INFO: NDR 90,3: Breakfast in America -by- Supertramp
+2017-02-08T07:52:34+01:00 INFO: NDR 90,3: Slow It Down -by- Amy MacDonald
+2017-02-08T07:55:34+01:00 INFO: NDR 90,3: Careless whisper -by- George Michael
+2017-02-08T08:10:35+01:00 INFO: NDR 90,3: Boat on the river -by- Styx
+2017-02-08T08:13:35+01:00 INFO: NDR 90,3: Moonlight shadow -by- Mike Oldfield &amp; Maggie Reilly
+2017-02-08T08:16:35+01:00 INFO: NDR 90,3: Goodbye Sam, hello Samantha -by- Cliff Richard
+2017-02-08T08:21:35+01:00 INFO: NDR 90,3: Achy breaky heart -by- Billy Ray Cyrus
+2017-02-08T08:24:36+01:00 INFO: NDR 90,3: Seasons in the sun -by- Terry Jacks
+2017-02-08T08:27:36+01:00 INFO: NDR 90,3: Do you really want to hurt me -by- Culture Club
+2017-02-08T08:35:36+01:00 INFO: NDR 90,3: Bottoms up -by- Middle Of The Road
+2017-02-08T08:38:36+01:00 INFO: NDR 90,3: Don&#39;t worry, be happy -by- Bobby McFerrin
+2017-02-08T08:44:37+01:00 INFO: NDR 90,3: Lady d&#39;Arbanville -by- Cat Stevens
+2017-02-08T08:47:37+01:00 INFO: NDR 90,3: Herz &uuml;ber Kopf -by- Joris
+2017-02-08T08:52:37+01:00 INFO: NDR 90,3: The air that I breathe -by- Hollies
+2017-02-08T08:56:37+01:00 INFO: NDR 90,3: Half a minute -by- Matt Bianco
+2017-02-08T09:09:38+01:00 INFO: NDR 90,3: I just died in your arms -by- Cutting Crew
+2017-02-08T09:13:38+01:00 INFO: NDR 90,3: What am I gonna do with you -by- Barry White
+2017-02-08T09:16:39+01:00 INFO: NDR 90,3: Let&#39;s spend the night together -by- Rolling Stones
+2017-02-08T09:22:39+01:00 INFO: NDR 90,3: Riptide -by- Vance Joy
+2017-02-08T09:25:39+01:00 INFO: NDR 90,3: Substitute -by- Clout
+2017-02-08T09:27:39+01:00 INFO: NDR 90,3: One for you, one for me -by- LaBionda
+2017-02-08T09:34:40+01:00 INFO: NDR 90,3: Never can say goodbye -by- Communards
+2017-02-08T09:38:40+01:00 INFO: NDR 90,3: It never rains in Southern California -by- Albert Hammond
+2017-02-08T09:44:40+01:00 INFO: NDR 90,3: Under the boardwalk -by- Drifters
+2017-02-08T09:48:40+01:00 INFO: NDR 90,3: Torn -by- Natalie Imbruglia
+2017-02-08T09:50:41+01:00 INFO: NDR 90,3: Y.M.C.A. -by- Village People
+2017-02-08T09:54:41+01:00 INFO: NDR 90,3: You&#39;re the voice -by- John Farnham
+2017-02-08T09:57:41+01:00 INFO: NDR 90,3: I love to love (but my baby loves to dance) -by- Tina Charles
+2017-02-08T10:06:42+01:00 INFO: NDR 90,3: Don&#39;t play your Rock&#39;n&#39;Roll to me -by- Smokie
+2017-02-08T10:08:42+01:00 INFO: NDR 90,3: Dancing in the dark -by- Bruce Springsteen
+2017-02-08T10:13:42+01:00 INFO: NDR 90,3: Monday, Monday -by- Mamas and The Papas
+2017-02-08T10:16:42+01:00 INFO: NDR 90,3: Stay the night -by- James Blunt
+2017-02-08T10:22:43+01:00 INFO: NDR 90,3: La vie en rose -by- Grace Jones
+2017-02-08T10:26:43+01:00 INFO: NDR 90,3: Walk of life -by- Dire Straits
+2017-02-08T10:31:43+01:00 INFO: NDR 90,3: You ain&#39;t seen nothing yet -by- Bachman-Turner Overdrive
+2017-02-08T10:34:43+01:00 INFO: NDR 90,3: In private -by- Dusty Springfield
+2017-02-08T10:39:44+01:00 INFO: NDR 90,3: Midnite dynamos -by- Matchbox
+2017-02-08T10:44:44+01:00 INFO: NDR 90,3: True colors -by- Phil Collins
+2017-02-08T10:48:44+01:00 INFO: NDR 90,3: Crocodile Rock -by- Elton John
+2017-02-08T10:52:45+01:00 INFO: NDR 90,3: Love is a shield -by- Camouflage
+2017-02-08T10:56:45+01:00 INFO: NDR 90,3: Ladies night -by- Kool &amp; The Gang
+2017-02-08T11:07:46+01:00 INFO: NDR 90,3: Rock me -by- Abba
+2017-02-08T11:10:47+01:00 INFO: NDR 90,3: You can leave your hat on -by- Joe Cocker
+2017-02-08T11:15:47+01:00 INFO: NDR 90,3: The lazy song -by- Bruno Mars
+2017-02-08T11:18:47+01:00 INFO: NDR 90,3: Here comes the sun -by- Beatles
+2017-02-08T11:23:48+01:00 INFO: NDR 90,3: Road to nowhere -by- Talking Heads
+2017-02-08T11:26:48+01:00 INFO: NDR 90,3: Private dancer -by- Tina Turner
+2017-02-08T11:33:48+01:00 INFO: NDR 90,3: Circle in the sand -by- Belinda Carlisle
+2017-02-08T11:36:49+01:00 INFO: NDR 90,3: Walk on the wild side -by- Lou Reed
+2017-02-08T11:40:49+01:00 INFO: NDR 90,3: Bakerman -by- Laid Back
+2017-02-08T11:44:50+01:00 INFO: NDR 90,3: San Francisco (be sure to wear some flowers in your hair) -by- Scott McKenzie
+2017-02-08T11:49:50+01:00 INFO: NDR 90,3: All good things (come to an end) -by- Nelly Furtado
+2017-02-08T11:54:51+01:00 INFO: NDR 90,3: Still the same -by- Bob Seger &amp; The Silver Bullet Band
+2017-02-08T11:57:51+01:00 INFO: NDR 90,3: Too much heaven -by- Bee Gees
+2017-02-08T12:08:52+01:00 INFO: NDR 90,3: Love of the common people -by- Paul Young
+2017-02-08T12:12:52+01:00 INFO: NDR 90,3: Please Mr. Postman -by- Carpenters
+2017-02-08T12:14:52+01:00 INFO: NDR 90,3: You and me (in my pocket) -by- Milow
+2017-02-08T12:17:52+01:00 INFO: NDR 90,3: Lady in black -by- Uriah Heep
+2017-02-08T12:23:53+01:00 INFO: NDR 90,3: Nur f&uuml;r einen Tag -by- Peter Maffay
+2017-02-08T12:27:53+01:00 INFO: NDR 90,3: Hard Rock Cafe -by- Carole King
+2017-02-08T12:32:53+01:00 INFO: NDR 90,3: Break my stride -by- Matthew Wilder
+2017-02-08T12:34:54+01:00 INFO: NDR 90,3: If you could read my mind -by- Gordon Lightfoot
+2017-02-08T12:38:54+01:00 INFO: NDR 90,3: Ship to shore -by- Chris DeBurgh
+2017-02-08T12:42:54+01:00 INFO: NDR 90,3: Something stupid -by- Robbie Williams &amp; Nicole Kidman
+2017-02-08T12:45:55+01:00 INFO: NDR 90,3: You bring on the sun -by- Londonbeat
+2017-02-08T12:48:55+01:00 INFO: NDR 90,3: Mama Loo -by- Les Humphries Singers
+2017-02-08T12:52:55+01:00 INFO: NDR 90,3: Right here waiting -by- Richard Marx
+2017-02-08T12:56:56+01:00 INFO: NDR 90,3: Go your own way -by- Fleetwood Mac
+2017-02-08T13:08:57+01:00 INFO: NDR 90,3: New York Groove -by- Hello
+2017-02-08T13:11:57+01:00 INFO: NDR 90,3: Hungry heart -by- Bruce Springsteen
+2017-02-08T13:15:57+01:00 INFO: NDR 90,3: Sorry Suzanne -by- Hollies
+2017-02-08T13:18:58+01:00 INFO: NDR 90,3: Waka waka (This time for Africa) (The official 2010 FIFA world cup (TM) song) -by- Shakira &amp; Freshlyground
+2017-02-08T13:19:58+01:00 INFO: NDR 90,3: If I said you had a beautiful body would you hold it against me -by- Bellamy Brothers
+2017-02-08T13:23:58+01:00 INFO: NDR 90,3: Dolce vita -by- Ryan Paris
+2017-02-08T13:27:58+01:00 INFO: NDR 90,3: I go to Rio -by- Peter Allen
+2017-02-08T13:30:58+01:00 INFO: NDR 90,3: Knock three times -by- Dawn
+2017-02-08T13:33:59+01:00 INFO: NDR 90,3: She&#39;s like the wind -by- Patrick Swayze &amp; Wendy Fraser
+2017-02-08T13:38:59+01:00 INFO: NDR 90,3: Death of a clown -by- Dave Davies
+2017-02-08T13:40:59+01:00 INFO: NDR 90,3: Just around the corner -by- Cock Robin
+2017-02-08T13:49:00+01:00 INFO: NDR 90,3: You are so beautiful -by- Joe Cocker
+2017-02-08T13:51:00+01:00 INFO: NDR 90,3: Mr. Rock &amp; Roll -by- Amy MacDonald
+2017-02-08T13:54:00+01:00 INFO: NDR 90,3: Everything I want to do -by- Albert Hammond
+2017-02-08T13:57:00+01:00 INFO: NDR 90,3: Musik nur, wenn sie laut ist -by- Herbert Gr&ouml;nemeyer
+2017-02-08T14:07:01+01:00 INFO: NDR 90,3: Heart of glass -by- Blondie
+2017-02-08T14:09:01+01:00 INFO: NDR 90,3: All at once -by- Whitney Houston
+2017-02-08T14:16:02+01:00 INFO: NDR 90,3: Sloop John B. (The wreck of the John B.) -by- Beach Boys
+2017-02-08T14:18:02+01:00 INFO: NDR 90,3: Wolke 4 -by- Philipp Dittberner &amp; Marv
+2017-02-08T14:25:02+01:00 INFO: NDR 90,3: Sunflower -by- Glen Campbell
+2017-02-08T14:27:03+01:00 INFO: NDR 90,3: I want to break free -by- Queen
+2017-02-08T14:34:03+01:00 INFO: NDR 90,3: Sweet dreams (are made of this) -by- Eurythmics
+2017-02-08T14:37:03+01:00 INFO: NDR 90,3: You are the sunshine of my life -by- Stevie Wonder
+2017-02-08T14:43:05+01:00 INFO: NDR 90,3: I come undone -by- Jennifer Rush
+2017-02-08T14:47:06+01:00 INFO: NDR 90,3: Wild world -by- Cat Stevens
+2017-02-08T14:54:09+01:00 INFO: NDR 90,3: Viva la vida -by- Coldplay
+2017-02-08T14:58:09+01:00 INFO: NDR 90,3: Gimme! Gimme! Gimme! (A man after midnight) -by- Abba
+2017-02-08T15:06:10+01:00 INFO: NDR 90,3: Hey little girl -by- Icehouse
+2017-02-08T15:10:10+01:00 INFO: NDR 90,3: Baker Street -by- Gerry Rafferty
+2017-02-08T15:15:11+01:00 INFO: NDR 90,3: Heart to heart -by- James Blunt
+2017-02-08T15:18:11+01:00 INFO: NDR 90,3: Good day sunshine -by- Beatles
+2017-02-08T15:21:11+01:00 INFO: NDR 90,3: Cherish -by- Kool &amp; The Gang
+2017-02-08T15:24:11+01:00 INFO: NDR 90,3: Ma Baker -by- Boney M.
+2017-02-08T15:27:12+01:00 INFO: NDR 90,3: Manic monday -by- Bangles
+2017-02-08T15:31:12+01:00 INFO: NDR 90,3: Englishman in New York -by- Sting
+2017-02-08T15:35:13+01:00 INFO: NDR 90,3: Every 1&#39;s a winner (Everyone&#39;s a winner) -by- Hot Chocolate
+2017-02-08T15:38:14+01:00 INFO: NDR 90,3: The safety dance -by- Men Without Hats
+2017-02-08T15:41:14+01:00 INFO: NDR 90,3: Mr. Tambourine Man -by- Byrds
+2017-02-08T15:47:15+01:00 INFO: NDR 90,3: Hey there Delilah -by- Plain White T&#39;s
+2017-02-08T15:50:16+01:00 INFO: NDR 90,3: Chirpy chirpy cheep cheep -by- Middle Of The Road
+2017-02-08T15:53:16+01:00 INFO: NDR 90,3: L is for lover -by- Al Jarreau
+2017-02-08T15:58:18+01:00 INFO: NDR 90,3: Take good care of my baby -by- Dick Brave &amp; The Backbeats
+2017-02-08T16:05:19+01:00 INFO: NDR 90,3: Never can say goodbye -by- Gloria Gaynor
+2017-02-08T16:09:20+01:00 INFO: NDR 90,3: You can&#39;t hurry love -by- Phil Collins
+2017-02-08T16:12:20+01:00 INFO: NDR 90,3: All shook up -by- Elvis Presley
+2017-02-08T16:14:21+01:00 INFO: NDR 90,3: Auf anderen Wegen -by- Andreas Bourani
+2017-02-08T16:19:21+01:00 INFO: NDR 90,3: D.I.S.C.O. (Disco) -by- Ottawan
+2017-02-08T16:22:22+01:00 INFO: NDR 90,3: Oh l&#39;amour -by- Erasure
+2017-02-08T16:24:22+01:00 INFO: NDR 90,3: Lay down Sally -by- Eric Clapton
+2017-02-08T16:27:23+01:00 INFO: NDR 90,3: Say you will -by- Foreigner
+2017-02-08T16:34:24+01:00 INFO: NDR 90,3: Flying through the air -by- Oliver Onions
+2017-02-08T16:37:24+01:00 INFO: NDR 90,3: Ella, elle l&#39;a -by- France Gall
+2017-02-08T16:41:24+01:00 INFO: NDR 90,3: Bridge over troubled water -by- Simon &amp; Garfunkel
+2017-02-08T16:45:25+01:00 INFO: NDR 90,3: You drive me crazy -by- Shakin&#39; Stevens
+2017-02-08T16:52:26+01:00 INFO: NDR 90,3: I&#39;m yours -by- Jason Mraz
+2017-02-08T16:54:27+01:00 INFO: NDR 90,3: You&#39;re the first, the last, my everything -by- Barry White
+2017-02-08T17:10:29+01:00 INFO: NDR 90,3: Gold -by- Spandau Ballet
+2017-02-08T17:13:29+01:00 INFO: NDR 90,3: I&#39;m a train -by- Albert Hammond
+2017-02-08T17:16:29+01:00 INFO: NDR 90,3: Oh my love -by- Amy MacDonald &amp; Rea Garvey
+2017-02-08T17:22:30+01:00 INFO: NDR 90,3: My little lady -by- Tremeloes
+2017-02-08T17:24:30+01:00 INFO: NDR 90,3: Street life -by- Randy Crawford &amp; Crusaders
+2017-02-08T17:27:31+01:00 INFO: NDR 90,3: If you don&#39;t know me by now -by- Simply Red
+2017-02-08T17:34:31+01:00 INFO: NDR 90,3: Weather with you -by- Crowded House
+2017-02-08T17:37:32+01:00 INFO: NDR 90,3: Bye bye baby -by- Bay City Rollers
+2017-02-08T17:40:34+01:00 INFO: NDR 90,3: Self control -by- Laura Branigan
+2017-02-08T17:44:35+01:00 INFO: NDR 90,3: Good vibrations -by- Beach Boys
+2017-02-08T17:49:35+01:00 INFO: NDR 90,3: Streets of Philadelphia -by- Bruce Springsteen
+2017-02-08T17:52:36+01:00 INFO: NDR 90,3: Born to be alive -by- Patrick Hern&aacute;ndez
+2017-02-08T17:56:37+01:00 INFO: NDR 90,3: Spending my time -by- Roxette
+2017-02-08T18:10:38+01:00 INFO: NDR 90,3: Would I lie to you? -by- Charles &amp; Eddie
+2017-02-08T18:13:38+01:00 INFO: NDR 90,3: When you&#39;re in love with a beautiful woman -by- Dr. Hook
+2017-02-08T18:17:39+01:00 INFO: NDR 90,3: All this time (Pick-me-up song) -by- Maria Mena
+2017-02-08T18:20:39+01:00 INFO: NDR 90,3: Hello -by- Adele
+2017-02-08T18:25:40+01:00 INFO: NDR 90,3: No milk today -by- Herman&#39;s Hermits
+2017-02-08T18:27:40+01:00 INFO: NDR 90,3: One night in Bangkok -by- Murray Head
+2017-02-08T18:34:41+01:00 INFO: NDR 90,3: Sweet sixteen -by- Billy Idol
+2017-02-08T18:39:42+01:00 INFO: NDR 90,3: Mandy -by- Barry Manilow
+2017-02-08T18:42:42+01:00 INFO: NDR 90,3: Voyage, voyage -by- Desireless
+2017-02-08T18:46:43+01:00 INFO: NDR 90,3: Yesterday man -by- Chris Andrews
+2017-02-08T18:50:43+01:00 INFO: NDR 90,3: Leuchtturm -by- Nena
+2017-02-08T18:54:44+01:00 INFO: NDR 90,3: Rockin&#39; all over the world -by- Status Quo
+2017-02-08T18:57:45+01:00 INFO: NDR 90,3: Crazy little thing called love -by- Queen
+2017-02-08T19:06:47+01:00 INFO: NDR 90,3: I will survive -by- Gloria Gaynor
+2017-02-08T19:13:47+01:00 INFO: NDR 90,3: Shattered dreams -by- Johnny Hates Jazz
+2017-02-08T19:16:48+01:00 INFO: NDR 90,3: L is for lover -by- Al Jarreau
+2017-02-08T19:25:48+01:00 INFO: NDR 90,3: Vom selben Stern -by- Ich + Ich
+2017-02-08T19:27:48+01:00 INFO: NDR 90,3: S.O.S. -by- Abba
+2017-02-08T19:35:49+01:00 INFO: NDR 90,3: Ebony and ivory -by- Paul McCartney &amp; Stevie Wonder
+2017-02-08T19:41:50+01:00 INFO: NDR 90,3: December 1963 (Oh, what a night) -by- Frankie Valli &amp; The Four Seasons
+2017-02-08T19:44:50+01:00 INFO: NDR 90,3: Whenever, wherever -by- Shakira
+2017-02-08T19:50:52+01:00 INFO: NDR 90,3: Wake up, little Susie -by- Everly Brothers
+2017-02-08T19:52:53+01:00 INFO: NDR 90,3: Another day in paradise -by- Phil Collins
+2017-02-08T19:57:53+01:00 INFO: NDR 90,3: Free me -by- Uriah Heep
+2017-02-08T20:06:54+01:00 INFO: NDR 90,3: Papa don&#39;t preach -by- Madonna
+2017-02-08T20:14:58+01:00 INFO: NDR 90,3: Lay back in the arms of someone -by- Smokie
+2017-02-08T20:23:59+01:00 INFO: NDR 90,3: I&#39;m alive -by- C&eacute;line Dion
+2017-02-08T20:29:00+01:00 INFO: NDR 90,3: Good luck charm -by- Elvis Presley
+2017-02-08T20:32:00+01:00 INFO: NDR 90,3: Queen of hearts -by- Juice Newton
+2017-02-08T20:38:01+01:00 INFO: NDR 90,3: Lost in France -by- Bonnie Tyler
+2017-02-08T20:46:02+01:00 INFO: NDR 90,3: Howling at the moon -by- Milow
+2017-02-08T20:52:03+01:00 INFO: NDR 90,3: West end girls -by- Pet Shop Boys
+2017-02-08T20:58:03+01:00 INFO: NDR 90,3: Knockin&#39; on heaven&#39;s door -by- Bob Dylan
+2017-02-08T21:06:06+01:00 INFO: NDR 90,3: The captain of her heart -by- Double
+2017-02-08T21:11:06+01:00 INFO: NDR 90,3: You&#39;ve got a friend -by- James Taylor
+2017-02-08T21:15:07+01:00 INFO: NDR 90,3: I&#39;ll still be loving you -by- Restless Heart
+2017-02-08T21:19:07+01:00 INFO: NDR 90,3: Confusion -by- Electric Light Orchestra
+2017-02-08T21:23:08+01:00 INFO: NDR 90,3: Wind of change -by- Scorpions
+2017-02-08T21:27:08+01:00 INFO: NDR 90,3: Flugzeuge im Bauch -by- Herbert Gr&ouml;nemeyer
+2017-02-08T21:32:11+01:00 INFO: NDR 90,3: Soli -by- Adriano Celentano
+2017-02-08T21:36:12+01:00 INFO: NDR 90,3: Nothing&#39;s gonna change my love for you -by- George Benson
+2017-02-08T21:39:12+01:00 INFO: NDR 90,3: Can&#39;t wait until tonight -by- Max Mutzke
+2017-02-08T21:43:12+01:00 INFO: NDR 90,3: Almost Lucy -by- Al Stewart
+2017-02-08T21:46:13+01:00 INFO: NDR 90,3: Josephine -by- Chris Rea
+2017-02-08T21:50:13+01:00 INFO: NDR 90,3: The first time ever I saw your face -by- Roberta Flack
+2017-02-08T21:56:15+01:00 INFO: NDR 90,3: Picture postcards from L.A. -by- Joshua Kadison

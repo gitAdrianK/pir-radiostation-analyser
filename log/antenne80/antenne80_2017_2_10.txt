@@ -1,0 +1,358 @@
+2017-02-10T00:00:55+01:00 INFO: Antenne Niedersachsen 80er: The Final Countdown -by- Europe
+2017-02-10T00:03:55+01:00 INFO: Antenne Niedersachsen 80er: Just Can't Get Enough -by- Depeche Mode
+2017-02-10T00:07:56+01:00 INFO: Antenne Niedersachsen 80er: Doctor! Doctor! -by- Thompson Twins
+2017-02-10T00:11:57+01:00 INFO: Antenne Niedersachsen 80er: One Moment In Time -by- Whitney Houston
+2017-02-10T00:16:57+01:00 INFO: Antenne Niedersachsen 80er: UNDER PRESSURE -by- QUEEN & DAVID BOWIE
+2017-02-10T00:19:58+01:00 INFO: Antenne Niedersachsen 80er: Tainted Love -by- Soft Cell
+2017-02-10T00:23:58+01:00 INFO: Antenne Niedersachsen 80er: Every Breath You Take -by- The Police
+2017-02-10T00:26:58+01:00 INFO: Antenne Niedersachsen 80er: Waiting for a Girl Like You -by- Foreigner
+2017-02-10T00:31:59+01:00 INFO: Antenne Niedersachsen 80er: Ella, elle l'a -by- France Gall
+2017-02-10T00:37:00+01:00 INFO: Antenne Niedersachsen 80er: What's a Woman -by- Vaya Con Dios
+2017-02-10T00:41:00+01:00 INFO: Antenne Niedersachsen 80er: Cherish -by- Madonna
+2017-02-10T00:44:00+01:00 INFO: Antenne Niedersachsen 80er: JEANNY (PART 1) -by- Falco
+2017-02-10T00:50:01+01:00 INFO: Antenne Niedersachsen 80er: Love Is a Battlefield (Edit) -by- Pat Benatar
+2017-02-10T00:54:02+01:00 INFO: Antenne Niedersachsen 80er: Brother Louie -by- Modern Talking
+2017-02-10T00:58:02+01:00 INFO: Antenne Niedersachsen 80er: Another Brick In the Wall, Pt. 1 -by- Pink Floyd
+2017-02-10T01:01:03+01:00 INFO: Antenne Niedersachsen 80er: Voyage, voyage -by- Desireless
+2017-02-10T01:05:05+01:00 INFO: Antenne Niedersachsen 80er: Uptown Girl -by- Billy Joel
+2017-02-10T01:08:06+01:00 INFO: Antenne Niedersachsen 80er: I Don't Want a Lover -by- Texas
+2017-02-10T01:12:06+01:00 INFO: Antenne Niedersachsen 80er: Right Here Waiting -by- Richard Marx
+2017-02-10T01:17:07+01:00 INFO: Antenne Niedersachsen 80er: Sometimes -by- Erasure
+2017-02-10T01:20:08+01:00 INFO: Antenne Niedersachsen 80er: Do You Really Want to Hurt Me -by- Culture Club
+2017-02-10T01:25:08+01:00 INFO: Antenne Niedersachsen 80er: I Love Rock 'n' Roll -by- Joan Jett & The Blackhearts
+2017-02-10T01:32:09+01:00 INFO: Antenne Niedersachsen 80er: Don't Dream It's Over -by- Crowded House
+2017-02-10T01:35:09+01:00 INFO: Antenne Niedersachsen 80er: Jump -by- Van Halen
+2017-02-10T01:39:10+01:00 INFO: Antenne Niedersachsen 80er: The Look of Love -by- ABC
+2017-02-10T01:43:10+01:00 INFO: Antenne Niedersachsen 80er: Hold Me Now -by- Johnny Logan
+2017-02-10T01:46:10+01:00 INFO: Antenne Niedersachsen 80er: Sweet Dreams (Are Made of This) -by- Eurythmics
+2017-02-10T01:49:11+01:00 INFO: Antenne Niedersachsen 80er: In the Air Tonight -by- Phil Collins
+2017-02-10T01:55:11+01:00 INFO: Antenne Niedersachsen 80er: Stuck With You -by- Huey Lewis & The News
+2017-02-10T01:58:12+01:00 INFO: Antenne Niedersachsen 80er: Nur Geträumt -by- Nena
+2017-02-10T02:02:12+01:00 INFO: Antenne Niedersachsen 80er: I Was Born To Love You -by- Freddie Mercury
+2017-02-10T02:05:12+01:00 INFO: Antenne Niedersachsen 80er: Break My Stride -by- Matthew Wilder
+2017-02-10T02:08:13+01:00 INFO: Antenne Niedersachsen 80er: Some Guys Have All the Luck -by- Rod Stewart
+2017-02-10T02:12:13+01:00 INFO: Antenne Niedersachsen 80er: Flugzeuge im Bauch -by- Herbert Grönemeyer
+2017-02-10T02:16:13+01:00 INFO: Antenne Niedersachsen 80er: THE ROAD TO HELL -by- Chris Rea
+2017-02-10T02:20:14+01:00 INFO: Antenne Niedersachsen 80er: TO FRANCE -by- MIKE OLDFIELD & MAGGIE REILLY
+2017-02-10T02:25:15+01:00 INFO: Antenne Niedersachsen 80er: Self Control -by- Laura Branigan
+2017-02-10T02:29:15+01:00 INFO: Antenne Niedersachsen 80er: Miss You Like Crazy -by- Natalie Cole
+2017-02-10T02:33:16+01:00 INFO: Antenne Niedersachsen 80er: Eyes Without a Face -by- Billy Idol
+2017-02-10T02:37:17+01:00 INFO: Antenne Niedersachsen 80er: Talkin' Bout a Revolution -by- Tracy Chapman
+2017-02-10T02:40:18+01:00 INFO: Antenne Niedersachsen 80er: Suburbia -by- Pet Shop Boys
+2017-02-10T02:43:19+01:00 INFO: Antenne Niedersachsen 80er: When Your Heart Is Weak -by- Cock Robin
+2017-02-10T02:48:19+01:00 INFO: Antenne Niedersachsen 80er: COULD YOU BE LOVED -by- Bob Marley
+2017-02-10T02:52:20+01:00 INFO: Antenne Niedersachsen 80er: End of the Line -by- The Traveling Wilburys
+2017-02-10T02:55:20+01:00 INFO: Antenne Niedersachsen 80er: Life Is for Living -by- Barclay James Harvest
+2017-02-10T02:59:20+01:00 INFO: Antenne Niedersachsen 80er: Twist In My Sobriety -by- Tanita Tikaram
+2017-02-10T03:03:21+01:00 INFO: Antenne Niedersachsen 80er: Kinder an die Macht -by- Herbert Grönemeyer
+2017-02-10T03:06:21+01:00 INFO: Antenne Niedersachsen 80er: Dolce Vita -by- Ryan Paris
+2017-02-10T03:10:22+01:00 INFO: Antenne Niedersachsen 80er: Every Little Thing She Does Is Magic -by- The Police
+2017-02-10T03:14:22+01:00 INFO: Antenne Niedersachsen 80er: Holding Back the Years -by- Simply Red
+2017-02-10T03:18:22+01:00 INFO: Antenne Niedersachsen 80er: Blue Monday -by- New Order
+2017-02-10T03:22:23+01:00 INFO: Antenne Niedersachsen 80er: We Belong -by- Pat Benatar
+2017-02-10T03:26:23+01:00 INFO: Antenne Niedersachsen 80er: We Don't Need Another Hero (Thunderdome) -by- Tina Turner
+2017-02-10T03:30:24+01:00 INFO: Antenne Niedersachsen 80er: ISLANDS IN THE STREAM -by- KENNY ROGERS
+2017-02-10T03:34:24+01:00 INFO: Antenne Niedersachsen 80er: Listen to Your Heart -by- Roxette
+2017-02-10T03:39:25+01:00 INFO: Antenne Niedersachsen 80er: (I've Had) The Time of My Life -by- Bill Medley & Jennifer Warnes
+2017-02-10T03:46:25+01:00 INFO: Antenne Niedersachsen 80er: (I Just) Died in Your Arms -by- Cutting Crew
+2017-02-10T03:50:26+01:00 INFO: Antenne Niedersachsen 80er: If She Knew What She Wants -by- The Bangles
+2017-02-10T03:54:26+01:00 INFO: Antenne Niedersachsen 80er: Unchain My Heart -by- Joe Cocker
+2017-02-10T03:59:27+01:00 INFO: Antenne Niedersachsen 80er: Nothing Compares 2 U -by- Sinéad O'Connor
+2017-02-10T04:04:27+01:00 INFO: Antenne Niedersachsen 80er: Everything Counts -by- Depeche Mode
+2017-02-10T04:07:28+01:00 INFO: Antenne Niedersachsen 80er: Josephine -by- Chris Rea
+2017-02-10T04:12:28+01:00 INFO: Antenne Niedersachsen 80er: The Tide Is High -by- Blondie
+2017-02-10T04:15:29+01:00 INFO: Antenne Niedersachsen 80er: Halt mich -by- Herbert Grönemeyer
+2017-02-10T04:19:29+01:00 INFO: Antenne Niedersachsen 80er: Billie Jean -by- Michael Jackson
+2017-02-10T04:24:30+01:00 INFO: Antenne Niedersachsen 80er: Romeo and Juliet -by- Dire Straits
+2017-02-10T04:29:30+01:00 INFO: Antenne Niedersachsen 80er: Shout -by- Tears for Fears
+2017-02-10T04:34:31+01:00 INFO: Antenne Niedersachsen 80er: Flesh for Fantasy -by- Billy Idol
+2017-02-10T04:39:31+01:00 INFO: Antenne Niedersachsen 80er: I Won't Let The Sun Go Down On Me -by- Nik Kershaw
+2017-02-10T04:42:32+01:00 INFO: Antenne Niedersachsen 80er: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T04:45:32+01:00 INFO: Antenne Niedersachsen 80er: SUMMER OF 69 -by- BRYAN ADAM
+2017-02-10T04:48:33+01:00 INFO: Antenne Niedersachsen 80er: Faith -by- George Michael
+2017-02-10T04:51:33+01:00 INFO: Antenne Niedersachsen 80er: Drive -by- The Cars
+2017-02-10T04:55:33+01:00 INFO: Antenne Niedersachsen 80er: The Best -by- Tina Turner
+2017-02-10T04:59:36+01:00 INFO: Antenne Niedersachsen 80er: Leningrad -by- Billy Joel
+2017-02-10T05:03:37+01:00 INFO: Antenne Niedersachsen 80er: Bette Davis Eyes -by- Kim Carnes
+2017-02-10T05:06:38+01:00 INFO: Antenne Niedersachsen 80er: Send Me an Angel -by- Real Life
+2017-02-10T05:11:38+01:00 INFO: Antenne Niedersachsen 80er: Clouds Across the Moon -by- The RAH Band
+2017-02-10T05:14:38+01:00 INFO: Antenne Niedersachsen 80er: I'm On Fire -by- Bruce Springsteen
+2017-02-10T05:17:39+01:00 INFO: Antenne Niedersachsen 80er: People Are People -by- Depeche Mode
+2017-02-10T05:20:39+01:00 INFO: Antenne Niedersachsen 80er: Coming Around Again -by- Carly Simon
+2017-02-10T05:24:40+01:00 INFO: Antenne Niedersachsen 80er: Radio Ga Ga -by- Queen
+2017-02-10T05:30:40+01:00 INFO: Antenne Niedersachsen 80er: Dance Hall Days -by- Wang Chung
+2017-02-10T05:34:41+01:00 INFO: Antenne Niedersachsen 80er: Baby Can I Hold You -by- Tracy Chapman
+2017-02-10T05:37:41+01:00 INFO: Antenne Niedersachsen 80er: In the Army Now -by- Status Quo
+2017-02-10T05:41:41+01:00 INFO: Antenne Niedersachsen 80er: All I Need Is a Miracle -by- Mike + The Mechanics
+2017-02-10T05:45:42+01:00 INFO: Antenne Niedersachsen 80er: Broken Wings -by- Mr. Mister
+2017-02-10T05:50:43+01:00 INFO: Antenne Niedersachsen 80er: Holiday -by- Madonna
+2017-02-10T05:54:43+01:00 INFO: Antenne Niedersachsen 80er: One Moment In Time -by- Whitney Houston
+2017-02-10T05:59:44+01:00 INFO: Antenne Niedersachsen 80er: Living In A Box -by- Living In a Box
+2017-02-10T06:00:44+01:00 INFO: Antenne Niedersachsen 80er: Buffalo Soldier -by- Bob Marley
+2017-02-10T06:03:45+01:00 INFO: Antenne Niedersachsen 80er: Part-Time Lover -by- Stevie Wonder
+2017-02-10T06:06:45+01:00 INFO: Antenne Niedersachsen 80er: Belfast Child -by- Simple Minds
+2017-02-10T06:13:46+01:00 INFO: Antenne Niedersachsen 80er: What's a Woman -by- Vaya Con Dios
+2017-02-10T06:16:46+01:00 INFO: Antenne Niedersachsen 80er: What You Get Is What You See -by- Tina Turner
+2017-02-10T06:21:47+01:00 INFO: Antenne Niedersachsen 80er: Love of the Common People -by- Paul Young
+2017-02-10T06:25:48+01:00 INFO: Antenne Niedersachsen 80er: MOONLIGHT SHADOW -by- MIKE OLDFIELD & MAGGIE REILLY
+2017-02-10T06:28:48+01:00 INFO: Antenne Niedersachsen 80er: Domino Dancing -by- Pet Shop Boys
+2017-02-10T06:33:49+01:00 INFO: Antenne Niedersachsen 80er: Valerie -by- Steve Winwood
+2017-02-10T06:36:49+01:00 INFO: Antenne Niedersachsen 80er: It Must Have Been Love -by- Roxette
+2017-02-10T06:41:50+01:00 INFO: Antenne Niedersachsen 80er: Burning Heart -by- Survivor
+2017-02-10T06:44:53+01:00 INFO: Antenne Niedersachsen 80er: If You Don't Know Me By Now -by- Simply Red
+2017-02-10T06:48:53+01:00 INFO: Antenne Niedersachsen 80er: Such a Shame -by- Talk Talk
+2017-02-10T06:52:54+01:00 INFO: Antenne Niedersachsen 80er: Running in the Family -by- Level 42
+2017-02-10T06:56:56+01:00 INFO: Antenne Niedersachsen 80er: Another One Bites the Dust -by- Queen
+2017-02-10T07:00:57+01:00 INFO: Antenne Niedersachsen 80er: Every Breath You Take -by- The Police
+2017-02-10T07:03:57+01:00 INFO: Antenne Niedersachsen 80er: SOMEBODY'S WATCHING ME -by- ROCKWELL feat. MICHAEL JACKSON
+2017-02-10T07:07:58+01:00 INFO: Antenne Niedersachsen 80er: Jump (For My Love) -by- The Pointer Sisters
+2017-02-10T07:11:58+01:00 INFO: Antenne Niedersachsen 80er: Another Day In Paradise -by- Phil Collins
+2017-02-10T07:15:58+01:00 INFO: Antenne Niedersachsen 80er: THERE MUST BE AN ANGEL (Edit) -by- Eurythmics
+2017-02-10T07:19:59+01:00 INFO: Antenne Niedersachsen 80er: I Go To Extremes -by- Billy Joel
+2017-02-10T07:25:00+01:00 INFO: Antenne Niedersachsen 80er: Dancing with Tears in My Eyes -by- Ultravox
+2017-02-10T07:29:01+01:00 INFO: Antenne Niedersachsen 80er: Let's Hear It for the Boy -by- Deniece Williams
+2017-02-10T07:33:01+01:00 INFO: Antenne Niedersachsen 80er: I Just Called to Say I Love You -by- Stevie Wonder
+2017-02-10T07:37:01+01:00 INFO: Antenne Niedersachsen 80er: Love Is a Battlefield (Edit) -by- Pat Benatar
+2017-02-10T07:41:02+01:00 INFO: Antenne Niedersachsen 80er: What's Love Got to Do With It -by- Tina Turner
+2017-02-10T07:45:02+01:00 INFO: Antenne Niedersachsen 80er: Oh Yeah -by- Roxy Music
+2017-02-10T07:50:03+01:00 INFO: Antenne Niedersachsen 80er: Circle In the Sand -by- Belinda Carlisle
+2017-02-10T07:53:03+01:00 INFO: Antenne Niedersachsen 80er: Holding Back the Years -by- Simply Red
+2017-02-10T07:58:03+01:00 INFO: Antenne Niedersachsen 80er: Who's That Girl -by- Madonna
+2017-02-10T08:01:04+01:00 INFO: Antenne Niedersachsen 80er: Where the Streets Have No Name -by- U2
+2017-02-10T08:05:04+01:00 INFO: Antenne Niedersachsen 80er: High Energy -by- Evelyn Thomas
+2017-02-10T08:09:05+01:00 INFO: Antenne Niedersachsen 80er: Dirty Diana -by- Michael Jackson
+2017-02-10T08:14:06+01:00 INFO: Antenne Niedersachsen 80er: Flugzeuge im Bauch -by- Herbert Grönemeyer
+2017-02-10T08:17:06+01:00 INFO: Antenne Niedersachsen 80er: The Loco-Motion -by- Kylie Minogue
+2017-02-10T08:20:07+01:00 INFO: Antenne Niedersachsen 80er: All Around the World -by- Lisa Stansfield
+2017-02-10T08:25:07+01:00 INFO: Antenne Niedersachsen 80er: Relax -by- Frankie Goes to Hollywood
+2017-02-10T08:29:08+01:00 INFO: Antenne Niedersachsen 80er: How Will I Know -by- Whitney Houston
+2017-02-10T08:34:09+01:00 INFO: Antenne Niedersachsen 80er: Is This Love? -by- Alison Moyet
+2017-02-10T08:38:09+01:00 INFO: Antenne Niedersachsen 80er: Talkin' Bout a Revolution -by- Tracy Chapman
+2017-02-10T08:40:09+01:00 INFO: Antenne Niedersachsen 80er: Everlasting Love -by- Sandra
+2017-02-10T08:44:10+01:00 INFO: Antenne Niedersachsen 80er: Sign Your Name -by- Terence Trent D'Arby
+2017-02-10T08:48:10+01:00 INFO: Antenne Niedersachsen 80er: Voyage, voyage -by- Desireless
+2017-02-10T08:52:11+01:00 INFO: Antenne Niedersachsen 80er: Human -by- The Human League
+2017-02-10T08:56:11+01:00 INFO: Antenne Niedersachsen 80er: The Final Countdown -by- Europe
+2017-02-10T09:00:11+01:00 INFO: Antenne Niedersachsen 80er: Hello -by- Lionel Richie
+2017-02-10T09:04:12+01:00 INFO: Antenne Niedersachsen 80er: Self Control -by- Laura Branigan
+2017-02-10T09:08:12+01:00 INFO: Antenne Niedersachsen 80er: Personal Jesus -by- Depeche Mode
+2017-02-10T09:13:13+01:00 INFO: Antenne Niedersachsen 80er: Club Tropicana -by- Wham!
+2017-02-10T09:16:13+01:00 INFO: Antenne Niedersachsen 80er: Right Here Waiting -by- Richard Marx
+2017-02-10T09:21:14+01:00 INFO: Antenne Niedersachsen 80er: Pride (In the Name of Love) -by- U2
+2017-02-10T09:24:14+01:00 INFO: Antenne Niedersachsen 80er: Song for Whoever -by- The Beautiful South
+2017-02-10T09:29:15+01:00 INFO: Antenne Niedersachsen 80er: Another Brick In the Wall, Pt. 1 -by- Pink Floyd
+2017-02-10T09:32:15+01:00 INFO: Antenne Niedersachsen 80er: Upside Down -by- Diana Ross
+2017-02-10T09:36:15+01:00 INFO: Antenne Niedersachsen 80er: Sweet Sixteen -by- Billy Idol
+2017-02-10T09:39:16+01:00 INFO: Antenne Niedersachsen 80er: COULD YOU BE LOVED -by- Bob Marley
+2017-02-10T09:43:16+01:00 INFO: Antenne Niedersachsen 80er: Englishman in New York -by- Sting
+2017-02-10T09:47:17+01:00 INFO: Antenne Niedersachsen 80er: Don't Wanna Lose You -by- Gloria Estefan
+2017-02-10T09:51:17+01:00 INFO: Antenne Niedersachsen 80er: Get Outta My Dreams, Get Into My Car -by- Billy Ocean
+2017-02-10T09:55:18+01:00 INFO: Antenne Niedersachsen 80er: In the Air Tonight -by- Phil Collins
+2017-02-10T10:01:19+01:00 INFO: Antenne Niedersachsen 80er: I Love Rock 'n' Roll -by- Joan Jett & The Blackhearts
+2017-02-10T10:04:19+01:00 INFO: Antenne Niedersachsen 80er: The Way It Is -by- Bruce Hornsby & The Range
+2017-02-10T10:08:20+01:00 INFO: Antenne Niedersachsen 80er: A Question of Time -by- Depeche Mode
+2017-02-10T10:12:22+01:00 INFO: Antenne Niedersachsen 80er: Nothing Compares 2 U -by- Sinéad O'Connor
+2017-02-10T10:17:23+01:00 INFO: Antenne Niedersachsen 80er: König von Deutschland -by- Rio Reiser
+2017-02-10T10:20:24+01:00 INFO: Antenne Niedersachsen 80er: The Way to Your Heart -by- Soulsister
+2017-02-10T10:24:24+01:00 INFO: Antenne Niedersachsen 80er: A Kind of Magic -by- Queen
+2017-02-10T10:29:25+01:00 INFO: Antenne Niedersachsen 80er: I DON'T WANNA DANCE -by- Eddy Grant
+2017-02-10T10:32:25+01:00 INFO: Antenne Niedersachsen 80er: A Good Heart -by- Feargal Sharkey
+2017-02-10T10:37:26+01:00 INFO: Antenne Niedersachsen 80er: Halt mich -by- Herbert Grönemeyer
+2017-02-10T10:40:26+01:00 INFO: Antenne Niedersachsen 80er: (Feels Like) Heaven -by- Fiction Factory
+2017-02-10T10:43:27+01:00 INFO: Antenne Niedersachsen 80er: Together Forever -by- Rick Astley
+2017-02-10T10:47:27+01:00 INFO: Antenne Niedersachsen 80er: It Started With a Kiss -by- Hot Chocolate
+2017-02-10T10:51:27+01:00 INFO: Antenne Niedersachsen 80er: (I've Had) The Time of My Life -by- Bill Medley & Jennifer Warnes
+2017-02-10T10:57:28+01:00 INFO: Antenne Niedersachsen 80er: Dr. Beat -by- Miami Sound Machine
+2017-02-10T11:03:29+01:00 INFO: Antenne Niedersachsen 80er: Shout -by- Tears for Fears
+2017-02-10T11:08:30+01:00 INFO: Antenne Niedersachsen 80er: Celebration -by- Kool & The Gang
+2017-02-10T11:13:30+01:00 INFO: Antenne Niedersachsen 80er: Never Can Say Goodbye -by- The Communards
+2017-02-10T11:17:31+01:00 INFO: Antenne Niedersachsen 80er: I'm On Fire -by- Bruce Springsteen
+2017-02-10T11:20:31+01:00 INFO: Antenne Niedersachsen 80er: Heaven Is a Place On Earth -by- Belinda Carlisle
+2017-02-10T11:23:31+01:00 INFO: Antenne Niedersachsen 80er: More Than a Feeling -by- Boston
+2017-02-10T11:29:32+01:00 INFO: Antenne Niedersachsen 80er: Life Is for Living -by- Barclay James Harvest
+2017-02-10T11:32:33+01:00 INFO: Antenne Niedersachsen 80er: Venus -by- Bananarama
+2017-02-10T11:36:33+01:00 INFO: Antenne Niedersachsen 80er: You're the Inspiration -by- Chicago
+2017-02-10T11:39:33+01:00 INFO: Antenne Niedersachsen 80er: The Best -by- Tina Turner
+2017-02-10T11:43:34+01:00 INFO: Antenne Niedersachsen 80er: China in Your Hand -by- T'Pau
+2017-02-10T11:48:34+01:00 INFO: Antenne Niedersachsen 80er: Stuck On You -by- Lionel Richie
+2017-02-10T11:52:35+01:00 INFO: Antenne Niedersachsen 80er: Luka -by- Suzanne Vega
+2017-02-10T11:55:35+01:00 INFO: Antenne Niedersachsen 80er: One Moment In Time -by- Whitney Houston
+2017-02-10T12:00:35+01:00 INFO: Antenne Niedersachsen 80er: Everything Counts -by- Depeche Mode
+2017-02-10T12:04:36+01:00 INFO: Antenne Niedersachsen 80er: Calling America -by- Electric Light Orchestra
+2017-02-10T12:07:36+01:00 INFO: Antenne Niedersachsen 80er: Angel of Harlem -by- U2
+2017-02-10T12:11:37+01:00 INFO: Antenne Niedersachsen 80er: It Must Have Been Love -by- Roxette
+2017-02-10T12:15:39+01:00 INFO: Antenne Niedersachsen 80er: It's a Sin -by- Pet Shop Boys
+2017-02-10T12:20:39+01:00 INFO: Antenne Niedersachsen 80er: Papa Don't Preach -by- Madonna
+2017-02-10T12:25:40+01:00 INFO: Antenne Niedersachsen 80er: Kinder an die Macht -by- Herbert Grönemeyer
+2017-02-10T12:28:40+01:00 INFO: Antenne Niedersachsen 80er: Manchild -by- Neneh Cherry
+2017-02-10T12:33:41+01:00 INFO: Antenne Niedersachsen 80er: China Girl -by- David Bowie
+2017-02-10T12:37:42+01:00 INFO: Antenne Niedersachsen 80er: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T12:40:45+01:00 INFO: Antenne Niedersachsen 80er: ST. ELMO'S FIRE (MAN IN MOTION) -by- JOHN PARR
+2017-02-10T12:44:47+01:00 INFO: Antenne Niedersachsen 80er: All Through the Night -by- Cyndi Lauper
+2017-02-10T12:48:48+01:00 INFO: Antenne Niedersachsen 80er: Bette Davis Eyes -by- Kim Carnes
+2017-02-10T12:52:50+01:00 INFO: Antenne Niedersachsen 80er: Tonight, I Celebrate My Love -by- Peabo Bryson & Roberta Flack
+2017-02-10T12:55:50+01:00 INFO: Antenne Niedersachsen 80er: We Don't Need Another Hero (Thunderdome) -by- Tina Turner
+2017-02-10T13:00:51+01:00 INFO: Antenne Niedersachsen 80er: MOONLIGHT SHADOW -by- MIKE OLDFIELD & MAGGIE REILLY
+2017-02-10T13:03:51+01:00 INFO: Antenne Niedersachsen 80er: Policy of Truth -by- Depeche Mode
+2017-02-10T13:08:52+01:00 INFO: Antenne Niedersachsen 80er: Bangkok / One Night In Bangkok -by- Murray Head
+2017-02-10T13:12:53+01:00 INFO: Antenne Niedersachsen 80er: What's a Woman -by- Vaya Con Dios
+2017-02-10T13:16:54+01:00 INFO: Antenne Niedersachsen 80er: Still Loving You -by- Scorpions
+2017-02-10T13:19:54+01:00 INFO: Antenne Niedersachsen 80er: TOM'S DINER -by- DNA FEAT. SUZANNE VEGA
+2017-02-10T13:24:55+01:00 INFO: Antenne Niedersachsen 80er: Alkohol -by- Herbert Grönemeyer
+2017-02-10T13:28:55+01:00 INFO: Antenne Niedersachsen 80er: Vienna Calling -by- Falco
+2017-02-10T13:32:56+01:00 INFO: Antenne Niedersachsen 80er: Forever Young -by- Alphaville
+2017-02-10T13:35:57+01:00 INFO: Antenne Niedersachsen 80er: Such a Shame -by- Talk Talk
+2017-02-10T13:40:58+01:00 INFO: Antenne Niedersachsen 80er: Walk On the Wild Side -by- Lou Reed
+2017-02-10T13:43:59+01:00 INFO: Antenne Niedersachsen 80er: The Living Daylights -by- a-ha
+2017-02-10T13:48:59+01:00 INFO: Antenne Niedersachsen 80er: You Keep Me Hanging On -by- Kim Wilde
+2017-02-10T13:53:00+01:00 INFO: Antenne Niedersachsen 80er: Holding Back the Years -by- Simply Red
+2017-02-10T13:57:00+01:00 INFO: Antenne Niedersachsen 80er: Ashes to Ashes -by- David Bowie
+2017-02-10T14:01:01+01:00 INFO: Antenne Niedersachsen 80er: Buffalo Soldier -by- Bob Marley
+2017-02-10T14:04:01+01:00 INFO: Antenne Niedersachsen 80er: Born In the U.S.A. -by- Bruce Springsteen
+2017-02-10T14:09:02+01:00 INFO: Antenne Niedersachsen 80er: Too Shy -by- Kajagoogoo
+2017-02-10T14:12:02+01:00 INFO: Antenne Niedersachsen 80er: Flugzeuge im Bauch -by- Herbert Grönemeyer
+2017-02-10T14:16:03+01:00 INFO: Antenne Niedersachsen 80er: Irgendwie, irgendwo, irgendwann -by- Nena
+2017-02-10T14:20:03+01:00 INFO: Antenne Niedersachsen 80er: It's Raining Men -by- The Weather Girls
+2017-02-10T14:24:04+01:00 INFO: Antenne Niedersachsen 80er: Our House -by- Madness
+2017-02-10T14:27:04+01:00 INFO: Antenne Niedersachsen 80er: Rosanna -by- Toto
+2017-02-10T14:31:05+01:00 INFO: Antenne Niedersachsen 80er: If I Was -by- Midge Ure
+2017-02-10T14:36:05+01:00 INFO: Antenne Niedersachsen 80er: Talkin' Bout a Revolution -by- Tracy Chapman
+2017-02-10T14:39:06+01:00 INFO: Antenne Niedersachsen 80er: I Like Chopin -by- Gazebo
+2017-02-10T14:43:06+01:00 INFO: Antenne Niedersachsen 80er: More Than I Can Say -by- Leo Sayer
+2017-02-10T14:46:06+01:00 INFO: Antenne Niedersachsen 80er: Every Breath You Take -by- The Police
+2017-02-10T14:50:07+01:00 INFO: Antenne Niedersachsen 80er: Blue Eyes -by- Elton John
+2017-02-10T14:53:08+01:00 INFO: Antenne Niedersachsen 80er: I Want To Break Free -by- Queen
+2017-02-10T14:56:08+01:00 INFO: Antenne Niedersachsen 80er: Se Bastasse Una Canzone -by- Eros Ramazzotti
+2017-02-10T15:02:09+01:00 INFO: Antenne Niedersachsen 80er: Relax -by- Frankie Goes to Hollywood
+2017-02-10T15:05:09+01:00 INFO: Antenne Niedersachsen 80er: THE MESSAGE IS LOVE NEU -by- ARTHUR BAKER & BACKBEAT
+2017-02-10T15:12:10+01:00 INFO: Antenne Niedersachsen 80er: Kiss -by- Prince & The Revolution
+2017-02-10T15:15:11+01:00 INFO: Antenne Niedersachsen 80er: Another Day In Paradise -by- Phil Collins
+2017-02-10T15:20:11+01:00 INFO: Antenne Niedersachsen 80er: She Works Hard for the Money -by- Donna Summer
+2017-02-10T15:24:12+01:00 INFO: Antenne Niedersachsen 80er: Glory Of Love -by- Peter Cetera
+2017-02-10T15:29:12+01:00 INFO: Antenne Niedersachsen 80er: MAID OF ORLEANS -by- O.M.D.
+2017-02-10T15:32:13+01:00 INFO: Antenne Niedersachsen 80er: You Came -by- Kim Wilde
+2017-02-10T15:37:13+01:00 INFO: Antenne Niedersachsen 80er: Say You, Say Me -by- Lionel Richie
+2017-02-10T15:41:15+01:00 INFO: Antenne Niedersachsen 80er: Voyage, voyage -by- Desireless
+2017-02-10T15:45:15+01:00 INFO: Antenne Niedersachsen 80er: Girls Just Want to Have Fun -by- Cyndi Lauper
+2017-02-10T15:49:15+01:00 INFO: Antenne Niedersachsen 80er: Wonderful Life -by- Black
+2017-02-10T15:54:16+01:00 INFO: Antenne Niedersachsen 80er: Fade to Grey -by- Visage
+2017-02-10T15:57:16+01:00 INFO: Antenne Niedersachsen 80er: Right Here Waiting -by- Richard Marx
+2017-02-10T16:01:17+01:00 INFO: Antenne Niedersachsen 80er: Where the Streets Have No Name -by- U2
+2017-02-10T16:05:17+01:00 INFO: Antenne Niedersachsen 80er: ORINOCO FLOW (SAIL AWAY) -by- ENYA
+2017-02-10T16:09:18+01:00 INFO: Antenne Niedersachsen 80er: Morning Train (Nine To Five) [1993 Remaster] -by- Sheena Easton
+2017-02-10T16:12:18+01:00 INFO: Antenne Niedersachsen 80er: Halt mich -by- Herbert Grönemeyer
+2017-02-10T16:15:19+01:00 INFO: Antenne Niedersachsen 80er: Like the Way I Do -by- Melissa Etheridge
+2017-02-10T16:21:19+01:00 INFO: Antenne Niedersachsen 80er: Maniac (Flashdance Version) (Re-Recorded / Remastered) -by- Michael Sembello
+2017-02-10T16:25:20+01:00 INFO: Antenne Niedersachsen 80er: Jump -by- Van Halen
+2017-02-10T16:29:20+01:00 INFO: Antenne Niedersachsen 80er: Some People -by- Cliff Richard
+2017-02-10T16:33:21+01:00 INFO: Antenne Niedersachsen 80er: Love Is a Stranger -by- Eurythmics
+2017-02-10T16:36:21+01:00 INFO: Antenne Niedersachsen 80er: One Moment In Time -by- Whitney Houston
+2017-02-10T16:41:22+01:00 INFO: Antenne Niedersachsen 80er: Destiny -by- Jennifer Rush
+2017-02-10T16:44:23+01:00 INFO: Antenne Niedersachsen 80er: The Power of Love -by- Frankie Goes to Hollywood
+2017-02-10T16:50:23+01:00 INFO: Antenne Niedersachsen 80er: Self Control -by- Laura Branigan
+2017-02-10T16:54:24+01:00 INFO: Antenne Niedersachsen 80er: Everything's Coming Up Roses -by- Black
+2017-02-10T16:58:25+01:00 INFO: Antenne Niedersachsen 80er: Cambodia -by- Kim Wilde
+2017-02-10T17:02:26+01:00 INFO: Antenne Niedersachsen 80er: A Kind of Magic -by- Queen
+2017-02-10T17:06:27+01:00 INFO: Antenne Niedersachsen 80er: Lambada -by- Kaoma
+2017-02-10T17:10:28+01:00 INFO: Antenne Niedersachsen 80er: COMING HOME (JEANNY, PART 2) -by- Falco
+2017-02-10T17:15:29+01:00 INFO: Antenne Niedersachsen 80er: I'm On Fire -by- Bruce Springsteen
+2017-02-10T17:17:29+01:00 INFO: Antenne Niedersachsen 80er: Karma Chameleon -by- Culture Club
+2017-02-10T17:21:29+01:00 INFO: Antenne Niedersachsen 80er: All Time High -by- Rita Coolidge
+2017-02-10T17:24:30+01:00 INFO: Antenne Niedersachsen 80er: The Final Countdown -by- Europe
+2017-02-10T17:28:30+01:00 INFO: Antenne Niedersachsen 80er: Pass The Dutchie (Re-Recorded / Remastered) -by- Musical Youth
+2017-02-10T17:31:31+01:00 INFO: Antenne Niedersachsen 80er: With or Without You -by- U2
+2017-02-10T17:36:31+01:00 INFO: Antenne Niedersachsen 80er: (I've Had) The Time of My Life -by- Bill Medley & Jennifer Warnes
+2017-02-10T17:43:33+01:00 INFO: Antenne Niedersachsen 80er: MUSIK NUR WENN SIE LAUT IST -by- HERBERT GRÖMEMEYER
+2017-02-10T17:46:34+01:00 INFO: Antenne Niedersachsen 80er: It's My Life -by- Talk Talk
+2017-02-10T17:49:34+01:00 INFO: Antenne Niedersachsen 80er: Walking On Sunshine -by- Katrina & The Waves
+2017-02-10T17:53:35+01:00 INFO: Antenne Niedersachsen 80er: Nothing Compares 2 U -by- Sinéad O'Connor
+2017-02-10T17:58:36+01:00 INFO: Antenne Niedersachsen 80er: ICE IN THE SUNSHINE -by- BEAGLE MUSIC LTD.
+2017-02-10T18:00:36+01:00 INFO: Antenne Niedersachsen 80er: Another Brick In the Wall, Pt. 2 -by- Pink Floyd
+2017-02-10T18:03:37+01:00 INFO: Antenne Niedersachsen 80er: OUT OF TOUCH -by- HALL & OATES
+2017-02-10T18:07:40+01:00 INFO: Antenne Niedersachsen 80er: I Am What I Am -by- Gloria Gaynor
+2017-02-10T18:10:43+01:00 INFO: Antenne Niedersachsen 80er: In the Air Tonight -by- Phil Collins
+2017-02-10T18:16:44+01:00 INFO: Antenne Niedersachsen 80er: Words -by- F.R. David
+2017-02-10T18:19:45+01:00 INFO: Antenne Niedersachsen 80er: THAT'S WHAT FRIENDS ARE FOR -by- DIONNE WARWICK & STEVIE WONDER
+2017-02-10T18:24:46+01:00 INFO: Antenne Niedersachsen 80er: Shout -by- Tears for Fears
+2017-02-10T18:28:47+01:00 INFO: Antenne Niedersachsen 80er: LILY WAS HERE -by- DAVE STEWART& CANDY DULFER
+2017-02-10T18:32:48+01:00 INFO: Antenne Niedersachsen 80er: Here I Go Again -by- Whitesnake
+2017-02-10T18:36:48+01:00 INFO: Antenne Niedersachsen 80er: It Must Have Been Love -by- Roxette
+2017-02-10T18:40:49+01:00 INFO: Antenne Niedersachsen 80er: Open Your Heart -by- Madonna
+2017-02-10T18:44:50+01:00 INFO: Antenne Niedersachsen 80er: Stay On These Roads -by- a-ha
+2017-02-10T18:49:51+01:00 INFO: Antenne Niedersachsen 80er: Fast Car -by- Tracy Chapman
+2017-02-10T18:53:52+01:00 INFO: Antenne Niedersachsen 80er: The Best -by- Tina Turner
+2017-02-10T18:58:52+01:00 INFO: Antenne Niedersachsen 80er: Especially for You -by- Kylie Minogue & Jason Donovan
+2017-02-10T19:01:53+01:00 INFO: Antenne Niedersachsen 80er: Bette Davis Eyes -by- Kim Carnes
+2017-02-10T19:05:53+01:00 INFO: Antenne Niedersachsen 80er: Sunday Bloody Sunday -by- U2
+2017-02-10T19:10:54+01:00 INFO: Antenne Niedersachsen 80er: Leave Me Alone -by- Michael Jackson
+2017-02-10T19:14:55+01:00 INFO: Antenne Niedersachsen 80er: What's a Woman -by- Vaya Con Dios
+2017-02-10T19:18:55+01:00 INFO: Antenne Niedersachsen 80er: The Promise You Made -by- Cock Robin
+2017-02-10T19:22:56+01:00 INFO: Antenne Niedersachsen 80er: Stop -by- Sam Brown
+2017-02-10T19:27:56+01:00 INFO: Antenne Niedersachsen 80er: Nur Geträumt -by- Nena
+2017-02-10T19:30:57+01:00 INFO: Antenne Niedersachsen 80er: Sowing the Seeds of Love -by- Tears for Fears
+2017-02-10T19:37:00+01:00 INFO: Antenne Niedersachsen 80er: ROOM WITH A VIEW -by- TONY CAREY
+2017-02-10T19:40:00+01:00 INFO: Antenne Niedersachsen 80er: In the Army Now -by- Status Quo
+2017-02-10T19:44:01+01:00 INFO: Antenne Niedersachsen 80er: Flashdance...What a Feeling -by- Irene Cara
+2017-02-10T19:48:05+01:00 INFO: Antenne Niedersachsen 80er: True -by- Spandau Ballet
+2017-02-10T19:53:05+01:00 INFO: Antenne Niedersachsen 80er: Baby Jane -by- Rod Stewart
+2017-02-10T19:58:06+01:00 INFO: Antenne Niedersachsen 80er: Holding Back the Years -by- Simply Red
+2017-02-10T20:02:06+01:00 INFO: Antenne Niedersachsen 80er: Hymn -by- Ultravox
+2017-02-10T20:06:07+01:00 INFO: Antenne Niedersachsen 80er: The Safety Dance -by- Men Without Hats
+2017-02-10T20:09:08+01:00 INFO: Antenne Niedersachsen 80er: We Didn't Start the Fire -by- Billy Joel
+2017-02-10T20:13:08+01:00 INFO: Antenne Niedersachsen 80er: Flugzeuge im Bauch -by- Herbert Grönemeyer
+2017-02-10T20:17:09+01:00 INFO: Antenne Niedersachsen 80er: The Sun Always Shines On TV -by- a-ha
+2017-02-10T20:22:09+01:00 INFO: Antenne Niedersachsen 80er: All Night Long (All Night) -by- Lionel Richie
+2017-02-10T20:26:10+01:00 INFO: Antenne Niedersachsen 80er: MOONLIGHT SHADOW -by- MIKE OLDFIELD & MAGGIE REILLY
+2017-02-10T20:30:10+01:00 INFO: Antenne Niedersachsen 80er: Celebrate Youth -by- Rick Springfield
+2017-02-10T20:34:11+01:00 INFO: Antenne Niedersachsen 80er: Boat on the River -by- Styx
+2017-02-10T20:37:11+01:00 INFO: Antenne Niedersachsen 80er: Right Here Waiting -by- Richard Marx
+2017-02-10T20:41:12+01:00 INFO: Antenne Niedersachsen 80er: Urgent -by- Foreigner
+2017-02-10T20:45:12+01:00 INFO: Antenne Niedersachsen 80er: JEANNY (PART 1) -by- Falco
+2017-02-10T20:51:13+01:00 INFO: Antenne Niedersachsen 80er: Kinder an die Macht -by- Herbert Grönemeyer
+2017-02-10T20:55:13+01:00 INFO: Antenne Niedersachsen 80er: Come Into My Life -by- Joyce Sims
+2017-02-10T20:58:13+01:00 INFO: Antenne Niedersachsen 80er: Life Is for Living -by- Barclay James Harvest
+2017-02-10T21:02:14+01:00 INFO: Antenne Niedersachsen 80er: Our House -by- Madness
+2017-02-10T21:05:14+01:00 INFO: Antenne Niedersachsen 80er: Walk Like an Egyptian -by- The Bangles
+2017-02-10T21:09:16+01:00 INFO: Antenne Niedersachsen 80er: Crazy Little Thing Called Love -by- Queen
+2017-02-10T21:11:16+01:00 INFO: Antenne Niedersachsen 80er: Against All Odds (Take a Look At Me Now) [Live] -by- Phil Collins
+2017-02-10T21:15:17+01:00 INFO: Antenne Niedersachsen 80er: Smalltown Boy -by- Bronski Beat
+2017-02-10T21:18:17+01:00 INFO: Antenne Niedersachsen 80er: Total Eclipse of the Heart -by- Bonnie Tyler
+2017-02-10T21:23:18+01:00 INFO: Antenne Niedersachsen 80er: Everything Counts -by- Depeche Mode
+2017-02-10T21:31:20+01:00 INFO: Antenne Niedersachsen 80er: Don't Dream It's Over -by- Crowded House
+2017-02-10T21:35:21+01:00 INFO: Antenne Niedersachsen 80er: Every Breath You Take -by- The Police
+2017-02-10T21:39:21+01:00 INFO: Antenne Niedersachsen 80er: Love Is a Shield -by- Camouflage
+2017-02-10T21:43:22+01:00 INFO: Antenne Niedersachsen 80er: Every Beat of My Heart -by- Rod Stewart
+2017-02-10T21:47:23+01:00 INFO: Antenne Niedersachsen 80er: Black Velvet -by- Alannah Myles
+2017-02-10T21:52:24+01:00 INFO: Antenne Niedersachsen 80er: Talkin' Bout a Revolution -by- Tracy Chapman
+2017-02-10T21:55:24+01:00 INFO: Antenne Niedersachsen 80er: Say Say Say -by- Paul McCartney & Michael Jackson
+2017-02-10T21:58:25+01:00 INFO: Antenne Niedersachsen 80er: We Don't Need Another Hero (Thunderdome) -by- Tina Turner
+2017-02-10T22:03:25+01:00 INFO: Antenne Niedersachsen 80er: Alkohol -by- Herbert Grönemeyer
+2017-02-10T22:07:26+01:00 INFO: Antenne Niedersachsen 80er: Like a Virgin -by- Madonna
+2017-02-10T22:10:27+01:00 INFO: Antenne Niedersachsen 80er: Always the Sun -by- The Stranglers
+2017-02-10T22:14:28+01:00 INFO: Antenne Niedersachsen 80er: One Moment In Time -by- Whitney Houston
+2017-02-10T22:19:29+01:00 INFO: Antenne Niedersachsen 80er: Let the Music Play -by- Shannon
+2017-02-10T22:22:29+01:00 INFO: Antenne Niedersachsen 80er: I Still Haven't Found What I'm Looking For -by- U2
+2017-02-10T22:27:30+01:00 INFO: Antenne Niedersachsen 80er: Love Is a Battlefield (Edit) -by- Pat Benatar
+2017-02-10T22:31:31+01:00 INFO: Antenne Niedersachsen 80er: I Want to Know What Love Is -by- Foreigner
+2017-02-10T22:36:32+01:00 INFO: Antenne Niedersachsen 80er: Never Let Me Down Again -by- Depeche Mode
+2017-02-10T22:40:32+01:00 INFO: Antenne Niedersachsen 80er: Halt mich -by- Herbert Grönemeyer
+2017-02-10T22:44:33+01:00 INFO: Antenne Niedersachsen 80er: Love & Pride -by- King
+2017-02-10T22:47:33+01:00 INFO: Antenne Niedersachsen 80er: When Your Heart Is Weak -by- Cock Robin
+2017-02-10T22:52:33+01:00 INFO: Antenne Niedersachsen 80er: Relax -by- Frankie Goes to Hollywood
+2017-02-10T22:55:34+01:00 INFO: Antenne Niedersachsen 80er: Do That To Me One More Time -by- Captain & Tennille
+2017-02-10T22:59:35+01:00 INFO: Antenne Niedersachsen 80er: Radio Ga Ga -by- Queen
+2017-02-10T23:05:36+01:00 INFO: Antenne Niedersachsen 80er: Jump -by- Van Halen
+2017-02-10T23:09:36+01:00 INFO: Antenne Niedersachsen 80er: The NeverEnding Story -by- Limahl
+2017-02-10T23:12:37+01:00 INFO: Antenne Niedersachsen 80er: Thriller -by- Michael Jackson
+2017-02-10T23:17:37+01:00 INFO: Antenne Niedersachsen 80er: I'm On Fire -by- Bruce Springsteen
+2017-02-10T23:20:38+01:00 INFO: Antenne Niedersachsen 80er: Bakerman -by- Laid Back
+2017-02-10T23:24:39+01:00 INFO: Antenne Niedersachsen 80er: The Lady in Red -by- Chris de Burgh
+2017-02-10T23:29:39+01:00 INFO: Antenne Niedersachsen 80er: Buffalo Soldier -by- Bob Marley
+2017-02-10T23:32:40+01:00 INFO: Antenne Niedersachsen 80er: I Should Be So Lucky -by- Kylie Minogue
+2017-02-10T23:35:40+01:00 INFO: Antenne Niedersachsen 80er: Take My Breath Away -by- Berlin
+2017-02-10T23:39:42+01:00 INFO: Antenne Niedersachsen 80er: Self Control -by- Laura Branigan
+2017-02-10T23:43:43+01:00 INFO: Antenne Niedersachsen 80er: Material Girl -by- Madonna
+2017-02-10T23:46:44+01:00 INFO: Antenne Niedersachsen 80er: Bochum -by- Herbert Grönemeyer
+2017-02-10T23:50:44+01:00 INFO: Antenne Niedersachsen 80er: The Wild Boys -by- Duran Duran
+2017-02-10T23:55:45+01:00 INFO: Antenne Niedersachsen 80er: Another Day In Paradise -by- Phil Collins
+2017-02-10T23:59:46+01:00 INFO: Antenne Niedersachsen 80er: I Can't Stand the Rain -by- Tina Turner

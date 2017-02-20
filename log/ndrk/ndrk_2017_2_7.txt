@@ -1,0 +1,2 @@
+2017-02-07T20:59:40+01:00 INFO: NDR Kultur: Partita Nr. 3 a-moll, BWV 827Scherzo (6. Satz) -by- Johann Sebastian Bach
+2017-02-07T21:56:49+01:00 INFO: NDR Kultur: Streichquintett E-Dur, op. 11 Nr. 5Amoroso (1. Satz) -by- Luigi Boccherini

@@ -1,0 +1,53 @@
+2017-02-07T20:43:38+01:00 INFO: Antenne Rock: Can't Stop -by- Red Hot Chili Peppers
+2017-02-07T20:46:39+01:00 INFO: Antenne Rock: Twisted Transistor -by- Korn
+2017-02-07T20:49:39+01:00 INFO: Antenne Rock: D.N.A. -by- Beatsteaks
+2017-02-07T20:52:40+01:00 INFO: Antenne Rock: You Shook Me All Night Long -by- AC/DC
+2017-02-07T20:55:41+01:00 INFO: Antenne Rock: Teddy Picker -by- Arctic Monkeys
+2017-02-07T20:58:41+01:00 INFO: Antenne Rock: Something from Nothing -by- Foo Fighters
+2017-02-07T21:02:42+01:00 INFO: Antenne Rock: Because We Can -by- Bon Jovi
+2017-02-07T21:06:42+01:00 INFO: Antenne Rock: All the Small Things -by- Blink-182
+2017-02-07T21:09:43+01:00 INFO: Antenne Rock: Hier kommt Alex -by- Die Toten Hosen
+2017-02-07T21:13:44+01:00 INFO: Antenne Rock: American Idiot -by- Green Day
+2017-02-07T21:16:45+01:00 INFO: Antenne Rock: Hold On -by- Good Charlotte
+2017-02-07T21:20:45+01:00 INFO: Antenne Rock: Supersoaker -by- Kings of Leon
+2017-02-07T21:25:46+01:00 INFO: Antenne Rock: The Passenger -by- Iggy Pop
+2017-02-07T21:29:46+01:00 INFO: Antenne Rock: Let's Dance to Joy Division -by- The Wombats
+2017-02-07T21:32:47+01:00 INFO: Antenne Rock: Over My Head (Better Off Dead) -by- Sum 41
+2017-02-07T21:35:47+01:00 INFO: Antenne Rock: Stand Up and Run -by- Billy Talent
+2017-02-07T21:38:47+01:00 INFO: Antenne Rock: NOTHING ELSE MATTERS (EDIT) -by- Metallica
+2017-02-07T21:46:50+01:00 INFO: Antenne Rock: CASTLE OF GLASS -by- LINKIN PARK
+2017-02-07T21:49:50+01:00 INFO: Antenne Rock: The Pretender -by- Foo Fighters
+2017-02-07T21:53:50+01:00 INFO: Antenne Rock: Savior -by- Rise Against
+2017-02-07T21:57:51+01:00 INFO: Antenne Rock: Another Brick In the Wall, Pt. 2 -by- Pink Floyd
+2017-02-07T22:00:51+01:00 INFO: Antenne Rock: Never Miss a Beat -by- Kaiser Chiefs
+2017-02-07T22:03:52+01:00 INFO: Antenne Rock: Drive -by- Incubus
+2017-02-07T22:08:52+01:00 INFO: Antenne Rock: Cape of Our Hero -by- Volbeat
+2017-02-07T22:11:52+01:00 INFO: Antenne Rock: A -by- P.O.D.
+2017-02-07T22:15:53+01:00 INFO: Antenne Rock: Lasse redn -by- Die Ärzte
+2017-02-07T22:17:53+01:00 INFO: Antenne Rock: Burning Heart -by- Survivor
+2017-02-07T22:21:54+01:00 INFO: Antenne Rock: Gentleman of the Year -by- Beatsteaks
+2017-02-07T22:25:55+01:00 INFO: Antenne Rock: Boom -by- P.O.D.
+2017-02-07T22:28:55+01:00 INFO: Antenne Rock: Coming Undone -by- Korn
+2017-02-07T22:32:56+01:00 INFO: Antenne Rock: Give It Away -by- Red Hot Chili Peppers
+2017-02-07T22:37:56+01:00 INFO: Antenne Rock: My Songs Know What You Did In the Dark (Light Em Up) -by- Fall Out Boy
+2017-02-07T22:39:56+01:00 INFO: Antenne Rock: Beverly Hills -by- Weezer
+2017-02-07T22:43:57+01:00 INFO: Antenne Rock: Human -by- The Killers
+2017-02-07T22:47:57+01:00 INFO: Antenne Rock: My God Is the Sun -by- Queens of the Stone Age
+2017-02-07T22:50:58+01:00 INFO: Antenne Rock: Cold As Ice -by- Foreigner
+2017-02-07T22:53:58+01:00 INFO: Antenne Rock: Dance With Somebody -by- Mando Diao
+2017-02-07T22:58:59+01:00 INFO: Antenne Rock: SaySaySay -by- Beatsteaks
+2017-02-07T23:01:59+01:00 INFO: Antenne Rock: UP IN THE AIR -by- 30 SECONDS TO MARS
+2017-02-07T23:05:59+01:00 INFO: Antenne Rock: Fat Lip -by- Sum 41
+2017-02-07T23:09:00+01:00 INFO: Antenne Rock: Basket Case -by- Green Day
+2017-02-07T23:12:00+01:00 INFO: Antenne Rock: Try Honesty -by- Billy Talent
+2017-02-07T23:16:01+01:00 INFO: Antenne Rock: It's Been Awhile -by- Staind
+2017-02-07T23:21:01+01:00 INFO: Antenne Rock: Figure It Out -by- Royal Blood
+2017-02-07T23:24:01+01:00 INFO: Antenne Rock: Blinded By the Light -by- Manfred Mann's Earth Band
+2017-02-07T23:28:02+01:00 INFO: Antenne Rock: Moving to New York -by- The Wombats
+2017-02-07T23:36:03+01:00 INFO: Antenne Rock: Biblical -by- Biffy Clyro
+2017-02-07T23:40:03+01:00 INFO: Antenne Rock: What's My Age Again? -by- Blink-182
+2017-02-07T23:42:04+01:00 INFO: Antenne Rock: Leave Out All the Rest -by- LINKIN PARK
+2017-02-07T23:46:04+01:00 INFO: Antenne Rock: Lola Montez -by- Volbeat
+2017-02-07T23:49:04+01:00 INFO: Antenne Rock: Unrockbar -by- Die Ärzte
+2017-02-07T23:53:05+01:00 INFO: Antenne Rock: Sex On Fire -by- Kings of Leon
+2017-02-07T23:57:06+01:00 INFO: Antenne Rock: I Was Made for Lovin' You -by- Kiss

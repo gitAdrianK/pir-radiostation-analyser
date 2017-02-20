@@ -1,0 +1,196 @@
+2017-02-11T06:05:09+01:00 INFO: NDR Blue: KILL V. MAIM -by- Grimes
+2017-02-11T06:09:09+01:00 INFO: NDR Blue: Yellow Red And Blue -by- Portugal. The Man
+2017-02-11T06:13:09+01:00 INFO: NDR Blue: Thirteen Sad Farewells -by- Stu Larsen
+2017-02-11T06:16:09+01:00 INFO: NDR Blue: Curvy -by- D.A.R.K.
+2017-02-11T06:19:10+01:00 INFO: NDR Blue: Sometimes -by- Enzo Siffredi
+2017-02-11T06:22:10+01:00 INFO: NDR Blue: On The Way To The Club -by- Blur
+2017-02-11T06:26:12+01:00 INFO: NDR Blue: Neue Idee -by- Peter Licht
+2017-02-11T06:30:12+01:00 INFO: NDR Blue: I Know There&#39;s Gonna Be (Good Times) -by- Jamie xx
+2017-02-11T06:32:13+01:00 INFO: NDR Blue: Bad Blood -by- Nao
+2017-02-11T06:37:13+01:00 INFO: NDR Blue: Check It Out -by- Bobby Womack
+2017-02-11T06:40:13+01:00 INFO: NDR Blue: Moving -by- Supergrass
+2017-02-11T06:44:13+01:00 INFO: NDR Blue: Mariposa Traicionera -by- Man&aacute;
+2017-02-11T06:48:14+01:00 INFO: NDR Blue: Starchild -by- Boys Noize
+2017-02-11T06:52:14+01:00 INFO: NDR Blue: Used To Love U (Used To Love You) -by- John Legend
+2017-02-11T06:55:14+01:00 INFO: NDR Blue: From Yesterday -by- 30 Seconds To Mars
+2017-02-11T07:00:14+01:00 INFO: NDR Blue: Inspector Norse -by- Todd Terje
+2017-02-11T07:05:15+01:00 INFO: NDR Blue: Is It Me -by- Kooks
+2017-02-11T07:09:15+01:00 INFO: NDR Blue: Lost On You -by- LP
+2017-02-11T07:12:15+01:00 INFO: NDR Blue: Minute By Minute -by- Doobie Brothers
+2017-02-11T07:15:16+01:00 INFO: NDR Blue: Do It, Try It -by- M83
+2017-02-11T07:18:16+01:00 INFO: NDR Blue: Only Love Can Save Us -by- Lovers Electric
+2017-02-11T07:22:16+01:00 INFO: NDR Blue: The Story Of Gods And Men -by- Skip The Use
+2017-02-11T07:25:16+01:00 INFO: NDR Blue: Money -by- Lady
+2017-02-11T07:28:16+01:00 INFO: NDR Blue: It Takes Two -by- Rob Base &amp; DJ E-Z Rock
+2017-02-11T07:33:17+01:00 INFO: NDR Blue: Tag Team -by- Lawrence Taylor
+2017-02-11T07:37:17+01:00 INFO: NDR Blue: This Sure As Hell Ain&#39;t My Life -by- Billy The Kid &amp; Frank Turner
+2017-02-11T07:40:17+01:00 INFO: NDR Blue: Black Sun -by- Death Cab For Cutie
+2017-02-11T07:44:18+01:00 INFO: NDR Blue: Happy -by- C2C &amp; Derek Martin
+2017-02-11T07:48:18+01:00 INFO: NDR Blue: Days Like This -by- Van Morrison
+2017-02-11T07:51:18+01:00 INFO: NDR Blue: Ninth Night -by- Wolf People
+2017-02-11T07:54:18+01:00 INFO: NDR Blue: F&uuml;r Immer Und Dich -by- Jan Delay
+2017-02-11T07:59:19+01:00 INFO: NDR Blue: Summertime Sadness -by- Lana del Rey
+2017-02-11T08:04:19+01:00 INFO: NDR Blue: First World Problem -by- Unknown Mortal Orchestra
+2017-02-11T08:08:19+01:00 INFO: NDR Blue: Reagan&#39;s Skeleton -by- Yeasayer
+2017-02-11T08:12:19+01:00 INFO: NDR Blue: Firestarter -by- Prodigy
+2017-02-11T08:16:20+01:00 INFO: NDR Blue: Burn The Witch -by- Radiohead
+2017-02-11T08:19:20+01:00 INFO: NDR Blue: Alphabet St. -by- Prince
+2017-02-11T08:25:20+01:00 INFO: NDR Blue: Son And Daughters -by- Allman Brown
+2017-02-11T08:28:21+01:00 INFO: NDR Blue: Lass Die Liebe Regieren -by- Madsen
+2017-02-11T08:31:21+01:00 INFO: NDR Blue: An English Gentleman -by- James Dean Bradfield
+2017-02-11T08:35:21+01:00 INFO: NDR Blue: Swans -by- Prefab Sprout
+2017-02-11T08:37:21+01:00 INFO: NDR Blue: Jungle -by- Panama
+2017-02-11T08:41:21+01:00 INFO: NDR Blue: Brother -by- Mighty Oaks
+2017-02-11T08:44:22+01:00 INFO: NDR Blue: Lovesong -by- Adele
+2017-02-11T08:49:22+01:00 INFO: NDR Blue: Hypno-skate -by- LNZNDRF
+2017-02-11T08:56:22+01:00 INFO: NDR Blue: Once Upon A Time -by- Air
+2017-02-11T09:00:23+01:00 INFO: NDR Blue: Hey Laura -by- Gregory Porter
+2017-02-11T09:05:23+01:00 INFO: NDR Blue: Wasted Love -by- City and Colour
+2017-02-11T09:08:23+01:00 INFO: NDR Blue: Show Me Something New -by- Shout Out Louds
+2017-02-11T09:11:23+01:00 INFO: NDR Blue: All Things All At Once -by- Tired Pony
+2017-02-11T09:14:24+01:00 INFO: NDR Blue: Burning Bridges -by- Patrice
+2017-02-11T09:18:24+01:00 INFO: NDR Blue: Headlock -by- Imogen Heap
+2017-02-11T09:21:24+01:00 INFO: NDR Blue: Fever -by- Black Keys
+2017-02-11T09:25:24+01:00 INFO: NDR Blue: Frankfurt Oder -by- Bosse &amp; Anna Loos
+2017-02-11T09:28:25+01:00 INFO: NDR Blue: Oblivius -by- Strokes
+2017-02-11T09:32:25+01:00 INFO: NDR Blue: Circadian Rhythm -by- Silversun Pickups
+2017-02-11T09:35:25+01:00 INFO: NDR Blue: Let&#39;s Get It On -by- Marvin Gaye
+2017-02-11T09:39:25+01:00 INFO: NDR Blue: Enter Sandman -by- Metallica
+2017-02-11T09:44:26+01:00 INFO: NDR Blue: Shimbalaie -by- Maria Gad&uacute;
+2017-02-11T09:48:26+01:00 INFO: NDR Blue: Howling -by- Ry X
+2017-02-11T09:52:26+01:00 INFO: NDR Blue: Baby -by- Angie Stone &amp; Betty Wright
+2017-02-11T09:56:29+01:00 INFO: NDR Blue: Vandaag -by- Bakermat
+2017-02-11T10:04:30+01:00 INFO: NDR Blue: Drowning -by- Banks
+2017-02-11T10:08:30+01:00 INFO: NDR Blue: How?? -by- flaming lips
+2017-02-11T10:13:31+01:00 INFO: NDR Blue: Slave To Love -by- Bryan Ferry
+2017-02-11T10:17:31+01:00 INFO: NDR Blue: Undress -by- Oscar &amp; The Wolf
+2017-02-11T10:20:31+01:00 INFO: NDR Blue: You Can&#39;t Go Home Again -by- Dj Shadow
+2017-02-11T10:25:32+01:00 INFO: NDR Blue: Corpses In Their Mouths -by- Ian Brown
+2017-02-11T10:29:33+01:00 INFO: NDR Blue: Better Things -by- Sharon Jones &amp; Dap Kings
+2017-02-11T10:33:33+01:00 INFO: NDR Blue: Tearz -by- Wu-Tang Clan
+2017-02-11T10:37:34+01:00 INFO: NDR Blue: Power Over Men -by- Jamie T
+2017-02-11T10:41:34+01:00 INFO: NDR Blue: Lego House -by- Ed Sheeran
+2017-02-11T10:44:34+01:00 INFO: NDR Blue: The Space Program -by- A Tribe Called Quest
+2017-02-11T10:50:35+01:00 INFO: NDR Blue: Wolves -by- Digitalism &amp; Youngblood Hawke
+2017-02-11T10:53:35+01:00 INFO: NDR Blue: She Used to Love Me A Lot -by- Johnny Cash
+2017-02-11T10:56:35+01:00 INFO: NDR Blue: Don&#39;t -by- Larkin Poe
+2017-02-11T11:04:37+01:00 INFO: NDR Blue: Here She Comes Again -by- R&ouml;yksopp
+2017-02-11T11:09:37+01:00 INFO: NDR Blue: Garden -by- Hinds
+2017-02-11T11:12:38+01:00 INFO: NDR Blue: L.I.F.E.G.O.E.S.O.N. -by- Noah And The Whale
+2017-02-11T11:16:38+01:00 INFO: NDR Blue: Prodigal Son -by- Rationale
+2017-02-11T11:20:38+01:00 INFO: NDR Blue: Pyramiding -by- Bodi Bill
+2017-02-11T11:23:39+01:00 INFO: NDR Blue: Hold On -by- Alabama Shakes
+2017-02-11T11:27:39+01:00 INFO: NDR Blue: Was Den Himmel Erhellt -by- Tomte
+2017-02-11T11:31:39+01:00 INFO: NDR Blue: 2nd Wave -by- Virgin Suicide
+2017-02-11T11:35:40+01:00 INFO: NDR Blue: Can You Tell Her I Said Hi? -by- Douglas Firs
+2017-02-11T11:38:40+01:00 INFO: NDR Blue: You Can&#39;t Change That -by- Raydio
+2017-02-11T11:42:40+01:00 INFO: NDR Blue: Here And Now -by- Ride
+2017-02-11T11:46:40+01:00 INFO: NDR Blue: Dance Me To The End Of Love -by- Madeleine Peyroux
+2017-02-11T11:50:41+01:00 INFO: NDR Blue: Randy -by- Justice
+2017-02-11T11:53:41+01:00 INFO: NDR Blue: Push &amp; Pull -by- Nikka Costa
+2017-02-11T11:58:42+01:00 INFO: NDR Blue: One Life Stand -by- Hot Chip
+2017-02-11T12:04:42+01:00 INFO: NDR Blue: All The Rage Back Home -by- Interpol
+2017-02-11T12:08:43+01:00 INFO: NDR Blue: Dancing On My Own -by- Calum Scott
+2017-02-11T12:12:43+01:00 INFO: NDR Blue: Somewhere In My Heart -by- Aztec Camera
+2017-02-11T12:16:43+01:00 INFO: NDR Blue: Endlessly -by- Guster
+2017-02-11T12:19:44+01:00 INFO: NDR Blue: Ghost Trains -by- Erlend &Oslash;ye
+2017-02-11T12:24:44+01:00 INFO: NDR Blue: Be Good To Me -by- Sia
+2017-02-11T12:28:44+01:00 INFO: NDR Blue: Body Movin&#39; -by- Beastie Boys
+2017-02-11T12:32:44+01:00 INFO: NDR Blue: I Know You Got Soul -by- Eric B. &amp; Rakim
+2017-02-11T12:37:45+01:00 INFO: NDR Blue: Wall Around Your Heart -by- Rifles
+2017-02-11T12:41:45+01:00 INFO: NDR Blue: Love Someone -by- Jason Mraz
+2017-02-11T12:44:45+01:00 INFO: NDR Blue: Carry On -by- Coeur De Pirate
+2017-02-11T12:48:46+01:00 INFO: NDR Blue: Ich R U -by- Boys Noize
+2017-02-11T12:52:46+01:00 INFO: NDR Blue: Northern Sky -by- Nick Drake
+2017-02-11T12:56:47+01:00 INFO: NDR Blue: Amputation -by- Jesus And Mary Chain
+2017-02-11T12:59:47+01:00 INFO: NDR Blue: Intoxication -by- Gentleman
+2017-02-11T15:04:37+01:00 INFO: NDR Blue: Mr. Brightside -by- Killers
+2017-02-11T15:08:37+01:00 INFO: NDR Blue: Heart Of A Dog -by- Kills
+2017-02-11T15:12:38+01:00 INFO: NDR Blue: Porcelain -by- Moby
+2017-02-11T15:15:38+01:00 INFO: NDR Blue: I Exhale -by- Underworld
+2017-02-11T15:19:42+01:00 INFO: NDR Blue: We got by -by- Al Jarreau
+2017-02-11T15:24:43+01:00 INFO: NDR Blue: Innerbloom -by- R&uuml;f&uuml;s
+2017-02-11T15:28:43+01:00 INFO: NDR Blue: Chicago -by- Clueso
+2017-02-11T15:31:44+01:00 INFO: NDR Blue: Biblical -by- Biffy Clyro
+2017-02-11T15:35:45+01:00 INFO: NDR Blue: Half The World Away -by- Oasis
+2017-02-11T15:39:45+01:00 INFO: NDR Blue: Temple -by- Parson James
+2017-02-11T15:43:46+01:00 INFO: NDR Blue: Jigsaw -by- Ryan Sheridan
+2017-02-11T15:47:46+01:00 INFO: NDR Blue: The Greatest Mistake -by- Handsome Boy Modeling School
+2017-02-11T15:51:46+01:00 INFO: NDR Blue: Bist Du Down? -by- Ace Tee &amp; Kwam.e
+2017-02-11T15:55:47+01:00 INFO: NDR Blue: Swoon -by- Chemical Brothers
+2017-02-11T15:58:47+01:00 INFO: NDR Blue: Holy Grail -by- Jay-Z &amp; Justin Timberlake
+2017-02-11T16:05:48+01:00 INFO: NDR Blue: Standing In The Rain -by- Action Bronson &amp; Mark; Auerbach,Dan Ronson
+2017-02-11T16:07:48+01:00 INFO: NDR Blue: Traffic Lights -by- Carnival Youth
+2017-02-11T16:12:48+01:00 INFO: NDR Blue: Nothing&#39;s Gonna Change Your Mind -by- Badly Drawn Boy
+2017-02-11T16:15:48+01:00 INFO: NDR Blue: Down South -by- Jeremy Loops &amp; Motheo Moleko
+2017-02-11T16:19:49+01:00 INFO: NDR Blue: Tidal -by- Imogen Heap
+2017-02-11T16:23:50+01:00 INFO: NDR Blue: Maybe Tomorrow -by- Stereophonics
+2017-02-11T16:26:50+01:00 INFO: NDR Blue: Wer Hat Schon Lust So Zu Leben -by- Mutter
+2017-02-11T16:30:50+01:00 INFO: NDR Blue: Some Minds -by- flume &amp; Andrew Wyatt
+2017-02-11T16:34:54+01:00 INFO: NDR Blue: Rennen -by- SOHN
+2017-02-11T16:38:54+01:00 INFO: NDR Blue: The Bottle -by- Gil Scott-Heron
+2017-02-11T16:43:55+01:00 INFO: NDR Blue: Sleepflowers -by- Manic Street Preachers
+2017-02-11T16:47:55+01:00 INFO: NDR Blue: Old Skin -by- &Oacute;lafur Arnalds &amp; Arnor Dan
+2017-02-11T16:52:56+01:00 INFO: NDR Blue: Shut Up Kiss Me -by- Angel Olsen
+2017-02-11T16:55:56+01:00 INFO: NDR Blue: Don&#39;t Say Goodbye -by- Sergio Mendes &amp; John Legend
+2017-02-11T16:59:58+01:00 INFO: NDR Blue: Don&#39;t Wanna Dance -by- M&Oslash;
+2017-02-11T17:04:59+01:00 INFO: NDR Blue: You &amp; I -by- Crystal Fighters
+2017-02-11T17:08:59+01:00 INFO: NDR Blue: Gimme -by- ABU
+2017-02-11T17:11:59+01:00 INFO: NDR Blue: The Downeaster &#39;Alexa&#39; -by- Billy Joel
+2017-02-11T17:16:00+01:00 INFO: NDR Blue: Breaking -by- Liam Bailey
+2017-02-11T17:19:00+01:00 INFO: NDR Blue: A Real Hero -by- College
+2017-02-11T17:24:01+01:00 INFO: NDR Blue: Breathe Life -by- Jack Garratt
+2017-02-11T17:28:01+01:00 INFO: NDR Blue: Space Cowboy -by- Jamiroquai
+2017-02-11T17:31:02+01:00 INFO: NDR Blue: Know How -by- Young MC
+2017-02-11T17:36:03+01:00 INFO: NDR Blue: Rabbit Rabbit -by- My Jerusalem
+2017-02-11T17:39:04+01:00 INFO: NDR Blue: 3x5 -by- John Mayer
+2017-02-11T17:44:04+01:00 INFO: NDR Blue: Horses -by- Francis
+2017-02-11T17:47:04+01:00 INFO: NDR Blue: Organ Donor -by- DJ Shadow
+2017-02-11T17:51:04+01:00 INFO: NDR Blue: Ride The River -by- J. J. Cale &amp; Eric Clapton
+2017-02-11T17:56:05+01:00 INFO: NDR Blue: Sunrise (Eyes Of The Young) -by- flaming lips
+2017-02-11T18:05:05+01:00 INFO: NDR Blue: Soundcheck -by- Catfish And The Bottlemen
+2017-02-11T18:09:06+01:00 INFO: NDR Blue: 911 -by- Delta Spirit
+2017-02-11T18:12:06+01:00 INFO: NDR Blue: Without Your Skin -by- Keaton Simons
+2017-02-11T18:16:06+01:00 INFO: NDR Blue: Come A Little Closer -by- Timothy Auld
+2017-02-11T18:19:07+01:00 INFO: NDR Blue: Wine &amp; Chocolate -by- Theophilus London
+2017-02-11T18:23:07+01:00 INFO: NDR Blue: Animal -by- Miike Snow
+2017-02-11T18:27:07+01:00 INFO: NDR Blue: Ende Der Besuchszeit -by- Tele
+2017-02-11T18:32:08+01:00 INFO: NDR Blue: Good Grief -by- Bastille
+2017-02-11T18:35:08+01:00 INFO: NDR Blue: Gimme The Love -by- Jake Bugg
+2017-02-11T18:38:09+01:00 INFO: NDR Blue: Don&#39;t Quit -by- Caron Wheeler
+2017-02-11T18:42:09+01:00 INFO: NDR Blue: Movin&#39;On Up -by- Primal Scream
+2017-02-11T18:45:10+01:00 INFO: NDR Blue: Voil&agrave; L&#39;&eacute;t&eacute; -by- Les N&eacute;gresses Vertes
+2017-02-11T18:50:10+01:00 INFO: NDR Blue: Ketamine For Breakfast -by- Kate Tempest
+2017-02-11T18:52:10+01:00 INFO: NDR Blue: Just Ain&#39;t Gonna Work Out -by- Mayer Hawthorne
+2017-02-11T18:55:10+01:00 INFO: NDR Blue: Miami Waters -by- The/Das
+2017-02-11T19:06:11+01:00 INFO: NDR Blue: What Katie Did -by- Libertines
+2017-02-11T19:10:11+01:00 INFO: NDR Blue: Last Confession -by- Heavy
+2017-02-11T19:13:12+01:00 INFO: NDR Blue: See You -by- Depeche Mode
+2017-02-11T19:17:12+01:00 INFO: NDR Blue: Drunk Drivers / Killer Whales -by- Car Seat Headrest
+2017-02-11T19:23:15+01:00 INFO: NDR Blue: All I Ever Need -by- Caribou
+2017-02-11T19:26:15+01:00 INFO: NDR Blue: Dear God Please Help Me -by- Morrissey
+2017-02-11T19:32:16+01:00 INFO: NDR Blue: Big Easy -by- Raphael Saadiq &amp; Infamous Young Spodie; Rebirth Brass Band
+2017-02-11T19:35:16+01:00 INFO: NDR Blue: Doin&#39; It -by- L. L. Cool J
+2017-02-11T19:41:19+01:00 INFO: NDR Blue: Home -by- Neil Thomas
+2017-02-11T19:44:19+01:00 INFO: NDR Blue: Pretty Things -by- Rufus Wainwright
+2017-02-11T19:46:19+01:00 INFO: NDR Blue: Cloud Rider -by- Paul Kalkbrenner
+2017-02-11T19:50:19+01:00 INFO: NDR Blue: Your Love -by- Totally Enormous Extinct Dinosaurs
+2017-02-11T19:54:20+01:00 INFO: NDR Blue: It&#39;s All Over Now, Baby Blue -by- Van Morrison
+2017-02-11T19:58:20+01:00 INFO: NDR Blue: A Thousand Faces -by- Boy &amp; Bear
+2017-02-11T20:06:21+01:00 INFO: NDR Blue: Poker Face -by- Lady Gaga
+2017-02-11T20:10:21+01:00 INFO: NDR Blue: Born This Way -by- Lady GaGa
+2017-02-11T20:16:22+01:00 INFO: NDR Blue: Alejandro -by- Lady Gaga
+2017-02-11T20:21:25+01:00 INFO: NDR Blue: Boys Boys Boys -by- Lady Gaga
+2017-02-11T20:23:25+01:00 INFO: NDR Blue: Bad Romance -by- Lady GaGa
+2017-02-11T20:41:27+01:00 INFO: NDR Blue: West End Girls -by- Pet Shop Boys
+2017-02-11T20:45:28+01:00 INFO: NDR Blue: It&#39;s A Sin -by- Pet Shop Boys
+2017-02-11T20:50:28+01:00 INFO: NDR Blue: Suburbia -by- Pet Shop Boys
+2017-02-11T20:56:29+01:00 INFO: NDR Blue: Mit Jedem Deiner Fehler -by- Philipp Poisel
+2017-02-11T21:06:30+01:00 INFO: NDR Blue: Whenever, Wherever -by- Shakira
+2017-02-11T21:17:31+01:00 INFO: NDR Blue: Hips Don&#39;t Lie -by- Shakira &amp; Wyclef Jean
+2017-02-11T21:24:31+01:00 INFO: NDR Blue: Estoy Aqui -by- Shakira
+2017-02-11T21:31:32+01:00 INFO: NDR Blue: Only Time Willl Tell -by- Asia
+2017-02-11T21:37:32+01:00 INFO: NDR Blue: Don&#39;t Cry -by- Asia
+2017-02-11T21:41:32+01:00 INFO: NDR Blue: The Smile Has Left Your Eyes -by- Asia
+2017-02-11T21:48:33+01:00 INFO: NDR Blue: Heat Of The Moment -by- Asia
+2017-02-11T21:55:33+01:00 INFO: NDR Blue: Here Comes The Feeling -by- Asia

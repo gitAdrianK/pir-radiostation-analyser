@@ -1,0 +1,68 @@
+2017-02-12T00:00:45+01:00 INFO: NDR Plus: Herzklopfen -by- Michelle
+2017-02-12T00:06:45+01:00 INFO: NDR Plus: Komm, komm zu mir -by- Edina Pop
+2017-02-12T00:09:46+01:00 INFO: NDR Plus: Time is tight -by- Booker T. &amp; The M.G.&#39;s
+2017-02-12T00:12:46+01:00 INFO: NDR Plus: Vergeben, vergessen und wieder vertrau&#39;n -by- Helene Fischer
+2017-02-12T00:17:46+01:00 INFO: NDR Plus: Stille Wasser, die sind tief -by- Paola
+2017-02-12T00:20:46+01:00 INFO: NDR Plus: Japanese boy -by- Andrea J&uuml;rgens
+2017-02-12T00:23:47+01:00 INFO: NDR Plus: Y tu -by- Luisa Fernandez &amp; Peter Kent
+2017-02-12T00:27:47+01:00 INFO: NDR Plus: Kreide auf Asphalt -by- Bruck
+2017-02-12T00:30:47+01:00 INFO: NDR Plus: Sch&ouml;n wie Mona Lisa (Wenn ich ein Maler w&auml;r&#39;) -by- Demis Roussos
+2017-02-12T00:34:48+01:00 INFO: NDR Plus: Hei&szlig;er Sand -by- Mina
+2017-02-12T00:37:48+01:00 INFO: NDR Plus: Ich mu&szlig; dich wiederseh&#39;n -by- Paldauer
+2017-02-12T00:41:49+01:00 INFO: NDR Plus: Winchester Cathedral -by- New Vaudeville Band
+2017-02-12T00:43:49+01:00 INFO: NDR Plus: Wer seine Liebe lebt -by- Beatrice Egli
+2017-02-12T00:47:51+01:00 INFO: NDR Plus: Xanadu -by- Ireen Sheer
+2017-02-12T00:51:51+01:00 INFO: NDR Plus: Amore, Amore -by- Claudia Jung
+2017-02-12T00:54:52+01:00 INFO: NDR Plus: Chicago (that toddling town) -by- Frank Sinatra
+2017-02-12T00:57:52+01:00 INFO: NDR Plus: Ich denk&#39; noch oft an Marianne -by- Waterloo &amp; Robinson
+2017-02-12T01:00:52+01:00 INFO: NDR Plus: Baby it&#39;s you -by- Nadine Beiler &amp; Gilbert
+2017-02-12T01:07:53+01:00 INFO: NDR Plus: Im Wagen vor mir -by- Henry Valentino &amp; Uschi
+2017-02-12T01:10:53+01:00 INFO: NDR Plus: K&uuml;&szlig; die Sonne her -by- Claudia Christina
+2017-02-12T01:13:53+01:00 INFO: NDR Plus: Drei Musketiere -by- Conny Froboess
+2017-02-12T01:16:53+01:00 INFO: NDR Plus: If you could read my mind -by- Gordon Lightfoot
+2017-02-12T01:19:54+01:00 INFO: NDR Plus: H&ouml;rst du denn noch immer Al Martino -by- Kristina Bach
+2017-02-12T01:22:54+01:00 INFO: NDR Plus: The Magnificent Seven -by- Alexander &quot;Al&quot; Caiola
+2017-02-12T01:25:54+01:00 INFO: NDR Plus: Wenn du mal einsam bist -by- Chris Roberts
+2017-02-12T01:27:54+01:00 INFO: NDR Plus: Du kannst mir ruhig mein Herz klauen -by- Michele Joy
+2017-02-12T01:32:55+01:00 INFO: NDR Plus: Spaniens Gitarren -by- Cindy &amp; Bert
+2017-02-12T01:34:55+01:00 INFO: NDR Plus: Mach was du willst... -by- Nicole
+2017-02-12T01:41:55+01:00 INFO: NDR Plus: Liebes Universum -by- Isabel Varell
+2017-02-12T01:44:55+01:00 INFO: NDR Plus: Moody river -by- Pat Boone
+2017-02-12T01:47:56+01:00 INFO: NDR Plus: Weil ich verliebt in dich bin -by- Wind
+2017-02-12T01:50:56+01:00 INFO: NDR Plus: Vom Stadtpark die Laternen -by- Gitte &amp; Rex Gildo
+2017-02-12T01:53:56+01:00 INFO: NDR Plus: Jetzt erst recht! -by- KluBBB3
+2017-02-12T01:56:56+01:00 INFO: NDR Plus: Ich fange nie mehr was an einem Sonntag an -by- Monica Morell
+2017-02-12T02:00:57+01:00 INFO: NDR Plus: Wir sind jung (Oh Maria) -by- Roger Whittaker
+2017-02-12T02:06:57+01:00 INFO: NDR Plus: Ich tr&auml;ume mit offenen Augen von dir -by- Ulli Martin
+2017-02-12T02:09:57+01:00 INFO: NDR Plus: Bilder von dir -by- Gaby Albrecht
+2017-02-12T02:13:58+01:00 INFO: NDR Plus: Guaglione -by- P&eacute;rez Prado
+2017-02-12T02:16:58+01:00 INFO: NDR Plus: &Uuml;ber die Br&uuml;cke geh&#39;n -by- Ingrid Peters
+2017-02-12T02:19:58+01:00 INFO: NDR Plus: Zwei Apfelsinen im Haar -by- France Gall
+2017-02-12T02:22:58+01:00 INFO: NDR Plus: Bessere H&auml;lfte -by- Madeline Willers
+2017-02-12T02:25:58+01:00 INFO: NDR Plus: Wings of an eagle -by- Classics
+2017-02-12T02:28:59+01:00 INFO: NDR Plus: Immer wenn wir zwei uns lieben -by- Angelika Milster
+2017-02-12T02:32:59+01:00 INFO: NDR Plus: Schau mal herein -by- Bernd Cl&uuml;ver &amp; Marion Maerz
+2017-02-12T02:36:59+01:00 INFO: NDR Plus: Gloria IILebenslust und Leidenschaft -by- Nik P.
+2017-02-12T02:41:00+01:00 INFO: NDR Plus: Danke Sch&ouml;n -by- Botho Lucas-Chor
+2017-02-12T02:43:00+01:00 INFO: NDR Plus: Unbeschreiblich sch&ouml;n -by- Maurice Zappe
+2017-02-12T02:47:00+01:00 INFO: NDR Plus: Ganz Paris ist ein Theater -by- Mireille Mathieu
+2017-02-12T02:51:00+01:00 INFO: NDR Plus: Sie bei&szlig;t und kratzt -by- Dirk Busch
+2017-02-12T02:54:00+01:00 INFO: NDR Plus: Honeycomb -by- Ray Conniff
+2017-02-12T02:56:01+01:00 INFO: NDR Plus: Schatten an der Wand -by- Olaf Berger
+2017-02-12T02:59:01+01:00 INFO: NDR Plus: Himbeereis zum Fr&uuml;hst&uuml;ck -by- Hoffmann &amp; Hoffmann
+2017-02-12T03:07:01+01:00 INFO: NDR Plus: Anita -by- Costa Cordalis
+2017-02-12T03:11:02+01:00 INFO: NDR Plus: Z&auml;hl nicht nur die Jahre -by- Gerd Christian
+2017-02-12T03:17:02+01:00 INFO: NDR Plus: Flieger -by- Nino de Angelo
+2017-02-12T03:20:02+01:00 INFO: NDR Plus: Only yesterday -by- Carpenters
+2017-02-12T03:25:02+01:00 INFO: NDR Plus: Einmal ja gesagtf&uuml;r immer ja gesagt -by- Semino Rossi
+2017-02-12T03:28:03+01:00 INFO: NDR Plus: Wir sitzen beide am selben Feuer -by- Peter Rubin
+2017-02-12T03:31:03+01:00 INFO: NDR Plus: Feuervogel -by- Andrea Berg
+2017-02-12T03:34:03+01:00 INFO: NDR Plus: Es m&uuml;ssen keine Rosen sein -by- Katja Ebstein
+2017-02-12T03:38:03+01:00 INFO: NDR Plus: Ich will nicht wissen, wie du hei&szlig;t -by- Andy Borg
+2017-02-12T03:41:04+01:00 INFO: NDR Plus: Z&auml;hl nicht nur die Jahre -by- Gerd Christian
+2017-02-12T03:44:04+01:00 INFO: NDR Plus: Wenn du hier bleibst -by- Andr&eacute; Stade
+2017-02-12T03:48:04+01:00 INFO: NDR Plus: Rag Doll -by- Four Seasons
+2017-02-12T03:51:04+01:00 INFO: NDR Plus: Spiel den Sirtaki noch mal -by- Patrick Lindner
+2017-02-12T03:54:04+01:00 INFO: NDR Plus: Er hat ein knallrotes Gummiboot -by- Wencke Myhre
+2017-02-12T03:58:05+01:00 INFO: NDR Plus: Weil ich dich so mag -by- Hansi Hinterseer
+2017-02-12T04:01:05+01:00 INFO: NDR Plus: San Diego Train -by- Siw Inger

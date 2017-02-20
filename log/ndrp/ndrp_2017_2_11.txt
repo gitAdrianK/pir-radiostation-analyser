@@ -1,0 +1,411 @@
+2017-02-11T00:06:35+01:00 INFO: NDR Plus: Mein Schatz, du bist &#39;ne Wucht -by- Chris Roberts
+2017-02-11T00:10:37+01:00 INFO: NDR Plus: Mein sch&ouml;nstes Gedicht -by- Gilbert
+2017-02-11T00:13:37+01:00 INFO: NDR Plus: Zuckerpuppe (aus der Bauchtanztruppe) -by- Bill Ramsey
+2017-02-11T00:15:37+01:00 INFO: NDR Plus: Kiss me kiss your baby -by- Brotherhood Of Man
+2017-02-11T00:19:38+01:00 INFO: NDR Plus: Tausendmal du -by- M&uuml;nchener Freiheit
+2017-02-11T00:23:39+01:00 INFO: NDR Plus: Gib mir die Hand -by- Roy Etzel
+2017-02-11T00:25:39+01:00 INFO: NDR Plus: Marina -by- Phil &amp; John
+2017-02-11T00:28:39+01:00 INFO: NDR Plus: Bist auch du allein -by- Julian Frank
+2017-02-11T00:31:40+01:00 INFO: NDR Plus: Ob es so oder so oder anders kommt -by- Lena Valaitis
+2017-02-11T00:35:40+01:00 INFO: NDR Plus: Irgendwann, irgendwo, irgendwie (seh&#39;n wir uns wieder) -by- J&uuml;rgen Drews
+2017-02-11T00:38:40+01:00 INFO: NDR Plus: A sunny day in Heidelberg -by- Horst Jankowski
+2017-02-11T00:42:41+01:00 INFO: NDR Plus: Come on let&#39;s dance -by- Nik P.
+2017-02-11T00:45:41+01:00 INFO: NDR Plus: A little bitty tear -by- Johnny Burnette
+2017-02-11T00:47:41+01:00 INFO: NDR Plus: Wie Mona Lisa -by- Leonard
+2017-02-11T00:50:42+01:00 INFO: NDR Plus: Boom Bang-A-Bang -by- Heidi Br&uuml;hl
+2017-02-11T00:52:42+01:00 INFO: NDR Plus: Eine aus Millionen -by- Feuerherz
+2017-02-11T00:55:42+01:00 INFO: NDR Plus: Rocky -by- Frank Farian
+2017-02-11T00:59:42+01:00 INFO: NDR Plus: Doch abends f&auml;ngt die Sehnsucht an -by- Olaf Berger
+2017-02-11T01:07:43+01:00 INFO: NDR Plus: Dich erkenn ich mit verbundenen Augen -by- Bata Illic
+2017-02-11T01:09:44+01:00 INFO: NDR Plus: Happy time -by- Peter M&ouml;sser&#39;s Music
+2017-02-11T01:11:47+01:00 INFO: NDR Plus: Du gibst mir dieses Herzgef&uuml;hl -by- Olaf
+2017-02-11T01:14:47+01:00 INFO: NDR Plus: Heimweh -by- Freddy Quinn
+2017-02-11T01:19:48+01:00 INFO: NDR Plus: Der letzte Tango -by- Frans Bauer
+2017-02-11T01:21:48+01:00 INFO: NDR Plus: Sorry, I&#39;m a lady -by- Baccara
+2017-02-11T01:26:49+01:00 INFO: NDR Plus: Liebe lebt ewig -by- Anni Perka
+2017-02-11T01:28:49+01:00 INFO: NDR Plus: Es ist nie zu sp&auml;t -by- Peter Orloff
+2017-02-11T01:31:50+01:00 INFO: NDR Plus: Alles kommt wie es kommt -by- Markus
+2017-02-11T01:33:50+01:00 INFO: NDR Plus: Achterbahn -by- Rolf Zuckowski
+2017-02-11T01:37:50+01:00 INFO: NDR Plus: El bimbo -by- Bimbo Jet
+2017-02-11T01:39:50+01:00 INFO: NDR Plus: Ich k&ouml;nnt&#39; nicht leben ohne dich -by- Gaby Baginsky
+2017-02-11T01:44:51+01:00 INFO: NDR Plus: Wer hat mein Lied so zerst&ouml;rt, Ma? -by- Daliah Lavi
+2017-02-11T01:49:51+01:00 INFO: NDR Plus: Mambofieber -by- Stefanie Hertel &amp; Stefan Mross
+2017-02-11T01:51:51+01:00 INFO: NDR Plus: Round and round -by- Perry Como
+2017-02-11T01:54:51+01:00 INFO: NDR Plus: Ich w&auml;r&#39; so gern wie du -by- Bernhard Brink
+2017-02-11T01:57:52+01:00 INFO: NDR Plus: So lang mein Herz noch schl&auml;gt -by- Nino de Angelo
+2017-02-11T02:00:52+01:00 INFO: NDR Plus: Amsterdam (Liebe hat total versagt) -by- Cora
+2017-02-11T02:06:53+01:00 INFO: NDR Plus: La&szlig; mein Knie, Joe -by- Wencke Myhre
+2017-02-11T02:09:53+01:00 INFO: NDR Plus: Sowieso f&uuml;r dich das Letzte -by- Matthias Reim
+2017-02-11T02:13:53+01:00 INFO: NDR Plus: Rot ist der Wein -by- Ivo Robic
+2017-02-11T02:15:53+01:00 INFO: NDR Plus: Beautiful rose -by- George Baker Selection
+2017-02-11T02:18:54+01:00 INFO: NDR Plus: Fahrrad fahr&#39;n -by- Achim Reichel
+2017-02-11T02:22:54+01:00 INFO: NDR Plus: La Golondrina -by- Holger Petersen
+2017-02-11T02:25:54+01:00 INFO: NDR Plus: Josie -by- Peter Maffay
+2017-02-11T02:28:54+01:00 INFO: NDR Plus: Vergiss mich nie -by- Andrea J&uuml;rgens
+2017-02-11T02:32:54+01:00 INFO: NDR Plus: Es f&auml;hrt ein Zug nach Nirgendwo -by- Christian Anders
+2017-02-11T02:37:55+01:00 INFO: NDR Plus: Komm, geh mit mir nach Kanada -by- Michael Morgan
+2017-02-11T02:41:55+01:00 INFO: NDR Plus: Delicado -by- Percy Faith
+2017-02-11T02:43:55+01:00 INFO: NDR Plus: Im siebten Himmel -by- Hansi Hinterseer
+2017-02-11T02:46:55+01:00 INFO: NDR Plus: Fifty-ninth street bridge song (Feeling groovy) -by- G&uuml;nter Kallmann Chor
+2017-02-11T02:50:56+01:00 INFO: NDR Plus: Dornr&ouml;schen ist aufgewacht -by- Michelle
+2017-02-11T02:53:56+01:00 INFO: NDR Plus: Verliebt, verlobt, verheiratet -by- Cornelia Froboess &amp; Peter Alexander
+2017-02-11T02:55:56+01:00 INFO: NDR Plus: 3000 Jahre -by- Paldauer
+2017-02-11T03:06:57+01:00 INFO: NDR Plus: Vergi&szlig; die Liebe nicht -by- Udo J&uuml;rgens
+2017-02-11T03:09:57+01:00 INFO: NDR Plus: Mexican hat dance -by- James Last
+2017-02-11T03:11:57+01:00 INFO: NDR Plus: Das kann kein Zufall sein -by- Caro
+2017-02-11T03:14:57+01:00 INFO: NDR Plus: Das kannst du mir nicht verbieten -by- Bernd Spier
+2017-02-11T03:17:58+01:00 INFO: NDR Plus: Shananana (la&szlig;&#39; uns leben) -by- Brunner &amp; Brunner
+2017-02-11T03:21:58+01:00 INFO: NDR Plus: Abilene -by- George IV Hamilton
+2017-02-11T03:23:58+01:00 INFO: NDR Plus: Vielleicht mal nach Berlin -by- Oliver Lukas &amp; Caroline Beil
+2017-02-11T03:26:58+01:00 INFO: NDR Plus: Fahrende Musikanten -by- Nina &amp; Mike
+2017-02-11T03:27:58+01:00 INFO: NDR Plus: Das kann kein Zufall sein -by- Caro
+2017-02-11T03:30:58+01:00 INFO: NDR Plus: Casanova bacia mi -by- Petula Clark
+2017-02-11T03:34:59+01:00 INFO: NDR Plus: Linda -by- Ace Cats
+2017-02-11T03:36:59+01:00 INFO: NDR Plus: Charmaine -by- Mantovani
+2017-02-11T03:39:59+01:00 INFO: NDR Plus: Hallo hallo -by- Sarah Jane Scott
+2017-02-11T03:42:59+01:00 INFO: NDR Plus: Auf der Stra&szlig;e nach S&uuml;den -by- Tony Marshall
+2017-02-11T03:47:00+01:00 INFO: NDR Plus: Samstag nacht -by- Howard Carpendale
+2017-02-11T03:51:00+01:00 INFO: NDR Plus: Island in the sun -by- Harry Belafonte
+2017-02-11T03:54:00+01:00 INFO: NDR Plus: Dein Herz, das mu&szlig; aus Gold sein -by- Anna-Lena
+2017-02-11T03:56:00+01:00 INFO: NDR Plus: M&auml;nner und Frauen -by- Freudenberg &amp; Lais
+2017-02-11T04:07:01+01:00 INFO: NDR Plus: Alle Liebe dieser Erde -by- Julio Iglesias
+2017-02-11T04:11:01+01:00 INFO: NDR Plus: G&ouml;ttergatte -by- Claudia Jung
+2017-02-11T04:14:01+01:00 INFO: NDR Plus: So f&auml;ngt es immer an -by- Alma Cogan
+2017-02-11T04:17:02+01:00 INFO: NDR Plus: Charly Boy -by- Tina Rainford
+2017-02-11T04:21:02+01:00 INFO: NDR Plus: Komm unter meine Decke -by- Gunter Gabriel
+2017-02-11T04:25:02+01:00 INFO: NDR Plus: Sail along silv&#39;ry moon -by- Captain Cook &amp; seine singenden Saxophone
+2017-02-11T04:27:02+01:00 INFO: NDR Plus: Der Wein war aus Bordeaux -by- Mireille Mathieu
+2017-02-11T04:31:02+01:00 INFO: NDR Plus: Musik ist mein Leben -by- Wolfgang Petry
+2017-02-11T04:34:03+01:00 INFO: NDR Plus: Ein Schlafsack und eine Gitarre -by- Renate und Werner Leismann
+2017-02-11T04:38:03+01:00 INFO: NDR Plus: Comme cicomme &ccedil;a -by- Leonard
+2017-02-11T04:41:03+01:00 INFO: NDR Plus: Hawaii tattoo -by- Waikikis
+2017-02-11T04:44:03+01:00 INFO: NDR Plus: La cancion de la paz -by- Semino Rossi
+2017-02-11T04:48:04+01:00 INFO: NDR Plus: Wonderful world -by- Sam Cooke
+2017-02-11T04:49:04+01:00 INFO: NDR Plus: Gib&#39; mein Herz zur&uuml;ck -by- G. G. Anderson
+2017-02-11T04:53:04+01:00 INFO: NDR Plus: Dein sch&ouml;nstes Geschenk -by- Roy Black
+2017-02-11T04:55:04+01:00 INFO: NDR Plus: Zwillingsstern -by- Gina
+2017-02-11T04:59:04+01:00 INFO: NDR Plus: Mr. Paul McCartney -by- Marianne Rosenberg
+2017-02-11T05:07:05+01:00 INFO: NDR Plus: Jeder hat dich gerneiner hat dich lieb -by- Peter Orloff
+2017-02-11T05:10:05+01:00 INFO: NDR Plus: Winnetou-Melodie -by- Martin B&ouml;ttcher
+2017-02-11T05:13:05+01:00 INFO: NDR Plus: Ich bin dein Co-Pilot -by- Matthias Carras
+2017-02-11T05:16:05+01:00 INFO: NDR Plus: Alle Blumen brauchen Sonne -by- Renate Kern
+2017-02-11T05:19:06+01:00 INFO: NDR Plus: Die Fischer von San Juan -by- Tommy Steiner
+2017-02-11T05:23:06+01:00 INFO: NDR Plus: All kinds of everything -by- Dana
+2017-02-11T05:26:06+01:00 INFO: NDR Plus: Der alten Zeiten wegen -by- Markus
+2017-02-11T05:30:06+01:00 INFO: NDR Plus: Liebeslied jener Sommernacht -by- Daliah Lavi
+2017-02-11T05:34:07+01:00 INFO: NDR Plus: Juanita banana -by- Mal Sondock
+2017-02-11T05:36:07+01:00 INFO: NDR Plus: Es war keine Nacht zuviel -by- Kristina Bach
+2017-02-11T05:40:07+01:00 INFO: NDR Plus: Plaisir d&#39; amour -by- Norman Candler
+2017-02-11T05:43:07+01:00 INFO: NDR Plus: Der letzte Tag im Paradies -by- Andrea Berg
+2017-02-11T05:47:07+01:00 INFO: NDR Plus: Der Stern von Mykonos -by- Katja Ebstein
+2017-02-11T05:50:08+01:00 INFO: NDR Plus: Die ganze Nacht an dich gedacht -by- Wind
+2017-02-11T05:53:08+01:00 INFO: NDR Plus: Sh-boom (life could be a dream) -by- Crew-Cuts
+2017-02-11T05:56:08+01:00 INFO: NDR Plus: Abschiedssouvenir -by- Pussycat
+2017-02-11T06:00:08+01:00 INFO: NDR Plus: Adio Amore -by- Patrick Lindner
+2017-02-11T06:05:09+01:00 INFO: NDR Plus: &Uuml;berdosis Gl&uuml;ck -by- Fux
+2017-02-11T06:09:09+01:00 INFO: NDR Plus: Tanze Samba mit mir -by- Tony Holiday
+2017-02-11T06:12:09+01:00 INFO: NDR Plus: Der Richtige -by- Schwesterherz
+2017-02-11T06:15:09+01:00 INFO: NDR Plus: Monsieur Dupont -by- Manuela
+2017-02-11T06:18:10+01:00 INFO: NDR Plus: Uns geiht dat good -by- Godewind
+2017-02-11T06:20:10+01:00 INFO: NDR Plus: Begin the Beguine (Volver a empezar) -by- Caravelli
+2017-02-11T06:24:10+01:00 INFO: NDR Plus: Ein Kuss von dir -by- Ireen Sheer
+2017-02-11T06:27:12+01:00 INFO: NDR Plus: One way wind -by- Cats
+2017-02-11T06:31:12+01:00 INFO: NDR Plus: K&uuml;sse von dir -by- Rex Gildo
+2017-02-11T06:34:13+01:00 INFO: NDR Plus: Im n&auml;chsten Leben -by- Nik P.
+2017-02-11T06:38:13+01:00 INFO: NDR Plus: Primaballerina -by- Siw Malmkvist
+2017-02-11T06:41:13+01:00 INFO: NDR Plus: Ich mach ein gl&uuml;ckliches M&auml;dchen aus dir -by- Chris Roberts
+2017-02-11T06:44:13+01:00 INFO: NDR Plus: Heute habe ich an dich gedacht -by- Bernhard Brink &amp; Audrey Landers
+2017-02-11T06:47:14+01:00 INFO: NDR Plus: Everybody loves a lover -by- Doris Day
+2017-02-11T06:50:14+01:00 INFO: NDR Plus: Ein Adler kann nicht fliegen (solange er im K&auml;fig sitzt) -by- Tina York
+2017-02-11T06:53:14+01:00 INFO: NDR Plus: R&uuml;ckenwind -by- Vincent Gross
+2017-02-11T06:57:14+01:00 INFO: NDR Plus: El condor pasa -by- Los Incas
+2017-02-11T07:05:15+01:00 INFO: NDR Plus: Komm&#39; gib mir deine Hand -by- Tony Marshall
+2017-02-11T07:09:15+01:00 INFO: NDR Plus: Aus Freude am Leben -by- Peter Sebastian
+2017-02-11T07:12:15+01:00 INFO: NDR Plus: Die letzte Rose -by- Roy Etzel
+2017-02-11T07:15:16+01:00 INFO: NDR Plus: Lieber jetzt und ohne Ende -by- Andy Borg
+2017-02-11T07:19:16+01:00 INFO: NDR Plus: Shake hands -by- Drafi Deutscher
+2017-02-11T07:21:16+01:00 INFO: NDR Plus: Baby it&#39;s you -by- Nadine Beiler &amp; Gilbert
+2017-02-11T07:25:16+01:00 INFO: NDR Plus: Canzone blu -by- Al Bano &amp; Romina Power
+2017-02-11T07:28:16+01:00 INFO: NDR Plus: Lenasteig in mein rotes Cabriolet -by- Flippers
+2017-02-11T07:32:17+01:00 INFO: NDR Plus: Ich spreche alle Sprachen dieser Welt -by- Lena Valaitis
+2017-02-11T07:36:17+01:00 INFO: NDR Plus: Ein Lied auf das Leben -by- Feuerherz
+2017-02-11T07:39:17+01:00 INFO: NDR Plus: Hallo-ahe -by- De Plattf&ouml;&ouml;t
+2017-02-11T07:42:17+01:00 INFO: NDR Plus: Kreide auf Asphalt -by- Bruck
+2017-02-11T07:46:18+01:00 INFO: NDR Plus: Ein bi&szlig;chen Goethe, ein bi&szlig;chen Bonaparte -by- France Gall
+2017-02-11T07:48:18+01:00 INFO: NDR Plus: Mexican girl -by- Bernd Cl&uuml;ver
+2017-02-11T07:51:18+01:00 INFO: NDR Plus: Love is a many splendored thing -by- Nat &quot;King&quot; Cole
+2017-02-11T07:54:18+01:00 INFO: NDR Plus: Wie ein Feuerwerk -by- Amigos
+2017-02-11T07:58:19+01:00 INFO: NDR Plus: Mein Charly ist Klasse -by- Gaby Baginsky
+2017-02-11T08:00:19+01:00 INFO: NDR Plus: Reif f&uuml;r die Insel -by- Peter Cornelius
+2017-02-11T08:05:19+01:00 INFO: NDR Plus: Nur du, nur du -by- Leonard
+2017-02-11T08:08:19+01:00 INFO: NDR Plus: Sehnsucht (Das Lied der Taiga) -by- Alexandra
+2017-02-11T08:11:19+01:00 INFO: NDR Plus: Hallo, ist hier denn keiner -by- Monica Morell
+2017-02-11T08:15:20+01:00 INFO: NDR Plus: Ich lieb&#39; dich immer noch -by- Die Paldauer
+2017-02-11T08:19:20+01:00 INFO: NDR Plus: Insel in der Flut -by- Burkhard Brozat
+2017-02-11T08:23:20+01:00 INFO: NDR Plus: Moskau -by- Dschinghis Khan
+2017-02-11T08:28:21+01:00 INFO: NDR Plus: Mexico -by- Bob L. Moore
+2017-02-11T08:30:21+01:00 INFO: NDR Plus: Marie Marie -by- Olsen Brothers
+2017-02-11T08:36:21+01:00 INFO: NDR Plus: Man gratuliert mir -by- Cliff Richard
+2017-02-11T08:39:21+01:00 INFO: NDR Plus: Mehr als ein bi&szlig;chen Frieden -by- Nicole
+2017-02-11T08:42:22+01:00 INFO: NDR Plus: Keiner l&uuml;gt so wie du -by- Wencke Myhre
+2017-02-11T08:45:22+01:00 INFO: NDR Plus: Anna Lena -by- Michael Heck
+2017-02-11T08:49:22+01:00 INFO: NDR Plus: Guantanamera -by- Sandpipers
+2017-02-11T08:51:22+01:00 INFO: NDR Plus: Keine Angst, das kann man lernen -by- Siw Inger
+2017-02-11T08:55:22+01:00 INFO: NDR Plus: Lieder der Nacht -by- Marianne Rosenberg
+2017-02-11T08:57:23+01:00 INFO: NDR Plus: Du kannst mir ruhig mein Herz klauen -by- Michele Joy
+2017-02-11T09:05:23+01:00 INFO: NDR Plus: Schalt dein Radio ein -by- Daliah Lavi
+2017-02-11T09:07:23+01:00 INFO: NDR Plus: Unsterblich -by- Markus
+2017-02-11T09:11:24+01:00 INFO: NDR Plus: Spanish Harlem -by- Percy Faith
+2017-02-11T09:13:24+01:00 INFO: NDR Plus: F&uuml;r immer jung -by- Karel Gott
+2017-02-11T09:17:24+01:00 INFO: NDR Plus: Mit 17 hat man noch Tr&auml;ume -by- Peggy March
+2017-02-11T09:20:24+01:00 INFO: NDR Plus: Ansiedad -by- Viktor Lazlo
+2017-02-11T09:23:24+01:00 INFO: NDR Plus: Michaela -by- Bata Illic
+2017-02-11T09:26:25+01:00 INFO: NDR Plus: Lady Lay (warst meine Sternenf&auml;ngerin) -by- Gilbert
+2017-02-11T09:31:25+01:00 INFO: NDR Plus: Mississippi -by- Pussycat
+2017-02-11T09:36:25+01:00 INFO: NDR Plus: Bye, bye love -by- Everly Brothers
+2017-02-11T09:38:25+01:00 INFO: NDR Plus: Bring mir die Sonne wieder zur&uuml;ck -by- Patrick Lindner
+2017-02-11T09:41:26+01:00 INFO: NDR Plus: Biscaya -by- James Last
+2017-02-11T09:46:26+01:00 INFO: NDR Plus: Wir lebenwir lieben -by- Katja Ebstein
+2017-02-11T09:48:26+01:00 INFO: NDR Plus: Das Meer ist weit -by- Gaby Albrecht
+2017-02-11T09:52:26+01:00 INFO: NDR Plus: 17 Jahr, blondes Haar -by- Udo J&uuml;rgens
+2017-02-11T09:54:26+01:00 INFO: NDR Plus: Komm nach Berlin -by- Tanja Lasch
+2017-02-11T09:57:29+01:00 INFO: NDR Plus: Zwei sch&ouml;ne Jahre -by- Frank Sch&ouml;bel
+2017-02-11T10:05:30+01:00 INFO: NDR Plus: Komm, komm zu mir -by- Edina Pop
+2017-02-11T10:08:30+01:00 INFO: NDR Plus: Wer seine Liebe lebt -by- Beatrice Egli
+2017-02-11T10:11:30+01:00 INFO: NDR Plus: Wunderbar ist die Welt -by- Roy Black
+2017-02-11T10:14:31+01:00 INFO: NDR Plus: Flieger -by- Nino de Angelo
+2017-02-11T10:18:31+01:00 INFO: NDR Plus: Y tu -by- Luisa Fernandez &amp; Peter Kent
+2017-02-11T10:21:32+01:00 INFO: NDR Plus: Gott sch&uuml;tze die Segel -by- Andrea Held
+2017-02-11T10:25:32+01:00 INFO: NDR Plus: Dich wiederzusehn -by- Jonathan Zelter
+2017-02-11T10:29:33+01:00 INFO: NDR Plus: Xanadu -by- Ireen Sheer
+2017-02-11T10:32:33+01:00 INFO: NDR Plus: M&auml;nner brauchen Liebe -by- Caterina Valente
+2017-02-11T10:36:33+01:00 INFO: NDR Plus: Winchester Cathedral -by- New Vaudeville Band
+2017-02-11T10:38:34+01:00 INFO: NDR Plus: Gloria IILebenslust und Leidenschaft -by- Nik P.
+2017-02-11T10:42:34+01:00 INFO: NDR Plus: Sch&ouml;n wie Mona Lisa (Wenn ich ein Maler w&auml;r&#39;) -by- Demis Roussos
+2017-02-11T10:46:35+01:00 INFO: NDR Plus: Ich will nicht wissen, wie du hei&szlig;t -by- Andy Borg
+2017-02-11T10:49:35+01:00 INFO: NDR Plus: Chicago (that toddling town) -by- Frank Sinatra
+2017-02-11T10:51:35+01:00 INFO: NDR Plus: Oh Magdalenna -by- Cappuccinos
+2017-02-11T10:54:35+01:00 INFO: NDR Plus: Diana -by- Peter Kraus
+2017-02-11T10:57:35+01:00 INFO: NDR Plus: Ich denk&#39; noch oft an Marianne -by- Waterloo &amp; Robinson
+2017-02-11T11:00:36+01:00 INFO: NDR Plus: Sie bei&szlig;t und kratzt -by- Dirk Busch
+2017-02-11T11:05:37+01:00 INFO: NDR Plus: Im Wagen vor mir -by- Henry Valentino &amp; Uschi
+2017-02-11T11:12:38+01:00 INFO: NDR Plus: The Magnificent Seven -by- Alexander &quot;Al&quot; Caiola
+2017-02-11T11:14:38+01:00 INFO: NDR Plus: H&ouml;rst du denn noch immer Al Martino -by- Kristina Bach
+2017-02-11T11:18:38+01:00 INFO: NDR Plus: Spaniens Gitarren -by- Cindy &amp; Bert
+2017-02-11T11:21:38+01:00 INFO: NDR Plus: Only yesterday -by- Carpenters
+2017-02-11T11:25:39+01:00 INFO: NDR Plus: Lieber heute gek&uuml;&szlig;t -by- Renate Kern
+2017-02-11T11:27:39+01:00 INFO: NDR Plus: Dieser S&auml;nger braucht nur ein Chanson -by- Joe Dassin
+2017-02-11T11:32:39+01:00 INFO: NDR Plus: Vergeben, vergessen und wieder vertrau&#39;n -by- Helene Fischer
+2017-02-11T11:36:40+01:00 INFO: NDR Plus: Happy heart -by- G&uuml;nter Kallmann Chor
+2017-02-11T11:39:40+01:00 INFO: NDR Plus: Japanese boy -by- Andrea J&uuml;rgens
+2017-02-11T11:46:40+01:00 INFO: NDR Plus: Ich tr&auml;ume mit offenen Augen von dir -by- Ulli Martin
+2017-02-11T11:49:41+01:00 INFO: NDR Plus: Sturmv&ouml;gel -by- Ernst Herzner
+2017-02-11T11:52:41+01:00 INFO: NDR Plus: Mille mille grazie -by- Petula Clark
+2017-02-11T11:55:41+01:00 INFO: NDR Plus: K&uuml;&szlig; die Sonne her -by- Claudia Christina
+2017-02-11T11:58:42+01:00 INFO: NDR Plus: Schau mal herein -by- Bernd Cl&uuml;ver &amp; Marion Maerz
+2017-02-11T12:05:43+01:00 INFO: NDR Plus: Nessaja -by- Peter Maffay
+2017-02-11T12:09:43+01:00 INFO: NDR Plus: Stille Wasser, die sind tief -by- Paola
+2017-02-11T12:11:43+01:00 INFO: NDR Plus: Ganz Paris ist ein Theater -by- Mireille Mathieu
+2017-02-11T12:15:43+01:00 INFO: NDR Plus: Schatten an der Wand -by- Olaf Berger
+2017-02-11T12:20:44+01:00 INFO: NDR Plus: Himbeereis zum Fr&uuml;hst&uuml;ck -by- Hoffmann &amp; Hoffmann
+2017-02-11T12:24:44+01:00 INFO: NDR Plus: 500 Meilen -by- Santiano
+2017-02-11T12:27:44+01:00 INFO: NDR Plus: If you could read my mind -by- Gordon Lightfoot
+2017-02-11T12:32:44+01:00 INFO: NDR Plus: Anita -by- Costa Cordalis
+2017-02-11T12:35:45+01:00 INFO: NDR Plus: Mach was du willst... -by- Nicole
+2017-02-11T12:40:45+01:00 INFO: NDR Plus: Ruf mich an -by- Howard Carpendale
+2017-02-11T12:45:45+01:00 INFO: NDR Plus: Moody river -by- Pat Boone
+2017-02-11T12:47:46+01:00 INFO: NDR Plus: Weil ich verliebt in dich bin -by- Wind
+2017-02-11T12:51:46+01:00 INFO: NDR Plus: Wir sitzen beide am selben Feuer -by- Peter Rubin
+2017-02-11T12:54:46+01:00 INFO: NDR Plus: Unbeschreiblich sch&ouml;n -by- Maurice Zappe
+2017-02-11T12:57:47+01:00 INFO: NDR Plus: Time is tight -by- Booker T. &amp; The M.G.&#39;s
+2017-02-11T13:00:47+01:00 INFO: NDR Plus: Oh wie wohl ist mir -by- Michael Schanze
+2017-02-11T13:05:47+01:00 INFO: NDR Plus: Es m&uuml;ssen keine Rosen sein -by- Katja Ebstein
+2017-02-11T13:09:48+01:00 INFO: NDR Plus: Komm und fang mit mir den Sonnenschein -by- Birgit Langer
+2017-02-11T13:12:48+01:00 INFO: NDR Plus: Valencia -by- James Last
+2017-02-11T13:14:48+01:00 INFO: NDR Plus: M&auml;dchen, M&auml;dchen -by- G. G. Anderson
+2017-02-11T13:18:48+01:00 INFO: NDR Plus: Sag &quot;no&quot; zu ihm -by- Cliff Richard
+2017-02-11T13:20:48+01:00 INFO: NDR Plus: Halt mich noch einmal fest -by- Roland Kaiser
+2017-02-11T13:24:49+01:00 INFO: NDR Plus: Non ho l&#39;et&agrave; -by- Gigliola Cinquetti
+2017-02-11T13:28:49+01:00 INFO: NDR Plus: Das schaffst du nicht -by- IBO
+2017-02-11T13:31:50+01:00 INFO: NDR Plus: Bettler und Prinz -by- Peter Orloff
+2017-02-11T13:33:51+01:00 INFO: NDR Plus: Liebes Universum -by- Isabel Varell
+2017-02-11T13:37:51+01:00 INFO: NDR Plus: F&ouml;r di -by- De Tinkeltuten
+2017-02-11T13:41:53+01:00 INFO: NDR Plus: L&uuml;g mich an, die Wahrheit tut so weh -by- Tom Mandl
+2017-02-11T13:45:55+01:00 INFO: NDR Plus: Nimm mich so wie ich bin -by- Drafi Deutscher
+2017-02-11T13:47:55+01:00 INFO: NDR Plus: Je t&#39;aime mon amour -by- Claudia Jung &amp; Richard Clayderman
+2017-02-11T13:51:55+01:00 INFO: NDR Plus: Honeycomb -by- Ray Conniff
+2017-02-11T13:53:55+01:00 INFO: NDR Plus: Bilder von dir -by- Gaby Albrecht
+2017-02-11T13:57:56+01:00 INFO: NDR Plus: Ein Mann wie du -by- Tina York
+2017-02-11T14:05:56+01:00 INFO: NDR Plus: Wir sind jung (Oh Maria) -by- Roger Whittaker
+2017-02-11T14:08:56+01:00 INFO: NDR Plus: K&uuml;sse nie nach Mitternacht -by- Siw Malmkvist
+2017-02-11T14:11:57+01:00 INFO: NDR Plus: Am Tag, als Conny Kramer starb -by- Juliane Werding
+2017-02-11T14:15:57+01:00 INFO: NDR Plus: Ruby 2010 -by- Christian Anders
+2017-02-11T14:18:57+01:00 INFO: NDR Plus: Weit &uuml;ber das Meer -by- Lolita
+2017-02-11T14:21:58+01:00 INFO: NDR Plus: El porompompero -by- Roberto Blanco
+2017-02-11T14:25:58+01:00 INFO: NDR Plus: Guaglione -by- P&eacute;rez Prado
+2017-02-11T14:28:59+01:00 INFO: NDR Plus: No Hollywood movie -by- Lesley Hamilton
+2017-02-11T14:34:00+01:00 INFO: NDR Plus: Wenn du mal einsam bist -by- Chris Roberts
+2017-02-11T14:36:00+01:00 INFO: NDR Plus: Marigot Bay -by- Gaby Baginsky
+2017-02-11T14:38:35+01:00 INFO: NDR Plus: Marigot Bay -by- Gaby Baginsky
+2017-02-11T14:39:35+01:00 INFO: NDR Plus: Ich geh&#39; noch zur Schule -by- Manuela
+2017-02-11T14:42:36+01:00 INFO: NDR Plus: Lass uns unendlich sein -by- Nik P.
+2017-02-11T14:46:36+01:00 INFO: NDR Plus: Rag Doll -by- Four Seasons
+2017-02-11T14:49:36+01:00 INFO: NDR Plus: &Uuml;ber die Br&uuml;cke geh&#39;n -by- Ingrid Peters
+2017-02-11T14:52:36+01:00 INFO: NDR Plus: Liebt er dich wie ich dich liebe -by- Roy Black
+2017-02-11T14:56:37+01:00 INFO: NDR Plus: Weil ich dich so mag -by- Hansi Hinterseer
+2017-02-11T14:59:37+01:00 INFO: NDR Plus: I could have danced all night -by- Percy Faith &amp; His Orchestra
+2017-02-11T15:05:37+01:00 INFO: NDR Plus: Theo, wir fahr&#39;n nach Lodz -by- Vicky Leandros
+2017-02-11T15:08:37+01:00 INFO: NDR Plus: Rocky Mountain Lady -by- Michael Heck
+2017-02-11T15:12:38+01:00 INFO: NDR Plus: Theme From Elvira Madigan -by- 101 Strings Orchestra
+2017-02-11T15:17:38+01:00 INFO: NDR Plus: Antonio -by- Kristina Bach
+2017-02-11T15:21:42+01:00 INFO: NDR Plus: Es wird Nacht, Senorita -by- Udo J&uuml;rgens
+2017-02-11T15:23:42+01:00 INFO: NDR Plus: Cuando caliente el sol -by- Helmut Lotti
+2017-02-11T15:26:43+01:00 INFO: NDR Plus: TobagoHello -by- Dorthe
+2017-02-11T15:29:44+01:00 INFO: NDR Plus: Z&auml;hl nicht nur die Jahre -by- Gerd Christian
+2017-02-11T15:33:44+01:00 INFO: NDR Plus: San Diego Train -by- Siw Inger
+2017-02-11T15:36:45+01:00 INFO: NDR Plus: I&#39;m a tiger -by- Lulu
+2017-02-11T15:39:45+01:00 INFO: NDR Plus: Bis in alle Ewigkeit -by- Brunner &amp; Brunner
+2017-02-11T15:42:45+01:00 INFO: NDR Plus: The fool -by- Tol &amp; Tol
+2017-02-11T15:46:46+01:00 INFO: NDR Plus: Willst du mit mir geh&#39;n -by- Daliah Lavi
+2017-02-11T15:49:46+01:00 INFO: NDR Plus: Wat muttdat mutt -by- Godewind
+2017-02-11T15:52:46+01:00 INFO: NDR Plus: Hei&szlig;er Sand -by- Mina
+2017-02-11T15:55:47+01:00 INFO: NDR Plus: Tr&auml;ume haben Fl&uuml;gel -by- Michelle
+2017-02-11T15:58:47+01:00 INFO: NDR Plus: Nur ein Flirt -by- Randolph Rose
+2017-02-11T16:05:48+01:00 INFO: NDR Plus: Arizona Man (Hilly Billy Man) -by- Mary Roos
+2017-02-11T16:09:48+01:00 INFO: NDR Plus: Einmal ja gesagtf&uuml;r immer ja gesagt -by- Semino Rossi
+2017-02-11T16:12:48+01:00 INFO: NDR Plus: Er hat ein knallrotes Gummiboot -by- Wencke Myhre
+2017-02-11T16:15:48+01:00 INFO: NDR Plus: F&uuml;r mich da gibt&#39;s nur dich -by- Paldauer
+2017-02-11T16:19:49+01:00 INFO: NDR Plus: Please Mr. Postman -by- Carpenters
+2017-02-11T16:22:50+01:00 INFO: NDR Plus: V&auml;&auml;le Leeder singt de Wind -by- Wolfgang und Anke
+2017-02-11T16:25:50+01:00 INFO: NDR Plus: Bessere H&auml;lfte -by- Madeline Willers
+2017-02-11T16:28:50+01:00 INFO: NDR Plus: Jeder Weg hat mal ein Ende -by- Marianne Rosenberg
+2017-02-11T16:31:50+01:00 INFO: NDR Plus: Weit, weit von Hongkong -by- Flippers
+2017-02-11T16:35:54+01:00 INFO: NDR Plus: Rondo Russo -by- Berdien Stenberg
+2017-02-11T16:39:54+01:00 INFO: NDR Plus: Das Paradies in deinen Augen -by- Stefanie Hertel
+2017-02-11T16:43:55+01:00 INFO: NDR Plus: Bald bricht der Tag an -by- Katja Ebstein
+2017-02-11T16:46:55+01:00 INFO: NDR Plus: Ich glaub&#39; es geht schon wieder los -by- Roland Kaiser
+2017-02-11T16:50:55+01:00 INFO: NDR Plus: Things -by- Nancy Sinatra &amp; Dean Martin
+2017-02-11T16:52:56+01:00 INFO: NDR Plus: Denkst du vielleicht an ihn -by- G. G. Anderson
+2017-02-11T16:56:56+01:00 INFO: NDR Plus: Es war keine so wunderbar wie du -by- Cliff Richard
+2017-02-11T16:59:58+01:00 INFO: NDR Plus: Cora, komm nach Haus -by- Peter Orloff
+2017-02-11T17:04:59+01:00 INFO: NDR Plus: Gute Nacht, Freunde -by- Inga &amp; Wolf
+2017-02-11T17:08:59+01:00 INFO: NDR Plus: Und auf einmal bist du &auml;lter -by- Dirk Busch
+2017-02-11T17:11:59+01:00 INFO: NDR Plus: Rovers return -by- Korgis
+2017-02-11T17:16:00+01:00 INFO: NDR Plus: Macho Macho -by- Rainhard Fendrich
+2017-02-11T17:20:00+01:00 INFO: NDR Plus: Drei Musketiere -by- Conny Froboess
+2017-02-11T17:22:01+01:00 INFO: NDR Plus: Wings of an eagle -by- Classics
+2017-02-11T17:25:01+01:00 INFO: NDR Plus: Es geht mir gut, Ch&eacute;ri -by- Mireille Mathieu
+2017-02-11T17:28:01+01:00 INFO: NDR Plus: Feuervogel -by- Andrea Berg
+2017-02-11T17:33:02+01:00 INFO: NDR Plus: Amore, Amore -by- Claudia Jung
+2017-02-11T17:37:03+01:00 INFO: NDR Plus: Mame -by- Ray Conniff
+2017-02-11T17:40:04+01:00 INFO: NDR Plus: Feierabend -by- Peter Alexander
+2017-02-11T17:43:04+01:00 INFO: NDR Plus: La cucaracha -by- Holger Petersen
+2017-02-11T17:46:04+01:00 INFO: NDR Plus: Vogel der Nacht -by- Paola
+2017-02-11T17:48:04+01:00 INFO: NDR Plus: Am Tor zur weiten Welt -by- Lotto King Karl
+2017-02-11T17:52:04+01:00 INFO: NDR Plus: Vom Stadtpark die Laternen -by- Gitte &amp; Rex Gildo
+2017-02-11T17:55:05+01:00 INFO: NDR Plus: Ich fang dir den Mond -by- Andreas Martin
+2017-02-11T17:57:05+01:00 INFO: NDR Plus: Liebe ist gar nicht so schwer -by- Chris Roberts
+2017-02-11T18:00:05+01:00 INFO: NDR Plus: Jessica -by- Wolfgang Petry
+2017-02-11T18:05:05+01:00 INFO: NDR Plus: Du schaffst es -by- Juliane Werding
+2017-02-11T18:09:06+01:00 INFO: NDR Plus: Pigalle -by- Bill Ramsey
+2017-02-11T18:11:06+01:00 INFO: NDR Plus: Lucille -by- Michael Holm
+2017-02-11T18:15:06+01:00 INFO: NDR Plus: Weil du da bist -by- Feller &amp; Feller
+2017-02-11T18:19:07+01:00 INFO: NDR Plus: Golden midnight sun -by- Roy Etzel
+2017-02-11T18:21:07+01:00 INFO: NDR Plus: F&uuml;r dich allein -by- Roy Black
+2017-02-11T18:24:07+01:00 INFO: NDR Plus: Der alte Mann und das Meer -by- Nicole
+2017-02-11T18:28:07+01:00 INFO: NDR Plus: Portofino -by- Engelbert
+2017-02-11T18:33:08+01:00 INFO: NDR Plus: In den Augen der andern -by- Christian Anders
+2017-02-11T18:35:08+01:00 INFO: NDR Plus: Verlorenes Paradies -by- Vicky Leandros
+2017-02-11T18:39:09+01:00 INFO: NDR Plus: My sunny sunshine -by- Blue Diamonds
+2017-02-11T18:42:09+01:00 INFO: NDR Plus: Du gehst mir unter die Haut -by- Alexander Klaws
+2017-02-11T18:45:10+01:00 INFO: NDR Plus: Kissin&#39; in the back row of the movies -by- Drifters
+2017-02-11T18:49:10+01:00 INFO: NDR Plus: Samstag Abend -by- Hanne Haller
+2017-02-11T18:53:10+01:00 INFO: NDR Plus: Ein Lied kann eine Br&uuml;cke sein -by- Joy Fleming
+2017-02-11T18:56:10+01:00 INFO: NDR Plus: Du bist mein Zuhause -by- Andr&eacute; Stade
+2017-02-11T19:00:11+01:00 INFO: NDR Plus: A touch of velvetA sting of brass -by- Mood Mosaic
+2017-02-11T19:06:11+01:00 INFO: NDR Plus: Einmal verliebtimmer verliebt -by- Peggy March
+2017-02-11T19:10:11+01:00 INFO: NDR Plus: Jetzt und hier f&uuml;r immer -by- Beatrice Egli
+2017-02-11T19:13:12+01:00 INFO: NDR Plus: Melissa -by- Peter Thomas
+2017-02-11T19:16:12+01:00 INFO: NDR Plus: Sonne, Mond und leuchtende Sterne -by- Wind
+2017-02-11T19:19:12+01:00 INFO: NDR Plus: Monja -by- Roland W
+2017-02-11T19:22:15+01:00 INFO: NDR Plus: Besser -by- Michael Morgan
+2017-02-11T19:25:15+01:00 INFO: NDR Plus: Eeny meeny miny moe -by- Luv&#39;
+2017-02-11T19:28:15+01:00 INFO: NDR Plus: &Uuml;berall ist Liebe -by- Howard Carpendale
+2017-02-11T19:32:15+01:00 INFO: NDR Plus: Cheerio (Ein Glas auf das, was wir lieben) -by- Caterina Valente
+2017-02-11T19:35:16+01:00 INFO: NDR Plus: Tanzen ist tr&auml;umen -by- Michael Wendler
+2017-02-11T19:38:16+01:00 INFO: NDR Plus: Das Meer -by- G&ouml;tz Alsmann
+2017-02-11T19:42:19+01:00 INFO: NDR Plus: Bist auch du allein -by- Julian Frank
+2017-02-11T19:46:19+01:00 INFO: NDR Plus: Mucho amore -by- Jacqueline Boyer
+2017-02-11T19:49:19+01:00 INFO: NDR Plus: Wenn es dich noch gibt -by- Roger Whittaker
+2017-02-11T19:52:19+01:00 INFO: NDR Plus: Sway -by- Michael Bubl&eacute;
+2017-02-11T19:56:19+01:00 INFO: NDR Plus: Die zehn Gebote der Liebe -by- Fernando Express
+2017-02-11T19:58:20+01:00 INFO: NDR Plus: Ich m&ouml;cht&#39; so gern Dave Dudley h&ouml;r&#39;n -by- Truck Stop
+2017-02-11T20:06:21+01:00 INFO: NDR Plus: Vagabund der Liebe -by- Demis Roussos
+2017-02-11T20:10:21+01:00 INFO: NDR Plus: Noch immer so wie immer -by- Linda Hesse
+2017-02-11T20:14:22+01:00 INFO: NDR Plus: Mein Freund, der Baum -by- Alexandra
+2017-02-11T20:17:22+01:00 INFO: NDR Plus: Schenk&#39; mir diese eine Nacht -by- Brunner &amp; Brunner
+2017-02-11T20:21:25+01:00 INFO: NDR Plus: Matilda, Matilda -by- Udo J&uuml;rgens
+2017-02-11T20:23:25+01:00 INFO: NDR Plus: Die Zeit heilt keine Wunden -by- Bernhard Brink
+2017-02-11T20:27:26+01:00 INFO: NDR Plus: Das bleibt immer ein Geheimnis -by- Daliah Lavi
+2017-02-11T20:30:26+01:00 INFO: NDR Plus: Adio Amore -by- Patrick Lindner
+2017-02-11T20:34:27+01:00 INFO: NDR Plus: Komm und spiel mit mir -by- Siw Inger
+2017-02-11T20:37:27+01:00 INFO: NDR Plus: Kleine Prinzessin -by- Michelle
+2017-02-11T20:40:27+01:00 INFO: NDR Plus: Memories are made of this -by- Spotnicks
+2017-02-11T20:43:27+01:00 INFO: NDR Plus: Ich hab&#39; ja dich -by- Andy Borg
+2017-02-11T20:47:28+01:00 INFO: NDR Plus: What a wonderful world -by- Louis Armstrong
+2017-02-11T20:49:28+01:00 INFO: NDR Plus: F&uuml;r mich bist du sch&ouml;n -by- Paldauer
+2017-02-11T20:52:28+01:00 INFO: NDR Plus: Corinna, Corinna -by- Peter Beil
+2017-02-11T20:55:29+01:00 INFO: NDR Plus: Vergiss mich nie -by- Andrea J&uuml;rgens
+2017-02-11T20:58:29+01:00 INFO: NDR Plus: Oh Lady Mary -by- Peter Alexander
+2017-02-11T21:06:30+01:00 INFO: NDR Plus: Wir zieh&#39;n heut&#39; Abend auf&#39;s Dach -by- J&uuml;rgen Drews
+2017-02-11T21:09:30+01:00 INFO: NDR Plus: Du bist so wunderbar -by- Hansi Hinterseer
+2017-02-11T21:13:30+01:00 INFO: NDR Plus: Greensleeves -by- Mantovani
+2017-02-11T21:16:31+01:00 INFO: NDR Plus: Joana -by- Roland Kaiser
+2017-02-11T21:20:31+01:00 INFO: NDR Plus: Lady Carneval -by- Karel Gott
+2017-02-11T21:23:31+01:00 INFO: NDR Plus: Doch morgen werd&#39; ich wirklich geh&#39;n -by- Claudia Jung
+2017-02-11T21:26:31+01:00 INFO: NDR Plus: There&#39;s a kind of hush (all over the world) -by- Carpenters
+2017-02-11T21:29:31+01:00 INFO: NDR Plus: Du da im Radio -by- Rolf Zuckowski
+2017-02-11T21:32:32+01:00 INFO: NDR Plus: Meilenweit mu&szlig; ich geh&#39;n -by- Martin Mann
+2017-02-11T21:35:32+01:00 INFO: NDR Plus: Santiago blue -by- Amigos
+2017-02-11T21:38:32+01:00 INFO: NDR Plus: Was ich f&uuml;hl -by- Peter Kraus
+2017-02-11T21:41:32+01:00 INFO: NDR Plus: Musik ist mein Leben -by- Wolfgang Petry
+2017-02-11T21:46:33+01:00 INFO: NDR Plus: M&auml;dchen, wildes M&auml;dchen -by- Adamo
+2017-02-11T21:48:33+01:00 INFO: NDR Plus: Angela -by- Moonbeats
+2017-02-11T21:51:33+01:00 INFO: NDR Plus: Cinderella Rockefella -by- Esther &amp; Abi Ofarim
+2017-02-11T21:53:33+01:00 INFO: NDR Plus: Kinderaugen -by- Feller &amp; Feller
+2017-02-11T21:57:33+01:00 INFO: NDR Plus: Von Hollywood tr&auml;umen -by- Gitte Haenning
+2017-02-11T22:00:34+01:00 INFO: NDR Plus: Am liebsten mit dir -by- Nicole
+2017-02-11T22:06:34+01:00 INFO: NDR Plus: Du, sag einfach du -by- Chris Roberts
+2017-02-11T22:09:34+01:00 INFO: NDR Plus: Das kann doch jedem mal passier&#39;n -by- Klostertaler
+2017-02-11T22:13:35+01:00 INFO: NDR Plus: Alle Leute wollen in den Himmel -by- Petula Clark
+2017-02-11T22:16:35+01:00 INFO: NDR Plus: Si tu t&#39;apelles melancholie -by- Joe Dassin
+2017-02-11T22:19:35+01:00 INFO: NDR Plus: Sonnenschein im Blut -by- G. G. Anderson
+2017-02-11T22:23:35+01:00 INFO: NDR Plus: Cielito lindo -by- Holger Petersen
+2017-02-11T22:26:35+01:00 INFO: NDR Plus: Ich hab&#39; die ganze Nacht nur an dich gedacht -by- Graham Bonney
+2017-02-11T22:28:36+01:00 INFO: NDR Plus: Sinfonie der Tr&auml;ume -by- Franziska Wiese
+2017-02-11T22:32:36+01:00 INFO: NDR Plus: Mach die Augen zu und w&uuml;nsch dir einen Traum -by- S&eacute;verine
+2017-02-11T22:36:36+01:00 INFO: NDR Plus: Doreen -by- Leonard
+2017-02-11T22:38:36+01:00 INFO: NDR Plus: Memories of rubinstein -by- James Last
+2017-02-11T22:41:37+01:00 INFO: NDR Plus: Im Zauber der Nacht -by- Laura Wilde
+2017-02-11T22:45:37+01:00 INFO: NDR Plus: Spanish eyes (Moon over Naples) -by- Al Martino
+2017-02-11T22:48:37+01:00 INFO: NDR Plus: Es gibt kein n&auml;chstes Mal -by- M&uuml;nchener Freiheit
+2017-02-11T22:52:37+01:00 INFO: NDR Plus: Halt die Welt an -by- Vicky Leandros
+2017-02-11T22:55:38+01:00 INFO: NDR Plus: Frieden -by- Nik P.
+2017-02-11T23:00:38+01:00 INFO: NDR Plus: Ein verr&uuml;ckter Tag -by- Michael Holm
+2017-02-11T23:06:38+01:00 INFO: NDR Plus: Der Zar und das M&auml;dchen -by- Mireille Mathieu
+2017-02-11T23:09:38+01:00 INFO: NDR Plus: Mexican road -by- Bert Kaempfert
+2017-02-11T23:12:39+01:00 INFO: NDR Plus: Wo Rauch ist, ist Feuer -by- Rosanna Rocci
+2017-02-11T23:14:39+01:00 INFO: NDR Plus: Moonlight -by- Ted Herold
+2017-02-11T23:18:39+01:00 INFO: NDR Plus: Ich bin stark nur mit dir -by- Mary Roos
+2017-02-11T23:21:39+01:00 INFO: NDR Plus: Stargazer -by- Neil Diamond
+2017-02-11T23:26:40+01:00 INFO: NDR Plus: Heut beginnt der Rest deines Lebens -by- Howard Carpendale
+2017-02-11T23:28:40+01:00 INFO: NDR Plus: Junge, die Welt ist sch&ouml;n -by- Tony Marshall
+2017-02-11T23:31:40+01:00 INFO: NDR Plus: Tennessee Waltz -by- Alma Cogan
+2017-02-11T23:33:40+01:00 INFO: NDR Plus: Sonne in der Nacht -by- Peter Maffay
+2017-02-11T23:37:40+01:00 INFO: NDR Plus: The shadow of your smile -by- Orchester
+2017-02-11T23:40:41+01:00 INFO: NDR Plus: Ich liebe das Leben -by- Andrea Berg
+2017-02-11T23:44:41+01:00 INFO: NDR Plus: Griechischer Wein -by- Udo J&uuml;rgens
+2017-02-11T23:48:41+01:00 INFO: NDR Plus: F&uuml;r immer du -by- Hanne Haller
+2017-02-11T23:51:42+01:00 INFO: NDR Plus: A thing called love -by- Johnny Cash
+2017-02-11T23:53:42+01:00 INFO: NDR Plus: Eine Rose schenk&#39; ich dir -by- Roy Black
+2017-02-11T23:57:44+01:00 INFO: NDR Plus: Jede Stunde ohne dich -by- Andre Steyer

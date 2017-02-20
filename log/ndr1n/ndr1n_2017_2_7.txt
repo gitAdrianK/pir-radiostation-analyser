@@ -1,0 +1,36 @@
+2017-02-07T20:43:38+01:00 INFO: NDR 1 Niedersachsen: Suzanne -by- Leonard Cohen
+2017-02-07T20:46:38+01:00 INFO: NDR 1 Niedersachsen: Spuren einer Nacht -by- Peter Maffay
+2017-02-07T20:51:39+01:00 INFO: NDR 1 Niedersachsen: Stairway to heaven -by- Led Zeppelin
+2017-02-07T20:57:40+01:00 INFO: NDR 1 Niedersachsen: Love theme from Flashdance -by- Helen St. John
+2017-02-07T21:10:42+01:00 INFO: NDR 1 Niedersachsen: Oh l&#39;amour -by- Erasure
+2017-02-07T21:12:43+01:00 INFO: NDR 1 Niedersachsen: When I&#39;m gone -by- Albert Hammond
+2017-02-07T21:19:44+01:00 INFO: NDR 1 Niedersachsen: Wieder hier -by- Westernhagen
+2017-02-07T21:23:45+01:00 INFO: NDR 1 Niedersachsen: Oh very young -by- Cat Stevens
+2017-02-07T21:26:45+01:00 INFO: NDR 1 Niedersachsen: You and I -by- Scorpions
+2017-02-07T21:31:45+01:00 INFO: NDR 1 Niedersachsen: Being with you -by- Smokey Robinson
+2017-02-07T21:35:46+01:00 INFO: NDR 1 Niedersachsen: Weather with you -by- Crowded House
+2017-02-07T21:39:48+01:00 INFO: NDR 1 Niedersachsen: Hard to say -by- Dan Fogelberg
+2017-02-07T21:43:48+01:00 INFO: NDR 1 Niedersachsen: Lucky man -by- Lake Emerson &amp; Palmer
+2017-02-07T21:47:49+01:00 INFO: NDR 1 Niedersachsen: Eternity -by- Robbie Williams
+2017-02-07T21:51:49+01:00 INFO: NDR 1 Niedersachsen: Just like Jesse James -by- Cher
+2017-02-07T21:53:49+01:00 INFO: NDR 1 Niedersachsen: Amoi seg&#39; ma uns wieder -by- Andreas Gabalier
+2017-02-07T21:57:49+01:00 INFO: NDR 1 Niedersachsen: The last unicorn -by- America
+2017-02-07T22:08:50+01:00 INFO: NDR 1 Niedersachsen: Karma chameleon -by- Culture Club
+2017-02-07T22:13:51+01:00 INFO: NDR 1 Niedersachsen: Let your love flow -by- Bellamy Brothers
+2017-02-07T22:17:51+01:00 INFO: NDR 1 Niedersachsen: I follow rivers -by- Triggerfinger
+2017-02-07T22:20:51+01:00 INFO: NDR 1 Niedersachsen: Alt wie ein Baum -by- Puhdys
+2017-02-07T22:23:51+01:00 INFO: NDR 1 Niedersachsen: Is this the way to Amarillo -by- Tony Christie
+2017-02-07T22:28:52+01:00 INFO: NDR 1 Niedersachsen: Sultans of swing -by- Dire Straits
+2017-02-07T22:36:52+01:00 INFO: NDR 1 Niedersachsen: Billy, don&#39;t be a hero -by- Paper Lace
+2017-02-07T22:40:53+01:00 INFO: NDR 1 Niedersachsen: Wake me up before you go go -by- Wham!
+2017-02-07T22:43:53+01:00 INFO: NDR 1 Niedersachsen: Eve of destruction -by- Barry McGuire
+2017-02-07T22:47:53+01:00 INFO: NDR 1 Niedersachsen: Die Nummer -by- Ina M&uuml;ller
+2017-02-07T22:50:54+01:00 INFO: NDR 1 Niedersachsen: Always look on the bright side of life -by- Monty Python
+2017-02-07T22:54:54+01:00 INFO: NDR 1 Niedersachsen: Sweat (&agrave; la la la la long) -by- Inner Circle
+2017-02-07T22:56:54+01:00 INFO: NDR 1 Niedersachsen: Kiss from a rose -by- Seal
+2017-02-07T23:06:55+01:00 INFO: NDR 1 Niedersachsen: Dreams are ten a penny -by- John Kincade
+2017-02-07T23:09:55+01:00 INFO: NDR 1 Niedersachsen: Grow up -by- Olly Murs
+2017-02-07T23:13:56+01:00 INFO: NDR 1 Niedersachsen: Tonight -by- The Rubettes
+2017-02-07T23:17:56+01:00 INFO: NDR 1 Niedersachsen: Alles dreht sich -by- Laith Al-Deen
+2017-02-07T23:19:56+01:00 INFO: NDR 1 Niedersachsen: Turn! Turn! Turn! (To everything there is a season) -by- The Byrds
+2017-02-07T23:27:59+01:00 INFO: NDR 1 Niedersachsen: The river -by- Bruce Springsteen

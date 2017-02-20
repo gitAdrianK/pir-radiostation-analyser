@@ -1,0 +1,416 @@
+2017-02-09T00:00:47+01:00 INFO: Antenne Schlager: Genieße dein Leben -by- Dirk Busch
+2017-02-09T00:03:47+01:00 INFO: Antenne Schlager: Unterwegs -by- Ella Endlich
+2017-02-09T00:06:48+01:00 INFO: Antenne Schlager: Verdammt guter Tag -by- Feuerherz
+2017-02-09T00:09:48+01:00 INFO: Antenne Schlager: 30.000 Grad -by- Michelle
+2017-02-09T00:13:49+01:00 INFO: Antenne Schlager: Lila Wolken -by- Peter Kraus
+2017-02-09T00:15:49+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T00:19:50+01:00 INFO: Antenne Schlager: Das Glück schenkt einen aus -by- Schramme11
+2017-02-09T00:23:50+01:00 INFO: Antenne Schlager: Das Leben und ich -by- Vicky Leandros
+2017-02-09T00:27:53+01:00 INFO: Antenne Schlager: Hollywood -by- Julian David
+2017-02-09T00:30:54+01:00 INFO: Antenne Schlager: Der Letzte seiner Art -by- Wolfgang Petry
+2017-02-09T00:34:54+01:00 INFO: Antenne Schlager: Wenn du hier bleibst -by- André Stade
+2017-02-09T00:38:55+01:00 INFO: Antenne Schlager: Wartezeit -by- Mary Roos
+2017-02-09T00:41:55+01:00 INFO: Antenne Schlager: Amsterdam -by- Cora
+2017-02-09T00:45:56+01:00 INFO: Antenne Schlager: SPIEL MICH HEUTE NACHT IN DEN HIMMEL -by- CAROLINE & LUKAS BEIL
+2017-02-09T00:49:57+01:00 INFO: Antenne Schlager: Hier gehör ich hin -by- Klaus Wendel
+2017-02-09T00:51:58+01:00 INFO: Antenne Schlager: Wer das Leben liebt -by- Die Cappuccinos
+2017-02-09T00:55:59+01:00 INFO: Antenne Schlager: Einer dieser Tage -by- Mitch Keller
+2017-02-09T00:59:59+01:00 INFO: Antenne Schlager: Die neue Wirklichkeit -by- Monika Martin
+2017-02-09T01:02:59+01:00 INFO: Antenne Schlager: Wollen wir uns -by- Christin Stark
+2017-02-09T01:07:00+01:00 INFO: Antenne Schlager: Ich lass es gut sein -by- Lindt Bennett
+2017-02-09T01:11:01+01:00 INFO: Antenne Schlager: Gemeinsam -by- Pur
+2017-02-09T01:15:01+01:00 INFO: Antenne Schlager: Nur für einen Moment -by- Uwe Busse
+2017-02-09T01:19:01+01:00 INFO: Antenne Schlager: Wenn du eine Stadt wärst -by- Wind
+2017-02-09T01:22:02+01:00 INFO: Antenne Schlager: Arche Noah -by- Brunner & Stelzer
+2017-02-09T01:25:02+01:00 INFO: Antenne Schlager: Am Ende des Tages -by- Julian David
+2017-02-09T01:29:03+01:00 INFO: Antenne Schlager: WARUM HAST DU NICHT NEIN GESAGT -by- ROLAND KAISER FEAT. MAITE KELLY
+2017-02-09T01:33:04+01:00 INFO: Antenne Schlager: Das hat die Welt noch nie gesehen -by- Andrea Berg
+2017-02-09T01:36:04+01:00 INFO: Antenne Schlager: Warum, weshalb, wieso -by- Andreas Martin
+2017-02-09T01:39:05+01:00 INFO: Antenne Schlager: Alles was ich will -by- Matthias Reim
+2017-02-09T01:42:05+01:00 INFO: Antenne Schlager: IRGENDWANN VIELLEICHT -by- FRANK NEUENFELLS
+2017-02-09T01:47:06+01:00 INFO: Antenne Schlager: Palma De Mallorca -by- Chris Wolff
+2017-02-09T01:50:07+01:00 INFO: Antenne Schlager: Wenn er wüsste -by- Tanja Lasch
+2017-02-09T01:53:07+01:00 INFO: Antenne Schlager: Kurz vor Wahnsinn -by- Alexander Martin
+2017-02-09T01:57:08+01:00 INFO: Antenne Schlager: Mit dir und immer wieder -by- Die Piloten
+2017-02-09T02:00:08+01:00 INFO: Antenne Schlager: Bleib noch eine Nacht -by- Acarina
+2017-02-09T02:03:08+01:00 INFO: Antenne Schlager: Es wird schon hell über Berlin -by- Wolkenfrei
+2017-02-09T02:06:09+01:00 INFO: Antenne Schlager: Das erste Mal im Leben -by- Foxpiraten
+2017-02-09T02:10:09+01:00 INFO: Antenne Schlager: Schenk mir eine Nacht -by- Achim Köllen
+2017-02-09T02:14:10+01:00 INFO: Antenne Schlager: Das Gestern ist vorbei -by- Bert Silver
+2017-02-09T02:18:11+01:00 INFO: Antenne Schlager: DICH ZU LIEBEN IST LEICHT -by- JP MUSIK PROJECT
+2017-02-09T02:22:11+01:00 INFO: Antenne Schlager: Baby Blue -by- Emotion
+2017-02-09T02:26:12+01:00 INFO: Antenne Schlager: Spiel mit dem Feuer -by- Markus Schröder
+2017-02-09T02:30:13+01:00 INFO: Antenne Schlager: My Love -by- Angelika Martin
+2017-02-09T02:33:13+01:00 INFO: Antenne Schlager: Welcome to my heart -by- Anke Fürst
+2017-02-09T02:36:15+01:00 INFO: Antenne Schlager: EINSAMER WOLF -by- FRANK LUCAS
+2017-02-09T02:40:16+01:00 INFO: Antenne Schlager: Hello Hello -by- Allessa
+2017-02-09T02:44:16+01:00 INFO: Antenne Schlager: Deine Mutter ist immer dabei -by- Truck Stop
+2017-02-09T02:46:17+01:00 INFO: Antenne Schlager: Komm doch mal rüber -by- Ingrid Peters
+2017-02-09T02:49:17+01:00 INFO: Antenne Schlager: 100.000 Volt -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T02:52:18+01:00 INFO: Antenne Schlager: ICH WEIß, DASS ICH NICHTS WIEß -by- Vicky Leandros
+2017-02-09T02:55:18+01:00 INFO: Antenne Schlager: Gefallener Engel -by- Maria Voskania
+2017-02-09T02:59:18+01:00 INFO: Antenne Schlager: Schwesterherz -by- Klima
+2017-02-09T03:03:19+01:00 INFO: Antenne Schlager: Alles wird gut -by- Susemihl
+2017-02-09T03:06:19+01:00 INFO: Antenne Schlager: Ich bin ja kein Mann -by- Linda Hesse
+2017-02-09T03:09:19+01:00 INFO: Antenne Schlager: Alles okay -by- Ute Freudenberg
+2017-02-09T03:12:20+01:00 INFO: Antenne Schlager: Das Beste am Leben -by- Roland Kaiser
+2017-02-09T03:16:20+01:00 INFO: Antenne Schlager: Adrenalin -by- Ella Endlich
+2017-02-09T03:20:21+01:00 INFO: Antenne Schlager: Von hier bis zur Unendlichkeit -by- Bernhard Brink
+2017-02-09T03:24:21+01:00 INFO: Antenne Schlager: Dein Kapitel im Tagebuch -by- Christian Lais
+2017-02-09T03:28:21+01:00 INFO: Antenne Schlager: Du bringst mich um (den Verstand) -by- Feuerherz
+2017-02-09T03:32:22+01:00 INFO: Antenne Schlager: Ich hab dir nie gesagt... -by- Mitch Keller
+2017-02-09T03:35:22+01:00 INFO: Antenne Schlager: Hungriges Herz -by- Ute Freudenberg
+2017-02-09T03:38:23+01:00 INFO: Antenne Schlager: Hulapalu -by- Andreas Gabalier
+2017-02-09T03:41:23+01:00 INFO: Antenne Schlager: Magnet -by- Alexander Klaws
+2017-02-09T03:45:24+01:00 INFO: Antenne Schlager: Für immer jung -by- Karel Gott
+2017-02-09T03:48:24+01:00 INFO: Antenne Schlager: Stark -by- Olaf Berger
+2017-02-09T03:52:24+01:00 INFO: Antenne Schlager: Ohne Worte -by- Beatrice Egli
+2017-02-09T03:55:25+01:00 INFO: Antenne Schlager: Diese Nacht ist jede Sünde wert -by- Andrea Berg
+2017-02-09T03:58:25+01:00 INFO: Antenne Schlager: Wenn du mir in die Augen schaust -by- Fantasy
+2017-02-09T04:02:26+01:00 INFO: Antenne Schlager: Schön ist der Morgen -by- Semino Rossi
+2017-02-09T04:05:26+01:00 INFO: Antenne Schlager: Das reicht für mehr als eine Nacht -by- Andrea Jürgens
+2017-02-09T04:08:26+01:00 INFO: Antenne Schlager: Ich sterb für dich -by- Vanessa Mai
+2017-02-09T04:11:26+01:00 INFO: Antenne Schlager: Alle Optionen offen -by- Christian Anders
+2017-02-09T04:15:27+01:00 INFO: Antenne Schlager: S.O.S. -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T04:18:27+01:00 INFO: Antenne Schlager: Das ist unsere Zeit -by- Howard Carpendale
+2017-02-09T04:22:28+01:00 INFO: Antenne Schlager: Wachgeküsst -by- Wolkenfrei
+2017-02-09T04:25:28+01:00 INFO: Antenne Schlager: Das Paradies ist hier -by- Heinz Rudolf Kunze
+2017-02-09T04:29:29+01:00 INFO: Antenne Schlager: Die kleinen Dinge -by- Jördis Tielsch
+2017-02-09T04:33:29+01:00 INFO: Antenne Schlager: Da ist ein Engel -by- Laura Wilde
+2017-02-09T04:36:30+01:00 INFO: Antenne Schlager: Du sagst es ohne ein Wort -by- Claudia Jung
+2017-02-09T04:40:31+01:00 INFO: Antenne Schlager: Sag seit wann -by- Karat
+2017-02-09T04:44:32+01:00 INFO: Antenne Schlager: Das wär John nie passiert -by- Wencke Myhre
+2017-02-09T04:48:32+01:00 INFO: Antenne Schlager: Morgen explodiert die Welt -by- Alexander Klaws
+2017-02-09T04:52:33+01:00 INFO: Antenne Schlager: Himalaya -by- Cora
+2017-02-09T04:56:33+01:00 INFO: Antenne Schlager: Den Wind Im Gesicht -by- Isabel Varell
+2017-02-09T04:59:33+01:00 INFO: Antenne Schlager: Alles atmet Liebe -by- Mara Kayser
+2017-02-09T05:02:35+01:00 INFO: Antenne Schlager: Ohne dich -by- Feuerherz
+2017-02-09T05:05:35+01:00 INFO: Antenne Schlager: Ruf mich an -by- Gilbert
+2017-02-09T05:09:35+01:00 INFO: Antenne Schlager: Trotzdem -by- GLEIS 8
+2017-02-09T05:12:35+01:00 INFO: Antenne Schlager: STARK GENUG (I WILL LOVE YOU AGAIN) -by- INES-MARIE JAEGER
+2017-02-09T05:16:36+01:00 INFO: Antenne Schlager: Sie liebt den DJ -by- Michael Wendler
+2017-02-09T05:19:36+01:00 INFO: Antenne Schlager: Wovon träumst du -by- Michael Wendler
+2017-02-09T05:23:36+01:00 INFO: Antenne Schlager: Zieh dich an und geh -by- Nockalm Quintett
+2017-02-09T05:26:37+01:00 INFO: Antenne Schlager: TRÄUMEN LOHNT SICH HEUTE NACHT -by- Olaf Berger
+2017-02-09T05:30:38+01:00 INFO: Antenne Schlager: Paradies -by- Francine Jordi
+2017-02-09T05:33:38+01:00 INFO: Antenne Schlager: Spanischer Wahnsinn -by- Ingrid Peters
+2017-02-09T05:36:38+01:00 INFO: Antenne Schlager: Solange Liebe in mir wohnt -by- Luxuslärm
+2017-02-09T05:39:39+01:00 INFO: Antenne Schlager: Das kleine Haus am Meer -by- Monika Martin
+2017-02-09T05:43:39+01:00 INFO: Antenne Schlager: Herz Aus Glas -by- Münchener Freiheit
+2017-02-09T05:46:39+01:00 INFO: Antenne Schlager: VERLIEBT IN DAS LEBEN -by- ANNEMARIE EILFELD
+2017-02-09T05:50:40+01:00 INFO: Antenne Schlager: Dr. Amore -by- Destivo
+2017-02-09T05:53:40+01:00 INFO: Antenne Schlager: Genieße dein Leben -by- Dirk Busch
+2017-02-09T05:57:40+01:00 INFO: Antenne Schlager: Unterwegs -by- Ella Endlich
+2017-02-09T06:00:41+01:00 INFO: Antenne Schlager: Lila Wolken -by- Peter Kraus
+2017-02-09T06:02:41+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T06:06:41+01:00 INFO: Antenne Schlager: Das Glück schenkt einen aus -by- Schramme11
+2017-02-09T06:09:42+01:00 INFO: Antenne Schlager: Das Leben und ich -by- Vicky Leandros
+2017-02-09T06:13:42+01:00 INFO: Antenne Schlager: Hollywood -by- Julian David
+2017-02-09T06:17:43+01:00 INFO: Antenne Schlager: Der Letzte seiner Art -by- Wolfgang Petry
+2017-02-09T06:21:43+01:00 INFO: Antenne Schlager: Wenn du hier bleibst -by- André Stade
+2017-02-09T06:25:43+01:00 INFO: Antenne Schlager: Wartezeit -by- Mary Roos
+2017-02-09T06:28:44+01:00 INFO: Antenne Schlager: SPIEL MICH HEUTE NACHT IN DEN HIMMEL -by- CAROLINE & LUKAS BEIL
+2017-02-09T06:31:44+01:00 INFO: Antenne Schlager: Hier gehör ich hin -by- Klaus Wendel
+2017-02-09T06:34:44+01:00 INFO: Antenne Schlager: Wer das Leben liebt -by- Die Cappuccinos
+2017-02-09T06:37:45+01:00 INFO: Antenne Schlager: Einer dieser Tage -by- Mitch Keller
+2017-02-09T06:41:45+01:00 INFO: Antenne Schlager: Mit dir vielleicht -by- Nicole
+2017-02-09T06:45:45+01:00 INFO: Antenne Schlager: Die neue Wirklichkeit -by- Monika Martin
+2017-02-09T06:49:46+01:00 INFO: Antenne Schlager: Tanz auf dem Vulkan -by- Anni Perka
+2017-02-09T06:53:46+01:00 INFO: Antenne Schlager: Wollen wir uns -by- Christin Stark
+2017-02-09T06:57:47+01:00 INFO: Antenne Schlager: Ich lass es gut sein -by- Lindt Bennett
+2017-02-09T07:00:47+01:00 INFO: Antenne Schlager: Wenn du eine Stadt wärst -by- Wind
+2017-02-09T07:03:48+01:00 INFO: Antenne Schlager: Arche Noah -by- Brunner & Stelzer
+2017-02-09T07:06:48+01:00 INFO: Antenne Schlager: Am Ende des Tages -by- Julian David
+2017-02-09T07:10:48+01:00 INFO: Antenne Schlager: WARUM HAST DU NICHT NEIN GESAGT -by- ROLAND KAISER FEAT. MAITE KELLY
+2017-02-09T07:13:49+01:00 INFO: Antenne Schlager: Das hat die Welt noch nie gesehen -by- Andrea Berg
+2017-02-09T07:16:49+01:00 INFO: Antenne Schlager: Warum, weshalb, wieso -by- Andreas Martin
+2017-02-09T07:20:49+01:00 INFO: Antenne Schlager: Alles was ich will -by- Matthias Reim
+2017-02-09T07:23:50+01:00 INFO: Antenne Schlager: IRGENDWANN VIELLEICHT -by- FRANK NEUENFELLS
+2017-02-09T07:28:50+01:00 INFO: Antenne Schlager: Wenn er wüsste -by- Tanja Lasch
+2017-02-09T07:31:51+01:00 INFO: Antenne Schlager: Kurz vor Wahnsinn -by- Alexander Martin
+2017-02-09T07:35:51+01:00 INFO: Antenne Schlager: Mit dir und immer wieder -by- Die Piloten
+2017-02-09T07:38:51+01:00 INFO: Antenne Schlager: Bleib noch eine Nacht -by- Acarina
+2017-02-09T07:41:52+01:00 INFO: Antenne Schlager: Er gehört zu mir -by- Marianne Rosenberg
+2017-02-09T07:44:52+01:00 INFO: Antenne Schlager: Sieben mal (feat. Ben Luca) -by- Techno-Buben
+2017-02-09T07:47:52+01:00 INFO: Antenne Schlager: Der Morgen mit dir -by- Frank Cordes
+2017-02-09T07:50:53+01:00 INFO: Antenne Schlager: Es wird schon hell über Berlin -by- Wolkenfrei
+2017-02-09T07:54:53+01:00 INFO: Antenne Schlager: Das erste Mal im Leben -by- Foxpiraten
+2017-02-09T07:57:53+01:00 INFO: Antenne Schlager: Schenk mir eine Nacht -by- Achim Köllen
+2017-02-09T08:02:56+01:00 INFO: Antenne Schlager: DICH ZU LIEBEN IST LEICHT -by- JP MUSIK PROJECT
+2017-02-09T08:05:56+01:00 INFO: Antenne Schlager: Baby Blue -by- Emotion
+2017-02-09T08:09:57+01:00 INFO: Antenne Schlager: Spiel mit dem Feuer -by- Markus Schröder
+2017-02-09T08:12:57+01:00 INFO: Antenne Schlager: My Love -by- Angelika Martin
+2017-02-09T08:16:57+01:00 INFO: Antenne Schlager: Welcome to my heart -by- Anke Fürst
+2017-02-09T08:19:58+01:00 INFO: Antenne Schlager: EINSAMER WOLF -by- FRANK LUCAS
+2017-02-09T08:24:58+01:00 INFO: Antenne Schlager: Hello Hello -by- Allessa
+2017-02-09T08:27:58+01:00 INFO: Antenne Schlager: Deine Mutter ist immer dabei -by- Truck Stop
+2017-02-09T08:30:59+01:00 INFO: Antenne Schlager: 100.000 Volt -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T08:33:59+01:00 INFO: Antenne Schlager: ICH WEIß, DASS ICH NICHTS WIEß -by- Vicky Leandros
+2017-02-09T08:36:59+01:00 INFO: Antenne Schlager: Gefallener Engel -by- Maria Voskania
+2017-02-09T08:40:00+01:00 INFO: Antenne Schlager: Schwesterherz -by- Klima
+2017-02-09T08:44:00+01:00 INFO: Antenne Schlager: Amsterdam -by- Cora
+2017-02-09T08:48:00+01:00 INFO: Antenne Schlager: Wie beim ersten Mal -by- Michael Wendler
+2017-02-09T08:52:02+01:00 INFO: Antenne Schlager: Ein Tag ohne dich -by- Maxi Arland
+2017-02-09T08:56:03+01:00 INFO: Antenne Schlager: Alles wird gut -by- Susemihl
+2017-02-09T08:59:03+01:00 INFO: Antenne Schlager: Ich bin ja kein Mann -by- Linda Hesse
+2017-02-09T09:02:03+01:00 INFO: Antenne Schlager: Adrenalin -by- Ella Endlich
+2017-02-09T09:06:04+01:00 INFO: Antenne Schlager: Von hier bis zur Unendlichkeit -by- Bernhard Brink
+2017-02-09T09:10:04+01:00 INFO: Antenne Schlager: Dein Kapitel im Tagebuch -by- Christian Lais
+2017-02-09T09:13:04+01:00 INFO: Antenne Schlager: Du bringst mich um (den Verstand) -by- Feuerherz
+2017-02-09T09:17:05+01:00 INFO: Antenne Schlager: Ich hab dir nie gesagt... -by- Mitch Keller
+2017-02-09T09:20:05+01:00 INFO: Antenne Schlager: Hungriges Herz -by- Ute Freudenberg
+2017-02-09T09:24:05+01:00 INFO: Antenne Schlager: Hulapalu -by- Andreas Gabalier
+2017-02-09T09:27:06+01:00 INFO: Antenne Schlager: Magnet -by- Alexander Klaws
+2017-02-09T09:31:06+01:00 INFO: Antenne Schlager: Stark -by- Olaf Berger
+2017-02-09T09:34:07+01:00 INFO: Antenne Schlager: Ohne Worte -by- Beatrice Egli
+2017-02-09T09:37:07+01:00 INFO: Antenne Schlager: Diese Nacht ist jede Sünde wert -by- Andrea Berg
+2017-02-09T09:41:08+01:00 INFO: Antenne Schlager: Wenn du mir in die Augen schaust -by- Fantasy
+2017-02-09T09:44:08+01:00 INFO: Antenne Schlager: Palma De Mallorca -by- Chris Wolff
+2017-02-09T09:47:08+01:00 INFO: Antenne Schlager: Du schaffst das schon -by- KLUBBB3
+2017-02-09T09:51:09+01:00 INFO: Antenne Schlager: GEBOREN UM DICH ZU LIEBEN -by- DJ ÖTZI FEAT.  NIK P.
+2017-02-09T09:54:09+01:00 INFO: Antenne Schlager: Schön ist der Morgen -by- Semino Rossi
+2017-02-09T09:57:09+01:00 INFO: Antenne Schlager: Das reicht für mehr als eine Nacht -by- Andrea Jürgens
+2017-02-09T10:01:11+01:00 INFO: Antenne Schlager: S.O.S. -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T10:04:11+01:00 INFO: Antenne Schlager: Das ist unsere Zeit -by- Howard Carpendale
+2017-02-09T10:07:12+01:00 INFO: Antenne Schlager: Wachgeküsst -by- Wolkenfrei
+2017-02-09T10:10:12+01:00 INFO: Antenne Schlager: Das Paradies ist hier -by- Heinz Rudolf Kunze
+2017-02-09T10:14:12+01:00 INFO: Antenne Schlager: Die kleinen Dinge -by- Jördis Tielsch
+2017-02-09T10:18:13+01:00 INFO: Antenne Schlager: Da ist ein Engel -by- Laura Wilde
+2017-02-09T10:22:15+01:00 INFO: Antenne Schlager: Du sagst es ohne ein Wort -by- Claudia Jung
+2017-02-09T10:26:16+01:00 INFO: Antenne Schlager: Sag seit wann -by- Karat
+2017-02-09T10:30:19+01:00 INFO: Antenne Schlager: Morgen explodiert die Welt -by- Alexander Klaws
+2017-02-09T10:34:22+01:00 INFO: Antenne Schlager: Himalaya -by- Cora
+2017-02-09T10:38:22+01:00 INFO: Antenne Schlager: Den Wind Im Gesicht -by- Isabel Varell
+2017-02-09T10:41:23+01:00 INFO: Antenne Schlager: Alles atmet Liebe -by- Mara Kayser
+2017-02-09T10:44:23+01:00 INFO: Antenne Schlager: Für immer jung -by- Karel Gott
+2017-02-09T10:47:23+01:00 INFO: Antenne Schlager: Mit dir will ich am Abgrund stehen (2012) -by- Norman Langen
+2017-02-09T10:50:23+01:00 INFO: Antenne Schlager: Sowieso -by- Vivian Lindt
+2017-02-09T10:53:24+01:00 INFO: Antenne Schlager: Ohne dich -by- Feuerherz
+2017-02-09T10:57:24+01:00 INFO: Antenne Schlager: Ruf mich an -by- Gilbert
+2017-02-09T11:00:25+01:00 INFO: Antenne Schlager: Sie liebt den DJ -by- Michael Wendler
+2017-02-09T11:04:26+01:00 INFO: Antenne Schlager: Wovon träumst du -by- Michael Wendler
+2017-02-09T11:07:27+01:00 INFO: Antenne Schlager: Zieh dich an und geh -by- Nockalm Quintett
+2017-02-09T11:11:27+01:00 INFO: Antenne Schlager: TRÄUMEN LOHNT SICH HEUTE NACHT -by- Olaf Berger
+2017-02-09T11:14:27+01:00 INFO: Antenne Schlager: Paradies -by- Francine Jordi
+2017-02-09T11:17:28+01:00 INFO: Antenne Schlager: Spanischer Wahnsinn -by- Ingrid Peters
+2017-02-09T11:21:29+01:00 INFO: Antenne Schlager: Solange Liebe in mir wohnt -by- Luxuslärm
+2017-02-09T11:24:29+01:00 INFO: Antenne Schlager: Das kleine Haus am Meer -by- Monika Martin
+2017-02-09T11:28:30+01:00 INFO: Antenne Schlager: VERLIEBT IN DAS LEBEN -by- ANNEMARIE EILFELD
+2017-02-09T11:31:30+01:00 INFO: Antenne Schlager: Dr. Amore -by- Destivo
+2017-02-09T11:34:31+01:00 INFO: Antenne Schlager: Genieße dein Leben -by- Dirk Busch
+2017-02-09T11:38:31+01:00 INFO: Antenne Schlager: Unterwegs -by- Ella Endlich
+2017-02-09T11:42:32+01:00 INFO: Antenne Schlager: Das wär John nie passiert -by- Wencke Myhre
+2017-02-09T11:45:32+01:00 INFO: Antenne Schlager: Verdammt guter Tag -by- Feuerherz
+2017-02-09T11:48:33+01:00 INFO: Antenne Schlager: 30.000 Grad -by- Michelle
+2017-02-09T11:51:33+01:00 INFO: Antenne Schlager: Lila Wolken -by- Peter Kraus
+2017-02-09T11:54:34+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T11:57:34+01:00 INFO: Antenne Schlager: Das Glück schenkt einen aus -by- Schramme11
+2017-02-09T12:00:35+01:00 INFO: Antenne Schlager: Hollywood -by- Julian David
+2017-02-09T12:03:35+01:00 INFO: Antenne Schlager: Der Letzte seiner Art -by- Wolfgang Petry
+2017-02-09T12:07:36+01:00 INFO: Antenne Schlager: Wenn du hier bleibst -by- André Stade
+2017-02-09T12:11:36+01:00 INFO: Antenne Schlager: Wartezeit -by- Mary Roos
+2017-02-09T12:14:37+01:00 INFO: Antenne Schlager: SPIEL MICH HEUTE NACHT IN DEN HIMMEL -by- CAROLINE & LUKAS BEIL
+2017-02-09T12:17:37+01:00 INFO: Antenne Schlager: Hier gehör ich hin -by- Klaus Wendel
+2017-02-09T12:20:37+01:00 INFO: Antenne Schlager: Wer das Leben liebt -by- Die Cappuccinos
+2017-02-09T12:24:38+01:00 INFO: Antenne Schlager: Einer dieser Tage -by- Mitch Keller
+2017-02-09T12:28:38+01:00 INFO: Antenne Schlager: Die neue Wirklichkeit -by- Monika Martin
+2017-02-09T12:32:38+01:00 INFO: Antenne Schlager: Tanz auf dem Vulkan -by- Anni Perka
+2017-02-09T12:35:39+01:00 INFO: Antenne Schlager: Wollen wir uns -by- Christin Stark
+2017-02-09T12:39:39+01:00 INFO: Antenne Schlager: Ich lass es gut sein -by- Lindt Bennett
+2017-02-09T12:43:41+01:00 INFO: Antenne Schlager: Komm doch mal rüber -by- Ingrid Peters
+2017-02-09T12:45:41+01:00 INFO: Antenne Schlager: Gemeinsam -by- Pur
+2017-02-09T12:50:41+01:00 INFO: Antenne Schlager: Nur für einen Moment -by- Uwe Busse
+2017-02-09T12:53:42+01:00 INFO: Antenne Schlager: Wenn du eine Stadt wärst -by- Wind
+2017-02-09T12:56:42+01:00 INFO: Antenne Schlager: Arche Noah -by- Brunner & Stelzer
+2017-02-09T12:59:42+01:00 INFO: Antenne Schlager: Am Ende des Tages -by- Julian David
+2017-02-09T13:03:43+01:00 INFO: Antenne Schlager: Das hat die Welt noch nie gesehen -by- Andrea Berg
+2017-02-09T13:06:44+01:00 INFO: Antenne Schlager: Warum, weshalb, wieso -by- Andreas Martin
+2017-02-09T13:09:45+01:00 INFO: Antenne Schlager: Alles was ich will -by- Matthias Reim
+2017-02-09T13:13:45+01:00 INFO: Antenne Schlager: IRGENDWANN VIELLEICHT -by- FRANK NEUENFELLS
+2017-02-09T13:17:45+01:00 INFO: Antenne Schlager: Wenn er wüsste -by- Tanja Lasch
+2017-02-09T13:20:46+01:00 INFO: Antenne Schlager: Kurz vor Wahnsinn -by- Alexander Martin
+2017-02-09T13:24:46+01:00 INFO: Antenne Schlager: Mit dir und immer wieder -by- Die Piloten
+2017-02-09T13:27:46+01:00 INFO: Antenne Schlager: Bleib noch eine Nacht -by- Acarina
+2017-02-09T13:31:47+01:00 INFO: Antenne Schlager: Sieben mal (feat. Ben Luca) -by- Techno-Buben
+2017-02-09T13:34:47+01:00 INFO: Antenne Schlager: Der Morgen mit dir -by- Frank Cordes
+2017-02-09T13:37:48+01:00 INFO: Antenne Schlager: Es wird schon hell über Berlin -by- Wolkenfrei
+2017-02-09T13:40:48+01:00 INFO: Antenne Schlager: Das erste Mal im Leben -by- Foxpiraten
+2017-02-09T13:44:48+01:00 INFO: Antenne Schlager: Herz Aus Glas -by- Münchener Freiheit
+2017-02-09T13:47:49+01:00 INFO: Antenne Schlager: Schenk mir eine Nacht -by- Achim Köllen
+2017-02-09T13:51:49+01:00 INFO: Antenne Schlager: Das Gestern ist vorbei -by- Bert Silver
+2017-02-09T13:55:50+01:00 INFO: Antenne Schlager: DICH ZU LIEBEN IST LEICHT -by- JP MUSIK PROJECT
+2017-02-09T13:59:50+01:00 INFO: Antenne Schlager: Baby Blue -by- Emotion
+2017-02-09T14:02:51+01:00 INFO: Antenne Schlager: Welcome to my heart -by- Anke Fürst
+2017-02-09T14:06:51+01:00 INFO: Antenne Schlager: EINSAMER WOLF -by- FRANK LUCAS
+2017-02-09T14:10:52+01:00 INFO: Antenne Schlager: Hello Hello -by- Allessa
+2017-02-09T14:13:52+01:00 INFO: Antenne Schlager: Deine Mutter ist immer dabei -by- Truck Stop
+2017-02-09T14:16:52+01:00 INFO: Antenne Schlager: 100.000 Volt -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T14:19:53+01:00 INFO: Antenne Schlager: ICH WEIß, DASS ICH NICHTS WIEß -by- Vicky Leandros
+2017-02-09T14:23:53+01:00 INFO: Antenne Schlager: Gefallener Engel -by- Maria Voskania
+2017-02-09T14:26:54+01:00 INFO: Antenne Schlager: Schwesterherz -by- Klima
+2017-02-09T14:29:54+01:00 INFO: Antenne Schlager: Wie beim ersten Mal -by- Michael Wendler
+2017-02-09T14:33:55+01:00 INFO: Antenne Schlager: Ein Tag ohne dich -by- Maxi Arland
+2017-02-09T14:37:56+01:00 INFO: Antenne Schlager: Alles wird gut -by- Susemihl
+2017-02-09T14:40:56+01:00 INFO: Antenne Schlager: Ich bin ja kein Mann -by- Linda Hesse
+2017-02-09T14:43:56+01:00 INFO: Antenne Schlager: Amsterdam -by- Cora
+2017-02-09T14:48:57+01:00 INFO: Antenne Schlager: Alles okay -by- Ute Freudenberg
+2017-02-09T14:52:58+01:00 INFO: Antenne Schlager: Das Beste am Leben -by- Roland Kaiser
+2017-02-09T14:55:58+01:00 INFO: Antenne Schlager: Adrenalin -by- Ella Endlich
+2017-02-09T14:59:59+01:00 INFO: Antenne Schlager: Von hier bis zur Unendlichkeit -by- Bernhard Brink
+2017-02-09T15:04:00+01:00 INFO: Antenne Schlager: Ich hab dir nie gesagt... -by- Mitch Keller
+2017-02-09T15:08:00+01:00 INFO: Antenne Schlager: Hungriges Herz -by- Ute Freudenberg
+2017-02-09T15:11:01+01:00 INFO: Antenne Schlager: Hulapalu -by- Andreas Gabalier
+2017-02-09T15:14:01+01:00 INFO: Antenne Schlager: Magnet -by- Alexander Klaws
+2017-02-09T15:17:02+01:00 INFO: Antenne Schlager: Stark -by- Olaf Berger
+2017-02-09T15:21:02+01:00 INFO: Antenne Schlager: Ohne Worte -by- Beatrice Egli
+2017-02-09T15:25:03+01:00 INFO: Antenne Schlager: Diese Nacht ist jede Sünde wert -by- Andrea Berg
+2017-02-09T15:28:03+01:00 INFO: Antenne Schlager: Wenn du mir in die Augen schaust -by- Fantasy
+2017-02-09T15:32:04+01:00 INFO: Antenne Schlager: Du schaffst das schon -by- KLUBBB3
+2017-02-09T15:34:05+01:00 INFO: Antenne Schlager: GEBOREN UM DICH ZU LIEBEN -by- DJ ÖTZI FEAT.  NIK P.
+2017-02-09T15:38:05+01:00 INFO: Antenne Schlager: Schön ist der Morgen -by- Semino Rossi
+2017-02-09T15:41:06+01:00 INFO: Antenne Schlager: Das reicht für mehr als eine Nacht -by- Andrea Jürgens
+2017-02-09T15:45:06+01:00 INFO: Antenne Schlager: Mit dir vielleicht -by- Nicole
+2017-02-09T15:48:07+01:00 INFO: Antenne Schlager: Ich sterb für dich -by- Vanessa Mai
+2017-02-09T15:52:08+01:00 INFO: Antenne Schlager: Alle Optionen offen -by- Christian Anders
+2017-02-09T15:55:08+01:00 INFO: Antenne Schlager: S.O.S. -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T15:58:09+01:00 INFO: Antenne Schlager: Das ist unsere Zeit -by- Howard Carpendale
+2017-02-09T16:01:09+01:00 INFO: Antenne Schlager: Die kleinen Dinge -by- Jördis Tielsch
+2017-02-09T16:05:09+01:00 INFO: Antenne Schlager: Da ist ein Engel -by- Laura Wilde
+2017-02-09T16:08:10+01:00 INFO: Antenne Schlager: Du sagst es ohne ein Wort -by- Claudia Jung
+2017-02-09T16:12:10+01:00 INFO: Antenne Schlager: Sag seit wann -by- Karat
+2017-02-09T16:17:11+01:00 INFO: Antenne Schlager: Morgen explodiert die Welt -by- Alexander Klaws
+2017-02-09T16:20:11+01:00 INFO: Antenne Schlager: Himalaya -by- Cora
+2017-02-09T16:25:12+01:00 INFO: Antenne Schlager: Den Wind Im Gesicht -by- Isabel Varell
+2017-02-09T16:28:12+01:00 INFO: Antenne Schlager: Alles atmet Liebe -by- Mara Kayser
+2017-02-09T16:31:12+01:00 INFO: Antenne Schlager: Mit dir will ich am Abgrund stehen (2012) -by- Norman Langen
+2017-02-09T16:34:13+01:00 INFO: Antenne Schlager: Sowieso -by- Vivian Lindt
+2017-02-09T16:38:13+01:00 INFO: Antenne Schlager: Ohne dich -by- Feuerherz
+2017-02-09T16:41:13+01:00 INFO: Antenne Schlager: Ruf mich an -by- Gilbert
+2017-02-09T16:44:14+01:00 INFO: Antenne Schlager: Er gehört zu mir -by- Marianne Rosenberg
+2017-02-09T16:47:14+01:00 INFO: Antenne Schlager: Trotzdem -by- GLEIS 8
+2017-02-09T16:50:14+01:00 INFO: Antenne Schlager: STARK GENUG (I WILL LOVE YOU AGAIN) -by- INES-MARIE JAEGER
+2017-02-09T16:54:15+01:00 INFO: Antenne Schlager: Sie liebt den DJ -by- Michael Wendler
+2017-02-09T16:58:15+01:00 INFO: Antenne Schlager: Wovon träumst du -by- Michael Wendler
+2017-02-09T17:01:15+01:00 INFO: Antenne Schlager: Paradies -by- Francine Jordi
+2017-02-09T17:04:16+01:00 INFO: Antenne Schlager: Spanischer Wahnsinn -by- Ingrid Peters
+2017-02-09T17:07:16+01:00 INFO: Antenne Schlager: Solange Liebe in mir wohnt -by- Luxuslärm
+2017-02-09T17:11:17+01:00 INFO: Antenne Schlager: Das kleine Haus am Meer -by- Monika Martin
+2017-02-09T17:14:17+01:00 INFO: Antenne Schlager: VERLIEBT IN DAS LEBEN -by- ANNEMARIE EILFELD
+2017-02-09T17:18:18+01:00 INFO: Antenne Schlager: Dr. Amore -by- Destivo
+2017-02-09T17:22:18+01:00 INFO: Antenne Schlager: Genieße dein Leben -by- Dirk Busch
+2017-02-09T17:25:19+01:00 INFO: Antenne Schlager: Unterwegs -by- Ella Endlich
+2017-02-09T17:28:19+01:00 INFO: Antenne Schlager: Verdammt guter Tag -by- Feuerherz
+2017-02-09T17:31:20+01:00 INFO: Antenne Schlager: 30.000 Grad -by- Michelle
+2017-02-09T17:35:20+01:00 INFO: Antenne Schlager: Lila Wolken -by- Peter Kraus
+2017-02-09T17:37:20+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T17:41:21+01:00 INFO: Antenne Schlager: Palma De Mallorca -by- Chris Wolff
+2017-02-09T17:44:21+01:00 INFO: Antenne Schlager: Das Glück schenkt einen aus -by- Schramme11
+2017-02-09T17:47:23+01:00 INFO: Antenne Schlager: Das Leben und ich -by- Vicky Leandros
+2017-02-09T17:52:24+01:00 INFO: Antenne Schlager: Hollywood -by- Julian David
+2017-02-09T17:55:25+01:00 INFO: Antenne Schlager: Der Letzte seiner Art -by- Wolfgang Petry
+2017-02-09T17:59:26+01:00 INFO: Antenne Schlager: Wenn du hier bleibst -by- André Stade
+2017-02-09T18:00:26+01:00 INFO: Antenne Schlager: SPIEL MICH HEUTE NACHT IN DEN HIMMEL -by- CAROLINE & LUKAS BEIL
+2017-02-09T18:03:27+01:00 INFO: Antenne Schlager: Hier gehör ich hin -by- Klaus Wendel
+2017-02-09T18:06:27+01:00 INFO: Antenne Schlager: Wer das Leben liebt -by- Die Cappuccinos
+2017-02-09T18:09:28+01:00 INFO: Antenne Schlager: Einer dieser Tage -by- Mitch Keller
+2017-02-09T18:13:29+01:00 INFO: Antenne Schlager: Die neue Wirklichkeit -by- Monika Martin
+2017-02-09T18:17:31+01:00 INFO: Antenne Schlager: Tanz auf dem Vulkan -by- Anni Perka
+2017-02-09T18:21:32+01:00 INFO: Antenne Schlager: Wollen wir uns -by- Christin Stark
+2017-02-09T18:25:33+01:00 INFO: Antenne Schlager: Ich lass es gut sein -by- Lindt Bennett
+2017-02-09T18:28:33+01:00 INFO: Antenne Schlager: Gemeinsam -by- Pur
+2017-02-09T18:33:34+01:00 INFO: Antenne Schlager: Nur für einen Moment -by- Uwe Busse
+2017-02-09T18:36:35+01:00 INFO: Antenne Schlager: Wenn du eine Stadt wärst -by- Wind
+2017-02-09T18:39:36+01:00 INFO: Antenne Schlager: Arche Noah -by- Brunner & Stelzer
+2017-02-09T18:43:36+01:00 INFO: Antenne Schlager: Komm doch mal rüber -by- Ingrid Peters
+2017-02-09T18:45:37+01:00 INFO: Antenne Schlager: Am Ende des Tages -by- Julian David
+2017-02-09T18:49:37+01:00 INFO: Antenne Schlager: WARUM HAST DU NICHT NEIN GESAGT -by- ROLAND KAISER FEAT. MAITE KELLY
+2017-02-09T18:52:37+01:00 INFO: Antenne Schlager: Das hat die Welt noch nie gesehen -by- Andrea Berg
+2017-02-09T18:56:38+01:00 INFO: Antenne Schlager: Warum, weshalb, wieso -by- Andreas Martin
+2017-02-09T18:59:38+01:00 INFO: Antenne Schlager: Alles was ich will -by- Matthias Reim
+2017-02-09T19:02:39+01:00 INFO: Antenne Schlager: Wenn er wüsste -by- Tanja Lasch
+2017-02-09T19:05:39+01:00 INFO: Antenne Schlager: Kurz vor Wahnsinn -by- Alexander Martin
+2017-02-09T19:09:39+01:00 INFO: Antenne Schlager: Mit dir und immer wieder -by- Die Piloten
+2017-02-09T19:12:40+01:00 INFO: Antenne Schlager: Bleib noch eine Nacht -by- Acarina
+2017-02-09T19:15:40+01:00 INFO: Antenne Schlager: Sieben mal (feat. Ben Luca) -by- Techno-Buben
+2017-02-09T19:18:40+01:00 INFO: Antenne Schlager: Der Morgen mit dir -by- Frank Cordes
+2017-02-09T19:22:41+01:00 INFO: Antenne Schlager: Es wird schon hell über Berlin -by- Wolkenfrei
+2017-02-09T19:25:41+01:00 INFO: Antenne Schlager: Das erste Mal im Leben -by- Foxpiraten
+2017-02-09T19:29:42+01:00 INFO: Antenne Schlager: Schenk mir eine Nacht -by- Achim Köllen
+2017-02-09T19:33:42+01:00 INFO: Antenne Schlager: Das Gestern ist vorbei -by- Bert Silver
+2017-02-09T19:37:43+01:00 INFO: Antenne Schlager: DICH ZU LIEBEN IST LEICHT -by- JP MUSIK PROJECT
+2017-02-09T19:40:43+01:00 INFO: Antenne Schlager: Baby Blue -by- Emotion
+2017-02-09T19:44:44+01:00 INFO: Antenne Schlager: Für immer jung -by- Karel Gott
+2017-02-09T19:48:45+01:00 INFO: Antenne Schlager: Spiel mit dem Feuer -by- Markus Schröder
+2017-02-09T19:52:45+01:00 INFO: Antenne Schlager: My Love -by- Angelika Martin
+2017-02-09T19:55:46+01:00 INFO: Antenne Schlager: Welcome to my heart -by- Anke Fürst
+2017-02-09T19:58:46+01:00 INFO: Antenne Schlager: EINSAMER WOLF -by- FRANK LUCAS
+2017-02-09T20:02:47+01:00 INFO: Antenne Schlager: 100.000 Volt -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T20:05:47+01:00 INFO: Antenne Schlager: ICH WEIß, DASS ICH NICHTS WIEß -by- Vicky Leandros
+2017-02-09T20:09:48+01:00 INFO: Antenne Schlager: Gefallener Engel -by- Maria Voskania
+2017-02-09T20:12:48+01:00 INFO: Antenne Schlager: Schwesterherz -by- Klima
+2017-02-09T20:15:48+01:00 INFO: Antenne Schlager: Wie beim ersten Mal -by- Michael Wendler
+2017-02-09T20:18:48+01:00 INFO: Antenne Schlager: Ein Tag ohne dich -by- Maxi Arland
+2017-02-09T20:23:49+01:00 INFO: Antenne Schlager: Alles wird gut -by- Susemihl
+2017-02-09T20:26:49+01:00 INFO: Antenne Schlager: Ich bin ja kein Mann -by- Linda Hesse
+2017-02-09T20:29:50+01:00 INFO: Antenne Schlager: Alles okay -by- Ute Freudenberg
+2017-02-09T20:33:50+01:00 INFO: Antenne Schlager: Das Beste am Leben -by- Roland Kaiser
+2017-02-09T20:37:50+01:00 INFO: Antenne Schlager: Adrenalin -by- Ella Endlich
+2017-02-09T20:41:51+01:00 INFO: Antenne Schlager: Von hier bis zur Unendlichkeit -by- Bernhard Brink
+2017-02-09T20:45:53+01:00 INFO: Antenne Schlager: Das wär John nie passiert -by- Wencke Myhre
+2017-02-09T20:49:53+01:00 INFO: Antenne Schlager: Dein Kapitel im Tagebuch -by- Christian Lais
+2017-02-09T20:52:54+01:00 INFO: Antenne Schlager: Du bringst mich um (den Verstand) -by- Feuerherz
+2017-02-09T20:56:55+01:00 INFO: Antenne Schlager: Ich hab dir nie gesagt... -by- Mitch Keller
+2017-02-09T21:00:56+01:00 INFO: Antenne Schlager: Stark -by- Olaf Berger
+2017-02-09T21:03:56+01:00 INFO: Antenne Schlager: Ohne Worte -by- Beatrice Egli
+2017-02-09T21:06:57+01:00 INFO: Antenne Schlager: Diese Nacht ist jede Sünde wert -by- Andrea Berg
+2017-02-09T21:09:57+01:00 INFO: Antenne Schlager: Wenn du mir in die Augen schaust -by- Fantasy
+2017-02-09T21:13:57+01:00 INFO: Antenne Schlager: Du schaffst das schon -by- KLUBBB3
+2017-02-09T21:16:58+01:00 INFO: Antenne Schlager: GEBOREN UM DICH ZU LIEBEN -by- DJ ÖTZI FEAT.  NIK P.
+2017-02-09T21:20:59+01:00 INFO: Antenne Schlager: Schön ist der Morgen -by- Semino Rossi
+2017-02-09T21:24:00+01:00 INFO: Antenne Schlager: Das reicht für mehr als eine Nacht -by- Andrea Jürgens
+2017-02-09T21:28:03+01:00 INFO: Antenne Schlager: Ich sterb für dich -by- Vanessa Mai
+2017-02-09T21:31:07+01:00 INFO: Antenne Schlager: Alle Optionen offen -by- Christian Anders
+2017-02-09T21:34:07+01:00 INFO: Antenne Schlager: S.O.S. -by- Anita Hofmann & Alexandra Hofmann
+2017-02-09T21:37:08+01:00 INFO: Antenne Schlager: Das ist unsere Zeit -by- Howard Carpendale
+2017-02-09T21:40:09+01:00 INFO: Antenne Schlager: Herz Aus Glas -by- Münchener Freiheit
+2017-02-09T21:44:09+01:00 INFO: Antenne Schlager: Wachgeküsst -by- Wolkenfrei
+2017-02-09T21:47:10+01:00 INFO: Antenne Schlager: Das Paradies ist hier -by- Heinz Rudolf Kunze
+2017-02-09T21:51:10+01:00 INFO: Antenne Schlager: Die kleinen Dinge -by- Jördis Tielsch
+2017-02-09T21:55:11+01:00 INFO: Antenne Schlager: Da ist ein Engel -by- Laura Wilde
+2017-02-09T21:58:12+01:00 INFO: Antenne Schlager: Du sagst es ohne ein Wort -by- Claudia Jung
+2017-02-09T22:02:13+01:00 INFO: Antenne Schlager: Morgen explodiert die Welt -by- Alexander Klaws
+2017-02-09T22:06:14+01:00 INFO: Antenne Schlager: Himalaya -by- Cora
+2017-02-09T22:10:14+01:00 INFO: Antenne Schlager: Den Wind Im Gesicht -by- Isabel Varell
+2017-02-09T22:13:15+01:00 INFO: Antenne Schlager: Alles atmet Liebe -by- Mara Kayser
+2017-02-09T22:16:16+01:00 INFO: Antenne Schlager: Mit dir will ich am Abgrund stehen (2012) -by- Norman Langen
+2017-02-09T22:19:17+01:00 INFO: Antenne Schlager: Sowieso -by- Vivian Lindt
+2017-02-09T22:23:17+01:00 INFO: Antenne Schlager: Ohne dich -by- Feuerherz
+2017-02-09T22:26:18+01:00 INFO: Antenne Schlager: Ruf mich an -by- Gilbert
+2017-02-09T22:30:19+01:00 INFO: Antenne Schlager: Trotzdem -by- GLEIS 8
+2017-02-09T22:33:20+01:00 INFO: Antenne Schlager: STARK GENUG (I WILL LOVE YOU AGAIN) -by- INES-MARIE JAEGER
+2017-02-09T22:36:20+01:00 INFO: Antenne Schlager: Sie liebt den DJ -by- Michael Wendler
+2017-02-09T22:40:21+01:00 INFO: Antenne Schlager: Wovon träumst du -by- Michael Wendler
+2017-02-09T22:44:21+01:00 INFO: Antenne Schlager: Mit dir vielleicht -by- Nicole
+2017-02-09T22:47:22+01:00 INFO: Antenne Schlager: Zieh dich an und geh -by- Nockalm Quintett
+2017-02-09T22:51:25+01:00 INFO: Antenne Schlager: TRÄUMEN LOHNT SICH HEUTE NACHT -by- Olaf Berger
+2017-02-09T22:54:26+01:00 INFO: Antenne Schlager: Paradies -by- Francine Jordi
+2017-02-09T22:57:29+01:00 INFO: Antenne Schlager: Spanischer Wahnsinn -by- Ingrid Peters
+2017-02-09T23:00:29+01:00 INFO: Antenne Schlager: VERLIEBT IN DAS LEBEN -by- ANNEMARIE EILFELD
+2017-02-09T23:04:30+01:00 INFO: Antenne Schlager: Dr. Amore -by- Destivo
+2017-02-09T23:07:31+01:00 INFO: Antenne Schlager: Genieße dein Leben -by- Dirk Busch
+2017-02-09T23:11:32+01:00 INFO: Antenne Schlager: Unterwegs -by- Ella Endlich
+2017-02-09T23:14:32+01:00 INFO: Antenne Schlager: Verdammt guter Tag -by- Feuerherz
+2017-02-09T23:17:33+01:00 INFO: Antenne Schlager: 30.000 Grad -by- Michelle
+2017-02-09T23:21:33+01:00 INFO: Antenne Schlager: Lila Wolken -by- Peter Kraus
+2017-02-09T23:23:33+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T23:25:46+01:00 INFO: Antenne Schlager: Jetzt geht die Nacht erst los -by- Kristina Bach
+2017-02-09T23:26:46+01:00 INFO: Antenne Schlager: Das Glück schenkt einen aus -by- Schramme11
+2017-02-09T23:30:47+01:00 INFO: Antenne Schlager: Das Leben und ich -by- Vicky Leandros
+2017-02-09T23:34:48+01:00 INFO: Antenne Schlager: Hollywood -by- Julian David
+2017-02-09T23:38:48+01:00 INFO: Antenne Schlager: Der Letzte seiner Art -by- Wolfgang Petry
+2017-02-09T23:42:51+01:00 INFO: Antenne Schlager: Amsterdam -by- Cora
+2017-02-09T23:46:51+01:00 INFO: Antenne Schlager: Wenn du hier bleibst -by- André Stade
+2017-02-09T23:50:53+01:00 INFO: Antenne Schlager: Wartezeit -by- Mary Roos
+2017-02-09T23:53:54+01:00 INFO: Antenne Schlager: SPIEL MICH HEUTE NACHT IN DEN HIMMEL -by- CAROLINE & LUKAS BEIL
+2017-02-09T23:56:54+01:00 INFO: Antenne Schlager: Hier gehör ich hin -by- Klaus Wendel
+2017-02-09T23:59:55+01:00 INFO: Antenne Schlager: Die neue Wirklichkeit -by- Monika Martin

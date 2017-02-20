@@ -1,0 +1,133 @@
+2017-02-08T00:07:02+01:00 INFO: NDR Kultur: Sinfonie D-Dur -by- Joseph Martin Kraus
+2017-02-08T00:26:03+01:00 INFO: NDR Kultur: Ein Tanzspiel -by- Franz Schreker
+2017-02-08T00:38:04+01:00 INFO: NDR Kultur: Streichquartett g-Moll, op.9 Nr.1 -by- George Onslow
+2017-02-08T01:20:08+01:00 INFO: NDR Kultur: Pelleas und Melisande, op.5 -by- Arnold Sch&ouml;nberg
+2017-02-08T01:59:11+01:00 INFO: NDR Kultur: Nr.2 aus: Suite aus Smetanas Skizzenbuch -by- Bedrich Smetana
+2017-02-08T02:05:11+01:00 INFO: NDR Kultur: Konzert e-Moll, op.86 -by- Franz Vinzenz Krommer
+2017-02-08T02:32:13+01:00 INFO: NDR Kultur: Quartett Nr. 1 c-Moll, op.9 -by- Max Bruch
+2017-02-08T03:00:15+01:00 INFO: NDR Kultur: Sinfonie Nr. 4 c-Moll, op.43 -by- Dmitrij Schostakowitsch
+2017-02-08T04:01:19+01:00 INFO: NDR Kultur: Comoedianten Tanz -by- William Brade
+2017-02-08T04:07:19+01:00 INFO: NDR Kultur: Quartett Nr. 4 -by- Philip Glass
+2017-02-08T04:28:21+01:00 INFO: NDR Kultur: Sinfonie Nr.1 g-Moll, op.17 -by- Johan Peter Emilius Hartmann
+2017-02-08T04:59:23+01:00 INFO: NDR Kultur: Menuett D-Dur, KV 94 -by- Wolfgang Amadeus Mozart
+2017-02-08T05:05:23+01:00 INFO: NDR Kultur: 3. Satz aus: Klavierkonzert Nr.1 D-Dur, op.17 -by- Camille Saint-Saens
+2017-02-08T05:12:24+01:00 INFO: NDR Kultur: Romanze F-Dur, AV 75 -by- Richard Strauss
+2017-02-08T05:21:24+01:00 INFO: NDR Kultur: Sinfonie F-Dur, op.4 Nr.3 -by- Franz Ignaz Beck
+2017-02-08T05:40:25+01:00 INFO: NDR Kultur: Alla marcia aus: Bulgarische Suite, op.21 -by- Pancho Vladigerov
+2017-02-08T05:47:26+01:00 INFO: NDR Kultur: Konzert-Walzer -by- Charles Gounod
+2017-02-08T05:52:26+01:00 INFO: NDR Kultur: 4. Satz aus: Sinfonie d-Moll, op.12 Nr.4, G 506 -by- Luigi Boccherini
+2017-02-08T05:59:26+01:00 INFO: NDR Kultur: Pr&auml;ludium, op.53 Nr.15 -by- Nikolai Kapustin
+2017-02-08T06:05:27+01:00 INFO: NDR Kultur: Triosonate g-moll, HWV 393Largo -by- Georg Friedrich H&auml;ndel
+2017-02-08T06:08:27+01:00 INFO: NDR Kultur: Serenade Nr. 2 A-Dur, op. 16ScherzoVivaceTrio (2. Satz) -by- Johannes Brahms
+2017-02-08T06:17:27+01:00 INFO: NDR Kultur: Streicherserenade C-Dur, op. 48Walzer (2. Satz) -by- Peter Tschaikowsky
+2017-02-08T06:23:28+01:00 INFO: NDR Kultur: Soundtrack: &quot;Indiana Jones und das K&ouml;nigreich des Kristallsch&auml;dels&quot;Raiders Ma -by- John Williams
+2017-02-08T06:28:28+01:00 INFO: NDR Kultur: Masques et Bergamasques (Suite), op. 112Ouvert&uuml;re -by- Gabriel Faur&eacute;
+2017-02-08T06:33:29+01:00 INFO: NDR Kultur: DedicationsSolitudeF&uuml;r Yehudi Menuhin (Nr. 4) -by- Nigel Kennedy
+2017-02-08T06:38:29+01:00 INFO: NDR Kultur: Raymonda (Ballettsuite), op. 57aGrand pas Espagnol -by- Alexander Glasunow
+2017-02-08T06:44:29+01:00 INFO: NDR Kultur: Concerto grosso C-Dur, op. 6 Nr. 10AllemandaAllegro (2. Satz) -by- Arcangelo Corelli
+2017-02-08T06:46:30+01:00 INFO: NDR Kultur: English Folk Song SuiteMy Bonny Boy (Intermezzo) -by- Ralph Vaughan Williams
+2017-02-08T06:53:30+01:00 INFO: NDR Kultur: Violakonzert G-DurAllegro (1. Satz) -by- Antonio Rosetti
+2017-02-08T07:04:31+01:00 INFO: NDR Kultur: Moments Musicaux, D 780Moment musical Nr. 1 C-DurModerato -by- Franz Schubert
+2017-02-08T07:10:31+01:00 INFO: NDR Kultur: Chaconne f&uuml;r Streicher und Basso continuo g-moll -by- Henry Purcell
+2017-02-08T07:15:31+01:00 INFO: NDR Kultur: Slawische T&auml;nze, op. 46Allegro vivace, A-Dur (Nr. 5) -by- Anton&iacute;n Dvor&aacute;k
+2017-02-08T07:22:32+01:00 INFO: NDR Kultur: Sinfonie Nr. 3 a-Moll (Schottische) op. 56Vivace non troppo (2. Satz) -by- Felix Mendelssohn Bartholdy
+2017-02-08T07:27:32+01:00 INFO: NDR Kultur: Come Together -by- Paul McCartney &amp; John  Lennon
+2017-02-08T07:29:32+01:00 INFO: NDR Kultur: Violinkonzert in F-DurRondeau (3. Satz) -by- Thomas Linley
+2017-02-08T07:37:33+01:00 INFO: NDR Kultur: La vida breve (Oper)La vida breve (Erster spanischer Tanz) -by- Manuel de Falla
+2017-02-08T07:44:33+01:00 INFO: NDR Kultur: Rider on the wheel -by- Nick Drake
+2017-02-08T07:46:33+01:00 INFO: NDR Kultur: Los cadetes de la reina,Minueto-Intermezzo -by- Pablo Luna
+2017-02-08T07:53:34+01:00 INFO: NDR Kultur: Wassermusik Suite Nr. 1 F-Dur, HWV 348Allegro (10. Satz) -by- Georg Friedrich H&auml;ndel
+2017-02-08T07:58:34+01:00 INFO: NDR Kultur: Wie Melodien zieht es mir leise Durch den Sinn, op. 105 Nr. 1 -by- Johannes Brahms
+2017-02-08T08:09:35+01:00 INFO: NDR Kultur: Seguir -by- Gustavo Santaolalla
+2017-02-08T08:12:35+01:00 INFO: NDR Kultur: Fl&ouml;tenkonzert G-Dur, Wq 169Presto (3. Satz) -by- Carl Philipp Emanuel Bach
+2017-02-08T08:19:35+01:00 INFO: NDR Kultur: Chanson de Matin, op. 15, Nr. 2 -by- Edward Elgar
+2017-02-08T08:24:36+01:00 INFO: NDR Kultur: Symphonic Suite: Imperial March -by- John Williams
+2017-02-08T08:28:36+01:00 INFO: NDR Kultur: Aus Holbergs Zeit (Suite), op. 40Pr&auml;ludiumAllegro vivace (1. Satz) -by- Edvard Grieg
+2017-02-08T09:04:38+01:00 INFO: NDR Kultur: Sinfonie Nr. 5 D-Dur (Reformationssinfonie), op. 107Allegro vivace (2. Satz) -by- Felix Mendelssohn Bartholdy
+2017-02-08T09:09:38+01:00 INFO: NDR Kultur: Strings &amp; Threads (Suite f&uuml;r Fiddle und Orchester)Pilgrim&#39;s Waltz (5. Satz) -by- Mark O&#39;Connor
+2017-02-08T09:11:38+01:00 INFO: NDR Kultur: Klavierkonzert Nr. 23 A-Dur, KV 488Allegro assai (3. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-08T09:23:39+01:00 INFO: NDR Kultur: Soundtrack &quot;Harry Potter und der Gefangene von Askaban&quot;Aunt Marges Waltz -by- John Williams
+2017-02-08T09:25:39+01:00 INFO: NDR Kultur: Canzone della Strada -by- Mulo Francel
+2017-02-08T09:31:39+01:00 INFO: NDR Kultur: Agrippina (Oper) HWV 6&quot;Ogni vento ch&#39;al porto lo spigna&quot; (Arie der Agrippina, -by- Georg Friedrich H&auml;ndel
+2017-02-08T09:36:40+01:00 INFO: NDR Kultur: Lord Galway&#39;s Lamentation -by- Turlough O&#39;Carolan
+2017-02-08T09:41:40+01:00 INFO: NDR Kultur: Legenden, op. 59 (Fassung f&uuml;r Orchester)Molto moderato (Nr. 2) -by- Anton&iacute;n Dvor&aacute;k
+2017-02-08T09:44:40+01:00 INFO: NDR Kultur: Concierto andaluzAllegretto (3. Satz) -by- Joaqu&iacute;n Rodrigo
+2017-02-08T09:51:41+01:00 INFO: NDR Kultur: Violoncellokonzert F-Dur, RV 412 -by- Antonio Vivaldi
+2017-02-08T10:03:41+01:00 INFO: NDR Kultur: Pr&eacute;lude f&uuml;r Orchester, op. 7 -by- Heino Kaski
+2017-02-08T10:08:42+01:00 INFO: NDR Kultur: Idillio Concertino A-Dur op. 15Rondo. Allegro ma non troppo (4. Satz) -by- Ermanno Wolf-Ferrari
+2017-02-08T10:14:42+01:00 INFO: NDR Kultur: Sunburst -by- Andrew York
+2017-02-08T10:22:43+01:00 INFO: NDR Kultur: Violinkonzert Nr. 1 A-Dur, op. 45Allegro energico (1. Satz) -by- Christian Sinding
+2017-02-08T10:29:43+01:00 INFO: NDR Kultur: Soundtrack: &quot;Star wars&quot;Main Theme -by- John Williams
+2017-02-08T10:31:43+01:00 INFO: NDR Kultur: Euryanthe (Oper)Ouvert&uuml;re -by- Carl Maria von Weber
+2017-02-08T10:39:44+01:00 INFO: NDR Kultur: Soundtrack: &quot;A Throw of Dice&quot;King Ranjit &amp; Sunitas Arrival -by- Nitin Sawhney
+2017-02-08T10:48:44+01:00 INFO: NDR Kultur: I keep going back to Joe&#39;sIn my solitude -by- Jack Segal
+2017-02-08T10:54:45+01:00 INFO: NDR Kultur: Mazurken, op. 59As-Dur (Nr. 2) -by- Fr&eacute;d&eacute;ric Chopin
+2017-02-08T10:56:45+01:00 INFO: NDR Kultur: Jalousie -by- Jacob Gade
+2017-02-08T11:04:45+01:00 INFO: NDR Kultur: Sinfonia concertante Es-Dur, KV 364Presto (3. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-08T11:11:46+01:00 INFO: NDR Kultur: Suite aus &quot;The Tempest&quot; (Schauspiel)Dance of Nymphs and Reapers (Nr. 10) -by- Arthur Sullivan
+2017-02-08T11:16:47+01:00 INFO: NDR Kultur: Konzert Nr. 2Sinfonia nach BWV 21 (2. Satz) -by- Arash Safaian &amp; Johann Sebastian  Bach
+2017-02-08T11:22:47+01:00 INFO: NDR Kultur: Sinfonie Nr. 3 C-Dur, Wq 182 Nr. 3 -by- Carl Philipp Emanuel Bach
+2017-02-08T11:34:48+01:00 INFO: NDR Kultur: Paris in the rain -by- Sarah McKenzie
+2017-02-08T11:38:49+01:00 INFO: NDR Kultur: Lyrische SuiteOstinato -by- John Rutter
+2017-02-08T11:40:49+01:00 INFO: NDR Kultur: Notre Dame (Oper)Zwischenspiel -by- Franz Schmidt
+2017-02-08T11:46:50+01:00 INFO: NDR Kultur: Concerto grosso D-Dur, op. 1 Nr. 9Allegro (5. Satz) -by- Pietro Locatelli
+2017-02-08T11:49:50+01:00 INFO: NDR Kultur: Violinkonzert Nr. 1 g-Moll, op. 26Adagio (2. Satz) -by- Max Bruch
+2017-02-08T11:59:51+01:00 INFO: NDR Kultur: Jeux d&#39;enfants, op. 22 (12 St&uuml;cke f&uuml;r Klavier zu 4 H&auml;nden)Le volant (Nr. 5) -by- Georges Bizet
+2017-02-08T12:09:52+01:00 INFO: NDR Kultur: Recuerdos de viajeRumores de la Caleta -by- Isaac Alb&eacute;niz
+2017-02-08T12:12:52+01:00 INFO: NDR Kultur: Tosca (Oper)&quot;Ah, quegli occhi&quot;&quot;Mia gelosa!&quot; (Duett ToscaCavaradossi, 1. -by- Giacomo Puccini
+2017-02-08T12:19:52+01:00 INFO: NDR Kultur: Fol&iacute;asFol&iacute;as -by- Traditional
+2017-02-08T12:25:53+01:00 INFO: NDR Kultur: Kaiser-Walzer, op. 437 -by- Johann Strauss
+2017-02-08T12:42:57+01:00 INFO: NDR Kultur: Sinfonie Nr. 6 h-Moll (Path&eacute;tique) op. 74Allegro molto vivace (3. Satz) -by- Peter Tschaikowsky
+2017-02-08T12:50:58+01:00 INFO: NDR Kultur: Adriana Lecouvreur (Oper)&quot;Ecco: respiro appena&quot; (Romanze der Adriana) -by- Francesco Cil&egrave;a
+2017-02-08T12:54:58+01:00 INFO: NDR Kultur: Pasona Kolo (Serbischer Volkstanz) -by- Traditional
+2017-02-08T12:57:58+01:00 INFO: NDR Kultur: F&uuml;nf St&uuml;cke im Volkston f&uuml;r Violoncello und Klavier, op. 102Stark und markier -by- Robert Schumann
+2017-02-08T14:05:02+01:00 INFO: NDR Kultur: Pr&eacute;lude, Fugue et Variation, op. 18Pr&eacute;lude -by- C&eacute;sar Franck
+2017-02-08T14:08:03+01:00 INFO: NDR Kultur: Concerto per Violino Lau6Allegro (4. Satz) -by- Girolamo Nicol&ograve; Laurenti
+2017-02-08T14:12:03+01:00 INFO: NDR Kultur: Klavierkonzert Nr. 5 Es-Dur, op. 73Adagio (2. Satz) -by- Ludwig van Beethoven
+2017-02-08T14:27:04+01:00 INFO: NDR Kultur: Violoncellokonzert h-moll, op. 104Adagio ma non troppo (2. Satz) -by- Anton&iacute;n Dvor&aacute;k
+2017-02-08T14:43:05+01:00 INFO: NDR Kultur: Suite bergamasquePr&eacute;lude (1. Satz) -by- Claude Debussy
+2017-02-08T14:48:06+01:00 INFO: NDR Kultur: Ballettsuite Nr. 1Lyrischer Walzer (1. Satz) -by- Dmitri Schostakowitsch
+2017-02-08T14:51:08+01:00 INFO: NDR Kultur: Soundtrack: &quot;E.T.Der Au&szlig;erirdische&quot;Titelthema -by- John Williams
+2017-02-08T14:55:09+01:00 INFO: NDR Kultur: Die Jahreszeiten, op. 37bJanuarAm Kamin A-Dur (Nr. 1) -by- Peter Tschaikowsky
+2017-02-08T15:06:10+01:00 INFO: NDR Kultur: L&#39;ile enchant&eacute;e (Schauspielmusik)&quot;Chaconne d&#39;Amadis&quot; -by- Jean-Baptiste Lully
+2017-02-08T15:12:10+01:00 INFO: NDR Kultur: 6 &Eacute;tudes d&#39;ex&eacute;cution transcendante d&#39;apr&egrave;s Paganinia-MollQuasi presto (Nr. -by- Franz Liszt
+2017-02-08T15:17:11+01:00 INFO: NDR Kultur: El Cant dels Ocells (Gesang der V&ouml;gel) -by- Traditional
+2017-02-08T15:26:12+01:00 INFO: NDR Kultur: Danke f&uuml;r den Abend -by- G&uuml;nther Fischer
+2017-02-08T15:32:12+01:00 INFO: NDR Kultur: Ouvert&uuml;re &quot;Noam&quot;, op. 1 -by- Avishai Cohen
+2017-02-08T15:36:13+01:00 INFO: NDR Kultur: Aria Sopra &#39;La scatola degli aghi&#39; -by- Marco Uccelini
+2017-02-08T15:41:14+01:00 INFO: NDR Kultur: Soundtrack: &quot;Schindlers Liste&quot;Titelthema -by- John Williams
+2017-02-08T15:45:15+01:00 INFO: NDR Kultur: Sinfonie Nr. 1 D-Dur (Symphonie classique), op. 25Allegro (1. Satz) -by- Sergej Prokofjew
+2017-02-08T15:49:16+01:00 INFO: NDR Kultur: Carmen (Oper)&quot;L&acute;amour est un oiseau rebelle&quot; (Habanera der Carmen, 1. Akt) -by- Georges Bizet
+2017-02-08T15:54:17+01:00 INFO: NDR Kultur: Sinfonie Nr. 1 C-Dur, op. 21AdagioAllegro molto e vivace (4. Satz) -by- Ludwig van Beethoven
+2017-02-08T16:04:19+01:00 INFO: NDR Kultur: Salomo (Oratorium) HWV 67&quot;Die Ankunft der K&ouml;nigin von Saba&quot; (3. Akt) -by- Georg Friedrich H&auml;ndel
+2017-02-08T16:07:20+01:00 INFO: NDR Kultur: Vassourinhas -by- Matias da Rocha
+2017-02-08T16:11:20+01:00 INFO: NDR Kultur: Manon Lescaut (Oper)&quot;Oh, sar&ograve; la pi&ugrave; bella!...Tu, tu, amore? Tu?&quot; (Duett, 2. -by- Giacomo Puccini
+2017-02-08T16:20:21+01:00 INFO: NDR Kultur: Trois morceaux, op. 2Loin du foyer (Nr. 2) -by- Georgij Catoire
+2017-02-08T16:26:22+01:00 INFO: NDR Kultur: By the Roes, and by the Hinds of the Field -by- J&oacute;hann J&oacute;hannsson
+2017-02-08T16:29:23+01:00 INFO: NDR Kultur: Beherrscher der Geister. Ouvert&uuml;re, op. 27Beherrscher der Geister, Ouvert&uuml;re -by- Carl Maria von Weber
+2017-02-08T16:34:24+01:00 INFO: NDR Kultur: Adagio f&uuml;r Streicher und Orgel g-moll -by- Tomaso Albinoni
+2017-02-08T16:48:26+01:00 INFO: NDR Kultur: Violinkonzert D-Dur, op. 57Allegro (3. Satz) -by- Eduard Franck
+2017-02-08T16:50:26+01:00 INFO: NDR Kultur: Suite Nr. 1 f&uuml;r zwei Klaviere, op. 15Romanze (1. Satz) -by- Anton Arensky
+2017-02-08T16:55:27+01:00 INFO: NDR Kultur: Porgy and Bess (Oper)I got plenty of nothing -by- George Gershwin
+2017-02-08T17:12:29+01:00 INFO: NDR Kultur: Iberia (Suite)Evocaci&ograve;n -by- Isaac Alb&eacute;niz
+2017-02-08T17:19:30+01:00 INFO: NDR Kultur: Time Lapse -by- Ludovico Einaudi
+2017-02-08T17:25:30+01:00 INFO: NDR Kultur: Castor und Pollux (Oper)Tristes apprets (3. Szene, 1. Akt) -by- Jean-Philippe Rameau
+2017-02-08T17:35:32+01:00 INFO: NDR Kultur: Berceuse Des-Dur, op. 57Berceuse Des-Dur -by- Fr&eacute;d&eacute;ric Chopin
+2017-02-08T17:44:35+01:00 INFO: NDR Kultur: Die Hornisse, op. 97,Marktplatz (Nr. 16) -by- Dmitri Schostakowitsch
+2017-02-08T17:48:35+01:00 INFO: NDR Kultur: Konzert f&uuml;r Fl&ouml;te, Streicher und Basso Continuo, d-Moll Wq 22Allegro di molto -by- Carl Philipp Emanuel Bach
+2017-02-08T17:54:36+01:00 INFO: NDR Kultur: Violinkonzert Nr.1 fis-moll, op. 14Preghiera. Larghetto (2. Satz) -by- Henri Wieniawski
+2017-02-08T18:04:38+01:00 INFO: NDR Kultur: Athalia (Schauspielmusik), op. 74Kriegsmarsch der Priester -by- Felix Mendelssohn Bartholdy
+2017-02-08T18:09:38+01:00 INFO: NDR Kultur: Violinkonzert Nr. 3 h-moll, op. 61Andantino quasi allegretto (2. Satz) -by- Camille Saint-Sa&euml;ns
+2017-02-08T18:18:39+01:00 INFO: NDR Kultur: Trenchmore -by- John Johnson
+2017-02-08T18:24:39+01:00 INFO: NDR Kultur: Suite f&uuml;r Orchester Nr. 3 G-Dur, op. 55Scherzo. Presto (3. Satz) -by- Peter Tschaikowsky
+2017-02-08T18:30:40+01:00 INFO: NDR Kultur: Violinkonzert D-Dur, op. 77Adagio (2.Satz) -by- Johannes Brahms
+2017-02-08T18:44:42+01:00 INFO: NDR Kultur: Soundtrack: &quot;Antarctica&quot;Penguin Ballet -by- Nigel Westlake
+2017-02-08T18:47:43+01:00 INFO: NDR Kultur: Don Carlos (Oper)&quot;Nel giardin del belloChanson du voile&quot; (Prinzessin Eboli -by- Giuseppe Verdi
+2017-02-08T18:52:44+01:00 INFO: NDR Kultur: Sinfonie Nr. 39 Es-Dur, KV 543FinaleAllegro (4. Satz) -by- Wolfgang Amadeus Mozart
+2017-02-08T18:57:45+01:00 INFO: NDR Kultur: Soundtrack: &quot;The Queen&quot;Queen of Hearts -by- Alexandre Desplat
+2017-02-08T19:12:47+01:00 INFO: NDR Kultur: So good f&uuml;r Journal -by- Peter Vale &amp; Miles; Schifrin, Sue Waters
+2017-02-08T19:17:48+01:00 INFO: NDR Kultur: Mornin&#39; f&uuml;r Journal -by- Al Jarreau &amp; David; Graydon, Jay Foster
+2017-02-08T19:24:48+01:00 INFO: NDR Kultur: Take five f&uuml;r Journal -by- Paul Desmond
+2017-02-08T19:30:52+01:00 INFO: NDR Kultur: Don Juan, Tondichtung op. 20 -by- Richard Strauss
+2017-02-08T19:50:54+01:00 INFO: NDR Kultur: Soundtrack: &quot;Seven years in Tibet&quot;Titelthema -by- John Williams
+2017-02-08T19:57:54+01:00 INFO: NDR Kultur: Soundtrack: &quot;Die Geisha&quot;The Chairman&#39;s Waltz -by- John Williams

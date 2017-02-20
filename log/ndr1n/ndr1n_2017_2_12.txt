@@ -1,0 +1,60 @@
+2017-02-12T00:06:45+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t get me wrong -by- Pretenders
+2017-02-12T00:09:46+01:00 INFO: NDR 1 Niedersachsen: Lay down Sally -by- Eric Clapton
+2017-02-12T00:14:46+01:00 INFO: NDR 1 Niedersachsen: In the year 2525 (Exordium and terminus) -by- Zager &amp; Evans
+2017-02-12T00:18:46+01:00 INFO: NDR 1 Niedersachsen: Mit meinen Augen -by- Klaus Lage und Druck
+2017-02-12T00:21:47+01:00 INFO: NDR 1 Niedersachsen: Walking on broken glass -by- Annie Lennox
+2017-02-12T00:26:47+01:00 INFO: NDR 1 Niedersachsen: Turn back the clock -by- Johnny Hates Jazz
+2017-02-12T00:29:47+01:00 INFO: NDR 1 Niedersachsen: Under pressure -by- Queen
+2017-02-12T00:32:47+01:00 INFO: NDR 1 Niedersachsen: Mr Rock &amp; Roll -by- Amy MacDonald
+2017-02-12T00:37:48+01:00 INFO: NDR 1 Niedersachsen: Southern nights -by- Glen Campbell
+2017-02-12T00:39:48+01:00 INFO: NDR 1 Niedersachsen: Lady in black -by- Uriah Heep
+2017-02-12T00:43:49+01:00 INFO: NDR 1 Niedersachsen: 20 Jahre danach -by- Wolfgang Petry
+2017-02-12T00:47:51+01:00 INFO: NDR 1 Niedersachsen: Would I lie to you? -by- Charles &amp; Eddie
+2017-02-12T00:50:51+01:00 INFO: NDR 1 Niedersachsen: Daniel -by- Elton John
+2017-02-12T00:55:52+01:00 INFO: NDR 1 Niedersachsen: Helele -by- Velile
+2017-02-12T00:58:52+01:00 INFO: NDR 1 Niedersachsen: Kokomo -by- The Beach Boys
+2017-02-12T01:06:53+01:00 INFO: NDR 1 Niedersachsen: She&#39;s a lady -by- Tom Jones
+2017-02-12T01:09:53+01:00 INFO: NDR 1 Niedersachsen: You can get it -by- Mark Medlock &amp; Dieter Bohlen
+2017-02-12T01:12:53+01:00 INFO: NDR 1 Niedersachsen: Coming around again -by- Carly Simon
+2017-02-12T01:16:53+01:00 INFO: NDR 1 Niedersachsen: Dein ist mein ganzes Herz -by- Heinz Rudolf Kunze
+2017-02-12T01:19:54+01:00 INFO: NDR 1 Niedersachsen: I got you babe -by- Sonny &amp; Cher
+2017-02-12T01:22:54+01:00 INFO: NDR 1 Niedersachsen: Rock and Roll (I gave you the best years of my life) -by- Kevin Johnson
+2017-02-12T01:28:54+01:00 INFO: NDR 1 Niedersachsen: Upside down -by- Diana Ross
+2017-02-12T01:32:55+01:00 INFO: NDR 1 Niedersachsen: Where do you go -by- No Mercy
+2017-02-12T01:37:55+01:00 INFO: NDR 1 Niedersachsen: Dancing in the city -by- Marshall-Hain
+2017-02-12T01:41:55+01:00 INFO: NDR 1 Niedersachsen: New YorkRioTokyo -by- Trio Rio
+2017-02-12T01:44:55+01:00 INFO: NDR 1 Niedersachsen: Herz aus Glas -by- M&uuml;nchener Freiheit
+2017-02-12T01:47:56+01:00 INFO: NDR 1 Niedersachsen: Needles and pins -by- Searchers
+2017-02-12T01:51:56+01:00 INFO: NDR 1 Niedersachsen: Whoops now -by- Janet Jackson
+2017-02-12T01:53:56+01:00 INFO: NDR 1 Niedersachsen: Lady love -by- Lou Rawls
+2017-02-12T01:57:56+01:00 INFO: NDR 1 Niedersachsen: Silent running (on dangerous ground) -by- Mike &amp; The Mechanics
+2017-02-12T02:06:57+01:00 INFO: NDR 1 Niedersachsen: Ella, elle l&#39;a -by- France Gall
+2017-02-12T02:09:57+01:00 INFO: NDR 1 Niedersachsen: Forever in Blue Jeans -by- Neil Diamond
+2017-02-12T02:13:58+01:00 INFO: NDR 1 Niedersachsen: Nights in white satin -by- Moody Blues
+2017-02-12T02:17:58+01:00 INFO: NDR 1 Niedersachsen: Stark -by- Ich + Ich
+2017-02-12T02:22:58+01:00 INFO: NDR 1 Niedersachsen: Pandora&#39;s box -by- OMD
+2017-02-12T02:25:58+01:00 INFO: NDR 1 Niedersachsen: Better love next time -by- Dr. Hook
+2017-02-12T02:28:59+01:00 INFO: NDR 1 Niedersachsen: Whenever, wherever -by- Shakira
+2017-02-12T02:33:59+01:00 INFO: NDR 1 Niedersachsen: Everlasting love -by- The Love Affair
+2017-02-12T02:36:59+01:00 INFO: NDR 1 Niedersachsen: Each time you break my heart -by- Nick Kamen
+2017-02-12T02:41:00+01:00 INFO: NDR 1 Niedersachsen: Bye bye baby -by- Bay City Rollers
+2017-02-12T02:44:00+01:00 INFO: NDR 1 Niedersachsen: Eine Nummer zu gro&szlig; -by- Roger Cicero
+2017-02-12T02:48:00+01:00 INFO: NDR 1 Niedersachsen: As long as you love me -by- Backstreet Boys
+2017-02-12T02:51:00+01:00 INFO: NDR 1 Niedersachsen: I will survive -by- Gloria Gaynor
+2017-02-12T02:55:00+01:00 INFO: NDR 1 Niedersachsen: Have I told you lately -by- Rod Stewart
+2017-02-12T02:58:01+01:00 INFO: NDR 1 Niedersachsen: Tonight -by- Reamonn
+2017-02-12T03:06:01+01:00 INFO: NDR 1 Niedersachsen: Funny funny -by- The Sweet
+2017-02-12T03:10:01+01:00 INFO: NDR 1 Niedersachsen: Your man -by- Josh Turner
+2017-02-12T03:13:02+01:00 INFO: NDR 1 Niedersachsen: Unchain my heart -by- Joe Cocker
+2017-02-12T03:18:02+01:00 INFO: NDR 1 Niedersachsen: Kribbeln im Bauch -by- Pe Werner
+2017-02-12T03:22:02+01:00 INFO: NDR 1 Niedersachsen: Fox on the run -by- Manfred Mann
+2017-02-12T03:24:02+01:00 INFO: NDR 1 Niedersachsen: Mrs. Robinson -by- Simon &amp; Garfunkel
+2017-02-12T03:28:03+01:00 INFO: NDR 1 Niedersachsen: Sweet dreams (are made of this) -by- Eurythmics
+2017-02-12T03:32:03+01:00 INFO: NDR 1 Niedersachsen: Marvin Gaye -by- Charlie Puth feat. Meghan Trainor
+2017-02-12T03:36:03+01:00 INFO: NDR 1 Niedersachsen: We don&#39;t talk anymore -by- Cliff Richard
+2017-02-12T03:39:03+01:00 INFO: NDR 1 Niedersachsen: Spending my time -by- Roxette
+2017-02-12T03:43:04+01:00 INFO: NDR 1 Niedersachsen: Carbonara -by- Spliff
+2017-02-12T03:48:04+01:00 INFO: NDR 1 Niedersachsen: Dream on -by- Amy Macdonald
+2017-02-12T03:52:04+01:00 INFO: NDR 1 Niedersachsen: Yellow river -by- Christie
+2017-02-12T03:55:04+01:00 INFO: NDR 1 Niedersachsen: Shame -by- Robbie Williams
+2017-02-12T03:58:05+01:00 INFO: NDR 1 Niedersachsen: Don&#39;t stop -by- Fleetwood Mac

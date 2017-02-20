@@ -1,0 +1,285 @@
+2017-02-09T01:07:49+01:00 INFO: NJOY: Ch&ouml;re -by- Mark Forster
+2017-02-09T01:09:49+01:00 INFO: NJOY: You Know You Like It -by- Dj Snake &amp; Aluna George
+2017-02-09T01:13:49+01:00 INFO: NJOY: Way Down We Go -by- Kaleo
+2017-02-09T01:16:49+01:00 INFO: NJOY: This Girl -by- Kungs feat. Cookin&#39; On 3 Burners
+2017-02-09T01:20:49+01:00 INFO: NJOY: Some Kind Of Drug (Earwulf Remix) -by- G-Eazy feat. Marc E. Bassy
+2017-02-09T01:23:50+01:00 INFO: NJOY: I See Fire -by- Ed Sheeran
+2017-02-09T01:29:50+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T01:31:51+01:00 INFO: NJOY: Shed A Light -by- Robin Schulz &amp; David Guetta feat. Cheat Codes
+2017-02-09T01:35:51+01:00 INFO: NJOY: Let It Go -by- James Bay
+2017-02-09T01:40:52+01:00 INFO: NJOY: Never Give Up -by- Sia
+2017-02-09T01:44:52+01:00 INFO: NJOY: Ding -by- Seeed
+2017-02-09T01:47:52+01:00 INFO: NJOY: Ooh Love -by- Ria Mae
+2017-02-09T01:50:56+01:00 INFO: NJOY: Heathens -by- Twenty One Pilots
+2017-02-09T01:53:56+01:00 INFO: NJOY: Now And Later -by- Sage The Gemini
+2017-02-09T01:56:56+01:00 INFO: NJOY: Beautiful Day -by- U2
+2017-02-09T02:05:57+01:00 INFO: NJOY: Water Under The Bridge -by- Adele
+2017-02-09T02:09:57+01:00 INFO: NJOY: Don&#39;t Leave -by- Snakehips &amp; M&Oslash;
+2017-02-09T02:12:57+01:00 INFO: NJOY: Love Yourself -by- Justin Bieber
+2017-02-09T02:17:57+01:00 INFO: NJOY: I Want It To Be -by- Omar
+2017-02-09T02:20:58+01:00 INFO: NJOY: Big City Life -by- MATTAFIX
+2017-02-09T02:25:58+01:00 INFO: NJOY: 24K Magic -by- Bruno Mars
+2017-02-09T02:29:59+01:00 INFO: NJOY: Maria Maria -by- Santana
+2017-02-09T02:32:59+01:00 INFO: NJOY: Bad Things -by- Machine Gun Kelly feat. Camila Cabello
+2017-02-09T02:37:59+01:00 INFO: NJOY: Still Falling For You -by- Ellie Goulding
+2017-02-09T02:42:00+01:00 INFO: NJOY: Stay With Me -by- Sam Smith
+2017-02-09T02:46:00+01:00 INFO: NJOY: Don&#39;t Be So Shy (Filatov &amp; Karas Remix) -by- Imany
+2017-02-09T02:48:00+01:00 INFO: NJOY: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-09T02:54:00+01:00 INFO: NJOY: No Reason -by- Bonobo feat. Nick Murphy
+2017-02-09T02:56:01+01:00 INFO: NJOY: I Hate U, I Love U -by- Gnash
+2017-02-09T02:59:01+01:00 INFO: NJOY: Dye My Hair -by- Alma
+2017-02-09T03:06:01+01:00 INFO: NJOY: Starboy -by- The Weeknd &amp; Daft Punk
+2017-02-09T03:10:01+01:00 INFO: NJOY: Bye Bye (Unplugged) -by- Cro
+2017-02-09T03:15:02+01:00 INFO: NJOY: Speeding Cars -by- Walking On Cars
+2017-02-09T03:19:02+01:00 INFO: NJOY: Moving On -by- Roosevelt
+2017-02-09T03:24:03+01:00 INFO: NJOY: Still Falling For You -by- Ellie Goulding
+2017-02-09T03:25:03+01:00 INFO: NJOY: Superior -by- Gentleman
+2017-02-09T03:28:03+01:00 INFO: NJOY: Would I Lie To You -by- David Guetta &amp; Cedric Gervais
+2017-02-09T03:37:04+01:00 INFO: NJOY: Of The Night -by- Bastille
+2017-02-09T03:40:04+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T03:41:04+01:00 INFO: NJOY: Moving On -by- Roosevelt
+2017-02-09T03:44:04+01:00 INFO: NJOY: Read All About It -by- Emeli Sand&eacute;
+2017-02-09T03:48:05+01:00 INFO: NJOY: Depressionen aus der H&ouml;lle -by- Bj&ouml;rn Beton
+2017-02-09T03:52:05+01:00 INFO: NJOY: Human -by- Rag&#39;n&#39;Bone Man
+2017-02-09T03:55:05+01:00 INFO: NJOY: Lot To Learn -by- Luke Christopher
+2017-02-09T03:58:05+01:00 INFO: NJOY: You Make Me Wanna -by- Usher
+2017-02-09T04:06:06+01:00 INFO: NJOY: Rockabye -by- Clean Bandit ft. Sean Paul &amp; Anne-Marie
+2017-02-09T04:10:06+01:00 INFO: NJOY: Run Up -by- Major Lazer feat. Partynextdoor &amp; Nicki Minaj
+2017-02-09T04:13:06+01:00 INFO: NJOY: Prayer In C (Robin Schulz Remix) -by- Lilly Wood &amp; The Prick
+2017-02-09T04:16:06+01:00 INFO: NJOY: Makeba -by- Jain
+2017-02-09T04:19:07+01:00 INFO: NJOY: Can&#39;t Hold Us -by- Macklemore und Ryan Lewis
+2017-02-09T04:24:09+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T04:26:09+01:00 INFO: NJOY: Give It To Me -by- Timbaland Feat. Nelly Furtado &amp; Justin Timberlake
+2017-02-09T04:30:09+01:00 INFO: NJOY: All Time Low -by- Jon Bellion
+2017-02-09T04:35:10+01:00 INFO: NJOY: Bonfire -by- Felix Jaehn feat. Alma
+2017-02-09T04:37:10+01:00 INFO: NJOY: Worth It -by- Fifth Harmony feat. Kid Ink
+2017-02-09T04:42:10+01:00 INFO: NJOY: What Is Love 2016 -by- Lost Frequencies
+2017-02-09T04:45:10+01:00 INFO: NJOY: Alone -by- Alan Walker
+2017-02-09T04:47:11+01:00 INFO: NJOY: Letter To The Editor -by- Thievery Corporation feat. Racquel Jones
+2017-02-09T04:51:11+01:00 INFO: NJOY: How Deep Is Your Love -by- Calvin Harris &amp; Disciples
+2017-02-09T04:54:11+01:00 INFO: NJOY: Now And Later -by- Sage The Gemini
+2017-02-09T04:58:11+01:00 INFO: NJOY: Wenn sie tanzt -by- Max Giesinger
+2017-02-09T05:07:12+01:00 INFO: NJOY: Do It Right -by- Martin Solveig feat. Tkay Maidza
+2017-02-09T05:10:13+01:00 INFO: NJOY: Ch&ouml;re -by- Mark Forster
+2017-02-09T05:16:13+01:00 INFO: NJOY: Dilemma -by- Nelly Feat. Kelly Rowland
+2017-02-09T05:21:13+01:00 INFO: NJOY: Shed A Light -by- Robin Schulz &amp; David Guetta feat. Cheat Codes
+2017-02-09T05:25:14+01:00 INFO: NJOY: The Greatest -by- Sia feat. Kendrick Lamar
+2017-02-09T05:28:15+01:00 INFO: NJOY: Schwarz Zu Blau -by- Peter Fox
+2017-02-09T05:35:16+01:00 INFO: NJOY: Perfect Strangers -by- Jonas Blue feat. JP Cooper
+2017-02-09T05:38:16+01:00 INFO: NJOY: Don&#39;t Be So Shy (Filatov &amp; Karas Remix) -by- Imany
+2017-02-09T05:44:16+01:00 INFO: NJOY: Scars To Your Beautiful -by- Alessia Cara
+2017-02-09T05:50:17+01:00 INFO: NJOY: Stronger -by- KANYE WEST FEAT. DAFT PUNK
+2017-02-09T05:55:17+01:00 INFO: NJOY: Heathens -by- Twenty One Pilots
+2017-02-09T05:58:17+01:00 INFO: NJOY: Easy Love -by- Sigala
+2017-02-09T06:04:18+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T06:07:18+01:00 INFO: NJOY: Von allein -by- Culcha Candela
+2017-02-09T06:12:19+01:00 INFO: NJOY: See You -by- Lions Head
+2017-02-09T06:20:19+01:00 INFO: NJOY: Hymn For The Weekend -by- Coldplay feat. Beyonc&eacute;
+2017-02-09T06:25:19+01:00 INFO: NJOY: Alles geht -by- Tonbandger&auml;t
+2017-02-09T06:28:20+01:00 INFO: NJOY: Never Give Up -by- Sia
+2017-02-09T06:36:20+01:00 INFO: NJOY: No Money -by- Galantis
+2017-02-09T06:39:20+01:00 INFO: NJOY: Ding -by- Seeed
+2017-02-09T06:45:21+01:00 INFO: NJOY: Paris -by- The Chainsmokers
+2017-02-09T06:51:21+01:00 INFO: NJOY: Human -by- Rag&#39;n&#39;Bone Man
+2017-02-09T06:57:22+01:00 INFO: NJOY: Stimme -by- EFF
+2017-02-09T07:04:22+01:00 INFO: NJOY: The Ocean -by- Mike Perry feat. Shy Martin
+2017-02-09T07:07:23+01:00 INFO: NJOY: 24K Magic -by- Bruno Mars
+2017-02-09T07:12:23+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T07:18:23+01:00 INFO: NJOY: Sun Goes Down -by- Robin Schulz feat. Jasmine Thompson
+2017-02-09T07:23:24+01:00 INFO: NJOY: September Song -by- JP Cooper
+2017-02-09T07:27:24+01:00 INFO: NJOY: An Tagen Wie Diesen -by- Fettes Brot
+2017-02-09T07:36:25+01:00 INFO: NJOY: Would I Lie To You -by- David Guetta &amp; Cedric Gervais
+2017-02-09T07:40:25+01:00 INFO: NJOY: Troy -by- Die Fantastischen Vier
+2017-02-09T07:46:25+01:00 INFO: NJOY: Mercy -by- Shawn Mendes
+2017-02-09T07:51:26+01:00 INFO: NJOY: Intoxicated -by- Martin Solveig &amp; GTA
+2017-02-09T07:55:26+01:00 INFO: NJOY: Ch&ouml;re -by- Mark Forster
+2017-02-09T07:58:26+01:00 INFO: NJOY: Danza kuduro -by- Lucenzo feat. Don Omar
+2017-02-09T08:07:27+01:00 INFO: NJOY: Don&#39;t Be So Shy (Filatov &amp; Karas Remix) -by- Imany
+2017-02-09T08:11:27+01:00 INFO: NJOY: Reality -by- Lost Frequencies feat. Janieck Devy
+2017-02-09T08:14:27+01:00 INFO: NJOY: Cold Water -by- Major Lazer feat. Justin Bieber &amp; M&Oslash;
+2017-02-09T08:19:28+01:00 INFO: NJOY: Give It Up To Me -by- Sean Paul
+2017-02-09T08:24:28+01:00 INFO: NJOY: Starboy -by- The Weeknd &amp; Daft Punk
+2017-02-09T08:28:28+01:00 INFO: NJOY: Rather Be -by- Clean Bandit
+2017-02-09T08:36:29+01:00 INFO: NJOY: Wenn sie tanzt -by- Max Giesinger
+2017-02-09T08:40:29+01:00 INFO: NJOY: Umbrella -by- Rihanna
+2017-02-09T08:45:30+01:00 INFO: NJOY: Alone -by- Alan Walker
+2017-02-09T08:50:30+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T08:53:30+01:00 INFO: NJOY: Water Under The Bridge -by- Adele
+2017-02-09T08:58:31+01:00 INFO: NJOY: Down -by- Jay Sean feat. Lil Wayne
+2017-02-09T09:05:31+01:00 INFO: NJOY: Heathens -by- Twenty One Pilots
+2017-02-09T09:08:31+01:00 INFO: NJOY: Hamma -by- Culcha Candela
+2017-02-09T09:12:32+01:00 INFO: NJOY: Way Down We Go -by- Kaleo
+2017-02-09T09:16:32+01:00 INFO: NJOY: What Is Love 2016 -by- Lost Frequencies
+2017-02-09T09:19:32+01:00 INFO: NJOY: Sekundenstill -by- Tonbandger&auml;t
+2017-02-09T09:23:33+01:00 INFO: NJOY: Scars To Your Beautiful -by- Alessia Cara
+2017-02-09T09:26:33+01:00 INFO: NJOY: Stay With Me -by- Sam Smith
+2017-02-09T09:31:33+01:00 INFO: NJOY: Let Me Love You -by- DJ Snake feat. Justin Bieber
+2017-02-09T09:34:33+01:00 INFO: NJOY: Fast Car -by- Jonas Blue feat. Dakota
+2017-02-09T09:38:34+01:00 INFO: NJOY: Shape Of You -by- Ed Sheeran
+2017-02-09T09:42:34+01:00 INFO: NJOY: Shut Up -by- Black Eyed Peas
+2017-02-09T09:46:34+01:00 INFO: NJOY: Human -by- Rag&#39;n&#39;Bone Man
+2017-02-09T09:51:35+01:00 INFO: NJOY: Ghost Town -by- Adam Lambert
+2017-02-09T09:55:35+01:00 INFO: NJOY: Still Falling For You -by- Ellie Goulding
+2017-02-09T10:04:36+01:00 INFO: NJOY: Call On Me -by- Starley
+2017-02-09T10:06:36+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T10:09:36+01:00 INFO: NJOY: Rockabye -by- Clean Bandit ft. Sean Paul &amp; Anne-Marie
+2017-02-09T10:12:37+01:00 INFO: NJOY: Gives You Hell -by- The All-American Rejects
+2017-02-09T10:18:38+01:00 INFO: NJOY: Never Give Up -by- Sia
+2017-02-09T10:21:38+01:00 INFO: NJOY: Stressed Out -by- Twenty One Pilots
+2017-02-09T10:24:38+01:00 INFO: NJOY: Rehab -by- Rihanna
+2017-02-09T10:29:39+01:00 INFO: NJOY: Hotter Than Hell (Matoma Remix) -by- Dua Lipa
+2017-02-09T10:33:39+01:00 INFO: NJOY: Speeding Cars -by- Walking On Cars
+2017-02-09T10:37:39+01:00 INFO: NJOY: Whatcha Say -by- Jason DeRulo
+2017-02-09T10:41:40+01:00 INFO: NJOY: See You -by- Lions Head
+2017-02-09T10:45:40+01:00 INFO: NJOY: How Deep Is Your Love -by- Calvin Harris &amp; Disciples
+2017-02-09T10:50:40+01:00 INFO: NJOY: Lot To Learn -by- Luke Christopher
+2017-02-09T10:53:40+01:00 INFO: NJOY: Intoxication -by- Gentleman
+2017-02-09T10:56:41+01:00 INFO: NJOY: Send My Love (To Your New Lover) -by- Adele
+2017-02-09T11:04:41+01:00 INFO: NJOY: Don&#39;t Be So Shy (Filatov &amp; Karas Remix) -by- Imany
+2017-02-09T11:07:41+01:00 INFO: NJOY: Aufstehn! -by- Seeed
+2017-02-09T11:11:42+01:00 INFO: NJOY: Places -by- Martin Solveig feat. Ina Wroldsen
+2017-02-09T11:14:42+01:00 INFO: NJOY: Love Yourself -by- Justin Bieber
+2017-02-09T11:19:42+01:00 INFO: NJOY: 24K Magic -by- Bruno Mars
+2017-02-09T11:23:43+01:00 INFO: NJOY: Catch &amp; Release (Deepend Remix) -by- Matt Simons
+2017-02-09T11:26:43+01:00 INFO: NJOY: Rude -by- MAGIC!
+2017-02-09T11:30:44+01:00 INFO: NJOY: Would I Lie To You -by- David Guetta &amp; Cedric Gervais
+2017-02-09T11:33:44+01:00 INFO: NJOY: Bye Bye (Unplugged) -by- Cro
+2017-02-09T11:37:44+01:00 INFO: NJOY: Cocoon -by- Milky Chance
+2017-02-09T11:40:45+01:00 INFO: NJOY: Promiscuous -by- Nelly Furtado
+2017-02-09T11:44:45+01:00 INFO: NJOY: Starboy -by- The Weeknd &amp; Daft Punk
+2017-02-09T11:49:45+01:00 INFO: NJOY: The Greatest -by- Sia feat. Kendrick Lamar
+2017-02-09T11:52:45+01:00 INFO: NJOY: Musik sein -by- Wincent Weiss
+2017-02-09T11:55:46+01:00 INFO: NJOY: My Love -by- Route 94
+2017-02-09T12:04:46+01:00 INFO: NJOY: No Money -by- Galantis
+2017-02-09T12:07:46+01:00 INFO: NJOY: Howling At The Moon -by- Milow
+2017-02-09T12:11:47+01:00 INFO: NJOY: Perfect Strangers -by- Jonas Blue feat. JP Cooper
+2017-02-09T12:14:47+01:00 INFO: NJOY: Dye My Hair -by- Alma
+2017-02-09T12:19:47+01:00 INFO: NJOY: Talk Dirty -by- Jason Derulo feat. 2 Chainz
+2017-02-09T12:23:48+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T12:26:48+01:00 INFO: NJOY: Prayer In C (Robin Schulz Remix) -by- Lilly Wood &amp; The Prick
+2017-02-09T12:30:48+01:00 INFO: NJOY: So Good -by- Zara Larsson feat. Ty Dolla $ign
+2017-02-09T12:33:48+01:00 INFO: NJOY: What Is Love 2016 -by- Lost Frequencies
+2017-02-09T12:36:48+01:00 INFO: NJOY: And We Danced -by- Macklemore
+2017-02-09T12:41:49+01:00 INFO: NJOY: Human -by- Rag&#39;n&#39;Bone Man
+2017-02-09T12:44:49+01:00 INFO: NJOY: Lean On -by- Major Lazer feat. M&Oslash; &amp; DJ Snake
+2017-02-09T12:47:49+01:00 INFO: NJOY: Irgendwie Anders -by- Tonbandger&auml;t
+2017-02-09T12:50:49+01:00 INFO: NJOY: Don&#39;t Cha -by- The Pussycat Dolls Feat. Busta Rhymes
+2017-02-09T12:54:50+01:00 INFO: NJOY: I See Fire -by- Ed Sheeran
+2017-02-09T13:05:50+01:00 INFO: NJOY: Shed A Light -by- Robin Schulz &amp; David Guetta feat. Cheat Codes
+2017-02-09T13:07:51+01:00 INFO: NJOY: Lieblingsmensch -by- Namika
+2017-02-09T13:11:51+01:00 INFO: NJOY: Heathens -by- Twenty One Pilots
+2017-02-09T13:14:51+01:00 INFO: NJOY: Uptown Funk -by- Mark Ronson feat. Bruno Mars
+2017-02-09T13:20:52+01:00 INFO: NJOY: Scars To Your Beautiful -by- Alessia Cara
+2017-02-09T13:24:52+01:00 INFO: NJOY: Party Rock Anthem -by- LMFAO
+2017-02-09T13:29:54+01:00 INFO: NJOY: Good Grief -by- Bastille
+2017-02-09T13:33:54+01:00 INFO: NJOY: Never Give Up -by- Sia
+2017-02-09T13:36:55+01:00 INFO: NJOY: Paris -by- The Chainsmokers
+2017-02-09T13:40:55+01:00 INFO: NJOY: Wake Me Up -by- Avicii feat. Aloe Blacc
+2017-02-09T13:44:55+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T13:48:56+01:00 INFO: NJOY: Intoxicated -by- Martin Solveig &amp; GTA
+2017-02-09T13:51:58+01:00 INFO: NJOY: Mercy -by- Shawn Mendes
+2017-02-09T13:55:59+01:00 INFO: NJOY: Stronger -by- KANYE WEST FEAT. DAFT PUNK
+2017-02-09T14:05:59+01:00 INFO: NJOY: Ch&ouml;re -by- Mark Forster
+2017-02-09T14:09:00+01:00 INFO: NJOY: See You -by- Lions Head
+2017-02-09T14:13:00+01:00 INFO: NJOY: Memories -by- David Guetta feat. Kid Cudi
+2017-02-09T14:16:00+01:00 INFO: NJOY: All Time Low -by- Jon Bellion
+2017-02-09T14:21:00+01:00 INFO: NJOY: Biblical -by- Biffy Clyro
+2017-02-09T14:26:01+01:00 INFO: NJOY: Water Under The Bridge -by- Adele
+2017-02-09T14:31:01+01:00 INFO: NJOY: You Know You Like It -by- Dj Snake &amp; Aluna George
+2017-02-09T14:35:02+01:00 INFO: NJOY: Cold Water -by- Major Lazer feat. Justin Bieber &amp; M&Oslash;
+2017-02-09T14:38:02+01:00 INFO: NJOY: Break Free -by- Ariana Grande feat. Zedd
+2017-02-09T14:42:05+01:00 INFO: NJOY: Don&#39;t Be So Shy (Filatov &amp; Karas Remix) -by- Imany
+2017-02-09T14:45:05+01:00 INFO: NJOY: Club Can&#39;t Handle Me -by- Flo Rida
+2017-02-09T14:49:06+01:00 INFO: NJOY: I Don&#39;t Wanna Live Forever -by- Zayn und Taylor Swift
+2017-02-09T14:54:07+01:00 INFO: NJOY: 24K Magic -by- Bruno Mars
+2017-02-09T14:58:07+01:00 INFO: NJOY: Hall Of Fame -by- The Script feat. Will.I.Am
+2017-02-09T15:06:08+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T15:08:08+01:00 INFO: NJOY: Radioactive -by- Imagine Dragons
+2017-02-09T15:12:08+01:00 INFO: NJOY: Starboy -by- The Weeknd &amp; Daft Punk
+2017-02-09T15:15:09+01:00 INFO: NJOY: I Got U -by- Duke Dumont
+2017-02-09T15:20:09+01:00 INFO: NJOY: Skin -by- Rag&#39;n&#39;Bone Man
+2017-02-09T15:24:11+01:00 INFO: NJOY: Behind Blue Eyes -by- Limp Bizkit
+2017-02-09T15:31:12+01:00 INFO: NJOY: Would I Lie To You -by- David Guetta &amp; Cedric Gervais
+2017-02-09T15:35:13+01:00 INFO: NJOY: Alles geht -by- Tonbandger&auml;t
+2017-02-09T15:38:13+01:00 INFO: NJOY: Now And Later -by- Sage The Gemini
+2017-02-09T15:42:14+01:00 INFO: NJOY: Waves (Robin Schulz Mix) -by- Mr. Probz
+2017-02-09T15:51:16+01:00 INFO: NJOY: Titanium -by- David Guetta feat. Sia
+2017-02-09T15:56:19+01:00 INFO: NJOY: Love Yourself -by- Justin Bieber
+2017-02-09T16:06:20+01:00 INFO: NJOY: Speeding Cars -by- Walking On Cars
+2017-02-09T16:09:21+01:00 INFO: NJOY: Don&#39;t Stop The Music -by- Rihanna
+2017-02-09T16:13:21+01:00 INFO: NJOY: Wenn sie tanzt -by- Max Giesinger
+2017-02-09T16:16:21+01:00 INFO: NJOY: Work From Home -by- Fifth Harmony
+2017-02-09T16:27:22+01:00 INFO: NJOY: Cheerleader (Felix Jaehn Remix) -by- Omi
+2017-02-09T16:32:22+01:00 INFO: NJOY: Bad Ideas -by- Alle Farben
+2017-02-09T16:35:22+01:00 INFO: NJOY: Thrift Shop -by- Macklemore &amp; Ryan Lewis feat. Wanz
+2017-02-09T16:39:23+01:00 INFO: NJOY: Shock Horror -by- Shy Luv &amp; JONES
+2017-02-09T16:42:23+01:00 INFO: NJOY: What Is Love 2016 -by- Lost Frequencies
+2017-02-09T16:56:24+01:00 INFO: NJOY: Rockabye -by- Clean Bandit ft. Sean Paul &amp; Anne-Marie
+2017-02-09T17:05:25+01:00 INFO: NJOY: Ch&ouml;re -by- Mark Forster
+2017-02-09T17:09:25+01:00 INFO: NJOY: Empire State Of Mind (Part II) Broken Down -by- Alicia Keys
+2017-02-09T17:16:25+01:00 INFO: NJOY: Scars To Your Beautiful -by- Alessia Cara
+2017-02-09T17:21:26+01:00 INFO: NJOY: The Greatest -by- Sia feat. Kendrick Lamar
+2017-02-09T17:24:27+01:00 INFO: NJOY: Let It Go -by- James Bay
+2017-02-09T17:32:28+01:00 INFO: NJOY: Bonfire -by- Felix Jaehn feat. Alma
+2017-02-09T17:35:28+01:00 INFO: NJOY: I Hate U, I Love U -by- Gnash
+2017-02-09T17:39:29+01:00 INFO: NJOY: Loin -by- Ma&icirc;tre Gims feat. Dany Synth&eacute;
+2017-02-09T17:42:29+01:00 INFO: NJOY: S&amp;M -by- Rihanna
+2017-02-09T17:47:29+01:00 INFO: NJOY: Heathens -by- Twenty One Pilots
+2017-02-09T17:52:30+01:00 INFO: NJOY: 24K Magic -by- Bruno Mars
+2017-02-09T17:56:30+01:00 INFO: NJOY: Hey -by- Andreas Bourani
+2017-02-09T18:04:31+01:00 INFO: NJOY: See You -by- Lions Head
+2017-02-09T18:07:32+01:00 INFO: NJOY: Walk -by- Kwabs
+2017-02-09T18:11:35+01:00 INFO: NJOY: Don&#39;t You Know -by- Kungs feat. Jamie N Commons
+2017-02-09T18:19:40+01:00 INFO: NJOY: Airplanes -by- B.O.B. feat. Hayley Williams
+2017-02-09T18:22:40+01:00 INFO: NJOY: Can&#39;t Stop The Feeling -by- Justin Timberlake
+2017-02-09T18:26:41+01:00 INFO: NJOY: Lean On -by- Major Lazer feat. M&Oslash; &amp; DJ Snake
+2017-02-09T18:32:42+01:00 INFO: NJOY: No Money -by- Galantis
+2017-02-09T18:35:42+01:00 INFO: NJOY: Human -by- Rag&#39;n&#39;Bone Man
+2017-02-09T18:38:43+01:00 INFO: NJOY: Ghost -by- Jamie-Lee
+2017-02-09T18:39:43+01:00 INFO: NJOY: Sexy Bitch -by- DAVID GUETTA FEAT. AKON
+2017-02-09T18:42:43+01:00 INFO: NJOY: No Lie -by- Sean Paul feat. Dua Lipa
+2017-02-09T18:46:44+01:00 INFO: NJOY: Prayer In C (Robin Schulz Remix) -by- Lilly Wood &amp; The Prick
+2017-02-09T18:51:44+01:00 INFO: NJOY: Never Give Up -by- Sia
+2017-02-09T18:54:45+01:00 INFO: NJOY: Let&#39;s Get It Started -by- Black Eyed Peas
+2017-02-09T18:57:45+01:00 INFO: NJOY: Reality -by- Lost Frequencies feat. Janieck Devy
+2017-02-09T19:05:46+01:00 INFO: NJOY: Touch -by- Little Mix
+2017-02-09T19:08:46+01:00 INFO: NJOY: Lane Boy -by- TWENTY ONE PILOTS
+2017-02-09T19:12:46+01:00 INFO: NJOY: Talking to You -by- Izzy Bizu
+2017-02-09T19:16:47+01:00 INFO: NJOY: Sunset Lover -by- Petit Biscuit
+2017-02-09T19:21:47+01:00 INFO: NJOY: Shooting Stars -by- Decco feat. Mapei
+2017-02-09T19:25:47+01:00 INFO: NJOY: Let You Get Away -by- Shaun Frank feat. Ashe
+2017-02-09T19:30:47+01:00 INFO: NJOY: Baby -by- Bakermat
+2017-02-09T19:34:48+01:00 INFO: NJOY: Zum ersten Mal Nintendo -by- Philipp Poisel
+2017-02-09T19:38:48+01:00 INFO: NJOY: Underdressed -by- V&eacute;rit&eacute;
+2017-02-09T19:42:48+01:00 INFO: NJOY: So sch&ouml;n kaputt -by- SDP
+2017-02-09T19:45:50+01:00 INFO: NJOY: Not Easy ( Radio Edit Without Bridge) -by- Elle King Alex Da Kid feat. X Ambassadors &amp; Wiz Khalifa
+2017-02-09T19:49:50+01:00 INFO: NJOY: Feuerwerk -by- Wincent Weiss
+2017-02-09T19:52:51+01:00 INFO: NJOY: You Don&#39;t Know Me -by- Jax Jones feat. RAYE
+2017-02-09T19:56:51+01:00 INFO: NJOY: Love Me Better -by- James Blunt
+2017-02-09T20:06:52+01:00 INFO: NJOY: Bist du down? -by- Ace Tee feat. Kwam.e
+2017-02-09T20:10:54+01:00 INFO: NJOY: No One Knows Me (Like The Piano) -by- Sampha
+2017-02-09T20:15:55+01:00 INFO: NJOY: What Shouldn&#39;t I Be? -by- Sampha
+2017-02-09T20:18:55+01:00 INFO: NJOY: Spill -by- View feat. Noah Kin
+2017-02-09T20:23:55+01:00 INFO: NJOY: Big Picture -by- London Grammar
+2017-02-09T20:28:55+01:00 INFO: NJOY: I Want It To Be -by- Omar
+2017-02-09T20:32:56+01:00 INFO: NJOY: Bungalow -by- Bilderbuch
+2017-02-09T20:36:56+01:00 INFO: NJOY: On Hold -by- The xx
+2017-02-09T20:41:58+01:00 INFO: NJOY: Wann warst du da? -by- Fab
+2017-02-09T20:44:58+01:00 INFO: NJOY: Waves -by- Dean Lewis
+2017-02-09T20:50:02+01:00 INFO: NJOY: Legendary -by- Welshly Arms
+2017-02-09T20:53:02+01:00 INFO: NJOY: Alaska -by- Maggie Rogers
+2017-02-09T20:57:02+01:00 INFO: NJOY: See You Soon -by- dePresno
+2017-02-09T21:06:03+01:00 INFO: NJOY: No Reason -by- Bonobo feat. Nick Murphy
+2017-02-09T21:10:03+01:00 INFO: NJOY: Es ist wieder Februar -by- Ok Kid
+2017-02-09T21:15:04+01:00 INFO: NJOY: Sons And Daughters -by- Allman Brown feat. Liz Lawrence
+2017-02-09T21:19:04+01:00 INFO: NJOY: Depressionen aus der H&ouml;lle -by- Bj&ouml;rn Beton
+2017-02-09T21:24:05+01:00 INFO: NJOY: Ancient Light -by- Allman Brown
+2017-02-09T21:28:06+01:00 INFO: NJOY: Wild Horses -by- Bishop Briggs
+2017-02-09T21:32:06+01:00 INFO: NJOY: Gettin&#39; Jiggy With It -by- Maeckes
+2017-02-09T21:35:06+01:00 INFO: NJOY: Build A House -by- BRTHR
+2017-02-09T21:39:07+01:00 INFO: NJOY: Fires -by- Allman Brown
+2017-02-09T21:43:08+01:00 INFO: NJOY: Letter To The Editor -by- Thievery Corporation feat. Racquel Jones
+2017-02-09T21:49:08+01:00 INFO: NJOY: Rivers (feat. Robyn Sherwell) -by- Allman Brown
+2017-02-09T21:52:08+01:00 INFO: NJOY: Insel -by- Chefboss
+2017-02-09T21:55:08+01:00 INFO: NJOY: Make Me (Cry) -by- Noah Cyrus feat. Labrinth
+2017-02-09T21:58:09+01:00 INFO: NJOY: Five Minutes (Rework) -by- HER

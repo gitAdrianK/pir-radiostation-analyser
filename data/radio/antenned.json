@@ -1,0 +1,712 @@
+[
+  {
+    "artist": "Juli",
+    "title": "Zerrissen",
+    "count": 9
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Irgendwas bleibt",
+    "count": 9
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Tage wie diese",
+    "count": 6
+  },
+  {
+    "artist": "Wir sind Helden",
+    "title": "Von hier an blind",
+    "count": 20
+  },
+  {
+    "artist": "Die Firma",
+    "title": "Die Eine 2005",
+    "count": 32
+  },
+  {
+    "artist": "Cro",
+    "title": "Traum",
+    "count": 8
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "So soll es bleiben",
+    "count": 5
+  },
+  {
+    "artist": "Bosse",
+    "title": "So oder so",
+    "count": 8
+  },
+  {
+    "artist": "Udo Lindenberg",
+    "title": "Cello (feat. Clueso)",
+    "count": 7
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Du erinnerst mich an Liebe",
+    "count": 19
+  },
+  {
+    "artist": "Seeed",
+    "title": "Ding",
+    "count": 29
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Halt dich an mir fest (feat. Marta Jandová)",
+    "count": 7
+  },
+  {
+    "artist": "Glasperlenspiel",
+    "title": "Geiles Leben",
+    "count": 8
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Das Beste",
+    "count": 7
+  },
+  {
+    "artist": "Die Ärzte",
+    "title": "Lasse redn",
+    "count": 15
+  },
+  {
+    "artist": "TIM BENDZKO FT. CASSANDRA STEEN",
+    "title": "UNTER DIE HAUT",
+    "count": 8
+  },
+  {
+    "artist": "STEFAN RAAB",
+    "title": "HIER KOMMT DIE MAUS",
+    "count": 31
+  },
+  {
+    "artist": "Freundeskreis",
+    "title": "A-N-N-A",
+    "count": 24
+  },
+  {
+    "artist": "Johannes Oerding",
+    "title": "Alles brennt",
+    "count": 8
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Au revoir",
+    "count": 8
+  },
+  {
+    "artist": "SDP",
+    "title": "Ich will nur dass du weißt (feat. Adel Tawil)",
+    "count": 8
+  },
+  {
+    "artist": "Joris",
+    "title": "Herz über Kopf",
+    "count": 8
+  },
+  {
+    "artist": "Wincent Weiss",
+    "title": "Musik sein",
+    "count": 8
+  },
+  {
+    "artist": "Bosse",
+    "title": "Steine",
+    "count": 8
+  },
+  {
+    "artist": "Sarah Connor",
+    "title": "Kommst Du mit ihr",
+    "count": 7
+  },
+  {
+    "artist": "Christina Stürmer",
+    "title": "Seite an Seite",
+    "count": 7
+  },
+  {
+    "artist": "Philipp Dittberner",
+    "title": "Das ist dein Leben",
+    "count": 6
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Zuhause",
+    "count": 7
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Ultraleicht",
+    "count": 7
+  },
+  {
+    "artist": "Laith Al-Deen",
+    "title": "Bilder von dir",
+    "count": 22
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "Mensch",
+    "count": 23
+  },
+  {
+    "artist": "BELA B FEAT. CHARLOTTE ROCHE",
+    "title": "1,2,3",
+    "count": 4
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Deine Nähe tut mir weh",
+    "count": 6
+  },
+  {
+    "artist": "Johannes Oerding",
+    "title": "Wenn du lebst",
+    "count": 6
+  },
+  {
+    "artist": "Pohlmann",
+    "title": "Wenn jetzt Sommer wär",
+    "count": 16
+  },
+  {
+    "artist": "Philipp Dittberner & Marv",
+    "title": "Wolke 4",
+    "count": 7
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Lieder",
+    "count": 7
+  },
+  {
+    "artist": "Christina Stürmer",
+    "title": "Ich Lebe",
+    "count": 11
+  },
+  {
+    "artist": "Die Ärzte",
+    "title": "Junge",
+    "count": 11
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Hey",
+    "count": 7
+  },
+  {
+    "artist": "Sido",
+    "title": "Astronaut (feat. Andreas Bourani)",
+    "count": 5
+  },
+  {
+    "artist": "Max Giesinger",
+    "title": "Wenn sie tanzt",
+    "count": 5
+  },
+  {
+    "artist": "ÄRZTE",
+    "title": "MÄNNER SIND SCHWEINE",
+    "count": 26
+  },
+  {
+    "artist": "Unheilig",
+    "title": "Unter deiner Flagge",
+    "count": 6
+  },
+  {
+    "artist": "Unheilig",
+    "title": "Grosse Freiheit",
+    "count": 8
+  },
+  {
+    "artist": "Unheilig",
+    "title": "Geboren um zu leben",
+    "count": 8
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Freunde Bleiben",
+    "count": 7
+  },
+  {
+    "artist": "Jupiter Jones",
+    "title": "Still",
+    "count": 7
+  },
+  {
+    "artist": "Rosenstolz",
+    "title": "Ich bin ich (Wir sind wir)",
+    "count": 12
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Lass uns gehen",
+    "count": 8
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "Lied 1 - Stück vom Himmel",
+    "count": 2
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Das Leichteste der Welt",
+    "count": 7
+  },
+  {
+    "artist": "Tim Bendzko",
+    "title": "Keine Maschine",
+    "count": 7
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Universum",
+    "count": 6
+  },
+  {
+    "artist": "Clueso",
+    "title": "Neuanfang",
+    "count": 7
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Flash mich",
+    "count": 6
+  },
+  {
+    "artist": "Sportfreunde Stiller",
+    "title": "Das Geschenk",
+    "count": 8
+  },
+  {
+    "artist": "Christina Stürmer",
+    "title": "Was wirklich bleibt",
+    "count": 7
+  },
+  {
+    "artist": "Cro",
+    "title": "Whatever",
+    "count": 9
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Krieger des Lichts",
+    "count": 7
+  },
+  {
+    "artist": "CASSANDRA STEEN & ADEL TAWIL",
+    "title": "STADT",
+    "count": 8
+  },
+  {
+    "artist": "Tim Bendzko",
+    "title": "Wenn Worte meine Sprache wären",
+    "count": 8
+  },
+  {
+    "artist": "Kris",
+    "title": "Diese Tage (feat. Dante Thomas)",
+    "count": 8
+  },
+  {
+    "artist": "Juli",
+    "title": "Dieses Leben",
+    "count": 11
+  },
+  {
+    "artist": "Juli",
+    "title": "Geile Zeit",
+    "count": 22
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Ich bereue nichts",
+    "count": 7
+  },
+  {
+    "artist": "Die Ärzte",
+    "title": "M & F",
+    "count": 8
+  },
+  {
+    "artist": "Absolute Beginner",
+    "title": "Liebes Lied",
+    "count": 27
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Das kann uns keiner nehmen",
+    "count": 8
+  },
+  {
+    "artist": "Wir sind Helden",
+    "title": "Nur ein Wort",
+    "count": 12
+  },
+  {
+    "artist": "Bosse",
+    "title": "Dein Hurra",
+    "count": 8
+  },
+  {
+    "artist": "Wolfsheim",
+    "title": "Kein Zurück",
+    "count": 21
+  },
+  {
+    "artist": "Laith Al-Deen",
+    "title": "Dein Lied",
+    "count": 23
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Wenn Du liebst",
+    "count": 8
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Stark",
+    "count": 5
+  },
+  {
+    "artist": "Wir sind Helden",
+    "title": "Denkmal",
+    "count": 23
+  },
+  {
+    "artist": "Christina Stürmer",
+    "title": "Wir leben den Moment",
+    "count": 7
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Chöre",
+    "count": 8
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Nur in meinem Kopf",
+    "count": 7
+  },
+  {
+    "artist": "Bosse",
+    "title": "Schönste Zeit",
+    "count": 6
+  },
+  {
+    "artist": "Polarkreis 18",
+    "title": "Allein allein",
+    "count": 18
+  },
+  {
+    "artist": "Laith Al-Deen",
+    "title": "Was wenn alles gut geht",
+    "count": 7
+  },
+  {
+    "artist": "Die Fantastischen Vier",
+    "title": "Tag am Meer",
+    "count": 24
+  },
+  {
+    "artist": "Gregor Meyle",
+    "title": "Ich glaub an Dich",
+    "count": 10
+  },
+  {
+    "artist": "Juli",
+    "title": "Regen und Meer",
+    "count": 9
+  },
+  {
+    "artist": "REVOVERHELD",
+    "title": "DU WEIßT NICHT WAS DU WILLST",
+    "count": 6
+  },
+  {
+    "artist": "Tim Bendzko",
+    "title": "Programmiert",
+    "count": 8
+  },
+  {
+    "artist": "EFF",
+    "title": "Stimme",
+    "count": 8
+  },
+  {
+    "artist": "Glasperlenspiel",
+    "title": "Echt",
+    "count": 6
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "Morgen",
+    "count": 1
+  },
+  {
+    "artist": "Rosenstolz",
+    "title": "Liebe Ist Alles",
+    "count": 25
+  },
+  {
+    "artist": "Tim Bendzko",
+    "title": "Am seidenen Faden",
+    "count": 6
+  },
+  {
+    "artist": "Joris",
+    "title": "Bis ans Ende der Welt",
+    "count": 8
+  },
+  {
+    "artist": "Cro",
+    "title": "Bye Bye",
+    "count": 7
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Wir sind groß",
+    "count": 8
+  },
+  {
+    "artist": "Sportfreunde Stiller",
+    "title": "New York, Rio, Rosenheim",
+    "count": 6
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Ja",
+    "count": 8
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Vom selben Stern",
+    "count": 5
+  },
+  {
+    "artist": "Tim Bendzko",
+    "title": "Nur noch kurz die Welt retten",
+    "count": 8
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Mit Dir Chilln",
+    "count": 8
+  },
+  {
+    "artist": "Echt",
+    "title": "Du trägst keine Liebe in dir",
+    "count": 22
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Auf uns",
+    "count": 8
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "Der Weg",
+    "count": 24
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Ich lass für dich das Licht an",
+    "count": 7
+  },
+  {
+    "artist": "Namika",
+    "title": "Lieblingsmensch",
+    "count": 8
+  },
+  {
+    "artist": "Rosenstolz",
+    "title": "Ich geh in Flammen auf",
+    "count": 12
+  },
+  {
+    "artist": "Sportfreunde Stiller",
+    "title": "Ein Kompliment",
+    "count": 16
+  },
+  {
+    "artist": "MIA.",
+    "title": "Tanz der Moleküle",
+    "count": 9
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Altes Fieber",
+    "count": 6
+  },
+  {
+    "artist": "Bela B .feat. Charlotte Roche",
+    "title": "1.2.3....",
+    "count": 8
+  },
+  {
+    "artist": "Frida Gold",
+    "title": "Liebe ist meine Rebellion",
+    "count": 8
+  },
+  {
+    "artist": "Sarah Connor",
+    "title": "Wie schön du bist",
+    "count": 6
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Unsere Lieder",
+    "count": 8
+  },
+  {
+    "artist": "Andreas Bourani",
+    "title": "Auf anderen Wegen",
+    "count": 6
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Himmel auf",
+    "count": 7
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Sommer in Schweden (feat. Johannes Oerding)",
+    "count": 5
+  },
+  {
+    "artist": "Max Giesinger",
+    "title": "80 Millionen",
+    "count": 7
+  },
+  {
+    "artist": "NENA & KIM WILD",
+    "title": "ANYPLACE, ANYWHERE, ANYTIME",
+    "count": 28
+  },
+  {
+    "artist": "Peter Fox",
+    "title": "Haus am See",
+    "count": 29
+  },
+  {
+    "artist": "Culcha Candela",
+    "title": "Von Allein",
+    "count": 8
+  },
+  {
+    "artist": "Silbermond",
+    "title": "Symphonie",
+    "count": 23
+  },
+  {
+    "artist": "CICERO ROGER",
+    "title": "ZIEH DIE SCHUH AUS",
+    "count": 11
+  },
+  {
+    "artist": "SILBERMOMD",
+    "title": "LEICHTES GEPÄCK",
+    "count": 6
+  },
+  {
+    "artist": "Revolverheld",
+    "title": "Spinner",
+    "count": 7
+  },
+  {
+    "artist": "Die Fantastischen Vier",
+    "title": "Sie ist weg",
+    "count": 23
+  },
+  {
+    "artist": "Fettes Brot",
+    "title": "Soll das alles sein?",
+    "count": 20
+  },
+  {
+    "artist": "Glasperlenspiel",
+    "title": "Nie vergessen",
+    "count": 9
+  },
+  {
+    "artist": "Unheilig",
+    "title": "Als wär's das erste Mal",
+    "count": 7
+  },
+  {
+    "artist": "Cro",
+    "title": "Einmal um die Welt",
+    "count": 8
+  },
+  {
+    "artist": "Bosse",
+    "title": "Niemand vermisst uns",
+    "count": 19
+  },
+  {
+    "artist": "Sportfreunde Stiller",
+    "title": "Applaus, Applaus",
+    "count": 9
+  },
+  {
+    "artist": "Frida Gold",
+    "title": "Wovon Sollen Wir Träumen",
+    "count": 6
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "DEMO(LETZTER TAG)",
+    "count": 22
+  },
+  {
+    "artist": "Juli",
+    "title": "Perfekte Welle",
+    "count": 22
+  },
+  {
+    "artist": "Rosenstolz",
+    "title": "Gib mir Sonne",
+    "count": 12
+  },
+  {
+    "artist": "GESTÖRT ABER GEIL",
+    "title": "ICH & DU",
+    "count": 7
+  },
+  {
+    "artist": "AnnenMayKantereit",
+    "title": "Oft gefragt",
+    "count": 7
+  },
+  {
+    "artist": "Clueso",
+    "title": "Freidrehen",
+    "count": 8
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Kartenhaus",
+    "count": 7
+  },
+  {
+    "artist": "Christina Stürmer",
+    "title": "Millionen Lichter",
+    "count": 8
+  },
+  {
+    "artist": "Ich + Ich",
+    "title": "Pflaster",
+    "count": 8
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Bauch und Kopf",
+    "count": 8
+  }
+]

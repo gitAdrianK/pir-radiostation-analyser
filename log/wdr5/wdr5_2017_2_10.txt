@@ -1,0 +1,34 @@
+2017-02-10T00:08:54+01:00 INFO: WDR5: Wissenschaft und mehr mit Steffi Klaus -by- Leonardo
+2017-02-10T03:00:07+01:00 INFO: WDR5: "Skydive" -by- Astronauts
+2017-02-10T04:00:10+01:00 INFO: WDR5: "Lost Vagueness" -by- Thunderball
+2017-02-10T06:18:19+01:00 INFO: WDR5: "Something real never dies" -by- Shane Alexander
+2017-02-10T06:44:20+01:00 INFO: WDR5: "The Story Goes" -by- The Tibbs
+2017-02-10T06:52:21+01:00 INFO: WDR5: "Inner guidance" -by- LTJ Bukem
+2017-02-10T07:21:22+01:00 INFO: WDR5: "Paradise city" -by- Marina & The Kats
+2017-02-10T07:43:24+01:00 INFO: WDR5: "Map of the world" -by- City and Colour
+2017-02-10T08:44:27+01:00 INFO: WDR5: "Dylan Songs" -by- Nick and the Roundabouts
+2017-02-10T10:07:52+01:00 INFO: WDR5: "Miss you" -by- James Hersey
+2017-02-10T10:14:52+01:00 INFO: WDR5: "What cha know about" -by- Donavon Frankenreiter
+2017-02-10T10:36:57+01:00 INFO: WDR5: "Your love is mine" -by- The New Mastersounds feat. Corinne Bailey Ray
+2017-02-10T10:53:57+01:00 INFO: WDR5: "Too many friends" -by- Charles Pasi
+2017-02-10T10:58:58+01:00 INFO: WDR5: "Havana 2am" -by- Thomas Blondet
+2017-02-10T11:31:59+01:00 INFO: WDR5: "Be good" -by- Max Brodie feat. Tom Rosenthal
+2017-02-10T11:50:00+01:00 INFO: WDR5: "Tin Man (Radio Edit)" -by- Christian Prommer feat.Adriano Prestel
+2017-02-10T12:16:02+01:00 INFO: WDR5: "Paint Me In A Corner" -by- Nicole Willis & The Soul Investigators
+2017-02-10T14:00:10+01:00 INFO: WDR5: "Oulu" -by- Mabibaland
+2017-02-10T14:08:11+01:00 INFO: WDR5: Aktuelles aus der Kultur mit Stefanie Junker -by- Scala
+2017-02-10T14:24:12+01:00 INFO: WDR5: "Muchacho" -by- Kings Of Leon
+2017-02-10T14:41:13+01:00 INFO: WDR5: "Friday I'm in love  (Acoustic)" -by- The Cure
+2017-02-10T14:59:14+01:00 INFO: WDR5: "Red hill" -by- Dave Goodman
+2017-02-10T15:15:16+01:00 INFO: WDR5: "Some days I'm golden all night" -by- Josh Rouse
+2017-02-10T15:25:16+01:00 INFO: WDR5: "Afia" -by- Angelique Kidjo
+2017-02-10T15:59:19+01:00 INFO: WDR5: "Cool affair" -by- Black & Brown
+2017-02-10T16:15:21+01:00 INFO: WDR5: "Sie kann nicht tanzen" -by- Jan Delay
+2017-02-10T16:21:21+01:00 INFO: WDR5: "Do it right" -by- Keb' Mo'
+2017-02-10T17:07:25+01:00 INFO: WDR5: Das Landesmagazin mit Udo Prenzel -by- Westblick
+2017-02-10T17:27:26+01:00 INFO: WDR5: "Flangareens" -by- Bahia Deluxe
+2017-02-10T17:44:28+01:00 INFO: WDR5: "Grazing in the Grass (Instrumental)" -by- Dexys
+2017-02-10T21:07:54+01:00 INFO: WDR5: Aktuelles aus der Kultur mit Stefanie Junker -by- Scala
+2017-02-10T22:08:03+01:00 INFO: WDR5: Unterhaltung nach zehn -by- U 22
+2017-02-10T22:53:09+01:00 INFO: WDR5: Unterhaltung nach z -by- U 22
+2017-02-10T23:30:17+01:00 INFO: WDR5: Berichte -by- heute

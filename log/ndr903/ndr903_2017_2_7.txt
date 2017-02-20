@@ -1,0 +1,19 @@
+2017-02-07T20:43:38+01:00 INFO: NDR 90,3: Here comes the rain again -by- Eurythmics
+2017-02-07T20:48:39+01:00 INFO: NDR 90,3: Massachusetts -by- Bee Gees
+2017-02-07T20:53:39+01:00 INFO: NDR 90,3: Beach baby -by- First Class
+2017-02-07T20:57:40+01:00 INFO: NDR 90,3: Dear darlin&#39; -by- Olly Murs
+2017-02-07T21:07:42+01:00 INFO: NDR 90,3: Talkin&#39; bout a revolution -by- Tracy Chapman
+2017-02-07T21:10:42+01:00 INFO: NDR 90,3: Ich seh dich -by- Maybebop
+2017-02-07T21:13:43+01:00 INFO: NDR 90,3: Love hurts -by- Nazareth
+2017-02-07T21:16:43+01:00 INFO: NDR 90,3: Goldeneye -by- Tina Turner
+2017-02-07T21:20:44+01:00 INFO: NDR 90,3: River flows in you -by- Yiruma
+2017-02-07T21:23:45+01:00 INFO: NDR 90,3: Andrea -by- Fabrizio de Andr&eacute;
+2017-02-07T21:28:45+01:00 INFO: NDR 90,3: Stop -by- Sam Brown
+2017-02-07T21:32:45+01:00 INFO: NDR 90,3: Oh boy -by- Mud
+2017-02-07T21:35:46+01:00 INFO: NDR 90,3: The rose -by- Bette Midler
+2017-02-07T21:39:48+01:00 INFO: NDR 90,3: Bubbly -by- Colbie Caillat
+2017-02-07T21:42:48+01:00 INFO: NDR 90,3: Breathe -by- Midge Ure
+2017-02-07T21:45:49+01:00 INFO: NDR 90,3: Joanna -by- Kool &amp; The Gang
+2017-02-07T21:49:49+01:00 INFO: NDR 90,3: Words -by- Boyzone
+2017-02-07T21:53:49+01:00 INFO: NDR 90,3: Love how you love me -by- Melanie Thornton
+2017-02-07T21:56:49+01:00 INFO: NDR 90,3: Still got the Blues (for you) -by- Gary Moore

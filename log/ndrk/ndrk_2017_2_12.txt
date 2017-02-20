@@ -1,0 +1,10 @@
+2017-02-12T00:07:46+01:00 INFO: NDR Kultur: Grande Sonate B-Dur, op.11 -by- Helene Liebmann
+2017-02-12T00:24:47+01:00 INFO: NDR Kultur: Trio A-Dur, GraunWV A:XV:13 -by- Johann Gottlieb Graun
+2017-02-12T00:36:48+01:00 INFO: NDR Kultur: Premiere Rhapsodie -by- Claude Debussy
+2017-02-12T00:46:49+01:00 INFO: NDR Kultur: Suite VI f&uuml;r Cembalo solo in a -by- Johann Jakob Froberger
+2017-02-12T00:58:52+01:00 INFO: NDR Kultur: Harmoniemusik nach &quot;Carmen&quot; -by- Georges Bizet
+2017-02-12T01:23:54+01:00 INFO: NDR Kultur: Klavierquintett f-Moll, FWV 7 -by- Cesar Franck
+2017-02-12T02:00:57+01:00 INFO: NDR Kultur: Klarinettentrio -by- Wolfgang Amadeus Mozart
+2017-02-12T02:05:57+01:00 INFO: NDR Kultur: Oboendoppelkonzert C-Dur, op.9 Nr.9 -by- Tomaso Albinoni
+2017-02-12T02:15:58+01:00 INFO: NDR Kultur: Streichquintett G-Dur, op.77 -by- Antonin Dvorak
+2017-02-12T02:56:01+01:00 INFO: NDR Kultur: Sinfonie Nr. 2 Es-Dur, op. 63 -by- Edward Elgar
